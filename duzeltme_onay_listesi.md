@@ -16,11 +16,11 @@ Her değişiklikten önce ilgili kaydın o anki hâli yedeklenecek. Önce tek bi
 |---|---|---|---|---|
 | A1 | #3279 — Kâbilîzâde, 39a [22] *Mebsût* | metin | “İki yüz **yüz** yirmi iki varak.” | “İki yüz yirmi iki varak.” (kodikolojik bilgideki varak adedi zaten 222) |
 | A2 ✅ (işlendi) | #3545 — Âlâiyyeli, 48a [1] *Hâşiye-i Mutavvel* (Seyyid Şerîf) | bölüm | Tafsîlü Kütübi't-Tefâsîr | **Tafsîlü Kütübi'l-Arabiyye** |
-| A3 | #3546 — 48a [2] *Hâşiye-i Mutavvel* (Hüsrev) | bölüm | 〃 | 〃 |
-| A4 | #3547 — 48b [3] *Şerh-i Miftâh* | bölüm | 〃 | 〃 |
-| A5 | #3548 — 48b [4] *Şerhü'l-Mutavvel* | bölüm | 〃 | 〃 |
-| A6 | #3549 — 48b [5] *Metn-i Miftâh* | bölüm | 〃 | 〃 |
-| A7 | #3550 — 48b [6] *Kâfiye, Misbâh, Avâmil* | bölüm | 〃 | 〃 |
+| A3 ✅ (işlendi) | #3546 — 48a [2] *Hâşiye-i Mutavvel* (Hüsrev) | bölüm | 〃 | 〃 |
+| A4 ✅ (işlendi) | #3547 — 48b [3] *Şerh-i Miftâh* | bölüm | 〃 | 〃 |
+| A5 ✅ (işlendi) | #3548 — 48b [4] *Şerhü'l-Mutavvel* | bölüm | 〃 | 〃 |
+| A6 ✅ (işlendi) | #3549 — 48b [5] *Metn-i Miftâh* | bölüm | 〃 | 〃 |
+| A7 ✅ (işlendi) | #3550 — 48b [6] *Kâfiye, Misbâh, Avâmil* | bölüm | 〃 | 〃 |
 | A8 | #3656 — XI, 54b [8] *Esbâb-ı Nüzûl* | metin ve eser adı | “Ciğerî cildli. Esbâb-ı Nüzûl…” | “Ciğerî cildli. **Köhne.** Esbâb-ı Nüzûl…” |
 
 ## B. Katalogun dipnotla düzelttiği okumalar (yayın tercihi)
