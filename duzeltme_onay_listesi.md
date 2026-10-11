@@ -21,7 +21,7 @@ Her değişiklikten önce ilgili kaydın o anki hâli yedeklenecek. Önce tek bi
 | A5 ✅ (işlendi) | #3548 — 48b [4] *Şerhü'l-Mutavvel* | bölüm | 〃 | 〃 |
 | A6 ✅ (işlendi) | #3549 — 48b [5] *Metn-i Miftâh* | bölüm | 〃 | 〃 |
 | A7 ✅ (işlendi) | #3550 — 48b [6] *Kâfiye, Misbâh, Avâmil* | bölüm | 〃 | 〃 |
-| A8 | #3656 — XI, 54b [8] *Esbâb-ı Nüzûl* | metin ve eser adı | “Ciğerî cildli. Esbâb-ı Nüzûl…” | “Ciğerî cildli. **Köhne.** Esbâb-ı Nüzûl…” |
+| A8 ✅ (işlendi) | #3656 — XI, 54b [8] *Esbâb-ı Nüzûl* | metin ve eser adı | “Ciğerî cildli. Esbâb-ı Nüzûl…” | “Ciğerî cildli. **Köhne.** Esbâb-ı Nüzûl…” |
 
 ## B. Katalogun dipnotla düzelttiği okumalar (yayın tercihi)
 

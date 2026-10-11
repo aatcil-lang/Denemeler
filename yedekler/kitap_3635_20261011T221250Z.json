@@ -1,0 +1,28 @@
+{
+ "id": 3635,
+ "isim": "Dimeşkī tamâmından kırılmış, cigerî cildli, Esbâb-ı Nüzûl-i Kur’ân, yüz kırk sekiz varak.",
+ "isim2": null,
+ "disiplin": "",
+ "kapsam": null,
+ "created_at": "2024-04-22T12:46:23.805172Z",
+ "updated_at": "2025-04-06T19:20:10.589728Z",
+ "yazar": null,
+ "kayit": {
+  "id": 3656,
+  "tam_metin": "[8] Dimeşkī tamâmından kırılmış. Ciğerî cildli. Esbâb-ı Nüzûl-i Kurʾân. Yüz kırk sekiz varak.\n[Derkenar] Zâyiʿât-ı sâbıka defterinde mukayyed bulundu. Defter-i kadîmde kimin vakf[ı] idüğü kayd olunmamış.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîl-i Kütüb-i Sultâniyye",
+  "notlar": "",
+  "sayfa_numarasi": "54b",
+  "created_at": "2024-04-22T12:46:23.541472Z",
+  "updated_at": "2025-10-03T06:00:21.949799Z",
+  "vakif": 1,
+  "mustensih": null,
+  "kaynak": 2,
+  "created_by": null,
+  "iliskili_kayit": null,
+  "kodikolojik_bilgi": 1549
+ },
+ "kaynak": null,
+ "created_by": null
+}
