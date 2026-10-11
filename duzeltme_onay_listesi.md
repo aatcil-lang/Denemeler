@@ -15,7 +15,7 @@ Her değişiklikten önce ilgili kaydın o anki hâli yedeklenecek. Önce tek bi
 | # | Kayıt | Alan | Şimdiki | Önerilen |
 |---|---|---|---|---|
 | A1 | #3279 — Kâbilîzâde, 39a [22] *Mebsût* | metin | “İki yüz **yüz** yirmi iki varak.” | “İki yüz yirmi iki varak.” (kodikolojik bilgideki varak adedi zaten 222) |
-| A2 | #3545 — Âlâiyyeli, 48a [1] *Hâşiye-i Mutavvel* (Seyyid Şerîf) | bölüm | Tafsîlü Kütübi't-Tefâsîr | **Tafsîlü Kütübi'l-Arabiyye** |
+| A2 ✅ (işlendi) | #3545 — Âlâiyyeli, 48a [1] *Hâşiye-i Mutavvel* (Seyyid Şerîf) | bölüm | Tafsîlü Kütübi't-Tefâsîr | **Tafsîlü Kütübi'l-Arabiyye** |
 | A3 | #3546 — 48a [2] *Hâşiye-i Mutavvel* (Hüsrev) | bölüm | 〃 | 〃 |
 | A4 | #3547 — 48b [3] *Şerh-i Miftâh* | bölüm | 〃 | 〃 |
 | A5 | #3548 — 48b [4] *Şerhü'l-Mutavvel* | bölüm | 〃 | 〃 |
