@@ -57,6 +57,8 @@ Başlıklardaki diğer farklar yalnızca yazım farkıdır ve tutarsızlık say�
 
 Her satırda önce katalog, sonra veritabanı okuması verilmiştir.
 
+> **Düzeltme notu:** Bu farkların hepsi veritabanı hatası değildir. Veritabanı çoğu yerde yazmanın kendi okumasını veriyor; katalog transkripsiyonu ise bazı yerleri dipnotla düzeltmiş. Örneğin *Ziyât → Diyât* düzeltmesi 34. dipnotta, *Ahsîketî → Ahsîkesî* düzeltmesi 28. dipnotta yapılmış. Bu tür farklar bir yayın tercihidir. Hangi farkların veritabanına işleneceği [`duzeltme_onay_listesi.md`](duzeltme_onay_listesi.md) dosyasında madde madde ayrıldı.
+
 **a) Eser kimliğini etkileyenler**
 
 | Varak/No | Katalog | Veritabanı |
