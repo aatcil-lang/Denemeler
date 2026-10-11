@@ -1,0 +1,83 @@
+{
+ "id": 2114,
+ "kitap_set": [
+  {
+   "id": 2105,
+   "isim": "Kitâb-ı Metnü’l-Muhtâr.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:10:33.297249Z",
+   "updated_at": "2025-04-06T19:20:15.064019Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2114,
+    "tam_metin": "[36] Kitâb-ı Metnü’l-Muhtâr. Tamâm. Dimeşkī nısfına. Ak kâğıd mukavvâ cildle. Min evvelihî ilâ âhirihî sürhle mücedvel. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Bi-hattı Ahmed bin Menteş es-Sinobî. Seksen üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "70b",
+    "created_at": "2024-02-10T13:10:33.012137Z",
+    "updated_at": "2025-01-04T12:54:38.099323Z",
+    "vakif": 1,
+    "mustensih": 602,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[36] Kitâb-ı Metnü’l-Muhtâr. Tamâm. Dimeşkī nısfına. Ak kâğıd mukavvâ cildle. Min evvelihî ilâ âhirihî sürhle mücedvel. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Bi-hattı Ahmed bin Menteş es-Sinobî. Seksen üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "70b",
+ "created_at": "2024-02-10T13:10:33.012137Z",
+ "updated_at": "2025-01-04T12:54:38.099323Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 602,
+  "isim": "Ahmed bin Menteş es-Sinobî",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-01-04T12:54:29.601705Z",
+  "updated_at": "2025-01-04T12:54:29.601723Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,171 @@
+{
+ "id": 2335,
+ "kitap_set": [
+  {
+   "id": 2319,
+   "isim": "Kitâb-ı Târîh-i Güzîde bi’l-Fârisî.",
+   "isim2": null,
+   "disiplin": "Tarih",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:12:16.488593Z",
+   "updated_at": "2025-04-06T19:20:14.411816Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2335,
+    "tam_metin": "[21] Kitâb-ı Târîh-i Güzîde bi’l-Fârisî. Tamâm. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Min evvelihî ilâ âhirihî taʿlîk hatla yazılmış. Yüz altmış yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "81b",
+    "created_at": "2024-02-10T13:12:16.216406Z",
+    "updated_at": "2025-07-11T18:52:10.039899Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": 57
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1041,
+   "koleksiyon_numarasi": "04458",
+   "nusha": "",
+   "created_at": "2025-01-18T20:38:16.032721Z",
+   "updated_at": "2025-01-18T20:38:16.032736Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2335,
+    "tam_metin": "[21] Kitâb-ı Târîh-i Güzîde bi’l-Fârisî. Tamâm. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Min evvelihî ilâ âhirihî taʿlîk hatla yazılmış. Yüz altmış yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "81b",
+    "created_at": "2024-02-10T13:12:16.216406Z",
+    "updated_at": "2025-07-11T18:52:10.039899Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": 57
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [
+  {
+   "id": 57,
+   "murekkep_set": [],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 16,
+     "hatt_turu": "Talik",
+     "hatt_sekli": "",
+     "aciklama": null,
+     "kodikolojik_bilgi": 57
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "167",
+   "kagit_turu": "Dımeşki",
+   "aciklama": null,
+   "kagit_ebadi": "Tamamına yazılmış",
+   "kagit_sekli": "",
+   "note": "Hatt şekli, kağıt şekli ve mürekkep bilgisi bulunmuyor.",
+   "created_at": "2025-07-11T18:52:10.037096Z",
+   "updated_at": "2025-07-11T18:52:10.037116Z",
+   "kayit": {
+    "id": 2335,
+    "tam_metin": "[21] Kitâb-ı Târîh-i Güzîde bi’l-Fârisî. Tamâm. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Min evvelihî ilâ âhirihî taʿlîk hatla yazılmış. Yüz altmış yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "81b",
+    "created_at": "2024-02-10T13:12:16.216406Z",
+    "updated_at": "2025-07-11T18:52:10.039899Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": 57
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[21] Kitâb-ı Târîh-i Güzîde bi’l-Fârisî. Tamâm. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Min evvelihî ilâ âhirihî taʿlîk hatla yazılmış. Yüz altmış yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+ "notlar": "",
+ "sayfa_numarasi": "81b",
+ "created_at": "2024-02-10T13:12:16.216406Z",
+ "updated_at": "2025-07-11T18:52:10.039899Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 57,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Yeşil kağıt",
+  "varak_adedi": "167",
+  "kagit_turu": "Dımeşki",
+  "aciklama": null,
+  "kagit_ebadi": "Tamamına yazılmış",
+  "kagit_sekli": "",
+  "note": "Hatt şekli, kağıt şekli ve mürekkep bilgisi bulunmuyor.",
+  "created_at": "2025-07-11T18:52:10.037096Z",
+  "updated_at": "2025-07-11T18:52:10.037116Z",
+  "kayit": 2335,
+  "created_by": null
+ }
+}

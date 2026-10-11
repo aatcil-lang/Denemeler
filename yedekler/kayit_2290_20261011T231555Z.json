@@ -1,0 +1,123 @@
+{
+ "id": 2290,
+ "kitap_set": [
+  {
+   "id": 2276,
+   "isim": "Kitâbü’l-Cildi’s-Sânî min Târîhi İbn Hallikân el-müsemmâ bi-Vefeyâti’l-A‘yân.",
+   "isim2": null,
+   "disiplin": "Tarih",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:11:55.188019Z",
+   "updated_at": "2025-04-06T19:20:14.541589Z",
+   "yazar": {
+    "id": 682,
+    "isim": "İbn Hallikân, Ebü’l-Abbâs Şemsüddîn Ahmed b. Muhammed b. İbrâhîm b. Ebî Bekr b. Hallikân el-Bermekî el-İrbilî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-07T10:01:18.344513Z",
+    "updated_at": "2025-01-07T10:01:18.344530Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2290,
+    "tam_metin": "[7] Kitâbü’l-Cildi’s-Sânî eydan min Târîhi İbn Hallikân el-müsemmâ bi-Vefeyâti’l-Aʿyân. Min evveli Harfi’l-Ayn ilâ evveli Harfi’l-Mîm Mâlik bin Enes. Dimeşkī tamâmına. Al kâğıd cedîd mukavvâ cildle ve hüve nüshatün vâzıha. İki yüz otuz iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Tevârîh",
+    "notlar": "",
+    "sayfa_numarasi": "79a",
+    "created_at": "2024-02-10T13:11:54.905578Z",
+    "updated_at": "2025-01-18T20:04:16.898360Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1013,
+   "koleksiyon_numarasi": "04521",
+   "nusha": "",
+   "created_at": "2025-01-18T20:04:15.902588Z",
+   "updated_at": "2025-01-18T20:04:15.902605Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2290,
+    "tam_metin": "[7] Kitâbü’l-Cildi’s-Sânî eydan min Târîhi İbn Hallikân el-müsemmâ bi-Vefeyâti’l-Aʿyân. Min evveli Harfi’l-Ayn ilâ evveli Harfi’l-Mîm Mâlik bin Enes. Dimeşkī tamâmına. Al kâğıd cedîd mukavvâ cildle ve hüve nüshatün vâzıha. İki yüz otuz iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Tevârîh",
+    "notlar": "",
+    "sayfa_numarasi": "79a",
+    "created_at": "2024-02-10T13:11:54.905578Z",
+    "updated_at": "2025-01-18T20:04:16.898360Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[7] Kitâbü’l-Cildi’s-Sânî eydan min Târîhi İbn Hallikân el-müsemmâ bi-Vefeyâti’l-Aʿyân. Min evveli Harfi’l-Ayn ilâ evveli Harfi’l-Mîm Mâlik bin Enes. Dimeşkī tamâmına. Al kâğıd cedîd mukavvâ cildle ve hüve nüshatün vâzıha. İki yüz otuz iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Tevârîh",
+ "notlar": "",
+ "sayfa_numarasi": "79a",
+ "created_at": "2024-02-10T13:11:54.905578Z",
+ "updated_at": "2025-01-18T20:04:16.898360Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

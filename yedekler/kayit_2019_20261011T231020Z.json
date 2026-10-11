@@ -1,0 +1,83 @@
+{
+ "id": 2019,
+ "kitap_set": [
+  {
+   "id": 2011,
+   "isim": "Kitâbü’l-Cildi’l-Ahîr min Tefsîri’t-Teysîr (Min evveli Sûreti’l-Furkān ilâ âhiri’l-Kelâmi’l-Kadîm).",
+   "isim2": null,
+   "disiplin": "Tefsir",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:09:48.850047Z",
+   "updated_at": "2025-04-06T19:20:15.341389Z",
+   "yazar": {
+    "id": 274,
+    "isim": "İmâm en-Nesefî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-11T16:27:42.665010Z",
+    "updated_at": "2024-09-11T16:27:42.665025Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2019,
+    "tam_metin": "[33] Kitâbü’l-Cildi’l-Ahîr eydan min Tefsîri’t-Teysîr li’l-İmâm en-Nesefî. Min evveli Sûreti’l-Furkān ilâ âhiri’l-Kelâmi’l-Kadîm. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Üç yüz elli beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi Mevlânâ el-Meşhûr bi-Şeyhzâde",
+    "notlar": "",
+    "sayfa_numarasi": "65a",
+    "created_at": "2024-02-10T13:09:48.576363Z",
+    "updated_at": "2025-01-03T21:48:53.242075Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[33] Kitâbü’l-Cildi’l-Ahîr eydan min Tefsîri’t-Teysîr li’l-İmâm en-Nesefî. Min evveli Sûreti’l-Furkān ilâ âhiri’l-Kelâmi’l-Kadîm. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Üç yüz elli beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi Mevlânâ el-Meşhûr bi-Şeyhzâde",
+ "notlar": "",
+ "sayfa_numarasi": "65a",
+ "created_at": "2024-02-10T13:09:48.576363Z",
+ "updated_at": "2025-01-03T21:48:53.242075Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

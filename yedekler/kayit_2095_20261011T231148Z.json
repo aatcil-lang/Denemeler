@@ -1,0 +1,83 @@
+{
+ "id": 2095,
+ "kitap_set": [
+  {
+   "id": 2086,
+   "isim": "Kitâb-ı Şerhü’l-Hidâye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:10:24.482603Z",
+   "updated_at": "2025-04-06T19:20:15.121065Z",
+   "yazar": {
+    "id": 223,
+    "isim": "Ebû Muhammed Celâleddîn Ömer b. Muhammed el-Hucendî el-Habbâzî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-10T14:04:59.504968Z",
+    "updated_at": "2024-09-10T14:04:59.504983Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2095,
+    "tam_metin": "[17] Kitâb-ı Şerhu’l-Hidâye li’l-Habbâzî. Tamâm. Dimeşkī tamâmına. Yeşil kâğıd cedîd mukavvâ cildle. Musahhah ve muhaşşâ. Üç yüz sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "69b",
+    "created_at": "2024-02-10T13:10:24.189801Z",
+    "updated_at": "2025-01-04T12:09:31.403430Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[17] Kitâb-ı Şerhu’l-Hidâye li’l-Habbâzî. Tamâm. Dimeşkī tamâmına. Yeşil kâğıd cedîd mukavvâ cildle. Musahhah ve muhaşşâ. Üç yüz sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "69b",
+ "created_at": "2024-02-10T13:10:24.189801Z",
+ "updated_at": "2025-01-04T12:09:31.403430Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,163 @@
+{
+ "id": 2262,
+ "kitap_set": [
+  {
+   "id": 4204,
+   "isim": "Kitâb-ı Şerhu Tasrîfi’l-İzzî.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2025-01-07T01:02:52.029304Z",
+   "updated_at": "2025-04-06T19:20:08.922445Z",
+   "yazar": {
+    "id": 670,
+    "isim": "Mes‘ûd et-Teftâzânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-07T01:00:55.046890Z",
+    "updated_at": "2025-01-07T01:00:55.046905Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2262,
+    "tam_metin": "[24] Kitâb-ı Şerhu Tasrîfi’l-İzzî li-Mesʿûd et-Teftâzânî tamâm ve Kitâb-ı Hâşiyetü Ömer bin Muhammed el-Halebî ale’ş-Şerhi’l-mezkûr. Bir cildde. Dimeşkī nısfına. Yeşil kâğıd mukavvâ cildle. Seksen dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "77b",
+    "created_at": "2024-02-10T13:11:41.598140Z",
+    "updated_at": "2025-01-18T19:53:17.211253Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 2249,
+   "isim": "Kitâb-ı Hâşiyetü Ömer bin Muhammed el-Halebî ale’ş-Şerhi’l-Tasrîfi’l-İzzî li-Mesʿûd et-Teftâzânî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:11:41.897588Z",
+   "updated_at": "2025-04-06T19:20:14.623791Z",
+   "yazar": {
+    "id": 590,
+    "isim": "Ömer bin Muhammed el-Halebî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-04T10:57:41.329483Z",
+    "updated_at": "2025-01-04T10:57:41.329497Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2262,
+    "tam_metin": "[24] Kitâb-ı Şerhu Tasrîfi’l-İzzî li-Mesʿûd et-Teftâzânî tamâm ve Kitâb-ı Hâşiyetü Ömer bin Muhammed el-Halebî ale’ş-Şerhi’l-mezkûr. Bir cildde. Dimeşkī nısfına. Yeşil kâğıd mukavvâ cildle. Seksen dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "77b",
+    "created_at": "2024-02-10T13:11:41.598140Z",
+    "updated_at": "2025-01-18T19:53:17.211253Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1004,
+   "koleksiyon_numarasi": "04786",
+   "nusha": "",
+   "created_at": "2025-01-18T19:53:16.078208Z",
+   "updated_at": "2025-01-18T19:53:16.078229Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2262,
+    "tam_metin": "[24] Kitâb-ı Şerhu Tasrîfi’l-İzzî li-Mesʿûd et-Teftâzânî tamâm ve Kitâb-ı Hâşiyetü Ömer bin Muhammed el-Halebî ale’ş-Şerhi’l-mezkûr. Bir cildde. Dimeşkī nısfına. Yeşil kâğıd mukavvâ cildle. Seksen dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "77b",
+    "created_at": "2024-02-10T13:11:41.598140Z",
+    "updated_at": "2025-01-18T19:53:17.211253Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[24] Kitâb-ı Şerhu Tasrîfi’l-İzzî li-Mesʿûd et-Teftâzânî tamâm ve Kitâb-ı Hâşiyetü Ömer bin Muhammed el-Halebî ale’ş-Şerhi’l-mezkûr. Bir cildde. Dimeşkī nısfına. Yeşil kâğıd mukavvâ cildle. Seksen dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "77b",
+ "created_at": "2024-02-10T13:11:41.598140Z",
+ "updated_at": "2025-01-18T19:53:17.211253Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

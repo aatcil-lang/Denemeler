@@ -1,0 +1,135 @@
+{
+ "id": 2316,
+ "kitap_set": [
+  {
+   "id": 2300,
+   "isim": "Kitâb-ı Sîretü’n-Nebî -sallallâhu aleyhi ve sellem- bi’l-Fârisî.",
+   "isim2": null,
+   "disiplin": "Siyer",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:12:07.558496Z",
+   "updated_at": "2025-04-06T19:20:14.467898Z",
+   "yazar": {
+    "id": 694,
+    "isim": "Ebu’l-Feth Muhammed bin Ahmed bin Ebû Bekir el-Kârtânî?",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-07T19:00:41.470537Z",
+    "updated_at": "2025-01-07T19:00:41.470553Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2316,
+    "tam_metin": "[2] Kitâb-ı Sîretü’n-Nebî sallallâhu aleyhi ve sellem eydan li-Ebu’l-Feth Muhammed bin Ahmed bin Ebû Bekir el-Kârtânî? bi’l-Fârisî. Tamâm. Sannefehû li-ecli Emîr Dîbâc Sultân-ı Gîlân. Bi-hattı müʾellifihî el-mezkûr. Hâkezâ zekerahû fî âhiri’l-kitâb. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "80b",
+    "created_at": "2024-02-10T13:12:07.272287Z",
+    "updated_at": "2025-01-18T20:25:19.671168Z",
+    "vakif": 1,
+    "mustensih": 694,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1031,
+   "koleksiyon_numarasi": "04375",
+   "nusha": "",
+   "created_at": "2025-01-18T20:25:18.391320Z",
+   "updated_at": "2025-01-18T20:25:18.391341Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2316,
+    "tam_metin": "[2] Kitâb-ı Sîretü’n-Nebî sallallâhu aleyhi ve sellem eydan li-Ebu’l-Feth Muhammed bin Ahmed bin Ebû Bekir el-Kârtânî? bi’l-Fârisî. Tamâm. Sannefehû li-ecli Emîr Dîbâc Sultân-ı Gîlân. Bi-hattı müʾellifihî el-mezkûr. Hâkezâ zekerahû fî âhiri’l-kitâb. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "80b",
+    "created_at": "2024-02-10T13:12:07.272287Z",
+    "updated_at": "2025-01-18T20:25:19.671168Z",
+    "vakif": 1,
+    "mustensih": 694,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[2] Kitâb-ı Sîretü’n-Nebî sallallâhu aleyhi ve sellem eydan li-Ebu’l-Feth Muhammed bin Ahmed bin Ebû Bekir el-Kârtânî? bi’l-Fârisî. Tamâm. Sannefehû li-ecli Emîr Dîbâc Sultân-ı Gîlân. Bi-hattı müʾellifihî el-mezkûr. Hâkezâ zekerahû fî âhiri’l-kitâb. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Yüz on varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+ "notlar": "",
+ "sayfa_numarasi": "80b",
+ "created_at": "2024-02-10T13:12:07.272287Z",
+ "updated_at": "2025-01-18T20:25:19.671168Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 694,
+  "isim": "Ebu’l-Feth Muhammed bin Ahmed bin Ebû Bekir el-Kârtânî?",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-01-07T19:00:41.470537Z",
+  "updated_at": "2025-01-07T19:00:41.470553Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,83 @@
+{
+ "id": 2016,
+ "kitap_set": [
+  {
+   "id": 2008,
+   "isim": "Kitâbü’l-Cildi’l-Evvel min Tefsîri’t-Teysîr (İlâ âhiri kavlihî teʿâlâ اُولٰٓئِكَ لَهُمْ عَذَابٌ اَلِيمٌ وَمَا لَهُمْ مِنْ نَاصِرِينَ   min Sûreti Âli İmrân).",
+   "isim2": null,
+   "disiplin": "Tefsir",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:09:47.454327Z",
+   "updated_at": "2025-04-06T19:20:15.349594Z",
+   "yazar": {
+    "id": 274,
+    "isim": "İmâm en-Nesefî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-11T16:27:42.665010Z",
+    "updated_at": "2024-09-11T16:27:42.665025Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2016,
+    "tam_metin": "[30] Kitâbü’l-Cildi’l-Evvel min Tefsîri’t-Teysîr li’l-İmâm en-Nesefî. İlâ âhiri kavlihî teʿâlâ اُولٰٓئِكَ لَهُمْ عَذَابٌ اَلِيمٌ وَمَا لَهُمْ مِنْ نَاصِرِينَ   min Sûreti Âli İmrân. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Musahhah ve muhaşşâ. İki yüz elli beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi Mevlânâ el-Meşhûr bi-Şeyhzâde",
+    "notlar": "",
+    "sayfa_numarasi": "64b",
+    "created_at": "2024-02-10T13:09:47.174976Z",
+    "updated_at": "2025-01-03T21:44:40.602311Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[30] Kitâbü’l-Cildi’l-Evvel min Tefsîri’t-Teysîr li’l-İmâm en-Nesefî. İlâ âhiri kavlihî teʿâlâ اُولٰٓئِكَ لَهُمْ عَذَابٌ اَلِيمٌ وَمَا لَهُمْ مِنْ نَاصِرِينَ   min Sûreti Âli İmrân. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Musahhah ve muhaşşâ. İki yüz elli beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi Mevlânâ el-Meşhûr bi-Şeyhzâde",
+ "notlar": "",
+ "sayfa_numarasi": "64b",
+ "created_at": "2024-02-10T13:09:47.174976Z",
+ "updated_at": "2025-01-03T21:44:40.602311Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

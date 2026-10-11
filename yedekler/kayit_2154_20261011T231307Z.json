@@ -1,0 +1,83 @@
+{
+ "id": 2154,
+ "kitap_set": [
+  {
+   "id": 2144,
+   "isim": "Kitâb-ı Şerhü’l-Akāidi’l-İmâm Ömer en-Nesefî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:10:51.813986Z",
+   "updated_at": "2025-04-06T19:20:14.943026Z",
+   "yazar": {
+    "id": 617,
+    "isim": "İmâm Ömer en-Nesefî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-04T21:05:23.844082Z",
+    "updated_at": "2025-01-04T21:05:23.844098Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2154,
+    "tam_metin": "[19] Kitâb-ı Şerhu’l-Akāʾidi’l-İmâm Ömer en-Nesefî eydan. Tamâm. Dimeşkī rubʿuna. Yeşil kâğıd mukavvâ cildle. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Altmış beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+    "notlar": "",
+    "sayfa_numarasi": "72a",
+    "created_at": "2024-02-10T13:10:51.532715Z",
+    "updated_at": "2025-01-04T21:06:00.886294Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[19] Kitâb-ı Şerhu’l-Akāʾidi’l-İmâm Ömer en-Nesefî eydan. Tamâm. Dimeşkī rubʿuna. Yeşil kâğıd mukavvâ cildle. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Altmış beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+ "notlar": "",
+ "sayfa_numarasi": "72a",
+ "created_at": "2024-02-10T13:10:51.532715Z",
+ "updated_at": "2025-01-04T21:06:00.886294Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

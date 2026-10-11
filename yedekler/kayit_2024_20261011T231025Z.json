@@ -1,0 +1,135 @@
+{
+ "id": 2024,
+ "kitap_set": [
+  {
+   "id": 2016,
+   "isim": "Kitâb-ı Hâşiyetü Şerhi’l-Adud.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:09:51.204832Z",
+   "updated_at": "2025-04-06T19:20:15.327763Z",
+   "yazar": {
+    "id": 42,
+    "isim": "Mevlânâ Sa‘deddîn",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-07-27T13:47:34.802380Z",
+    "updated_at": "2024-07-27T13:47:34.802396Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2024,
+    "tam_metin": "[1] Kitâb-ı Hâşiyetü Şerhi’l-Adud li-Saʿdeddîn. Dimeşkī tamâmına. Müzehheb ciğerî cildle. Bi-hattı Hâlid bin Hüseyin bin Ali el-Bedrî. Yüz kırk iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "65a",
+    "created_at": "2024-02-10T13:09:50.925628Z",
+    "updated_at": "2025-01-18T13:46:40.371599Z",
+    "vakif": 1,
+    "mustensih": 577,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 904,
+   "koleksiyon_numarasi": "01280",
+   "nusha": "",
+   "created_at": "2025-01-18T13:46:39.359875Z",
+   "updated_at": "2025-01-18T13:46:39.359892Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2024,
+    "tam_metin": "[1] Kitâb-ı Hâşiyetü Şerhi’l-Adud li-Saʿdeddîn. Dimeşkī tamâmına. Müzehheb ciğerî cildle. Bi-hattı Hâlid bin Hüseyin bin Ali el-Bedrî. Yüz kırk iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "65a",
+    "created_at": "2024-02-10T13:09:50.925628Z",
+    "updated_at": "2025-01-18T13:46:40.371599Z",
+    "vakif": 1,
+    "mustensih": 577,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[1] Kitâb-ı Hâşiyetü Şerhi’l-Adud li-Saʿdeddîn. Dimeşkī tamâmına. Müzehheb ciğerî cildle. Bi-hattı Hâlid bin Hüseyin bin Ali el-Bedrî. Yüz kırk iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "65a",
+ "created_at": "2024-02-10T13:09:50.925628Z",
+ "updated_at": "2025-01-18T13:46:40.371599Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 577,
+  "isim": "Hâlid bin Hüseyin bin Ali el-Bedrî",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-01-03T22:01:27.908375Z",
+  "updated_at": "2025-01-03T22:01:27.908395Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,135 @@
+{
+ "id": 2013,
+ "kitap_set": [
+  {
+   "id": 2005,
+   "isim": "Kitâbü’l-Cildi’s-Sânî min Meâlimi’t-Tenzîl (Min evveli kavlihî teʿâlâ لَا يُحِبُّ اللّٰهُ الْجَهْرَ بِالسُّٓوءِ   min Sûreti’n-Nisâʾ ilâ âhiri Sûreti’l-Hicr).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:09:46.062641Z",
+   "updated_at": "2025-04-06T19:20:15.358079Z",
+   "yazar": {
+    "id": 81,
+    "isim": "İmâm el-Begavî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-03T17:56:43.761130Z",
+    "updated_at": "2024-08-03T17:56:43.761152Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2013,
+    "tam_metin": "[27] Kitâbü’l-Cildi’s-Sânî eydan min Meʿâlimi’t-Tenzîl li’l-İmâm el-Begavî. Min evveli kavlihî teʿâlâ لَا يُحِبُّ اللّٰهُ الْجَهْرَ بِالسُّٓوءِ   min Sûreti’n-Nisâʾ ilâ âhiri Sûreti’l-Hicr. Dimeşkī tamâmına. Kırmızı cildle. Zahrı levhalı. Evvelinde iki sahîfe halle mücedvel. Bi-hattı Muhammed bin Muhammed bin Muhammed el-Bekrî. İki yüz kırk dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi Mevlânâ el-Meşhûr bi-Şeyhzâde",
+    "notlar": "",
+    "sayfa_numarasi": "64b",
+    "created_at": "2024-02-10T13:09:45.780970Z",
+    "updated_at": "2025-01-17T19:55:11.656088Z",
+    "vakif": 1,
+    "mustensih": 573,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 896,
+   "koleksiyon_numarasi": "00452",
+   "nusha": "",
+   "created_at": "2025-01-17T19:55:10.468469Z",
+   "updated_at": "2025-01-17T19:55:10.468490Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2013,
+    "tam_metin": "[27] Kitâbü’l-Cildi’s-Sânî eydan min Meʿâlimi’t-Tenzîl li’l-İmâm el-Begavî. Min evveli kavlihî teʿâlâ لَا يُحِبُّ اللّٰهُ الْجَهْرَ بِالسُّٓوءِ   min Sûreti’n-Nisâʾ ilâ âhiri Sûreti’l-Hicr. Dimeşkī tamâmına. Kırmızı cildle. Zahrı levhalı. Evvelinde iki sahîfe halle mücedvel. Bi-hattı Muhammed bin Muhammed bin Muhammed el-Bekrî. İki yüz kırk dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi Mevlânâ el-Meşhûr bi-Şeyhzâde",
+    "notlar": "",
+    "sayfa_numarasi": "64b",
+    "created_at": "2024-02-10T13:09:45.780970Z",
+    "updated_at": "2025-01-17T19:55:11.656088Z",
+    "vakif": 1,
+    "mustensih": 573,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[27] Kitâbü’l-Cildi’s-Sânî eydan min Meʿâlimi’t-Tenzîl li’l-İmâm el-Begavî. Min evveli kavlihî teʿâlâ لَا يُحِبُّ اللّٰهُ الْجَهْرَ بِالسُّٓوءِ   min Sûreti’n-Nisâʾ ilâ âhiri Sûreti’l-Hicr. Dimeşkī tamâmına. Kırmızı cildle. Zahrı levhalı. Evvelinde iki sahîfe halle mücedvel. Bi-hattı Muhammed bin Muhammed bin Muhammed el-Bekrî. İki yüz kırk dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi Mevlânâ el-Meşhûr bi-Şeyhzâde",
+ "notlar": "",
+ "sayfa_numarasi": "64b",
+ "created_at": "2024-02-10T13:09:45.780970Z",
+ "updated_at": "2025-01-17T19:55:11.656088Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 573,
+  "isim": "Muhammed bin Muhammed bin Muhammed el-Bekrî",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-01-03T21:28:07.256048Z",
+  "updated_at": "2025-01-03T21:28:07.256064Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

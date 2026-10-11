@@ -1,0 +1,83 @@
+{
+ "id": 2234,
+ "kitap_set": [
+  {
+   "id": 2221,
+   "isim": "Kitâb-ı Şerhü’t-Tezkira fî ilmi’l-hey’e.",
+   "isim2": null,
+   "disiplin": "Astronomi",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:11:28.945461Z",
+   "updated_at": "2025-04-06T19:20:14.713979Z",
+   "yazar": {
+    "id": 566,
+    "isim": "Nizâmeddîn el-Aʿrec",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-03T15:02:16.306282Z",
+    "updated_at": "2025-01-03T15:02:16.306296Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2234,
+    "tam_metin": "[3] Kitâb-ı Şerhu’t-Tezkire fî ilmi’l-heyʾe eydan li-Nizâmeddîn el-Aʿrec. Dimeşkī tamâmından kırılmış kümmî olmuş. Ciğerî cildle. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Fî gāyeti’s-sıhhati ve’t-tahşiye. Yüz yirmi bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Hey’e",
+    "notlar": "",
+    "sayfa_numarasi": "76a",
+    "created_at": "2024-02-10T13:11:28.663192Z",
+    "updated_at": "2025-01-06T22:40:28.176601Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[3] Kitâb-ı Şerhu’t-Tezkire fî ilmi’l-heyʾe eydan li-Nizâmeddîn el-Aʿrec. Dimeşkī tamâmından kırılmış kümmî olmuş. Ciğerî cildle. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Fî gāyeti’s-sıhhati ve’t-tahşiye. Yüz yirmi bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Hey’e",
+ "notlar": "",
+ "sayfa_numarasi": "76a",
+ "created_at": "2024-02-10T13:11:28.663192Z",
+ "updated_at": "2025-01-06T22:40:28.176601Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

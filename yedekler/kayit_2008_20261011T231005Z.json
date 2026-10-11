@@ -1,0 +1,135 @@
+{
+ "id": 2008,
+ "kitap_set": [
+  {
+   "id": 2000,
+   "isim": "Kitâbü’l-Cildi’s-Sâdis min Hâşiyeti Tefsîri’l-Kādî (Min evveli Sûreti’l-Furkān ilâ âhiri Sûreti Sebeʾ).",
+   "isim2": null,
+   "disiplin": "Tefsir",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:09:43.842865Z",
+   "updated_at": "2025-04-06T19:20:15.371865Z",
+   "yazar": {
+    "id": 570,
+    "isim": "Mevlânâ el-meşhûr bi-Şeyhzâde",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-03T19:20:53.134557Z",
+    "updated_at": "2025-01-03T19:20:53.134577Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2008,
+    "tam_metin": "[22] Kitâbü’l-Cildi’s-Sâdis eydan min Hâşiyeti Tefsîri’l-Kādî li-Mevlânâ el-meşhûr bi-Şeyhzâde. Min evveli Sûreti’l-Furkān ilâ âhiri Sûreti Sebeʾ. Bi-hattı müʾellifihî el-mezkûr. Haşebî nısfına. cedîd ezrak cildle. İki yüz kırk beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi Mevlânâ el-Meşhûr bi-Şeyhzâde",
+    "notlar": "",
+    "sayfa_numarasi": "64b",
+    "created_at": "2024-02-10T13:09:43.570402Z",
+    "updated_at": "2025-01-17T19:52:33.261084Z",
+    "vakif": 1,
+    "mustensih": 570,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 893,
+   "koleksiyon_numarasi": "00541",
+   "nusha": "",
+   "created_at": "2025-01-17T19:52:32.189700Z",
+   "updated_at": "2025-01-17T19:52:32.189718Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2008,
+    "tam_metin": "[22] Kitâbü’l-Cildi’s-Sâdis eydan min Hâşiyeti Tefsîri’l-Kādî li-Mevlânâ el-meşhûr bi-Şeyhzâde. Min evveli Sûreti’l-Furkān ilâ âhiri Sûreti Sebeʾ. Bi-hattı müʾellifihî el-mezkûr. Haşebî nısfına. cedîd ezrak cildle. İki yüz kırk beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi Mevlânâ el-Meşhûr bi-Şeyhzâde",
+    "notlar": "",
+    "sayfa_numarasi": "64b",
+    "created_at": "2024-02-10T13:09:43.570402Z",
+    "updated_at": "2025-01-17T19:52:33.261084Z",
+    "vakif": 1,
+    "mustensih": 570,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[22] Kitâbü’l-Cildi’s-Sâdis eydan min Hâşiyeti Tefsîri’l-Kādî li-Mevlânâ el-meşhûr bi-Şeyhzâde. Min evveli Sûreti’l-Furkān ilâ âhiri Sûreti Sebeʾ. Bi-hattı müʾellifihî el-mezkûr. Haşebî nısfına. cedîd ezrak cildle. İki yüz kırk beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi Mevlânâ el-Meşhûr bi-Şeyhzâde",
+ "notlar": "",
+ "sayfa_numarasi": "64b",
+ "created_at": "2024-02-10T13:09:43.570402Z",
+ "updated_at": "2025-01-17T19:52:33.261084Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 570,
+  "isim": "Mevlânâ el-meşhûr bi-Şeyhzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-01-03T19:20:53.134557Z",
+  "updated_at": "2025-01-03T19:20:53.134577Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

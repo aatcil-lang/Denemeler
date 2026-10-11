@@ -1,0 +1,150 @@
+{
+ "id": 2350,
+ "kitap_set": [
+  {
+   "id": 2334,
+   "isim": "Kitâb-ı Mecmû‘u yetealleku bi-nasâih ve mevâiz ve umûri muhtelife fî funûnin muhtelife.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:12:23.348033Z",
+   "updated_at": "2025-04-06T19:20:14.367298Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2350,
+    "tam_metin": "[36] Kitâb-ı Mecmûʿ yeteʿalleku bi-nesâʾih ve mevâʿiz ve umûrin muhtelife fî funûnin muhtelife. Dimeşkī tamâmından kırılmış. Haşebî nısfı kıtʿasında. Nohûdî cildle. Yüz altmış varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "82a",
+    "created_at": "2024-02-10T13:12:23.068812Z",
+    "updated_at": "2026-05-24T12:16:03.786749Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1047,
+   "koleksiyon_numarasi": "05408",
+   "nusha": "https://portal.yek.gov.tr/works/detail/245323",
+   "created_at": "2025-01-18T20:47:01.126732Z",
+   "updated_at": "2026-05-24T09:23:40.176933Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2350,
+    "tam_metin": "[36] Kitâb-ı Mecmûʿ yeteʿalleku bi-nesâʾih ve mevâʿiz ve umûrin muhtelife fî funûnin muhtelife. Dimeşkī tamâmından kırılmış. Haşebî nısfı kıtʿasında. Nohûdî cildle. Yüz altmış varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "82a",
+    "created_at": "2024-02-10T13:12:23.068812Z",
+    "updated_at": "2026-05-24T12:16:03.786749Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  },
+  {
+   "id": 1142,
+   "koleksiyon_numarasi": "5420",
+   "nusha": "https://portal.yek.gov.tr/works/detail/245390",
+   "created_at": "2026-05-24T12:15:49.596203Z",
+   "updated_at": "2026-05-24T12:15:49.596221Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2350,
+    "tam_metin": "[36] Kitâb-ı Mecmûʿ yeteʿalleku bi-nesâʾih ve mevâʿiz ve umûrin muhtelife fî funûnin muhtelife. Dimeşkī tamâmından kırılmış. Haşebî nısfı kıtʿasında. Nohûdî cildle. Yüz altmış varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "82a",
+    "created_at": "2024-02-10T13:12:23.068812Z",
+    "updated_at": "2026-05-24T12:16:03.786749Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[36] Kitâb-ı Mecmûʿ yeteʿalleku bi-nesâʾih ve mevâʿiz ve umûrin muhtelife fî funûnin muhtelife. Dimeşkī tamâmından kırılmış. Haşebî nısfı kıtʿasında. Nohûdî cildle. Yüz altmış varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+ "notlar": "",
+ "sayfa_numarasi": "82a",
+ "created_at": "2024-02-10T13:12:23.068812Z",
+ "updated_at": "2026-05-24T12:16:03.786749Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

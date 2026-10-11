@@ -1,0 +1,71 @@
+{
+ "id": 2361,
+ "kitap_set": [
+  {
+   "id": 2345,
+   "isim": "Kitâb-ı Şerhu Îlâkī fi’t-Tıb.",
+   "isim2": null,
+   "disiplin": "Tıp",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:12:28.419744Z",
+   "updated_at": "2025-04-06T19:20:14.335155Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2361,
+    "tam_metin": "[9] Kitâb-ı Şerhu Îlâkī fi’t-Tıb. Tamâm. Dimeşkī tamâmından kırılmış. Haşebî nısfı kıtʿasında. Min evvelihî ilâ âhirihî. hurde taʿlîk hatla yazılmış. Yüz kırk varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tıb",
+    "notlar": "",
+    "sayfa_numarasi": "83a",
+    "created_at": "2024-02-10T13:12:28.141137Z",
+    "updated_at": "2025-01-07T20:59:36.798190Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[9] Kitâb-ı Şerhu Îlâkī fi’t-Tıb. Tamâm. Dimeşkī tamâmından kırılmış. Haşebî nısfı kıtʿasında. Min evvelihî ilâ âhirihî. hurde taʿlîk hatla yazılmış. Yüz kırk varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tıb",
+ "notlar": "",
+ "sayfa_numarasi": "83a",
+ "created_at": "2024-02-10T13:12:28.141137Z",
+ "updated_at": "2025-01-07T20:59:36.798190Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

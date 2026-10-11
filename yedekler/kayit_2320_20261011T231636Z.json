@@ -1,0 +1,163 @@
+{
+ "id": 2320,
+ "kitap_set": [
+  {
+   "id": 4239,
+   "isim": "Esʾile ve Ecvibe teteʿalleku bi-ilmi’l-hikme li-Abdülmelik bin Ahmed es-Serahsî bi’l-Fârisî.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2025-01-07T19:06:26.487517Z",
+   "updated_at": "2025-04-06T19:20:08.825509Z",
+   "yazar": {
+    "id": 695,
+    "isim": "Abdülmelik bin Ahmed es-Serahsî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-07T19:06:44.999143Z",
+    "updated_at": "2025-01-07T19:06:44.999158Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2320,
+    "tam_metin": "[6] Kitâb-ı Esʾile ve Ecvibe li-Cemâleddîn el-Aksarây[î] teteʿalleku bi’l-Kelâmi’l-Kadîm ve ehâdîsi’r-Rasûli’l-Kerîm ve Esʾile ve Ecvibe eydan teteʿalleku bi-ilmi’l-hikme li-Abdülmelik bin Ahmed es-Serahsî bi’l-Fârisî. Dimeşkī nısfına. Ciğerî cildle. Kırk sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "80b",
+    "created_at": "2024-02-10T13:12:09.140222Z",
+    "updated_at": "2025-01-18T20:27:52.994893Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 2304,
+   "isim": "Kitâb-ı Esvile [Es’ile] ve Ecvibe li-Cemâleddîn el-Aksarây, tetealleku bi’l-Kelâmi’l-Kadîm ve ehâdîsi’r-Rasûli’l-Kerîm.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:12:09.493608Z",
+   "updated_at": "2025-04-06T19:20:14.455289Z",
+   "yazar": {
+    "id": 51,
+    "isim": "Cemâleddîn el-Aksarâyî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-07-30T07:03:16.887006Z",
+    "updated_at": "2024-07-30T07:03:16.887021Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2320,
+    "tam_metin": "[6] Kitâb-ı Esʾile ve Ecvibe li-Cemâleddîn el-Aksarây[î] teteʿalleku bi’l-Kelâmi’l-Kadîm ve ehâdîsi’r-Rasûli’l-Kerîm ve Esʾile ve Ecvibe eydan teteʿalleku bi-ilmi’l-hikme li-Abdülmelik bin Ahmed es-Serahsî bi’l-Fârisî. Dimeşkī nısfına. Ciğerî cildle. Kırk sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "80b",
+    "created_at": "2024-02-10T13:12:09.140222Z",
+    "updated_at": "2025-01-18T20:27:52.994893Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1033,
+   "koleksiyon_numarasi": "00099",
+   "nusha": "",
+   "created_at": "2025-01-18T20:27:51.825939Z",
+   "updated_at": "2025-01-18T20:27:51.825963Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2320,
+    "tam_metin": "[6] Kitâb-ı Esʾile ve Ecvibe li-Cemâleddîn el-Aksarây[î] teteʿalleku bi’l-Kelâmi’l-Kadîm ve ehâdîsi’r-Rasûli’l-Kerîm ve Esʾile ve Ecvibe eydan teteʿalleku bi-ilmi’l-hikme li-Abdülmelik bin Ahmed es-Serahsî bi’l-Fârisî. Dimeşkī nısfına. Ciğerî cildle. Kırk sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "80b",
+    "created_at": "2024-02-10T13:12:09.140222Z",
+    "updated_at": "2025-01-18T20:27:52.994893Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[6] Kitâb-ı Esʾile ve Ecvibe li-Cemâleddîn el-Aksarây[î] teteʿalleku bi’l-Kelâmi’l-Kadîm ve ehâdîsi’r-Rasûli’l-Kerîm ve Esʾile ve Ecvibe eydan teteʿalleku bi-ilmi’l-hikme li-Abdülmelik bin Ahmed es-Serahsî bi’l-Fârisî. Dimeşkī nısfına. Ciğerî cildle. Kırk sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+ "notlar": "",
+ "sayfa_numarasi": "80b",
+ "created_at": "2024-02-10T13:12:09.140222Z",
+ "updated_at": "2025-01-18T20:27:52.994893Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
