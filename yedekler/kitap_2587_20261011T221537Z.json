@@ -1,0 +1,28 @@
+{
+ "id": 2587,
+ "isim": "Kitâb-ı Şerh-i Ahsiketî.",
+ "isim2": null,
+ "disiplin": "",
+ "kapsam": null,
+ "created_at": "2024-04-22T12:22:34.336147Z",
+ "updated_at": "2025-04-06T19:20:13.619562Z",
+ "yazar": null,
+ "kayit": {
+  "id": 2604,
+  "tam_metin": "[54] Kitâb-ı Şerh-i Ahsîketî [Ahsîkesî] min müʾellefâtı İbnü’l-Anîd el-İttifâkī.  Bi-hattı Mehmed bin Mîr Ali. Haşebî tamâmına. Yeşil kâğıd mukavvâ cildli. Yüz on altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "12b",
+  "created_at": "2024-04-22T12:22:34.064917Z",
+  "updated_at": "2026-10-11T22:15:36.314194Z",
+  "vakif": 1,
+  "mustensih": null,
+  "kaynak": 2,
+  "created_by": null,
+  "iliskili_kayit": 845,
+  "kodikolojik_bilgi": 537
+ },
+ "kaynak": null,
+ "created_by": null
+}

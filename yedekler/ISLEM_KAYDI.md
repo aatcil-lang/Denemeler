@@ -32,3 +32,13 @@ Not: Sitenin kendi “ilişkilendir” düğmesi yalnızca `iliskili_kayit` gön
   - Kitapta yalnızca `isim` değişti; `isim2`, `disiplin`, `kapsam`, `yazar`, `kayit` ve `kaynak` aynı kaldı.
   - Kitap güncellemesi kayıt kaydını etkilemedi.
   - Şahıs sayısı 718'de, kaynak sayısı 3'te kaldı.
+
+## 11.10.2026 — B1, B2 (seçenek b: yazmadaki okuma korunur, katalogdaki düzeltme köşeli parantezle eklenir)
+- **B1, kayıt #2881** (I, 22b [244] *Mebsût*), metin: “Kitâbü’z-Ziyât’dan … Kitâbü’l-Muʿâkale’ye” → “Kitâbü’z-Ziyât **[Diyât]**’dan … Kitâbü’l-Muʿâkale **[Meʿâkıle]**’ye”. Dayanak: katalog, 34. dipnot.
+- **B2, kayıt #2604** (I, 12b [54]), metin: “Şerh-i Ahsîketî min…” → “Şerh-i Ahsîketî **[Ahsîkesî]** min…”. Dayanak: katalog, 28. dipnot.
+- **B2, kitap #2587**, eser adı: “Kitâb-ı Şerh-i Ahsiketî.” → “Kitâb-ı Şerh-i Ahsiketî **[Ahsîkesî]**.”
+- **Doğrulama:**
+  - Kayıtlarda yalnızca `tam_metin` değişti, kitapta yalnızca `isim` değişti.
+  - Kitap güncellemesi kayıt kaydını etkilemedi.
+  - Şahıs sayısı 718'de, kaynak sayısı 3'te kaldı.
+- **Araç:** Bundan sonraki işlemler aynı denetimleri yapan `fk.py` yardımcısıyla yapılıyor: yedek alma, değiştirilecek ifadenin tam bir kez geçtiğini kontrol etme, tam form yükü gönderme, alan alan doğrulama.

@@ -29,8 +29,8 @@ Her madde için üç seçenek var: **(a)** katalog okumasını yazmak, **(b)** y
 
 | # | Kayıt | Şimdiki | (a) | (b) | Dayanak |
 |---|---|---|---|---|---|
-| B1 | #2881 — I, 22b [244] *Mebsût* | Kitâbü'z-**Ziyât**'dan Kitâbü'l-**Muʿâkale**'ye | Kitâbü'd-**Diyât**'dan Kitâbü'l-**Meʿâkıle**'ye | Kitâbü'z-Ziyât [Diyât]'dan Kitâbü'l-Muʿâkale [Meʿâkıle]'ye | 34. dipnot |
-| B2 | #2604 — I, 12b [54] metin ve eser adı | Şerh-i **Ahsîketî** | Şerh-i **Ahsîkesî** | Şerh-i Ahsîketî [Ahsîkesî] | 28. dipnot (TDV İA'ya atıfla) |
+| B1 ✅ (işlendi, b) | #2881 — I, 22b [244] *Mebsût* | Kitâbü'z-**Ziyât**'dan Kitâbü'l-**Muʿâkale**'ye | Kitâbü'd-**Diyât**'dan Kitâbü'l-**Meʿâkıle**'ye | Kitâbü'z-Ziyât [Diyât]'dan Kitâbü'l-Muʿâkale [Meʿâkıle]'ye | 34. dipnot |
+| B2 ✅ (işlendi, b) | #2604 — I, 12b [54] metin ve eser adı | Şerh-i **Ahsîketî** | Şerh-i **Ahsîkesî** | Şerh-i Ahsîketî [Ahsîkesî] | 28. dipnot (TDV İA'ya atıfla) |
 
 ## C. Okuma farkları (katalog yeni bir okuma vermiş, dipnot yok)
 
