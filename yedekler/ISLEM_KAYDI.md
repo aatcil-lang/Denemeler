@@ -18,3 +18,7 @@ Not: Sitenin kendi “ilişkilendir” düğmesi yalnızca `iliskili_kayit` gön
 - **Değişiklik:** Her kayıtta `bolum_basligi`: “Tafsîlü Kütübi’t-Tefâsîr” → “Tafsîlü Kütübi’l-Arabiyye” (Âlâiyyeli Muhyiddîn, 48a [2] – 48b [6])
 - **Yöntem:** Her kayıt önce yedeklendi (`kayit_<id>_<zaman>.json`). Mevcut değerler kontrol edildikten sonra tam form yükü gönderildi.
 - **Doğrulama:** Her kayıtta değişen tek alan bölüm başlığı. Kontrol edilen alanlar: tür, vâkıf, kaynak, müstensih, metin, varak, ilişkili kayıt, kitap, nüsha ve kodikolojik bağlantılar. Şahıs sayısı (718) ve kaynak sayısı (3) değişmedi.
+
+## 11.10.2026 — A1: kayıt #3279, varak sayısı yazımı
+- **Değişiklik:** `tam_metin` içinde “İki yüz yüz yirmi iki varak.” → “İki yüz yirmi iki varak.” (Kâbilîzâde, 39a [22] *Mebsût*)
+- **Doğrulama:** Değişen tek alan `tam_metin`. Tür, vâkıf (#9), kaynak (#2) ve diğer bağlantılar aynı kaldı. Kodikolojik bilgideki varak adedi zaten 222'ydi. Şahıs sayısı 718'de kaldı.
