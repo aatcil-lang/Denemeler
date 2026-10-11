@@ -81,3 +81,18 @@ Dayanak: katalogdaki “Vakf-ı …” ibaresi (Halebîzâde için katalog böl�
 - **Denetimler:** Her kayıt önce yedeklendi. İşlemden önce vâkıfın hâlâ boş olduğu ve kaydın kendi metninde beklenen ibarenin geçtiği kontrol edildi. İşlemden sonra yalnızca vâkıf alanının değiştiği doğrulandı.
 - **Durma:** 56. kayıtta (#1742) işlem durdu, çünkü metinde ibare “Kâdızâde” (â ile) yazılmıştı. Kayıt elle incelendi. Denetim bu yazım biçimini de kabul edecek şekilde genişletildi ve kalan kayıtlarla devam edildi.
 - **Son kontrol:** 114 kaydın 114'ü doğru. Tür ve kaynak bilgileri dolu. Şahıs sayısı 718'de, kaynak sayısı 3'te kaldı.
+
+## 11.10.2026 — V9: Şeyhzâde ve Halebîzâde bölümlerindeki 358 kaydın vâkıfı II. Mehmed'den katalogdaki vâkıfa geçirildi
+- **Karar:** Kullanıcı, kayıtların katalogdaki vâkıfa bağlanmasını istedi. Dayanak, katalog bölüm başlıkları: *“Tafsîlü Kütübi Mevlânâ el-Meşhûr bi-Şeyhzâde / bi-Halebîzâde elletî vakafehâ…”*
+- **Kapsam:**
+  - Katalogun IV. bölümü (Şeyhzâde): 43 kayıt, Mevlânâ el-meşhûr bi-Şeyhzâde (#570) şahsına bağlandı.
+  - Katalogun V. bölümü (Halebîzâde): 315 kayıt, Halebîzâde (#741) şahsına bağlandı.
+  - Değişen kayıtlar 63b–83a varakları arasında. Bu aralıkta başka bir vâkıf bölümü yok.
+- **Ön denetim:** Metninde “Vakf” geçen 6 kaydın hepsinde bu kelime *Kitâbü’l-Vakf* bölüm adı olarak geçiyor; vâkıf bildirmiyor. Eşleşmesi zayıf çıkan 3 kayıt elle kontrol edildi.
+- **İşlem denetimi:** Her kayıt önce yedeklendi. İşlemden önce vâkıfın II. Mehmed (#1) olduğu doğrulandı. İşlemden sonra yalnızca vâkıf alanının değiştiği doğrulandı.
+- **Son kontrol:** 358 kaydın 358'i doğru.
+- **Şahısların vâkıf sayıları:**
+  - Şeyhzâde: 1 → **44**. Katalogdaki bölüm toplamı 44, birebir aynı.
+  - Halebîzâde: 18 → **333**. Katalogdaki bölüm toplamı 333, birebir aynı.
+  - II. Mehmed: 2044 → 1686.
+- Şahıs sayısı 718'de, kaynak sayısı 3'te kaldı.

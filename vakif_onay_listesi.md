@@ -40,7 +40,7 @@ Toplam: 92 + 11 + 7 + 3 + 1 + 5 + 2 = **121**.
 
 | # | Durum | Kayıt |
 |---|---|---:|
-| V9 | Katalogun **IV. Şeyhzâde** ve **V. Halebîzâde** bölümlerinin başlığı: *“Mevlânâ … Şeyhzâde / Halebîzâde’nin vakfedip (vakafehâ) Sultan Mehmed Camii’ne koyduğu kitaplar”*. Veritabanında bu kayıtların çoğu **II. Mehmed**’e bağlı: Şeyhzâde bölümünde 44 kaydın 43'ü, Halebîzâde bölümünde 332 kaydın 314'ü. Yalnızca 1 kayıt Şeyhzâde'ye (#570), 17 kayıt Halebîzâde'ye (#741) bağlı. | 357 |
+| V9 ✅ (işlendi, a) | Katalogun **IV. Şeyhzâde** ve **V. Halebîzâde** bölümlerinin başlığı: *“Mevlânâ … Şeyhzâde / Halebîzâde’nin vakfedip (vakafehâ) Sultan Mehmed Camii’ne koyduğu kitaplar”*. Veritabanında bu kayıtların çoğu **II. Mehmed**’e bağlı: Şeyhzâde bölümünde 44 kaydın 43'ü, Halebîzâde bölümünde 332 kaydın 314'ü. Yalnızca 1 kayıt Şeyhzâde'ye (#570), 17 kayıt Halebîzâde'ye (#741) bağlı. | 357 |
 
 Bu bilinçli bir tercih olabilir: kitaplar Fatih Camii'ne konduğu için II. Mehmed'e bağlanmış olabilir. Ama aynı bölümden 18 kaydın Şeyhzâde ve Halebîzâde'ye bağlı olması, uygulamanın tutarlı olmadığını gösteriyor. Seçenekler:
 - **(a)** Bölüm başlığına göre bütün kayıtları Şeyhzâde (#570) ve Halebîzâde'ye (#741) bağlamak.
