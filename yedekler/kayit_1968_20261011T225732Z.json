@@ -1,0 +1,71 @@
+{
+ "id": 1968,
+ "kitap_set": [
+  {
+   "id": 1960,
+   "isim": "Kitâb-ı Şerhü Saktı’z-Zend.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:49:32.786044Z",
+   "updated_at": "2025-04-06T19:20:15.498952Z",
+   "yazar": {
+    "id": 558,
+    "isim": "Ebu’l-Alâ el-Maarrî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-03T13:22:48.292454Z",
+    "updated_at": "2025-01-03T13:22:48.292467Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1968,
+    "tam_metin": "[26] Kitâb-ı Şerhu Saktı’z-Zend li-Ebu’l-Alâʾ el-Maʿarrî. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildle. Vakf-ı Kādîzâde. İki yüz yirmi altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+    "notlar": "",
+    "sayfa_numarasi": "62b",
+    "created_at": "2024-02-10T12:49:32.490535Z",
+    "updated_at": "2025-01-03T13:25:20.592079Z",
+    "vakif": null,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[26] Kitâb-ı Şerhu Saktı’z-Zend li-Ebu’l-Alâʾ el-Maʿarrî. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildle. Vakf-ı Kādîzâde. İki yüz yirmi altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+ "notlar": "",
+ "sayfa_numarasi": "62b",
+ "created_at": "2024-02-10T12:49:32.490535Z",
+ "updated_at": "2025-01-03T13:25:20.592079Z",
+ "vakif": null,
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

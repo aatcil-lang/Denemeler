@@ -1,0 +1,71 @@
+{
+ "id": 1679,
+ "kitap_set": [
+  {
+   "id": 1674,
+   "isim": "Kitâb-ı Cildün mine’n-Nihâye fî Şerhi’l-Hidâye (Min evveli Fasli “ve Kāle’ş-Şâfiʿî” ilâ âhiri Kitâbi’l-Vakf).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:18.473781Z",
+   "updated_at": "2025-04-06T19:20:16.445528Z",
+   "yazar": {
+    "id": 480,
+    "isim": "Hüsâmüddîn Hüseyn b. Alî b. Haccâc el-Buhârî es-Siğnâkī",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-19T13:45:18.424358Z",
+    "updated_at": "2024-12-19T13:45:18.424373Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1679,
+    "tam_metin": "[15] Kitâb-ı Cildün mine’n-Nihâye eydan fî Şerhi’l-Hidâye. Min evveli Fasli “ve Kāle’ş-Şâfiʿî” ilâ âhiri Kitâbi’l-Vakf. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. İki yüz yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "49b",
+    "created_at": "2024-02-10T12:47:18.196355Z",
+    "updated_at": "2024-12-19T13:50:20.501960Z",
+    "vakif": null,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[15] Kitâb-ı Cildün mine’n-Nihâye eydan fî Şerhi’l-Hidâye. Min evveli Fasli “ve Kāle’ş-Şâfiʿî” ilâ âhiri Kitâbi’l-Vakf. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. İki yüz yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "49b",
+ "created_at": "2024-02-10T12:47:18.196355Z",
+ "updated_at": "2024-12-19T13:50:20.501960Z",
+ "vakif": null,
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,139 @@
+{
+ "id": 1768,
+ "kitap_set": [
+  {
+   "id": 3909,
+   "isim": "Dav'i’s-Sirâcî.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2024-12-23T20:33:36.106649Z",
+   "updated_at": "2025-04-06T19:20:09.817074Z",
+   "yazar": {
+    "id": 497,
+    "isim": "Mahmûd b. Ebû Bekir el-Kelâbâzî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-23T20:33:25.503304Z",
+    "updated_at": "2024-12-23T20:33:25.503318Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1768,
+    "tam_metin": "[104] Kitâb-ı Metnü’l-Ferâʾiz maʿa’d-Davʾi’s-Sirâcî. Dimeşkī rubʿuna. Köhne ciğerî cildle. Vakf-ı Kādîzâde. İki yüz iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "53a",
+    "created_at": "2024-02-10T12:47:59.001357Z",
+    "updated_at": "2024-12-23T20:33:39.697052Z",
+    "vakif": null,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 1763,
+   "isim": "Kitâb-ı Metnü’l-Ferâiz.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:59.289396Z",
+   "updated_at": "2025-04-06T19:20:16.161604Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1768,
+    "tam_metin": "[104] Kitâb-ı Metnü’l-Ferâʾiz maʿa’d-Davʾi’s-Sirâcî. Dimeşkī rubʿuna. Köhne ciğerî cildle. Vakf-ı Kādîzâde. İki yüz iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "53a",
+    "created_at": "2024-02-10T12:47:59.001357Z",
+    "updated_at": "2024-12-23T20:33:39.697052Z",
+    "vakif": null,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1135,
+   "koleksiyon_numarasi": "2517",
+   "nusha": "https://portal.yek.gov.tr/works/detail/240378",
+   "created_at": "2026-05-18T20:41:16.407109Z",
+   "updated_at": "2026-05-18T20:41:16.407124Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1768,
+    "tam_metin": "[104] Kitâb-ı Metnü’l-Ferâʾiz maʿa’d-Davʾi’s-Sirâcî. Dimeşkī rubʿuna. Köhne ciğerî cildle. Vakf-ı Kādîzâde. İki yüz iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "53a",
+    "created_at": "2024-02-10T12:47:59.001357Z",
+    "updated_at": "2024-12-23T20:33:39.697052Z",
+    "vakif": null,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[104] Kitâb-ı Metnü’l-Ferâʾiz maʿa’d-Davʾi’s-Sirâcî. Dimeşkī rubʿuna. Köhne ciğerî cildle. Vakf-ı Kādîzâde. İki yüz iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "53a",
+ "created_at": "2024-02-10T12:47:59.001357Z",
+ "updated_at": "2024-12-23T20:33:39.697052Z",
+ "vakif": null,
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

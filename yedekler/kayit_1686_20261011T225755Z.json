@@ -1,0 +1,196 @@
+{
+ "id": 1686,
+ "kitap_set": [
+  {
+   "id": 1681,
+   "isim": "Kitâbü’l-Cildi’l-Evvel mine’l-Kâfî fî Şerhi’l-Vâfî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:21.705613Z",
+   "updated_at": "2025-04-06T19:20:16.416355Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1686,
+    "tam_metin": "[22] Kitâbü’l-Cildi’l-Evvel mine’l-Kâfî fî Şerhi’l-Vâfî. İlâ âhiri Bâbi’l-İstîlâd. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Üç yüz otuz dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "50a",
+    "created_at": "2024-02-10T12:47:21.414662Z",
+    "updated_at": "2024-12-19T14:01:23.606017Z",
+    "vakif": null,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3266,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3266,
+  "kitap_set": [
+   {
+    "id": 3248,
+    "isim": "Kitâb-ı Kâfî fî Şerhi’l-Vâfî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:21.476216Z",
+    "updated_at": "2025-04-06T19:20:11.667313Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3266,
+     "tam_metin": "[9] Kitâb-ı Kâfî fî Şerhi’l-Vâfî. Evvelinden Bâb-ı İstîlâd âhirine dek. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz otuz dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "38b",
+     "created_at": "2024-04-22T12:27:21.215673Z",
+     "updated_at": "2025-09-22T12:34:10.044996Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1686,
+     "kodikolojik_bilgi": 1203
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1686,
+  "bilgi_set": [
+   {
+    "id": 1203,
+    "murekkep_set": [
+     {
+      "id": 1081,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1203
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 870,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1203
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "334",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T12:34:10.037644Z",
+    "updated_at": "2025-09-22T12:34:10.037941Z",
+    "kayit": {
+     "id": 3266,
+     "tam_metin": "[9] Kitâb-ı Kâfî fî Şerhi’l-Vâfî. Evvelinden Bâb-ı İstîlâd âhirine dek. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz otuz dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "38b",
+     "created_at": "2024-04-22T12:27:21.215673Z",
+     "updated_at": "2025-09-22T12:34:10.044996Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1686,
+     "kodikolojik_bilgi": 1203
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[9] Kitâb-ı Kâfî fî Şerhi’l-Vâfî. Evvelinden Bâb-ı İstîlâd âhirine dek. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz otuz dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "38b",
+  "created_at": "2024-04-22T12:27:21.215673Z",
+  "updated_at": "2025-09-22T12:34:10.044996Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1203,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "334",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T12:34:10.037644Z",
+   "updated_at": "2025-09-22T12:34:10.037941Z",
+   "kayit": 3266,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[22] Kitâbü’l-Cildi’l-Evvel mine’l-Kâfî fî Şerhi’l-Vâfî. İlâ âhiri Bâbi’l-İstîlâd. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Üç yüz otuz dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "50a",
+ "created_at": "2024-02-10T12:47:21.414662Z",
+ "updated_at": "2024-12-19T14:01:23.606017Z",
+ "vakif": null,
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

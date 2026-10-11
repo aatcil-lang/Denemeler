@@ -1,0 +1,111 @@
+{
+ "id": 1677,
+ "kitap_set": [
+  {
+   "id": 1672,
+   "isim": "Kitâb-ı Cildün mine’n-Nihâye fî Şerhi’l-Hidâye (Min evveli Kitâbi’l-Vedîʿa ilâ evveli Kitâbi’l-Udhiye).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:17.550068Z",
+   "updated_at": "2025-04-06T19:20:16.454374Z",
+   "yazar": {
+    "id": 480,
+    "isim": "Hüsâmüddîn Hüseyn b. Alî b. Haccâc el-Buhârî es-Siğnâkī",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-19T13:45:18.424358Z",
+    "updated_at": "2024-12-19T13:45:18.424373Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1677,
+    "tam_metin": "[13] Kitâb-ı Cildün mine’n-Nihâye eydan fî Şerhi’l-Hidâye. Min evveli Kitâbi’l-Vedîʿa ilâ evveli Kitâbi’l-Udhiye. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildle. Vakf-ı Kādîzâde. İki yüz yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "49b",
+    "created_at": "2024-02-10T12:47:17.261990Z",
+    "updated_at": "2024-12-19T13:48:43.334690Z",
+    "vakif": null,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1118,
+   "koleksiyon_numarasi": "1999",
+   "nusha": "https://portal.yek.gov.tr/works/detail/239732",
+   "created_at": "2026-05-15T20:53:42.409332Z",
+   "updated_at": "2026-05-15T20:53:42.409344Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1677,
+    "tam_metin": "[13] Kitâb-ı Cildün mine’n-Nihâye eydan fî Şerhi’l-Hidâye. Min evveli Kitâbi’l-Vedîʿa ilâ evveli Kitâbi’l-Udhiye. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildle. Vakf-ı Kādîzâde. İki yüz yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "49b",
+    "created_at": "2024-02-10T12:47:17.261990Z",
+    "updated_at": "2024-12-19T13:48:43.334690Z",
+    "vakif": null,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[13] Kitâb-ı Cildün mine’n-Nihâye eydan fî Şerhi’l-Hidâye. Min evveli Kitâbi’l-Vedîʿa ilâ evveli Kitâbi’l-Udhiye. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildle. Vakf-ı Kādîzâde. İki yüz yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "49b",
+ "created_at": "2024-02-10T12:47:17.261990Z",
+ "updated_at": "2024-12-19T13:48:43.334690Z",
+ "vakif": null,
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

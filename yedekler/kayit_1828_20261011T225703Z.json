@@ -1,0 +1,71 @@
+{
+ "id": 1828,
+ "kitap_set": [
+  {
+   "id": 1823,
+   "isim": "Kitâbü’ş-Şifâ.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:27.048015Z",
+   "updated_at": "2025-04-06T19:20:15.968066Z",
+   "yazar": {
+    "id": 515,
+    "isim": "Ebû Ali bin Sînâ",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-30T12:01:18.570100Z",
+    "updated_at": "2024-12-30T12:01:18.570118Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1828,
+    "tam_metin": "[9] Kitâbü’ş-Şifâʾ li-Ebî Ali Bin Sînâ. Tamâm. Nefîs. Evvel varakının zahrı levhalı tezhîbli. Semerkandî tamâmına. Min evvelihî ilâ âhirihî muʿreb. Ciğerî cildle. Vakf-ı Kādîzâde. Üç yüz seksen dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Hikemiyye",
+    "notlar": "",
+    "sayfa_numarasi": "56a",
+    "created_at": "2024-02-10T12:48:26.768161Z",
+    "updated_at": "2025-01-01T06:00:59.866295Z",
+    "vakif": null,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[9] Kitâbü’ş-Şifâʾ li-Ebî Ali Bin Sînâ. Tamâm. Nefîs. Evvel varakının zahrı levhalı tezhîbli. Semerkandî tamâmına. Min evvelihî ilâ âhirihî muʿreb. Ciğerî cildle. Vakf-ı Kādîzâde. Üç yüz seksen dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Hikemiyye",
+ "notlar": "",
+ "sayfa_numarasi": "56a",
+ "created_at": "2024-02-10T12:48:26.768161Z",
+ "updated_at": "2025-01-01T06:00:59.866295Z",
+ "vakif": null,
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

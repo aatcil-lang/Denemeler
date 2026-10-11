@@ -66,3 +66,18 @@ Her maddede yalnızca listelenen fark değiştirildi. İşlemden önce kuru çal
 - Şahıs sayısı 718'de, kaynak sayısı 3'te kaldı.
 
 **Not:** C11 mecmuasında, listelenmeyen başka bozukluklar da sürüyor (ör. “Seyyid Ali **alâ** ve Havâşî”).
+
+## 11.10.2026 — V1–V5: Hacıhasanzade'de vâkıfı boş 114 kayda vâkıf atandı
+Dayanak: katalogdaki “Vakf-ı …” ibaresi (Halebîzâde için katalog bölümü) ve veritabanında aynı ibareyi taşıyan kayıtlardaki mevcut kullanım. Ayrıntılar `vakif_onay_listesi.md` ve `vakif_eksikleri.csv` dosyalarında.
+
+| Madde | Kayıt | Vâkıf | Şahsın vâkıf sayısı |
+|---|---:|---|---|
+| V1 | 92 | Kādızâde (#434) | 45 → 137 |
+| V2 | 11 | Mevlânâ Kâbilîzâde (#9) | 172 → 183 |
+| V3 | 7 | Mevlânâ Hatîbzâde (#10) | 156 → 163 |
+| V4 | 3 | Mevlânâ Musannifek (#11) | 160 → 163 |
+| V5 | 1 (#2045) | Halebîzâde (#741) | 17 → 18 |
+
+- **Denetimler:** Her kayıt önce yedeklendi. İşlemden önce vâkıfın hâlâ boş olduğu ve kaydın kendi metninde beklenen ibarenin geçtiği kontrol edildi. İşlemden sonra yalnızca vâkıf alanının değiştiği doğrulandı.
+- **Durma:** 56. kayıtta (#1742) işlem durdu, çünkü metinde ibare “Kâdızâde” (â ile) yazılmıştı. Kayıt elle incelendi. Denetim bu yazım biçimini de kabul edecek şekilde genişletildi ve kalan kayıtlarla devam edildi.
+- **Son kontrol:** 114 kaydın 114'ü doğru. Tür ve kaynak bilgileri dolu. Şahıs sayısı 718'de, kaynak sayısı 3'te kaldı.
