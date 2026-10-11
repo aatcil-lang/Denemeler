@@ -1,0 +1,28 @@
+{
+ "id": 3105,
+ "isim": "Kitâb-ı Havâşî, Şerh-i Metâli‘ li-Mevlânâ Seyyid Ali alâ Havâşî Metâli‘ li-Mevlânâ Fâzıl ve Hâşiye-i Şerh-i Risâle li-Mevlânâ Seyyid Ali ve Şerhu Risâletin min ilmi’l-mantık ve Havâşî Berdaî alâ Şerhi İsagocî ve Hâşiye uhrâ alâ li’ş-Şerh li’z-Zukûr ve Şerh-i Îsâgûcî li-Mevlânâ Şemseddîn el-Fenârî ve Hâşiyetün müteallikatün min Şerhi’ş-Şemsiyye li-Mevlânâ Sa‘deddîn.",
+ "isim2": null,
+ "disiplin": "",
+ "kapsam": null,
+ "created_at": "2024-04-22T12:26:16.046171Z",
+ "updated_at": "2025-04-06T19:20:12.114376Z",
+ "yazar": null,
+ "kayit": {
+  "id": 3123,
+  "tam_metin": "[7] Kitâb-ı Havâşî Şerh-i Metâliʿ li-Mevlânâ Seyyid Ali alâ ve Havâşî Metâliʿ li-Mevlânâ Fâzıl ve Hâşiye-i Şerh-i Risâle li-Mevlânâ Seyyid Ali ve Şerhu Risâletin min ilmi’l-mantık ve Havâşî Berdaʿî alâ Şerhi Îsâgûcî ve hâşiyetün uhra ale’ş-şerhi’l-mezkûr ve Şerh-i Îsâgûcî li-Mevlânâ Şemseddîn el-Fenârî ve Hâşiyetün müteʿallikatün min Şerhi’ş-Şemsiyye li-Mevlânâ Saʿdeddîn. Bir cildde. Dimeşkī nısfına. Ak kâğıd mukavvâ cildli. İki yüz on dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkıyye",
+  "notlar": "",
+  "sayfa_numarasi": "32a",
+  "created_at": "2024-04-22T12:26:15.750182Z",
+  "updated_at": "2026-10-11T22:20:35.747332Z",
+  "vakif": 1,
+  "mustensih": null,
+  "kaynak": 2,
+  "created_by": null,
+  "iliskili_kayit": 1382,
+  "kodikolojik_bilgi": 1060
+ },
+ "kaynak": null,
+ "created_by": null
+}

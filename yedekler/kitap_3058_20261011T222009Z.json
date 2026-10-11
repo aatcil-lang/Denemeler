@@ -1,0 +1,28 @@
+{
+ "id": 3058,
+ "isim": "Kitâb-ı Lübbü’l-Elbâb el-müsemmâ bi-Hulâsati’l-Efkâr.",
+ "isim2": null,
+ "disiplin": "",
+ "kapsam": null,
+ "created_at": "2024-04-22T12:25:54.872024Z",
+ "updated_at": "2025-04-06T19:20:12.249111Z",
+ "yazar": null,
+ "kayit": {
+  "id": 3076,
+  "tam_metin": "[49] Kitâb-ı Şerh-i Lübbü’l-Elbâb el-müsemmâ bi-Hulâsati’l-Efkâr. Dimeşkī nısfına. Ciğerî cildli. İki yüz on iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "30a",
+  "created_at": "2024-04-22T12:25:54.598997Z",
+  "updated_at": "2026-10-11T22:20:08.723342Z",
+  "vakif": 1,
+  "mustensih": null,
+  "kaynak": 2,
+  "created_by": null,
+  "iliskili_kayit": 1322,
+  "kodikolojik_bilgi": 1013
+ },
+ "kaynak": null,
+ "created_by": null
+}

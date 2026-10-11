@@ -1,0 +1,312 @@
+{
+ "id": 2497,
+ "kitap_set": [
+  {
+   "id": 2480,
+   "isim": "Kitâb-ı Buhârî.",
+   "isim2": null,
+   "disiplin": "Hadis",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:21:46.091098Z",
+   "updated_at": "2025-04-06T19:20:13.946116Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2497,
+    "tam_metin": "[51] Kitâb-ı Buhârî. وَعَلَى الثَّلٰثَةِ الَّذِينَ خُلِّفُوا حَتّٰٓى اِذَا ضَاقَتْ عَلَيْهِمُ الْاَرْضُ بِمَا رَحُبَتْ âyetinden  Bâbu mâ Kâne’n-Nebiyyü sallallâhu aleyhi ve sellem Yetecevvezu mine’l-Libâsi ve’l-Busti bâbına dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "8b",
+    "created_at": "2024-04-22T12:21:45.826060Z",
+    "updated_at": "2025-08-29T19:37:58.003251Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 681,
+    "kodikolojik_bilgi": 428
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 108,
+   "koleksiyon_numarasi": "01095",
+   "nusha": "",
+   "created_at": "2024-12-18T15:47:28.369708Z",
+   "updated_at": "2024-12-18T15:47:28.369723Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2497,
+    "tam_metin": "[51] Kitâb-ı Buhârî. وَعَلَى الثَّلٰثَةِ الَّذِينَ خُلِّفُوا حَتّٰٓى اِذَا ضَاقَتْ عَلَيْهِمُ الْاَرْضُ بِمَا رَحُبَتْ âyetinden  Bâbu mâ Kâne’n-Nebiyyü sallallâhu aleyhi ve sellem Yetecevvezu mine’l-Libâsi ve’l-Busti bâbına dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "8b",
+    "created_at": "2024-04-22T12:21:45.826060Z",
+    "updated_at": "2025-08-29T19:37:58.003251Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 681,
+    "kodikolojik_bilgi": 428
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 681,
+  "kitap_set": [
+   {
+    "id": 677,
+    "isim": "Kitâbü’l-Cildi’s-Sâlis min Sahîhi’l-Buhârî.",
+    "isim2": null,
+    "disiplin": "Hadis",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:39:52.345347Z",
+    "updated_at": "2025-04-06T19:20:19.697822Z",
+    "yazar": {
+     "id": 82,
+     "isim": "Muhammed b. İsmâil Buhârî",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-08-03T18:04:25.945479Z",
+     "updated_at": "2024-08-03T18:04:25.945495Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 681,
+     "tam_metin": "[6] Kitâbü’l-Cildi’s-Sâlis eydan min Sahîhi’l-Buhârî. Min evveli kavlihî وَعَلَى الثَّلٰثَةِ الَّذِينَ خُلِّفُوا حَتّٰٓى اِذَا ضَاقَتْ عَلَيْهِمُ الْاَرْضُ بِمَا رَحُبَتْ ilâ evveli Bâbi mâ Kâne’n-Nebiyyü sallallâhu aleyhi ve sellem Yetecevvezu mine’l-Libâsi ve’l-Busti. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîsi’ş-Şerîfe",
+     "notlar": "",
+     "sayfa_numarasi": "7a",
+     "created_at": "2024-02-10T12:39:52.089906Z",
+     "updated_at": "2025-07-21T17:42:30.000790Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2497,
+     "kodikolojik_bilgi": 171
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2497,
+  "bilgi_set": [
+   {
+    "id": 171,
+    "murekkep_set": [],
+    "cedvel_set": [],
+    "hatt_set": [],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "201",
+    "kagit_turu": "Dımeşkî",
+    "aciklama": null,
+    "kagit_ebadi": "Tamamına yazılmış",
+    "kagit_sekli": "",
+    "note": "Hatt türü, hatt şekli, kağıt şekli, cilt materyali ve mürekkep bilgisi bulunmuyor.",
+    "created_at": "2025-07-21T17:42:29.996947Z",
+    "updated_at": "2025-07-21T17:42:29.996964Z",
+    "kayit": {
+     "id": 681,
+     "tam_metin": "[6] Kitâbü’l-Cildi’s-Sâlis eydan min Sahîhi’l-Buhârî. Min evveli kavlihî وَعَلَى الثَّلٰثَةِ الَّذِينَ خُلِّفُوا حَتّٰٓى اِذَا ضَاقَتْ عَلَيْهِمُ الْاَرْضُ بِمَا رَحُبَتْ ilâ evveli Bâbi mâ Kâne’n-Nebiyyü sallallâhu aleyhi ve sellem Yetecevvezu mine’l-Libâsi ve’l-Busti. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîsi’ş-Şerîfe",
+     "notlar": "",
+     "sayfa_numarasi": "7a",
+     "created_at": "2024-02-10T12:39:52.089906Z",
+     "updated_at": "2025-07-21T17:42:30.000790Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2497,
+     "kodikolojik_bilgi": 171
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[6] Kitâbü’l-Cildi’s-Sâlis eydan min Sahîhi’l-Buhârî. Min evveli kavlihî وَعَلَى الثَّلٰثَةِ الَّذِينَ خُلِّفُوا حَتّٰٓى اِذَا ضَاقَتْ عَلَيْهِمُ الْاَرْضُ بِمَا رَحُبَتْ ilâ evveli Bâbi mâ Kâne’n-Nebiyyü sallallâhu aleyhi ve sellem Yetecevvezu mine’l-Libâsi ve’l-Busti. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz bir varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîsi’ş-Şerîfe",
+  "notlar": "",
+  "sayfa_numarasi": "7a",
+  "created_at": "2024-02-10T12:39:52.089906Z",
+  "updated_at": "2025-07-21T17:42:30.000790Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 171,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "201",
+   "kagit_turu": "Dımeşkî",
+   "aciklama": null,
+   "kagit_ebadi": "Tamamına yazılmış",
+   "kagit_sekli": "",
+   "note": "Hatt türü, hatt şekli, kağıt şekli, cilt materyali ve mürekkep bilgisi bulunmuyor.",
+   "created_at": "2025-07-21T17:42:29.996947Z",
+   "updated_at": "2025-07-21T17:42:29.996964Z",
+   "kayit": 681,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 428,
+   "murekkep_set": [
+    {
+     "id": 300,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 428
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 92,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": null,
+     "kodikolojik_bilgi": 428
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "201",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-08-29T19:37:57.997884Z",
+   "updated_at": "2025-08-29T19:37:57.997901Z",
+   "kayit": {
+    "id": 2497,
+    "tam_metin": "[51] Kitâb-ı Buhârî. وَعَلَى الثَّلٰثَةِ الَّذِينَ خُلِّفُوا حَتّٰٓى اِذَا ضَاقَتْ عَلَيْهِمُ الْاَرْضُ بِمَا رَحُبَتْ âyetinden  Bâbu mâ Kâne’n-Nebiyyü sallallâhu aleyhi ve sellem Yetecevvezu mine’l-Libâsi ve’l-Busti bâbına dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "8b",
+    "created_at": "2024-04-22T12:21:45.826060Z",
+    "updated_at": "2025-08-29T19:37:58.003251Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 681,
+    "kodikolojik_bilgi": 428
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[51] Kitâb-ı Buhârî. وَعَلَى الثَّلٰثَةِ الَّذِينَ خُلِّفُوا حَتّٰٓى اِذَا ضَاقَتْ عَلَيْهِمُ الْاَرْضُ بِمَا رَحُبَتْ âyetinden  Bâbu mâ Kâne’n-Nebiyyü sallallâhu aleyhi ve sellem Yetecevvezu mine’l-Libâsi ve’l-Busti bâbına dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+ "notlar": "",
+ "sayfa_numarasi": "8b",
+ "created_at": "2024-04-22T12:21:45.826060Z",
+ "updated_at": "2025-08-29T19:37:58.003251Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 428,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "201",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-08-29T19:37:57.997884Z",
+  "updated_at": "2025-08-29T19:37:57.997901Z",
+  "kayit": 2497,
+  "created_by": null
+ }
+}

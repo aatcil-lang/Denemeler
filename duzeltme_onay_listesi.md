@@ -38,17 +38,17 @@ Bu maddelerde hangisinin doğru olduğunu yazmaya bakmadan söyleyemem. Yalnızc
 
 | # | Kayıt | Şimdiki (veritabanı) | Katalog okuması |
 |---|---|---|---|
-| C1 | #2739 — I, 17b [102] metin ve eser adı | Kitâb-ı Câmiʿu's-Sagīr | Kitâb-ı **Şerh-i** Câmiʿu's-Sagīr |
-| C2 | #3076 — I, 30a [49] metin ve eser adı | Kitâb-ı Lübbü'l-Elbâb el-müsemmâ bi-Hulâsati'l-Efkâr | Kitâb-ı **Şerh-i** Lübbü'l-Elbâb … |
-| C3 | #2668 — I, 15a [31] metin ve eser adı | Şerh-i **Cemʿ**-i Musannef | Şerh-i **Mecmaʿ**-i Musannef |
-| C4 | #2669 — I, 15a [32] metin ve eser adı | 〃 | 〃 |
-| C5 | #3174 — II, 34b [7] metin | Metn-i Nikāye (eser adında “[Nukāye]” notu zaten var) | Metn-i **Nukāye** |
-| C6 | #3488 — **Musannifek**, 46a [3] *Muhtasaru'l-Muntazam* | Saffâh'dan erbaʿa ve sebʿîn ve hamse-miʾe senesinde | Saffâh'dan **sene** erbaʿ ve sebʿîn ve **hamsü**-miʾe senesinde |
-| C7 | #3669 — XI, 55a [21] | Evveli mutavassıtu'l-hâl | **Cild-i evvel.** Mutavassıtu'l-hâl (katalog notu: kelime kısmen silik) |
-| C8 | #3694 — XII, 56b [2] derkenar | Mevlânâ Seydî …? Mevlânâ Abdî'den | Mevlânâ Seydî **Dede bin?** Mevlânâ Abdî'den |
-| C9 | #3337 — V, 41a [10] | Şerh-i Tavâliʿ-i **Abrî** | Şerh-i Tavâliʿ-i **İbrî** |
-| C10 | #2497 — I, 8b [51] | …ve'l-**Busti** bâbına | …ve'l-**Busuti** bâbına |
-| C11 | #3123 — I, 32a [7] mecmua | …Hâşiye uhrâ alâ li'ş-Şerh li'z-Zukûr… (bozuk görünüyor) | …ve hâşiyetün uhrâ ale'ş-şerhi'l-mezkûr… |
+| C1 ✅ (işlendi, a) | #2739 — I, 17b [102] metin ve eser adı | Kitâb-ı Câmiʿu's-Sagīr | Kitâb-ı **Şerh-i** Câmiʿu's-Sagīr |
+| C2 ✅ (işlendi, a) | #3076 — I, 30a [49] metin ve eser adı | Kitâb-ı Lübbü'l-Elbâb el-müsemmâ bi-Hulâsati'l-Efkâr | Kitâb-ı **Şerh-i** Lübbü'l-Elbâb … |
+| C3 ✅ (işlendi, a) | #2668 — I, 15a [31] metin ve eser adı | Şerh-i **Cemʿ**-i Musannef | Şerh-i **Mecmaʿ**-i Musannef |
+| C4 ✅ (işlendi, a) | #2669 — I, 15a [32] metin ve eser adı | 〃 | 〃 |
+| C5 ✅ (işlendi, a) | #3174 — II, 34b [7] metin | Metn-i Nikāye (eser adında “[Nukāye]” notu zaten var) | Metn-i **Nukāye** |
+| C6 ✅ (işlendi, a) | #3488 — **Musannifek**, 46a [3] *Muhtasaru'l-Muntazam* | Saffâh'dan erbaʿa ve sebʿîn ve hamse-miʾe senesinde | Saffâh'dan **sene** erbaʿ ve sebʿîn ve **hamsü**-miʾe senesinde |
+| C7 ✅ (işlendi, a) | #3669 — XI, 55a [21] | Evveli mutavassıtu'l-hâl | **Cild-i evvel.** Mutavassıtu'l-hâl (katalog notu: kelime kısmen silik) |
+| C8 ✅ (işlendi, a) | #3694 — XII, 56b [2] derkenar | Mevlânâ Seydî …? Mevlânâ Abdî'den | Mevlânâ Seydî **Dede bin?** Mevlânâ Abdî'den |
+| C9 ✅ (işlendi, a) | #3337 — V, 41a [10] | Şerh-i Tavâliʿ-i **Abrî** | Şerh-i Tavâliʿ-i **İbrî** |
+| C10 ✅ (işlendi, a) | #2497 — I, 8b [51] | …ve'l-**Busti** bâbına | …ve'l-**Busuti** bâbına |
+| C11 ✅ (işlendi, a) | #3123 — I, 32a [7] mecmua | …Hâşiye uhrâ alâ li'ş-Şerh li'z-Zukûr… (bozuk görünüyor) | …ve hâşiyetün uhrâ ale'ş-şerhi'l-mezkûr… |
 
 ## D. Toplu yazım tercihi: *Mehmed* / *Muhammed* (13 kayıt)
 

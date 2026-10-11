@@ -1,0 +1,260 @@
+{
+ "id": 3488,
+ "kitap_set": [
+  {
+   "id": 3470,
+   "isim": "Kitâb-ı Tevârîh-i Muhtasaru’l-Muntazam.",
+   "isim2": null,
+   "disiplin": "Tarih",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:45:10.982115Z",
+   "updated_at": "2025-04-06T19:20:11.056155Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3488,
+    "tam_metin": "[3] Kitâb-ı Tevârîh-i Muhtasaru’l-Muntazam. Bi-hattı el-Mevlâ el-Vâkıf Mevlânâ Musannifek. Hilâfet-i Ebu’l-Abbâs Saffâh’dan erbaʿa ve sebʿîn ve hamse-miʾe senesinde vâkiʿ olan havâdise dek. Haşebî nısfına. Sarı kâğıd mukavvâ cildli. İki yüz yetmiş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi'l Müteferrika",
+    "notlar": "",
+    "sayfa_numarasi": "46a",
+    "created_at": "2024-04-22T12:45:10.704081Z",
+    "updated_at": "2025-09-25T08:20:26.981599Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1973,
+    "kodikolojik_bilgi": 1381
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 793,
+   "koleksiyon_numarasi": "04476",
+   "nusha": "",
+   "created_at": "2025-01-15T23:22:10.292351Z",
+   "updated_at": "2025-01-15T23:22:10.292365Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 3488,
+    "tam_metin": "[3] Kitâb-ı Tevârîh-i Muhtasaru’l-Muntazam. Bi-hattı el-Mevlâ el-Vâkıf Mevlânâ Musannifek. Hilâfet-i Ebu’l-Abbâs Saffâh’dan erbaʿa ve sebʿîn ve hamse-miʾe senesinde vâkiʿ olan havâdise dek. Haşebî nısfına. Sarı kâğıd mukavvâ cildli. İki yüz yetmiş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi'l Müteferrika",
+    "notlar": "",
+    "sayfa_numarasi": "46a",
+    "created_at": "2024-04-22T12:45:10.704081Z",
+    "updated_at": "2025-09-25T08:20:26.981599Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1973,
+    "kodikolojik_bilgi": 1381
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1973,
+  "kitap_set": [
+   {
+    "id": 1965,
+    "isim": "Kitâbü’l-Cildi’s-Sâlis min Muhtasari’l-Muntazam (Min evveli hilâfeti Ebu’l-Abbâs es-Seffâh ilâ âhiri’l-kitâb).",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:49:35.179706Z",
+    "updated_at": "2025-04-06T19:20:15.481511Z",
+    "yazar": {
+     "id": 11,
+     "isim": "Mevlânâ Musannifek",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-04-22T11:53:25.702212Z",
+     "updated_at": "2024-04-22T11:53:25.702230Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1973,
+     "tam_metin": "[31] Kitâbü’l-Cildi’s-Sâlis eydan min Muhtasari’l-Muntazam li-Musannifek. Min evveli hilâfeti Ebu’l-Abbâs es-Seffâh ilâ âhiri’l-kitâb. Haşebî nısfına. Sarı kâğıd. mukavvâ cildle. Vakf-ı Musannifek. İki yüz yetmiş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "62b",
+     "created_at": "2024-02-10T12:49:34.882707Z",
+     "updated_at": "2026-01-26T19:54:58.578594Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3488,
+     "kodikolojik_bilgi": null
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 3488,
+  "bilgi_set": [],
+  "tam_metin": "[31] Kitâbü’l-Cildi’s-Sâlis eydan min Muhtasari’l-Muntazam li-Musannifek. Min evveli hilâfeti Ebu’l-Abbâs es-Seffâh ilâ âhiri’l-kitâb. Haşebî nısfına. Sarı kâğıd. mukavvâ cildle. Vakf-ı Musannifek. İki yüz yetmiş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+  "notlar": "",
+  "sayfa_numarasi": "62b",
+  "created_at": "2024-02-10T12:49:34.882707Z",
+  "updated_at": "2026-01-26T19:54:58.578594Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": null
+ },
+ "bilgi_set": [
+  {
+   "id": 1381,
+   "murekkep_set": [
+    {
+     "id": 1259,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1381
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 1048,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1381
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Sarı kağıt",
+   "varak_adedi": "270",
+   "kagit_turu": "Haşebî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-25T08:20:26.975906Z",
+   "updated_at": "2025-09-25T08:20:26.975919Z",
+   "kayit": {
+    "id": 3488,
+    "tam_metin": "[3] Kitâb-ı Tevârîh-i Muhtasaru’l-Muntazam. Bi-hattı el-Mevlâ el-Vâkıf Mevlânâ Musannifek. Hilâfet-i Ebu’l-Abbâs Saffâh’dan erbaʿa ve sebʿîn ve hamse-miʾe senesinde vâkiʿ olan havâdise dek. Haşebî nısfına. Sarı kâğıd mukavvâ cildli. İki yüz yetmiş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi'l Müteferrika",
+    "notlar": "",
+    "sayfa_numarasi": "46a",
+    "created_at": "2024-04-22T12:45:10.704081Z",
+    "updated_at": "2025-09-25T08:20:26.981599Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1973,
+    "kodikolojik_bilgi": 1381
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[3] Kitâb-ı Tevârîh-i Muhtasaru’l-Muntazam. Bi-hattı el-Mevlâ el-Vâkıf Mevlânâ Musannifek. Hilâfet-i Ebu’l-Abbâs Saffâh’dan erbaʿa ve sebʿîn ve hamse-miʾe senesinde vâkiʿ olan havâdise dek. Haşebî nısfına. Sarı kâğıd mukavvâ cildli. İki yüz yetmiş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi'l Müteferrika",
+ "notlar": "",
+ "sayfa_numarasi": "46a",
+ "created_at": "2024-04-22T12:45:10.704081Z",
+ "updated_at": "2025-09-25T08:20:26.981599Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1381,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Sarı kağıt",
+  "varak_adedi": "270",
+  "kagit_turu": "Haşebî",
+  "aciklama": "",
+  "kagit_ebadi": "Nısfına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-25T08:20:26.975906Z",
+  "updated_at": "2025-09-25T08:20:26.975919Z",
+  "kayit": 3488,
+  "created_by": null
+ }
+}

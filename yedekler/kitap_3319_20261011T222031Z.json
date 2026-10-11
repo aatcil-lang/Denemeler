@@ -1,0 +1,28 @@
+{
+ "id": 3319,
+ "isim": "Kitâb-ı Şerh-i Tavâli‘-i Abrî.",
+ "isim2": null,
+ "disiplin": "",
+ "kapsam": null,
+ "created_at": "2024-04-22T12:27:53.761989Z",
+ "updated_at": "2025-04-06T19:20:11.461193Z",
+ "yazar": null,
+ "kayit": {
+  "id": 3337,
+  "tam_metin": "[10] Kitâb-ı Şerh-i Tavâliʿ-i İbrî. Dimeşkī nısfına. Köhne ciğerî cildli. Yüz kırk beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+  "notlar": "",
+  "sayfa_numarasi": "41a",
+  "created_at": "2024-04-22T12:27:53.487108Z",
+  "updated_at": "2026-10-11T22:20:30.461034Z",
+  "vakif": 10,
+  "mustensih": null,
+  "kaynak": 2,
+  "created_by": null,
+  "iliskili_kayit": 1798,
+  "kodikolojik_bilgi": 1274
+ },
+ "kaynak": null,
+ "created_by": null
+}

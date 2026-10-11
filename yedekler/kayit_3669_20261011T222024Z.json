@@ -1,0 +1,138 @@
+{
+ "id": 3669,
+ "kitap_set": [
+  {
+   "id": 3648,
+   "isim": "Dimeşkī tamâmına, cigerî cildli, Şerh-i Manzûme-i Münteka’l-[Mülteka’l-]Bihâr, evveli mutavassıtu’l-hâl, Vakf-ı Sultânî, iki yüz yetmiş? varak.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:46:29.276239Z",
+   "updated_at": "2025-04-06T19:20:10.542355Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3669,
+    "tam_metin": "[21] Dimeşkī tamâmına. Ciğerî cildli. Şerh-i Manzûme-i Münteka ’l-Bihâr. Evveli mutavassıtu’l-hâl. Vakf-ı Sultânî. İki yüz yetmiş?  varak.\n[Derkenar] Zâyiʿât-ı sâbıka defterinde mukayyed bulundu.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîl-i Kütüb-i Sultâniyye",
+    "notlar": "",
+    "sayfa_numarasi": "55a",
+    "created_at": "2024-04-22T12:46:29.000456Z",
+    "updated_at": "2026-08-20T23:00:18.866429Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": 1562
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [
+  {
+   "id": 1562,
+   "murekkep_set": [
+    {
+     "id": 1444,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1562
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 1228,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1562
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": null,
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "270",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "Evveli mutavassıtu’l-hâl",
+   "created_at": "2025-10-03T07:08:32.624163Z",
+   "updated_at": "2026-08-20T23:00:18.863097Z",
+   "kayit": {
+    "id": 3669,
+    "tam_metin": "[21] Dimeşkī tamâmına. Ciğerî cildli. Şerh-i Manzûme-i Münteka ’l-Bihâr. Evveli mutavassıtu’l-hâl. Vakf-ı Sultânî. İki yüz yetmiş?  varak.\n[Derkenar] Zâyiʿât-ı sâbıka defterinde mukayyed bulundu.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîl-i Kütüb-i Sultâniyye",
+    "notlar": "",
+    "sayfa_numarasi": "55a",
+    "created_at": "2024-04-22T12:46:29.000456Z",
+    "updated_at": "2026-08-20T23:00:18.866429Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": 1562
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[21] Dimeşkī tamâmına. Ciğerî cildli. Şerh-i Manzûme-i Münteka ’l-Bihâr. Evveli mutavassıtu’l-hâl. Vakf-ı Sultânî. İki yüz yetmiş?  varak.\n[Derkenar] Zâyiʿât-ı sâbıka defterinde mukayyed bulundu.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîl-i Kütüb-i Sultâniyye",
+ "notlar": "",
+ "sayfa_numarasi": "55a",
+ "created_at": "2024-04-22T12:46:29.000456Z",
+ "updated_at": "2026-08-20T23:00:18.866429Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1562,
+  "zahriye_exists": false,
+  "zahriye": null,
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "270",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "Evveli mutavassıtu’l-hâl",
+  "created_at": "2025-10-03T07:08:32.624163Z",
+  "updated_at": "2026-08-20T23:00:18.863097Z",
+  "kayit": 3669,
+  "created_by": null
+ }
+}

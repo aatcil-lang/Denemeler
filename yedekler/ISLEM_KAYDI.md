@@ -42,3 +42,27 @@ Not: Sitenin kendi “ilişkilendir” düğmesi yalnızca `iliskili_kayit` gön
   - Kitap güncellemesi kayıt kaydını etkilemedi.
   - Şahıs sayısı 718'de, kaynak sayısı 3'te kaldı.
 - **Araç:** Bundan sonraki işlemler aynı denetimleri yapan `fk.py` yardımcısıyla yapılıyor: yedek alma, değiştirilecek ifadenin tam bir kez geçtiğini kontrol etme, tam form yükü gönderme, alan alan doğrulama.
+
+## 11.10.2026 — C1–C11 (seçenek a: katalog okuması yazıldı)
+Her maddede yalnızca listelenen fark değiştirildi. İşlemden önce kuru çalıştırma yapıldı: değiştirilecek her ifadenin güncel kayıtta tam bir kez geçtiği, kitabın doğru kayda bağlı olduğu ve tür, vâkıf ve kaynak bilgilerinin dolu olduğu kontrol edildi.
+
+| Madde | Kayıt / Kitap | Önce | Sonra |
+|---|---|---|---|
+| C1 | #2739 / #2722 | Kitâb-ı Câmiʿu’s-Sagīr | Kitâb-ı **Şerh-i** Câmiʿu’s-Sagīr |
+| C2 | #3076 / #3058 | Kitâb-ı Lübbü’l-Elbâb | Kitâb-ı **Şerh-i** Lübbü’l-Elbâb |
+| C3 | #2668 / #2651 | Şerh-i Cemʿ-i Musannef | Şerh-i **Mecmaʿ**-i Musannef |
+| C4 | #2669 / #2652 | Şerh-i Cemʿ-i Musannef | Şerh-i **Mecmaʿ**-i Musannef |
+| C5 | #3174 / #3156 | Metn-i Nikāye (kitapta: Nikāye [Nukāye]) | Metn-i **Nukāye** |
+| C6 | #3488 (Musannifek) | Saffâh’dan erbaʿa ve sebʿîn ve hamse-miʾe | Saffâh’dan **sene erbaʿ** ve sebʿîn ve **hamsü**-miʾe |
+| C7 | #3669 / #3648 | Evveli mutavassıtu’l-hâl | **Cild-i evvel.** mutavassıtu’l-hâl |
+| C8 | #3694 (derkenar) | Mevlânâ Seydî …? Mevlânâ Abdî | Mevlânâ Seydî **Dede bin?** Mevlânâ Abdî |
+| C9 | #3337 / #3319 | Tavâliʿ-i Abrî | Tavâliʿ-i **İbrî** |
+| C10 | #2497 | ve’l-Busti bâbına | ve’l-**Busuti** bâbına |
+| C11 | #3123 / #3105 | Hâşiye uhrâ alâ li’ş-Şerh li’z-Zukûr | **hâşiyetün uhra ale’ş-şerhi’l-mezkûr** |
+
+**Doğrulama:**
+- Kayıtlarda yalnızca `tam_metin`, kitaplarda yalnızca `isim` değişti.
+- Kitap güncellemeleri bağlı kayıtları etkilemedi.
+- Şahıs sayısı 718'de, kaynak sayısı 3'te kaldı.
+
+**Not:** C11 mecmuasında, listelenmeyen başka bozukluklar da sürüyor (ör. “Seyyid Ali **alâ** ve Havâşî”).
