@@ -1,0 +1,111 @@
+{
+ "id": 2356,
+ "kitap_set": [
+  {
+   "id": 2340,
+   "isim": "Kitâb-ı Şerhu’l-Mûcez fi’t-Tıb.",
+   "isim2": null,
+   "disiplin": "Tıp",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:12:26.101616Z",
+   "updated_at": "2025-04-06T19:20:14.349760Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2356,
+    "tam_metin": "[4] Kitâb-ı Şerhu’l-Mûcez eydan fi’t-Tıb. Dimeşkī nısfına. Yeşil kâğıd cedîd mukavvâ cildle. Yüz yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tıb",
+    "notlar": "",
+    "sayfa_numarasi": "82b",
+    "created_at": "2024-02-10T13:12:25.820727Z",
+    "updated_at": "2026-10-11T23:17:22.586013Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1050,
+   "koleksiyon_numarasi": "03579",
+   "nusha": "",
+   "created_at": "2025-01-18T20:54:18.589285Z",
+   "updated_at": "2025-01-18T20:54:18.589308Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2356,
+    "tam_metin": "[4] Kitâb-ı Şerhu’l-Mûcez eydan fi’t-Tıb. Dimeşkī nısfına. Yeşil kâğıd cedîd mukavvâ cildle. Yüz yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tıb",
+    "notlar": "",
+    "sayfa_numarasi": "82b",
+    "created_at": "2024-02-10T13:12:25.820727Z",
+    "updated_at": "2026-10-11T23:17:22.586013Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[4] Kitâb-ı Şerhu’l-Mûcez eydan fi’t-Tıb. Dimeşkī nısfına. Yeşil kâğıd cedîd mukavvâ cildle. Yüz yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tıb",
+ "notlar": "",
+ "sayfa_numarasi": "82b",
+ "created_at": "2024-02-10T13:12:25.820727Z",
+ "updated_at": "2026-10-11T23:17:22.586013Z",
+ "vakif": {
+  "id": 741,
+  "isim": "Halebîzâde",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-10-29T12:53:36.101827Z",
+  "updated_at": "2025-10-29T12:53:36.101845Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

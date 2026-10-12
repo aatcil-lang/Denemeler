@@ -1,0 +1,83 @@
+{
+ "id": 2324,
+ "kitap_set": [
+  {
+   "id": 2308,
+   "isim": "Kitâb-ı Levâmi‘u’l-İşrâk fî Mekârimi’l-Ahlâk bi’l-Fârisî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:12:11.414496Z",
+   "updated_at": "2025-04-06T19:20:14.443920Z",
+   "yazar": {
+    "id": 514,
+    "isim": "Celâl ed-Devvânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-29T20:54:44.855243Z",
+    "updated_at": "2024-12-29T20:54:44.855257Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2324,
+    "tam_metin": "[10] Kitâb-ı Levâmiʿu’l-İşrâk fî Mekârimi’l-Ahlâk bi’l-Fârisî li-Celâleddîn ed-Devvânî. Tamâm. Dimeşkī nısfından kırılmış kümmî olmuş. Ciğerî cildle. Min evvelihî ilâ âhirihî taʿlîk hatla yazılmış. Yüz kırk bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "80b",
+    "created_at": "2024-02-10T13:12:11.097779Z",
+    "updated_at": "2026-10-11T23:16:42.070286Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[10] Kitâb-ı Levâmiʿu’l-İşrâk fî Mekârimi’l-Ahlâk bi’l-Fârisî li-Celâleddîn ed-Devvânî. Tamâm. Dimeşkī nısfından kırılmış kümmî olmuş. Ciğerî cildle. Min evvelihî ilâ âhirihî taʿlîk hatla yazılmış. Yüz kırk bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+ "notlar": "",
+ "sayfa_numarasi": "80b",
+ "created_at": "2024-02-10T13:12:11.097779Z",
+ "updated_at": "2026-10-11T23:16:42.070286Z",
+ "vakif": {
+  "id": 741,
+  "isim": "Halebîzâde",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-10-29T12:53:36.101827Z",
+  "updated_at": "2025-10-29T12:53:36.101845Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

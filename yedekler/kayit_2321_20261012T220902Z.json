@@ -1,0 +1,111 @@
+{
+ "id": 2321,
+ "kitap_set": [
+  {
+   "id": 2305,
+   "isim": "Kitâb-ı Menâkıbu’l-Ârifîn ve’l-Âşıkīn ve’l-Muhibbîn.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:12:09.963033Z",
+   "updated_at": "2025-04-06T19:20:14.452466Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2321,
+    "tam_metin": "[7] Kitâb-ı Menâkıbu’l-Ârifîn ve’l-Âşıkīn ve’l-Muhibbîn. Tamâm. Muhassaluhû tasavvuf bi’l-Fârisî. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Bi-hutûtin muhtelife. İki yüz altmış beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "80b",
+    "created_at": "2024-02-10T13:12:09.684321Z",
+    "updated_at": "2026-10-11T23:16:38.336567Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1034,
+   "koleksiyon_numarasi": "02866",
+   "nusha": "",
+   "created_at": "2025-01-18T20:28:40.165392Z",
+   "updated_at": "2025-01-18T20:28:40.165475Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2321,
+    "tam_metin": "[7] Kitâb-ı Menâkıbu’l-Ârifîn ve’l-Âşıkīn ve’l-Muhibbîn. Tamâm. Muhassaluhû tasavvuf bi’l-Fârisî. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Bi-hutûtin muhtelife. İki yüz altmış beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "80b",
+    "created_at": "2024-02-10T13:12:09.684321Z",
+    "updated_at": "2026-10-11T23:16:38.336567Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[7] Kitâb-ı Menâkıbu’l-Ârifîn ve’l-Âşıkīn ve’l-Muhibbîn. Tamâm. Muhassaluhû tasavvuf bi’l-Fârisî. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Bi-hutûtin muhtelife. İki yüz altmış beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fârisiyye ve’t-Türkiyye",
+ "notlar": "",
+ "sayfa_numarasi": "80b",
+ "created_at": "2024-02-10T13:12:09.684321Z",
+ "updated_at": "2026-10-11T23:16:38.336567Z",
+ "vakif": {
+  "id": 741,
+  "isim": "Halebîzâde",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-10-29T12:53:36.101827Z",
+  "updated_at": "2025-10-29T12:53:36.101845Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
