@@ -1,0 +1,323 @@
+{
+ "id": 2435,
+ "kitap_set": [
+  {
+   "id": 2419,
+   "isim": "Kitâb-ı Tefsîr-i Lübâb.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:21:18.978842Z",
+   "updated_at": "2025-04-06T19:20:14.122967Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2435,
+    "tam_metin": "[72] Kitâb-ı Tefsîr-i Lübâb. Sûre-i Meryem’den Sûre-i ve’s-Sâffât tefsîr-i âhirine dek. Bi-hattı Ali bin Abdullâh bin Mahmûd el-Müʾezzin. İçinde Kelâm-ı Kadîm siyâh mürekkeb ile sülüs hatla yazılmış. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz on iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "5a",
+    "created_at": "2024-04-22T12:21:18.672536Z",
+    "updated_at": "2025-11-03T11:53:52.129927Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 652,
+    "kodikolojik_bilgi": 364
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 61,
+   "koleksiyon_numarasi": "00417",
+   "nusha": "",
+   "created_at": "2024-12-16T16:24:50.928824Z",
+   "updated_at": "2024-12-16T16:24:50.928845Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2435,
+    "tam_metin": "[72] Kitâb-ı Tefsîr-i Lübâb. Sûre-i Meryem’den Sûre-i ve’s-Sâffât tefsîr-i âhirine dek. Bi-hattı Ali bin Abdullâh bin Mahmûd el-Müʾezzin. İçinde Kelâm-ı Kadîm siyâh mürekkeb ile sülüs hatla yazılmış. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz on iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "5a",
+    "created_at": "2024-04-22T12:21:18.672536Z",
+    "updated_at": "2025-11-03T11:53:52.129927Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 652,
+    "kodikolojik_bilgi": 364
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 652,
+  "kitap_set": [
+   {
+    "id": 648,
+    "isim": "Kitâbü’l-Cildi’s-Sâlis min Tefsîri’l-Lübâb.",
+    "isim2": null,
+    "disiplin": "Tefsir",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:39:40.259925Z",
+    "updated_at": "2025-04-06T19:20:19.782328Z",
+    "yazar": {
+     "id": 63,
+     "isim": "Musa b. Hacı Hüseyin el-İznikî",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-07-30T14:37:55.192253Z",
+     "updated_at": "2024-07-30T14:37:55.192295Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 652,
+     "tam_metin": "[73] Kitâbü’l-Cildi’s-Sâlis min Tefsîri’l-Lübâb. Min evveli Sûreti Meryem ilâ âhiri Sûreti ve’s-Sâffât. Bi-hattı Ali bin Abdullâh bin Mahmûd el-Müʾezzin. Cemîʿu mâ-fîhi mine’l-Kelâmi’l-Kadîm mektûbun bi-kalemi’s-sülüs bi’l-midâdi’l-esved. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz on iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "6a",
+     "created_at": "2024-02-10T12:39:39.996708Z",
+     "updated_at": "2025-07-11T16:47:59.452278Z",
+     "vakif": 1,
+     "mustensih": 64,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2435,
+     "kodikolojik_bilgi": null
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2435,
+  "bilgi_set": [
+   {
+    "id": 10,
+    "murekkep_set": [
+     {
+      "id": 15,
+      "renk": "siyah",
+      "ilgili_ibare": "Cemîʿu mâ-fîhi mine’l-Kelâmi’l-Kadîm mektûbun bi-kalemi’s-sülüs bi’l-midâdi’l-esved.",
+      "kodikolojik_bilgi": 10
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 8,
+      "hatt_turu": "Sülüs",
+      "hatt_sekli": "",
+      "aciklama": null,
+      "kodikolojik_bilgi": 10
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": null,
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "312",
+    "kagit_turu": "Dımeşki",
+    "aciklama": null,
+    "kagit_ebadi": "Tamamına yazılmış",
+    "kagit_sekli": "",
+    "note": "Hat şekli, kağıt şekli ve cildin yapıldığı materyale dair bilgi bulunmuyor.",
+    "created_at": "2024-08-01T21:07:48.108608Z",
+    "updated_at": "2025-07-11T16:32:46.825461Z",
+    "kayit": {
+     "id": 652,
+     "tam_metin": "[73] Kitâbü’l-Cildi’s-Sâlis min Tefsîri’l-Lübâb. Min evveli Sûreti Meryem ilâ âhiri Sûreti ve’s-Sâffât. Bi-hattı Ali bin Abdullâh bin Mahmûd el-Müʾezzin. Cemîʿu mâ-fîhi mine’l-Kelâmi’l-Kadîm mektûbun bi-kalemi’s-sülüs bi’l-midâdi’l-esved. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz on iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "6a",
+     "created_at": "2024-02-10T12:39:39.996708Z",
+     "updated_at": "2025-07-11T16:47:59.452278Z",
+     "vakif": 1,
+     "mustensih": 64,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2435,
+     "kodikolojik_bilgi": null
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[73] Kitâbü’l-Cildi’s-Sâlis min Tefsîri’l-Lübâb. Min evveli Sûreti Meryem ilâ âhiri Sûreti ve’s-Sâffât. Bi-hattı Ali bin Abdullâh bin Mahmûd el-Müʾezzin. Cemîʿu mâ-fîhi mine’l-Kelâmi’l-Kadîm mektûbun bi-kalemi’s-sülüs bi’l-midâdi’l-esved. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz on iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+  "notlar": "",
+  "sayfa_numarasi": "6a",
+  "created_at": "2024-02-10T12:39:39.996708Z",
+  "updated_at": "2025-07-11T16:47:59.452278Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 64,
+   "isim": "Ali bin Abdullâh bin Mahmûd el-Müʾezzin",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-07-30T14:38:32.229879Z",
+   "updated_at": "2024-07-30T14:38:32.229894Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": null
+ },
+ "bilgi_set": [
+  {
+   "id": 364,
+   "murekkep_set": [
+    {
+     "id": 234,
+     "renk": "siyah",
+     "ilgili_ibare": "İçinde Kelâm-ı Kadîm siyâh mürekkeb ile sülüs hatla yazılmış",
+     "kodikolojik_bilgi": 364
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 46,
+     "hatt_turu": "Sülüs",
+     "hatt_sekli": "",
+     "aciklama": "İçinde Kelâm-ı Kadîm siyâh mürekkeb ile sülüs hatla yazılmış.",
+     "kodikolojik_bilgi": 364
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": null,
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "312",
+   "kagit_turu": "Dımeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-08-18T14:19:49.166761Z",
+   "updated_at": "2025-11-03T11:53:52.120159Z",
+   "kayit": {
+    "id": 2435,
+    "tam_metin": "[72] Kitâb-ı Tefsîr-i Lübâb. Sûre-i Meryem’den Sûre-i ve’s-Sâffât tefsîr-i âhirine dek. Bi-hattı Ali bin Abdullâh bin Mahmûd el-Müʾezzin. İçinde Kelâm-ı Kadîm siyâh mürekkeb ile sülüs hatla yazılmış. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz on iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "5a",
+    "created_at": "2024-04-22T12:21:18.672536Z",
+    "updated_at": "2025-11-03T11:53:52.129927Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 652,
+    "kodikolojik_bilgi": 364
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[72] Kitâb-ı Tefsîr-i Lübâb. Sûre-i Meryem’den Sûre-i ve’s-Sâffât tefsîr-i âhirine dek. Bi-hattı Ali bin Abdullâh bin Mahmûd el-Müʾezzin. İçinde Kelâm-ı Kadîm siyâh mürekkeb ile sülüs hatla yazılmış. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz on iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "5a",
+ "created_at": "2024-04-22T12:21:18.672536Z",
+ "updated_at": "2025-11-03T11:53:52.129927Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 364,
+  "zahriye_exists": false,
+  "zahriye": null,
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "312",
+  "kagit_turu": "Dımeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-08-18T14:19:49.166761Z",
+  "updated_at": "2025-11-03T11:53:52.120159Z",
+  "kayit": 2435,
+  "created_by": null
+ }
+}
