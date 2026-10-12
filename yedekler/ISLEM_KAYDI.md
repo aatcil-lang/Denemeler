@@ -107,3 +107,12 @@ Dayanak: katalogdaki “Vakf-ı …” ibaresi (Halebîzâde için katalog böl�
   - Şahıs sayısı her adımda tam 1 arttı (718 → 720); kaynak sayısı 3'te kaldı.
   - Son kontrol: 7 kaydın 7'si doğru.
   - Yeni şahısların vâkıf sayıları beklenen değerlerde (5 ve 2).
+
+## 12.10.2026 — Kadızâde kayıtlarının ayrılması
+- **Karar (kullanıcı):** #434 yalnızca vâkıf Kadızâde olarak kalacak. Müellif Kadızâde-i Rûmî ayrı bir şahıs olacak. Bunun için yeni kayıt açılmadı; yalnızca müellif olarak kullanılan #564 yeniden adlandırıldı.
+- **Şahıs #564**, ad: “Kâdızâde” → **“Kādızâde-i Rûmî”**. Sitenin şahıs düzenleme formuyla aynı yük gönderildi. Değişen tek alan `isim`. İkinci ad, tarihler, kaynak ve vâkıf/müstensih/yazar bağlantıları aynı kaldı.
+- **Kitap #1410** (*Kitâb-ı Şerhu Çağmînî*, kayıt #1415, 38a [15]), yazar: #434 → **#564**. Değişen tek alan `yazar`. Bağlı kayıt #1415 değişmedi.
+- **Son durum:**
+  - #434 Kādızâde: vâkıf 137, yazar 0.
+  - #564 Kādızâde-i Rûmî: yazar 4 (Şerh-i Çağmînî, Şerhü’l-Çağmînî, Şerhu Eşkâli’t-Teʾsîs, Havâşî Şerhi Eşkâli’t-Teʾsîs), vâkıf 0.
+  - Şahıs sayısı 720'de, kaynak sayısı 3'te kaldı.
