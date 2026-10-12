@@ -1,0 +1,123 @@
+{
+ "id": 2253,
+ "kitap_set": [
+  {
+   "id": 2240,
+   "isim": "Kitâb-ı Şerhü’l-Lübâb fi’n-nahv.",
+   "isim2": null,
+   "disiplin": "Nahiv",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:11:37.758750Z",
+   "updated_at": "2025-04-06T19:20:14.654403Z",
+   "yazar": {
+    "id": 408,
+    "isim": "Seyyid Abdullâh",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-20T13:25:46.325825Z",
+    "updated_at": "2024-11-20T13:25:46.325852Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2253,
+    "tam_metin": "[15] Kitâb-ı Şerhu’l-Lübâb fi’n-nahv eydan li’s-Seyyid Abdullâh. Tamâm. Kezâ fî defteri Muhyiddîn el-Arabî.  Velâkinnehû fî nefsi’l-emr Şerhu’l-Lübâb li-Muhammed bin Osmân bin Muhammed ez-Zevzenî. Dimeşkī tamâmına. Ciğerî cildle. Bi-hutûtin muhtelife. Yüz kırk altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "77a",
+    "created_at": "2024-02-10T13:11:37.469699Z",
+    "updated_at": "2026-10-11T23:15:07.123662Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1002,
+   "koleksiyon_numarasi": "05016",
+   "nusha": "",
+   "created_at": "2025-01-18T19:51:29.291695Z",
+   "updated_at": "2025-01-18T19:51:29.291711Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2253,
+    "tam_metin": "[15] Kitâb-ı Şerhu’l-Lübâb fi’n-nahv eydan li’s-Seyyid Abdullâh. Tamâm. Kezâ fî defteri Muhyiddîn el-Arabî.  Velâkinnehû fî nefsi’l-emr Şerhu’l-Lübâb li-Muhammed bin Osmân bin Muhammed ez-Zevzenî. Dimeşkī tamâmına. Ciğerî cildle. Bi-hutûtin muhtelife. Yüz kırk altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "77a",
+    "created_at": "2024-02-10T13:11:37.469699Z",
+    "updated_at": "2026-10-11T23:15:07.123662Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[15] Kitâb-ı Şerhu’l-Lübâb fi’n-nahv eydan li’s-Seyyid Abdullâh. Tamâm. Kezâ fî defteri Muhyiddîn el-Arabî.  Velâkinnehû fî nefsi’l-emr Şerhu’l-Lübâb li-Muhammed bin Osmân bin Muhammed ez-Zevzenî. Dimeşkī tamâmına. Ciğerî cildle. Bi-hutûtin muhtelife. Yüz kırk altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "77a",
+ "created_at": "2024-02-10T13:11:37.469699Z",
+ "updated_at": "2026-10-11T23:15:07.123662Z",
+ "vakif": {
+  "id": 741,
+  "isim": "Halebîzâde",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-10-29T12:53:36.101827Z",
+  "updated_at": "2025-10-29T12:53:36.101845Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

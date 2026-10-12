@@ -1,0 +1,83 @@
+{
+ "id": 2232,
+ "kitap_set": [
+  {
+   "id": 2219,
+   "isim": "Kitâb-ı Metnü’t-Tezkire fî ilmi’l-hey’e.",
+   "isim2": null,
+   "disiplin": "Astronomi",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:11:27.999229Z",
+   "updated_at": "2025-04-06T19:20:14.719918Z",
+   "yazar": {
+    "id": 645,
+    "isim": "Nasîrüddîn et-Tûsî (Hâce Nasîr et-Tûsî)",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-06T16:16:53.215985Z",
+    "updated_at": "2025-01-06T16:16:53.216008Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2232,
+    "tam_metin": "[1] Kitâb-ı Metnü’t-Tezkire fî ilmi’l-heyʾe li-Hâce Nasîr. Tamâm. Dimeşkī nısfından kırılmış kümmî olmuş. defter tavrında. Ciğerî cildle. Yüz dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Hey’e",
+    "notlar": "",
+    "sayfa_numarasi": "76a",
+    "created_at": "2024-02-10T13:11:27.717421Z",
+    "updated_at": "2026-10-10T01:05:18.018101Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[1] Kitâb-ı Metnü’t-Tezkire fî ilmi’l-heyʾe li-Hâce Nasîr. Tamâm. Dimeşkī nısfından kırılmış kümmî olmuş. defter tavrında. Ciğerî cildle. Yüz dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Hey’e",
+ "notlar": "",
+ "sayfa_numarasi": "76a",
+ "created_at": "2024-02-10T13:11:27.717421Z",
+ "updated_at": "2026-10-10T01:05:18.018101Z",
+ "vakif": {
+  "id": 741,
+  "isim": "Halebîzâde",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-10-29T12:53:36.101827Z",
+  "updated_at": "2025-10-29T12:53:36.101845Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

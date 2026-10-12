@@ -1,0 +1,71 @@
+{
+ "id": 2208,
+ "kitap_set": [
+  {
+   "id": 2195,
+   "isim": "Kitâb-ı Müsveddât bi’t-Türkî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:11:16.872395Z",
+   "updated_at": "2025-04-06T19:20:14.793078Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2208,
+    "tam_metin": "[47] Kitâb-ı Müsevvedât bi’t-Türkî. Lâ fâʾidete fî-hâ. Ekseruhû varak beyâz. Haşebî nısfına. Yeşil kâğıd mukavvâ cildle. İki yüz yirmi üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+    "notlar": "",
+    "sayfa_numarasi": "75a",
+    "created_at": "2024-02-10T13:11:16.588120Z",
+    "updated_at": "2026-10-11T23:14:16.544616Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[47] Kitâb-ı Müsevvedât bi’t-Türkî. Lâ fâʾidete fî-hâ. Ekseruhû varak beyâz. Haşebî nısfına. Yeşil kâğıd mukavvâ cildle. İki yüz yirmi üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+ "notlar": "",
+ "sayfa_numarasi": "75a",
+ "created_at": "2024-02-10T13:11:16.588120Z",
+ "updated_at": "2026-10-11T23:14:16.544616Z",
+ "vakif": {
+  "id": 741,
+  "isim": "Halebîzâde",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-10-29T12:53:36.101827Z",
+  "updated_at": "2025-10-29T12:53:36.101845Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

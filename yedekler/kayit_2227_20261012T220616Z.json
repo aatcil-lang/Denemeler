@@ -1,0 +1,71 @@
+{
+ "id": 2227,
+ "kitap_set": [
+  {
+   "id": 2214,
+   "isim": "Kitâb-ı Şerhü’l-Metâli‘ […].",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:11:25.630956Z",
+   "updated_at": "2025-04-06T19:20:14.734246Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2227,
+    "tam_metin": "[8] Kitâb-ı Şerhu’l-Metâliʿ eydan [ ]. Tamâm. Dimeşkī nısfına. Ciğerî cildle. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. İki yüz kırk dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Mantıkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "75b",
+    "created_at": "2024-02-10T13:11:25.321486Z",
+    "updated_at": "2026-10-11T23:14:34.740622Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[8] Kitâb-ı Şerhu’l-Metâliʿ eydan [ ]. Tamâm. Dimeşkī nısfına. Ciğerî cildle. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. İki yüz kırk dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Mantıkiyye",
+ "notlar": "",
+ "sayfa_numarasi": "75b",
+ "created_at": "2024-02-10T13:11:25.321486Z",
+ "updated_at": "2026-10-11T23:14:34.740622Z",
+ "vakif": {
+  "id": 741,
+  "isim": "Halebîzâde",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-10-29T12:53:36.101827Z",
+  "updated_at": "2025-10-29T12:53:36.101845Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
