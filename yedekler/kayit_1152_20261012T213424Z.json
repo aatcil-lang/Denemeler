@@ -1,0 +1,260 @@
+{
+ "id": 1152,
+ "kitap_set": [
+  {
+   "id": 1147,
+   "isim": "Kitâb-ı Cildün min Mecmai’n-Nevâzil.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:17.774382Z",
+   "updated_at": "2025-04-06T19:20:18.158187Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1152,
+    "tam_metin": "[279] Kitâb-ı Cildün min Mecmaʿi’n-Nevâzil. Bi-hattı Ebû Alâʾ Muhammed bin Mesʿûd. Min evveli Kitâbi’s-Salât ilâ evveli Kitâbi’s-Siyer. Semerkandî tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Yüz altmış varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "27a",
+    "created_at": "2024-02-10T12:43:17.512007Z",
+    "updated_at": "2024-09-14T12:06:36.544158Z",
+    "vakif": 1,
+    "mustensih": 323,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2670,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2670,
+  "kitap_set": [
+   {
+    "id": 2653,
+    "isim": "Kitâb-ı Mecmau’n-Nevâzil.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:02.408643Z",
+    "updated_at": "2025-04-06T19:20:13.400872Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2670,
+     "tam_metin": "[33] Kitâb-ı Mecmaʿu’n-Nevâzil. Bi-hattı Ebû Alâʾi Muhammed bin Mesʿûd. Kitâb-ı Salât’dan Kitâb-ı Siyer[’e] dek. Semerkandî tamâmından kırılmış. Ciğerî cildli. Yüz altmış varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15a",
+     "created_at": "2024-04-22T12:23:02.153145Z",
+     "updated_at": "2025-09-02T12:23:17.084390Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1152,
+     "kodikolojik_bilgi": 604
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 239,
+    "koleksiyon_numarasi": "02467",
+    "nusha": "",
+    "created_at": "2024-12-28T15:38:04.718185Z",
+    "updated_at": "2024-12-28T15:38:04.718202Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2670,
+     "tam_metin": "[33] Kitâb-ı Mecmaʿu’n-Nevâzil. Bi-hattı Ebû Alâʾi Muhammed bin Mesʿûd. Kitâb-ı Salât’dan Kitâb-ı Siyer[’e] dek. Semerkandî tamâmından kırılmış. Ciğerî cildli. Yüz altmış varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15a",
+     "created_at": "2024-04-22T12:23:02.153145Z",
+     "updated_at": "2025-09-02T12:23:17.084390Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1152,
+     "kodikolojik_bilgi": 604
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1152,
+  "bilgi_set": [
+   {
+    "id": 604,
+    "murekkep_set": [
+     {
+      "id": 482,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 604
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 273,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 604
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "160",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T12:23:17.077118Z",
+    "updated_at": "2025-09-02T12:23:17.077438Z",
+    "kayit": {
+     "id": 2670,
+     "tam_metin": "[33] Kitâb-ı Mecmaʿu’n-Nevâzil. Bi-hattı Ebû Alâʾi Muhammed bin Mesʿûd. Kitâb-ı Salât’dan Kitâb-ı Siyer[’e] dek. Semerkandî tamâmından kırılmış. Ciğerî cildli. Yüz altmış varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15a",
+     "created_at": "2024-04-22T12:23:02.153145Z",
+     "updated_at": "2025-09-02T12:23:17.084390Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1152,
+     "kodikolojik_bilgi": 604
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[33] Kitâb-ı Mecmaʿu’n-Nevâzil. Bi-hattı Ebû Alâʾi Muhammed bin Mesʿûd. Kitâb-ı Salât’dan Kitâb-ı Siyer[’e] dek. Semerkandî tamâmından kırılmış. Ciğerî cildli. Yüz altmış varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "15a",
+  "created_at": "2024-04-22T12:23:02.153145Z",
+  "updated_at": "2025-09-02T12:23:17.084390Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 604,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "160",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T12:23:17.077118Z",
+   "updated_at": "2025-09-02T12:23:17.077438Z",
+   "kayit": 2670,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[279] Kitâb-ı Cildün min Mecmaʿi’n-Nevâzil. Bi-hattı Ebû Alâʾ Muhammed bin Mesʿûd. Min evveli Kitâbi’s-Salât ilâ evveli Kitâbi’s-Siyer. Semerkandî tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Yüz altmış varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "27a",
+ "created_at": "2024-02-10T12:43:17.512007Z",
+ "updated_at": "2024-09-14T12:06:36.544158Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 323,
+  "isim": "Ebû Alâʾ Muhammed bin Mesʿûd",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-09-13T17:51:08.998243Z",
+  "updated_at": "2024-09-13T17:51:08.998264Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

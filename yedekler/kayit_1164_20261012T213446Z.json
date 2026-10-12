@@ -1,0 +1,248 @@
+{
+ "id": 1164,
+ "kitap_set": [
+  {
+   "id": 1159,
+   "isim": "Kitâb-ı Umdetü’l-Fetâvâ.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:22.863782Z",
+   "updated_at": "2025-04-06T19:20:18.119462Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1164,
+    "tam_metin": "[291] Kitâb-ı Umdetü’l-Fetâvâ eydan. Mecmûʿa tavrında ve bir kitâb dahi evveli الحمد لله الذي شرح صدرنا  بالإسلام. Bir cildde. Köhne ciğerî cildle. Vakf-ı Sultânî. Yüz altmış altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "27b",
+    "created_at": "2024-02-10T12:43:22.603518Z",
+    "updated_at": "2024-09-24T15:09:36.737299Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2946,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2946,
+  "kitap_set": [
+   {
+    "id": 2928,
+    "isim": "Kitâb-ı Umdetü’l-Fetâvâ.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:58.855151Z",
+    "updated_at": "2025-04-06T19:20:12.619021Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2946,
+     "tam_metin": "[309] Kitâb-ı Umdetü’l-Fetâvâ. Mecmûʿa tavrında ve bir kitâb dahi evveli الحمد لله الذي شرح صدورنا للإسلام dir. bir cildde. Köhne ciğerî cildli. İki yüz altmış altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "25b",
+     "created_at": "2024-04-22T12:24:58.588869Z",
+     "updated_at": "2025-09-10T12:09:46.574267Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1164,
+     "kodikolojik_bilgi": 883
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 459,
+    "koleksiyon_numarasi": "02345-001",
+    "nusha": "",
+    "created_at": "2025-01-12T21:24:08.270691Z",
+    "updated_at": "2025-01-12T21:24:08.270708Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2946,
+     "tam_metin": "[309] Kitâb-ı Umdetü’l-Fetâvâ. Mecmûʿa tavrında ve bir kitâb dahi evveli الحمد لله الذي شرح صدورنا للإسلام dir. bir cildde. Köhne ciğerî cildli. İki yüz altmış altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "25b",
+     "created_at": "2024-04-22T12:24:58.588869Z",
+     "updated_at": "2025-09-10T12:09:46.574267Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1164,
+     "kodikolojik_bilgi": 883
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1164,
+  "bilgi_set": [
+   {
+    "id": 883,
+    "murekkep_set": [
+     {
+      "id": 761,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 883
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 551,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 883
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Köhne ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "266",
+    "kagit_turu": "",
+    "aciklama": "",
+    "kagit_ebadi": "",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T12:09:46.565233Z",
+    "updated_at": "2025-09-10T12:09:46.565538Z",
+    "kayit": {
+     "id": 2946,
+     "tam_metin": "[309] Kitâb-ı Umdetü’l-Fetâvâ. Mecmûʿa tavrında ve bir kitâb dahi evveli الحمد لله الذي شرح صدورنا للإسلام dir. bir cildde. Köhne ciğerî cildli. İki yüz altmış altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "25b",
+     "created_at": "2024-04-22T12:24:58.588869Z",
+     "updated_at": "2025-09-10T12:09:46.574267Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1164,
+     "kodikolojik_bilgi": 883
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[309] Kitâb-ı Umdetü’l-Fetâvâ. Mecmûʿa tavrında ve bir kitâb dahi evveli الحمد لله الذي شرح صدورنا للإسلام dir. bir cildde. Köhne ciğerî cildli. İki yüz altmış altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "25b",
+  "created_at": "2024-04-22T12:24:58.588869Z",
+  "updated_at": "2025-09-10T12:09:46.574267Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 883,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Köhne ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "266",
+   "kagit_turu": "",
+   "aciklama": "",
+   "kagit_ebadi": "",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T12:09:46.565233Z",
+   "updated_at": "2025-09-10T12:09:46.565538Z",
+   "kayit": 2946,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[291] Kitâb-ı Umdetü’l-Fetâvâ eydan. Mecmûʿa tavrında ve bir kitâb dahi evveli الحمد لله الذي شرح صدرنا  بالإسلام. Bir cildde. Köhne ciğerî cildle. Vakf-ı Sultânî. Yüz altmış altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "27b",
+ "created_at": "2024-02-10T12:43:22.603518Z",
+ "updated_at": "2024-09-24T15:09:36.737299Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,208 @@
+{
+ "id": 1168,
+ "kitap_set": [
+  {
+   "id": 1163,
+   "isim": "Kitâbü’l-Bahr fi’l-Fıkh.",
+   "isim2": null,
+   "disiplin": "Fıkıh",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:24.550877Z",
+   "updated_at": "2025-04-06T19:20:18.107454Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1168,
+    "tam_metin": "[295] Kitâbü’l-Bahr fi’l-Fıkh. Defâtîr-i sâbıkada böyle taʿyîn olunmuş ammâ fî nefsi’l-emr Câmiʿ-i Kebîr’in Hasîrî şerhidir. Evveli ebter. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz altmış varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "28a",
+    "created_at": "2024-02-10T12:43:24.286086Z",
+    "updated_at": "2024-09-19T12:53:29.007457Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2743,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2743,
+  "kitap_set": [
+   {
+    "id": 2726,
+    "isim": "Kitâb-ı Bahr fi’l-Fıkh.",
+    "isim2": null,
+    "disiplin": "Fıkıh",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:33.106695Z",
+    "updated_at": "2025-04-06T19:20:13.191167Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2743,
+     "tam_metin": "[106] Kitâb-ı Bahr fi’l-Fıkh. Evveli ebter. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz altmış varak.\n[Derkenar] Evvel varakının evvelinde “Mevlânâ Lütfî muhîtten bir cild deyû teslîm etti” deyû yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "17b",
+     "created_at": "2024-04-22T12:23:32.847403Z",
+     "updated_at": "2025-11-05T20:59:43.219839Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1168,
+     "kodikolojik_bilgi": 677
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1168,
+  "bilgi_set": [
+   {
+    "id": 677,
+    "murekkep_set": [
+     {
+      "id": 555,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 677
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 346,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 677
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Evvel varakının evvelinde “Mevlânâ Lütfî muhîtten bir cild deyû teslîm etti” deyû yazılmış.",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "160",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-03T00:08:10.421776Z",
+    "updated_at": "2025-11-05T20:59:43.213534Z",
+    "kayit": {
+     "id": 2743,
+     "tam_metin": "[106] Kitâb-ı Bahr fi’l-Fıkh. Evveli ebter. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz altmış varak.\n[Derkenar] Evvel varakının evvelinde “Mevlânâ Lütfî muhîtten bir cild deyû teslîm etti” deyû yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "17b",
+     "created_at": "2024-04-22T12:23:32.847403Z",
+     "updated_at": "2025-11-05T20:59:43.219839Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1168,
+     "kodikolojik_bilgi": 677
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[106] Kitâb-ı Bahr fi’l-Fıkh. Evveli ebter. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz altmış varak.\n[Derkenar] Evvel varakının evvelinde “Mevlânâ Lütfî muhîtten bir cild deyû teslîm etti” deyû yazılmış.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "17b",
+  "created_at": "2024-04-22T12:23:32.847403Z",
+  "updated_at": "2025-11-05T20:59:43.219839Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 677,
+   "zahriye_exists": true,
+   "zahriye": "Evvel varakının evvelinde “Mevlânâ Lütfî muhîtten bir cild deyû teslîm etti” deyû yazılmış.",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "160",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-03T00:08:10.421776Z",
+   "updated_at": "2025-11-05T20:59:43.213534Z",
+   "kayit": 2743,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[295] Kitâbü’l-Bahr fi’l-Fıkh. Defâtîr-i sâbıkada böyle taʿyîn olunmuş ammâ fî nefsi’l-emr Câmiʿ-i Kebîr’in Hasîrî şerhidir. Evveli ebter. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz altmış varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "28a",
+ "created_at": "2024-02-10T12:43:24.286086Z",
+ "updated_at": "2024-09-19T12:53:29.007457Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

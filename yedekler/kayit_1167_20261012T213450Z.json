@@ -1,0 +1,248 @@
+{
+ "id": 1167,
+ "kitap_set": [
+  {
+   "id": 1162,
+   "isim": "Kitâbü’l-Mufassal fi’l-Fıkh.",
+   "isim2": null,
+   "disiplin": "Fıkıh",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:24.124531Z",
+   "updated_at": "2025-04-06T19:20:18.110565Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1167,
+    "tam_metin": "[294] Kitâbü’l-Mufassal fi’l-Fıkh. Evvel sahîfesinin etrâfı sürhle münakkaş. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz yetmiş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "27b",
+    "created_at": "2024-02-10T12:43:23.863735Z",
+    "updated_at": "2024-09-14T12:10:18.299872Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2674,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2674,
+  "kitap_set": [
+   {
+    "id": 2657,
+    "isim": "Kitâb-ı Mufassal fi’l-Fıkh.",
+    "isim2": null,
+    "disiplin": "Fıkıh",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:04.073948Z",
+    "updated_at": "2025-04-06T19:20:13.387766Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2674,
+     "tam_metin": "[37] Kitâb-ı Mufassal fi’l-Fıkh. Evvel sahîfesinin etrâfı sürhle münakkaş. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz yetmiş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15a",
+     "created_at": "2024-04-22T12:23:03.813640Z",
+     "updated_at": "2025-11-05T19:27:09.675949Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1167,
+     "kodikolojik_bilgi": 608
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 242,
+    "koleksiyon_numarasi": "02153",
+    "nusha": "",
+    "created_at": "2024-12-29T08:49:27.562957Z",
+    "updated_at": "2024-12-29T08:49:27.562972Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2674,
+     "tam_metin": "[37] Kitâb-ı Mufassal fi’l-Fıkh. Evvel sahîfesinin etrâfı sürhle münakkaş. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz yetmiş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15a",
+     "created_at": "2024-04-22T12:23:03.813640Z",
+     "updated_at": "2025-11-05T19:27:09.675949Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1167,
+     "kodikolojik_bilgi": 608
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1167,
+  "bilgi_set": [
+   {
+    "id": 608,
+    "murekkep_set": [
+     {
+      "id": 486,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 608
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 277,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 608
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Evvel sahîfesinin etrâfı sürhle münakkaş",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "170",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T12:29:38.753841Z",
+    "updated_at": "2025-11-05T19:27:09.666829Z",
+    "kayit": {
+     "id": 2674,
+     "tam_metin": "[37] Kitâb-ı Mufassal fi’l-Fıkh. Evvel sahîfesinin etrâfı sürhle münakkaş. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz yetmiş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15a",
+     "created_at": "2024-04-22T12:23:03.813640Z",
+     "updated_at": "2025-11-05T19:27:09.675949Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1167,
+     "kodikolojik_bilgi": 608
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[37] Kitâb-ı Mufassal fi’l-Fıkh. Evvel sahîfesinin etrâfı sürhle münakkaş. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz yetmiş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "15a",
+  "created_at": "2024-04-22T12:23:03.813640Z",
+  "updated_at": "2025-11-05T19:27:09.675949Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 608,
+   "zahriye_exists": true,
+   "zahriye": "Evvel sahîfesinin etrâfı sürhle münakkaş",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "170",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T12:29:38.753841Z",
+   "updated_at": "2025-11-05T19:27:09.666829Z",
+   "kayit": 2674,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[294] Kitâbü’l-Mufassal fi’l-Fıkh. Evvel sahîfesinin etrâfı sürhle münakkaş. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz yetmiş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "27b",
+ "created_at": "2024-02-10T12:43:23.863735Z",
+ "updated_at": "2024-09-14T12:10:18.299872Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

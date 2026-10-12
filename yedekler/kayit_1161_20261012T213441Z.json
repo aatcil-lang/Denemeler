@@ -1,0 +1,220 @@
+{
+ "id": 1161,
+ "kitap_set": [
+  {
+   "id": 1156,
+   "isim": "Kitâb-ı Teshîlü Letâifi’l-İşârât.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:21.603975Z",
+   "updated_at": "2025-04-06T19:20:18.128506Z",
+   "yazar": {
+    "id": 257,
+    "isim": "İbni Kādî Simavna, Şeyh Bedreddin Mahmud",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-11T10:45:05.562317Z",
+    "updated_at": "2024-09-11T10:45:05.562335Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1161,
+    "tam_metin": "[288] Kitâb-ı Teshîlü Letâʾifi’l-İşârât li-İbni Kādî Simavna. Tamâm. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Sultânî. Üç yüz elli iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "27b",
+    "created_at": "2024-02-10T12:43:21.298919Z",
+    "updated_at": "2024-09-14T14:30:32.594292Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2683,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2683,
+  "kitap_set": [
+   {
+    "id": 2666,
+    "isim": "Kitâb-ı Teshîlü Letâifi’l-İşârât.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:07.858816Z",
+    "updated_at": "2025-04-06T19:20:13.357279Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2683,
+     "tam_metin": "[46] Kitâb-ı Teshîlü Letâʾifi’l-İşârât. Tamâm. Dimeşkī tamâmına. Siyâh cildli. Üç yüz elli iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15b",
+     "created_at": "2024-04-22T12:23:07.598261Z",
+     "updated_at": "2025-09-02T14:04:42.878049Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1161,
+     "kodikolojik_bilgi": 617
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1161,
+  "bilgi_set": [
+   {
+    "id": 617,
+    "murekkep_set": [
+     {
+      "id": 495,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 617
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 286,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 617
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "352",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T14:04:36.178450Z",
+    "updated_at": "2025-09-02T14:04:36.179312Z",
+    "kayit": {
+     "id": 2683,
+     "tam_metin": "[46] Kitâb-ı Teshîlü Letâʾifi’l-İşârât. Tamâm. Dimeşkī tamâmına. Siyâh cildli. Üç yüz elli iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15b",
+     "created_at": "2024-04-22T12:23:07.598261Z",
+     "updated_at": "2025-09-02T14:04:42.878049Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1161,
+     "kodikolojik_bilgi": 617
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[46] Kitâb-ı Teshîlü Letâʾifi’l-İşârât. Tamâm. Dimeşkī tamâmına. Siyâh cildli. Üç yüz elli iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "15b",
+  "created_at": "2024-04-22T12:23:07.598261Z",
+  "updated_at": "2025-09-02T14:04:42.878049Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 617,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "352",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T14:04:36.178450Z",
+   "updated_at": "2025-09-02T14:04:36.179312Z",
+   "kayit": 2683,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[288] Kitâb-ı Teshîlü Letâʾifi’l-İşârât li-İbni Kādî Simavna. Tamâm. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Sultânî. Üç yüz elli iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "27b",
+ "created_at": "2024-02-10T12:43:21.298919Z",
+ "updated_at": "2024-09-14T14:30:32.594292Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
