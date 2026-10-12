@@ -1,0 +1,123 @@
+{
+ "id": 2101,
+ "kitap_set": [
+  {
+   "id": 2092,
+   "isim": "Kitâbü’l-Cildi’l-Evvel mine’l-İnâye fî Şerhi’l-Vikāye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:10:27.333335Z",
+   "updated_at": "2025-04-06T19:20:15.102302Z",
+   "yazar": {
+    "id": 595,
+    "isim": "Seyyid Hasan bin es-Seyyid Ali el-Kūmenatî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-04T12:27:41.474056Z",
+    "updated_at": "2025-01-04T12:27:41.474077Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2101,
+    "tam_metin": "[23] Kitâbü’l-Cildi’l-Evvel mine’l-İnâye fî Şerhi’l-Vikāye li’s-Seyyid Hasan bin es-Seyyid Ali el-Kūmenatî. İlâ evveli Kitâbi’l-Cihâd. Dimeşkī tamâmına. Ciğerî cildle. Yüz seksen üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "70a",
+    "created_at": "2024-02-10T13:10:27.039084Z",
+    "updated_at": "2026-10-11T23:11:57.357821Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 934,
+   "koleksiyon_numarasi": "01888",
+   "nusha": "",
+   "created_at": "2025-01-18T15:31:50.987752Z",
+   "updated_at": "2025-01-18T15:31:50.987767Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2101,
+    "tam_metin": "[23] Kitâbü’l-Cildi’l-Evvel mine’l-İnâye fî Şerhi’l-Vikāye li’s-Seyyid Hasan bin es-Seyyid Ali el-Kūmenatî. İlâ evveli Kitâbi’l-Cihâd. Dimeşkī tamâmına. Ciğerî cildle. Yüz seksen üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "70a",
+    "created_at": "2024-02-10T13:10:27.039084Z",
+    "updated_at": "2026-10-11T23:11:57.357821Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[23] Kitâbü’l-Cildi’l-Evvel mine’l-İnâye fî Şerhi’l-Vikāye li’s-Seyyid Hasan bin es-Seyyid Ali el-Kūmenatî. İlâ evveli Kitâbi’l-Cihâd. Dimeşkī tamâmına. Ciğerî cildle. Yüz seksen üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "70a",
+ "created_at": "2024-02-10T13:10:27.039084Z",
+ "updated_at": "2026-10-11T23:11:57.357821Z",
+ "vakif": {
+  "id": 741,
+  "isim": "Halebîzâde",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-10-29T12:53:36.101827Z",
+  "updated_at": "2025-10-29T12:53:36.101845Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

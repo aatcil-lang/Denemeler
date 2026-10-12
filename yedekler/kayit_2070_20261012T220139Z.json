@@ -1,0 +1,123 @@
+{
+ "id": 2070,
+ "kitap_set": [
+  {
+   "id": 2062,
+   "isim": "Kitâb-ı Hâşiyetü Şerhi’l-Adud.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:10:12.902760Z",
+   "updated_at": "2025-04-06T19:20:15.197860Z",
+   "yazar": {
+    "id": 42,
+    "isim": "Mevlânâ Sa‘deddîn",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-07-27T13:47:34.802380Z",
+    "updated_at": "2024-07-27T13:47:34.802396Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2070,
+    "tam_metin": "[13] Kitâb-ı Hâşiyetü Şerhi’l-Adud eydan li-Saʿdeddîn. Tamâm. Dimeşkī nısfına. Müzehheb ciğerî cildle. İki yüz kırk dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l- Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "68b",
+    "created_at": "2024-02-10T13:10:12.609993Z",
+    "updated_at": "2026-10-11T23:11:16.011689Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1194,
+   "koleksiyon_numarasi": "1282",
+   "nusha": "",
+   "created_at": "2026-08-21T01:13:31.731719Z",
+   "updated_at": "2026-08-21T01:13:31.731736Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 3,
+    "isim": "Carullah",
+    "created_at": "2026-05-01T19:50:33.993594Z",
+    "updated_at": "2026-05-01T19:50:33.993611Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2070,
+    "tam_metin": "[13] Kitâb-ı Hâşiyetü Şerhi’l-Adud eydan li-Saʿdeddîn. Tamâm. Dimeşkī nısfına. Müzehheb ciğerî cildle. İki yüz kırk dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l- Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "68b",
+    "created_at": "2024-02-10T13:10:12.609993Z",
+    "updated_at": "2026-10-11T23:11:16.011689Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[13] Kitâb-ı Hâşiyetü Şerhi’l-Adud eydan li-Saʿdeddîn. Tamâm. Dimeşkī nısfına. Müzehheb ciğerî cildle. İki yüz kırk dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l- Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "68b",
+ "created_at": "2024-02-10T13:10:12.609993Z",
+ "updated_at": "2026-10-11T23:11:16.011689Z",
+ "vakif": {
+  "id": 741,
+  "isim": "Halebîzâde",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-10-29T12:53:36.101827Z",
+  "updated_at": "2025-10-29T12:53:36.101845Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
