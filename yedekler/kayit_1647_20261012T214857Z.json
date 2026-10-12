@@ -1,0 +1,208 @@
+{
+ "id": 1647,
+ "kitap_set": [
+  {
+   "id": 1642,
+   "isim": "Kitâb-ı Şerhü’l-Minhâc fî ilmi’l-usûl.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:03.815686Z",
+   "updated_at": "2025-04-06T19:20:16.541144Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1647,
+    "tam_metin": "[66] Kitâb-ı Şerhu’l-Minhâc eydan fî ilmi’l-usûl. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yüz yirmi altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "48b",
+    "created_at": "2024-02-10T12:47:03.534070Z",
+    "updated_at": "2026-01-26T16:48:14.731882Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3442,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3442,
+  "kitap_set": [
+   {
+    "id": 3424,
+    "isim": "Kitâb-ı Şerh-i Minhâc.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:40:58.758399Z",
+    "updated_at": "2025-04-06T19:20:11.182086Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3442,
+     "tam_metin": "[4] Kitâb-ı Şerh-i Minhâc. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz yirmi altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "44a",
+     "created_at": "2024-04-22T12:40:58.489779Z",
+     "updated_at": "2025-09-22T21:25:33.961715Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1647,
+     "kodikolojik_bilgi": 1340
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1647,
+  "bilgi_set": [
+   {
+    "id": 1340,
+    "murekkep_set": [
+     {
+      "id": 1218,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1340
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1007,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1340
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "126",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T21:25:33.957919Z",
+    "updated_at": "2025-09-22T21:25:33.957944Z",
+    "kayit": {
+     "id": 3442,
+     "tam_metin": "[4] Kitâb-ı Şerh-i Minhâc. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz yirmi altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "44a",
+     "created_at": "2024-04-22T12:40:58.489779Z",
+     "updated_at": "2025-09-22T21:25:33.961715Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1647,
+     "kodikolojik_bilgi": 1340
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[4] Kitâb-ı Şerh-i Minhâc. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz yirmi altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "44a",
+  "created_at": "2024-04-22T12:40:58.489779Z",
+  "updated_at": "2025-09-22T21:25:33.961715Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1340,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "126",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T21:25:33.957919Z",
+   "updated_at": "2025-09-22T21:25:33.957944Z",
+   "kayit": 3442,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[66] Kitâb-ı Şerhu’l-Minhâc eydan fî ilmi’l-usûl. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yüz yirmi altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "48b",
+ "created_at": "2024-02-10T12:47:03.534070Z",
+ "updated_at": "2026-01-26T16:48:14.731882Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

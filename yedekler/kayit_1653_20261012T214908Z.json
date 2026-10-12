@@ -1,0 +1,123 @@
+{
+ "id": 1653,
+ "kitap_set": [
+  {
+   "id": 1648,
+   "isim": "Kitâb-ı Şerhü’l-Bedâi‘.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:06.556110Z",
+   "updated_at": "2025-04-06T19:20:16.524391Z",
+   "yazar": {
+    "id": 370,
+    "isim": "Şemseddîn el-İsfehânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-18T13:02:28.900145Z",
+    "updated_at": "2024-09-18T13:02:28.900166Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1653,
+    "tam_metin": "[72] Kitâb-ı Şerhu’l-Bedâʾiʿ li-Şemseddîn el-İsfehânî. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. İki yüz iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "48b",
+    "created_at": "2024-02-10T12:47:06.269305Z",
+    "updated_at": "2026-10-11T22:54:24.431485Z",
+    "vakif": 434,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1104,
+   "koleksiyon_numarasi": "1347",
+   "nusha": "https://portal.yek.gov.tr/works/detail/239008",
+   "created_at": "2026-05-15T20:26:39.520598Z",
+   "updated_at": "2026-05-15T20:26:39.520640Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1653,
+    "tam_metin": "[72] Kitâb-ı Şerhu’l-Bedâʾiʿ li-Şemseddîn el-İsfehânî. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. İki yüz iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "48b",
+    "created_at": "2024-02-10T12:47:06.269305Z",
+    "updated_at": "2026-10-11T22:54:24.431485Z",
+    "vakif": 434,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[72] Kitâb-ı Şerhu’l-Bedâʾiʿ li-Şemseddîn el-İsfehânî. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. İki yüz iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "48b",
+ "created_at": "2024-02-10T12:47:06.269305Z",
+ "updated_at": "2026-10-11T22:54:24.431485Z",
+ "vakif": {
+  "id": 434,
+  "isim": "Kādızâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-11-30T12:30:27.461215Z",
+  "updated_at": "2024-11-30T12:30:27.461229Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,260 @@
+{
+ "id": 1599,
+ "kitap_set": [
+  {
+   "id": 1594,
+   "isim": "Kitâb-ı Keşfü’l-Esrâr fî Şerhi’l-Menâr.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:41.567911Z",
+   "updated_at": "2025-04-06T19:20:16.672625Z",
+   "yazar": {
+    "id": 164,
+    "isim": "Ebü’l-Berekât Hâfızüddîn Abdullah b. Ahmed b. Mahmûd en-Nesefî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-16T08:47:23.308739Z",
+    "updated_at": "2024-08-16T08:47:23.308759Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1599,
+    "tam_metin": "[18] Kitâb-ı Keşfü’l-Esrâr eydan fî Şerhi’l-Menâr. Haşebî tamâmına. Köhne ciğerî cildle. Evvel varakının bir mikdârı zâyiʿ olmuş. Vakf-ı Hatîbzâde. İki yüz seksen dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "46b",
+    "created_at": "2024-02-10T12:46:41.274866Z",
+    "updated_at": "2026-01-23T11:45:31.997910Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3316,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3316,
+  "kitap_set": [
+   {
+    "id": 3298,
+    "isim": "Kitâb-ı Keşfü’l-Esrâr fî Şerhi’l-Menâr.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:44.069943Z",
+    "updated_at": "2025-04-06T19:20:11.521367Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3316,
+     "tam_metin": "[8] Kitâb-ı Keşfü’l-Esrâr fî Şerhi’l-Menâr. Haşebî tamâmına. Köhne ciğerî cildli. Evvel varakının bir mikdarı zâyiʿ olmuş. İki yüz seksen dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "40b",
+     "created_at": "2024-04-22T12:27:43.789844Z",
+     "updated_at": "2025-11-07T20:38:32.879152Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1599,
+     "kodikolojik_bilgi": 1253
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 709,
+    "koleksiyon_numarasi": "01336",
+    "nusha": "",
+    "created_at": "2025-01-15T13:14:41.837946Z",
+    "updated_at": "2025-01-15T13:14:41.837967Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3316,
+     "tam_metin": "[8] Kitâb-ı Keşfü’l-Esrâr fî Şerhi’l-Menâr. Haşebî tamâmına. Köhne ciğerî cildli. Evvel varakının bir mikdarı zâyiʿ olmuş. İki yüz seksen dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "40b",
+     "created_at": "2024-04-22T12:27:43.789844Z",
+     "updated_at": "2025-11-07T20:38:32.879152Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1599,
+     "kodikolojik_bilgi": 1253
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1599,
+  "bilgi_set": [
+   {
+    "id": 1253,
+    "murekkep_set": [
+     {
+      "id": 1131,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1253
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 920,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1253
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Evvel varakının bir mikdarı zâyiʿ olmuş",
+    "cild_turu": "Köhne ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "284",
+    "kagit_turu": "Haşebî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T17:59:40.786920Z",
+    "updated_at": "2025-11-07T20:38:32.872304Z",
+    "kayit": {
+     "id": 3316,
+     "tam_metin": "[8] Kitâb-ı Keşfü’l-Esrâr fî Şerhi’l-Menâr. Haşebî tamâmına. Köhne ciğerî cildli. Evvel varakının bir mikdarı zâyiʿ olmuş. İki yüz seksen dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "40b",
+     "created_at": "2024-04-22T12:27:43.789844Z",
+     "updated_at": "2025-11-07T20:38:32.879152Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1599,
+     "kodikolojik_bilgi": 1253
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[8] Kitâb-ı Keşfü’l-Esrâr fî Şerhi’l-Menâr. Haşebî tamâmına. Köhne ciğerî cildli. Evvel varakının bir mikdarı zâyiʿ olmuş. İki yüz seksen dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "40b",
+  "created_at": "2024-04-22T12:27:43.789844Z",
+  "updated_at": "2025-11-07T20:38:32.879152Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1253,
+   "zahriye_exists": true,
+   "zahriye": "Evvel varakının bir mikdarı zâyiʿ olmuş",
+   "cild_turu": "Köhne ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "284",
+   "kagit_turu": "Haşebî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T17:59:40.786920Z",
+   "updated_at": "2025-11-07T20:38:32.872304Z",
+   "kayit": 3316,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[18] Kitâb-ı Keşfü’l-Esrâr eydan fî Şerhi’l-Menâr. Haşebî tamâmına. Köhne ciğerî cildle. Evvel varakının bir mikdârı zâyiʿ olmuş. Vakf-ı Hatîbzâde. İki yüz seksen dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "46b",
+ "created_at": "2024-02-10T12:46:41.274866Z",
+ "updated_at": "2026-01-23T11:45:31.997910Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

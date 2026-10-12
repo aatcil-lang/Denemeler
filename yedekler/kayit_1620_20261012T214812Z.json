@@ -1,0 +1,220 @@
+{
+ "id": 1620,
+ "kitap_set": [
+  {
+   "id": 1615,
+   "isim": "Kitâbü’t-Tavzîh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:51.393309Z",
+   "updated_at": "2025-04-06T19:20:16.615173Z",
+   "yazar": {
+    "id": 474,
+    "isim": "Sadrüşşerîa es-Sânî Ubeydullāh b. Mes‘ûd b. Tâcişşerîa Ömer b. Sadrişşerîa el-Evvel Ubeydillāh b. Mahmûd el-Mahbûbî el-Buhârî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-12T22:12:12.262050Z",
+    "updated_at": "2024-12-12T22:12:12.262066Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1620,
+    "tam_metin": "[39] Kitâbü’t-Tavzîh eydan. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Yüz altmış dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "47a",
+    "created_at": "2024-02-10T12:46:51.101823Z",
+    "updated_at": "2026-01-23T11:01:51.439783Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3234,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3234,
+  "kitap_set": [
+   {
+    "id": 3216,
+    "isim": "Kitâb-ı Tavzîh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:06.981129Z",
+    "updated_at": "2025-04-06T19:20:11.765317Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3234,
+     "tam_metin": "[1] Kitâb-ı Tavzîh. Dimeşkī nısfına. Ciğerî cildli. Yüz altmış dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "37b",
+     "created_at": "2024-04-22T12:27:06.693621Z",
+     "updated_at": "2025-09-22T11:14:35.523490Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1620,
+     "kodikolojik_bilgi": 1171
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1620,
+  "bilgi_set": [
+   {
+    "id": 1171,
+    "murekkep_set": [
+     {
+      "id": 1049,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1171
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 838,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1171
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "169",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T11:14:35.518958Z",
+    "updated_at": "2025-09-22T11:14:35.518978Z",
+    "kayit": {
+     "id": 3234,
+     "tam_metin": "[1] Kitâb-ı Tavzîh. Dimeşkī nısfına. Ciğerî cildli. Yüz altmış dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "37b",
+     "created_at": "2024-04-22T12:27:06.693621Z",
+     "updated_at": "2025-09-22T11:14:35.523490Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1620,
+     "kodikolojik_bilgi": 1171
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[1] Kitâb-ı Tavzîh. Dimeşkī nısfına. Ciğerî cildli. Yüz altmış dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "37b",
+  "created_at": "2024-04-22T12:27:06.693621Z",
+  "updated_at": "2025-09-22T11:14:35.523490Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1171,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "169",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T11:14:35.518958Z",
+   "updated_at": "2025-09-22T11:14:35.518978Z",
+   "kayit": 3234,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[39] Kitâbü’t-Tavzîh eydan. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Yüz altmış dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "47a",
+ "created_at": "2024-02-10T12:46:51.101823Z",
+ "updated_at": "2026-01-23T11:01:51.439783Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

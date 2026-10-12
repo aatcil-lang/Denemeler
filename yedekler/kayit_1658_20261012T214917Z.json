@@ -1,0 +1,208 @@
+{
+ "id": 1658,
+ "kitap_set": [
+  {
+   "id": 1653,
+   "isim": "Kitâbü’t-Tahsîl fî Usûli’l-Fıkh.",
+   "isim2": null,
+   "disiplin": "Fıkıh (usulü)",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:08.868051Z",
+   "updated_at": "2025-04-06T19:20:16.509928Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1658,
+    "tam_metin": "[77] Kitâbü’t-Tahsîl fî Usûli’l-Fıkh. Semerkandî rubʿuna. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Yüz yetmiş dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "49a",
+    "created_at": "2024-02-10T12:47:08.592660Z",
+    "updated_at": "2026-01-23T10:59:13.911570Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3238,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3238,
+  "kitap_set": [
+   {
+    "id": 3220,
+    "isim": "Kitâb-ı et-Tahsîl fî Usûli’l-Fıkh.",
+    "isim2": null,
+    "disiplin": "Fıkıh",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:08.791148Z",
+    "updated_at": "2025-04-06T19:20:11.751501Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3238,
+     "tam_metin": "[5] Kitâb-ı et-Tahsîl fî Usûli’l-Fıkh. Semerkandî rubʿuna. Ciğerî cildli. Yüz yetmiş dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "37b",
+     "created_at": "2024-04-22T12:27:08.515552Z",
+     "updated_at": "2025-09-22T11:19:51.279577Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1658,
+     "kodikolojik_bilgi": 1175
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1658,
+  "bilgi_set": [
+   {
+    "id": 1175,
+    "murekkep_set": [
+     {
+      "id": 1053,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1175
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 842,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1175
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "174",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Rub'una",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T11:19:51.273370Z",
+    "updated_at": "2025-09-22T11:19:51.273385Z",
+    "kayit": {
+     "id": 3238,
+     "tam_metin": "[5] Kitâb-ı et-Tahsîl fî Usûli’l-Fıkh. Semerkandî rubʿuna. Ciğerî cildli. Yüz yetmiş dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "37b",
+     "created_at": "2024-04-22T12:27:08.515552Z",
+     "updated_at": "2025-09-22T11:19:51.279577Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1658,
+     "kodikolojik_bilgi": 1175
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[5] Kitâb-ı et-Tahsîl fî Usûli’l-Fıkh. Semerkandî rubʿuna. Ciğerî cildli. Yüz yetmiş dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "37b",
+  "created_at": "2024-04-22T12:27:08.515552Z",
+  "updated_at": "2025-09-22T11:19:51.279577Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1175,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "174",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Rub'una",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T11:19:51.273370Z",
+   "updated_at": "2025-09-22T11:19:51.273385Z",
+   "kayit": 3238,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[77] Kitâbü’t-Tahsîl fî Usûli’l-Fıkh. Semerkandî rubʿuna. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Yüz yetmiş dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "49a",
+ "created_at": "2024-02-10T12:47:08.592660Z",
+ "updated_at": "2026-01-23T10:59:13.911570Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,220 @@
+{
+ "id": 1614,
+ "kitap_set": [
+  {
+   "id": 1609,
+   "isim": "Kitâbü’t-Telvîh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:48.556052Z",
+   "updated_at": "2025-04-06T19:20:16.631812Z",
+   "yazar": {
+    "id": 42,
+    "isim": "Mevlânâ Sa‘deddîn",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-07-27T13:47:34.802380Z",
+    "updated_at": "2024-07-27T13:47:34.802396Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1614,
+    "tam_metin": "[33] Kitâbü’t-Telvîh eydan. Dimeşkī nısfına. Köhne ciğerî cildle. Vakf-ı Hatîbzâde. İki yüz yirmi üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "47a",
+    "created_at": "2024-02-10T12:46:48.270609Z",
+    "updated_at": "2026-01-23T11:45:43.012950Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3315,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3315,
+  "kitap_set": [
+   {
+    "id": 3297,
+    "isim": "Kitâbü’t-Telvîh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:43.614875Z",
+    "updated_at": "2025-04-06T19:20:11.524061Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3315,
+     "tam_metin": "[7] Kitâbü’t-Telvîh. Dimeşkī nısfına. Köhne ciğerî cildli. İki yüz yirmi üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "40b",
+     "created_at": "2024-04-22T12:27:43.335722Z",
+     "updated_at": "2025-09-22T17:58:55.334072Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1614,
+     "kodikolojik_bilgi": 1252
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1614,
+  "bilgi_set": [
+   {
+    "id": 1252,
+    "murekkep_set": [
+     {
+      "id": 1130,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1252
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 919,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1252
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Köhne ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "223",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T17:58:55.324874Z",
+    "updated_at": "2025-09-22T17:58:55.324889Z",
+    "kayit": {
+     "id": 3315,
+     "tam_metin": "[7] Kitâbü’t-Telvîh. Dimeşkī nısfına. Köhne ciğerî cildli. İki yüz yirmi üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "40b",
+     "created_at": "2024-04-22T12:27:43.335722Z",
+     "updated_at": "2025-09-22T17:58:55.334072Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1614,
+     "kodikolojik_bilgi": 1252
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[7] Kitâbü’t-Telvîh. Dimeşkī nısfına. Köhne ciğerî cildli. İki yüz yirmi üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "40b",
+  "created_at": "2024-04-22T12:27:43.335722Z",
+  "updated_at": "2025-09-22T17:58:55.334072Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1252,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Köhne ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "223",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T17:58:55.324874Z",
+   "updated_at": "2025-09-22T17:58:55.324889Z",
+   "kayit": 3315,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[33] Kitâbü’t-Telvîh eydan. Dimeşkī nısfına. Köhne ciğerî cildle. Vakf-ı Hatîbzâde. İki yüz yirmi üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "47a",
+ "created_at": "2024-02-10T12:46:48.270609Z",
+ "updated_at": "2026-01-23T11:45:43.012950Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

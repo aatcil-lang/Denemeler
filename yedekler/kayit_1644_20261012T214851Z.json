@@ -1,0 +1,260 @@
+{
+ "id": 1644,
+ "kitap_set": [
+  {
+   "id": 1639,
+   "isim": "Kitâb-ı Şerhu Muhtasari İbni’l-Hâcib.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:02.409775Z",
+   "updated_at": "2025-04-06T19:20:16.550020Z",
+   "yazar": {
+    "id": 476,
+    "isim": "Allâme eş-Şîrâzî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-19T11:26:29.793858Z",
+    "updated_at": "2024-12-19T11:26:29.793877Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1644,
+    "tam_metin": "[63] Kitâb-ı Şerhu Muhtasari İbnü’l-Hâcib li’l-Allâme eş-Şîrâzî. Nâkısu’l-evvel min hutbetin fakat.  Min evveli kavlihî وشرعت مع قريحتي القريحة وفكرتي الجريحة ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Güngörmez Acem. Dört yüz on dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "48a",
+    "created_at": "2024-02-10T12:47:02.122180Z",
+    "updated_at": "2026-01-31T10:22:59.522859Z",
+    "vakif": 758,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3601,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1064,
+   "koleksiyon_numarasi": "469",
+   "nusha": "https://portal.yek.gov.tr/works/detail/712495",
+   "created_at": "2026-05-01T21:35:30.531848Z",
+   "updated_at": "2026-05-01T21:35:30.531863Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 5,
+    "isim": "Esad Efendi",
+    "created_at": "2026-05-01T19:50:48.946638Z",
+    "updated_at": "2026-05-01T19:50:48.946655Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1644,
+    "tam_metin": "[63] Kitâb-ı Şerhu Muhtasari İbnü’l-Hâcib li’l-Allâme eş-Şîrâzî. Nâkısu’l-evvel min hutbetin fakat.  Min evveli kavlihî وشرعت مع قريحتي القريحة وفكرتي الجريحة ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Güngörmez Acem. Dört yüz on dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "48a",
+    "created_at": "2024-02-10T12:47:02.122180Z",
+    "updated_at": "2026-01-31T10:22:59.522859Z",
+    "vakif": 758,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3601,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 3601,
+  "kitap_set": [
+   {
+    "id": 3580,
+    "isim": "Kitâb-ı Şerh-i Muhtasar-ı İbn Hâcib li’l-Allâme.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:46:00.269449Z",
+    "updated_at": "2025-04-06T19:20:10.748259Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3601,
+     "tam_metin": "[15] Kitâb-ı Şerh-i Muhtasar-ı İbn Hâcib li’l-Allâme. Hutbesinde وشرعة  مع قريحتي القريحة وفكرتي الجريحة ibâretinden âhir-i kitâba dek. yazılmış ki هذه نسخت من نسخة نسخت بخطّ مصنفها حرسا الله ظله وأعلى محله وقرء اكثرها عليه deyu.  Dimeşkī tamâmına. Ciğerî cildli. Vakf-ı Güngörmez Acem. Dört yüz on dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:45:59.999350Z",
+     "updated_at": "2026-01-31T10:22:48.771194Z",
+     "vakif": 758,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1644,
+     "kodikolojik_bilgi": 1494
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1644,
+  "bilgi_set": [
+   {
+    "id": 1494,
+    "murekkep_set": [
+     {
+      "id": 1374,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1494
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1160,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1494
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "414",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-02T05:52:16.372545Z",
+    "updated_at": "2025-10-02T05:52:16.372576Z",
+    "kayit": {
+     "id": 3601,
+     "tam_metin": "[15] Kitâb-ı Şerh-i Muhtasar-ı İbn Hâcib li’l-Allâme. Hutbesinde وشرعة  مع قريحتي القريحة وفكرتي الجريحة ibâretinden âhir-i kitâba dek. yazılmış ki هذه نسخت من نسخة نسخت بخطّ مصنفها حرسا الله ظله وأعلى محله وقرء اكثرها عليه deyu.  Dimeşkī tamâmına. Ciğerî cildli. Vakf-ı Güngörmez Acem. Dört yüz on dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:45:59.999350Z",
+     "updated_at": "2026-01-31T10:22:48.771194Z",
+     "vakif": 758,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1644,
+     "kodikolojik_bilgi": 1494
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[15] Kitâb-ı Şerh-i Muhtasar-ı İbn Hâcib li’l-Allâme. Hutbesinde وشرعة  مع قريحتي القريحة وفكرتي الجريحة ibâretinden âhir-i kitâba dek. yazılmış ki هذه نسخت من نسخة نسخت بخطّ مصنفها حرسا الله ظله وأعلى محله وقرء اكثرها عليه deyu.  Dimeşkī tamâmına. Ciğerî cildli. Vakf-ı Güngörmez Acem. Dört yüz on dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "51a",
+  "created_at": "2024-04-22T12:45:59.999350Z",
+  "updated_at": "2026-01-31T10:22:48.771194Z",
+  "vakif": {
+   "id": 758,
+   "isim": "Mevlânâ Güngörmez Acem",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:17:48.535325Z",
+   "updated_at": "2026-01-31T10:17:48.535343Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1494,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "414",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-02T05:52:16.372545Z",
+   "updated_at": "2025-10-02T05:52:16.372576Z",
+   "kayit": 3601,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[63] Kitâb-ı Şerhu Muhtasari İbnü’l-Hâcib li’l-Allâme eş-Şîrâzî. Nâkısu’l-evvel min hutbetin fakat.  Min evveli kavlihî وشرعت مع قريحتي القريحة وفكرتي الجريحة ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Güngörmez Acem. Dört yüz on dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "48a",
+ "created_at": "2024-02-10T12:47:02.122180Z",
+ "updated_at": "2026-01-31T10:22:59.522859Z",
+ "vakif": {
+  "id": 758,
+  "isim": "Mevlânâ Güngörmez Acem",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:17:48.535325Z",
+  "updated_at": "2026-01-31T10:17:48.535343Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

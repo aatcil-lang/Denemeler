@@ -1,0 +1,260 @@
+{
+ "id": 1613,
+ "kitap_set": [
+  {
+   "id": 1608,
+   "isim": "Kitâbü’t-Telvîh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:48.086851Z",
+   "updated_at": "2025-04-06T19:20:16.634501Z",
+   "yazar": {
+    "id": 42,
+    "isim": "Mevlânâ Sa‘deddîn",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-07-27T13:47:34.802380Z",
+    "updated_at": "2024-07-27T13:47:34.802396Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1613,
+    "tam_metin": "[32] Kitâbü’t-Telvîh eydan. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Tuzlalıoğlu. Yüz seksen beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "47a",
+    "created_at": "2024-02-10T12:46:47.791829Z",
+    "updated_at": "2026-01-31T10:11:40.388884Z",
+    "vakif": 757,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3591,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3591,
+  "kitap_set": [
+   {
+    "id": 3570,
+    "isim": "Kitâb-ı Telvîh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:55.964970Z",
+    "updated_at": "2025-04-06T19:20:10.776317Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3591,
+     "tam_metin": "[5] Kitâb-ı Telvîh. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Tuzlalıoğlu. Yüz seksen beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50b",
+     "created_at": "2024-04-22T12:45:55.697306Z",
+     "updated_at": "2026-01-31T10:10:18.816862Z",
+     "vakif": 757,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1613,
+     "kodikolojik_bilgi": 1484
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 848,
+    "koleksiyon_numarasi": "01250",
+    "nusha": "",
+    "created_at": "2025-01-16T00:50:24.668560Z",
+    "updated_at": "2025-01-16T00:50:24.668584Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3591,
+     "tam_metin": "[5] Kitâb-ı Telvîh. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Tuzlalıoğlu. Yüz seksen beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50b",
+     "created_at": "2024-04-22T12:45:55.697306Z",
+     "updated_at": "2026-01-31T10:10:18.816862Z",
+     "vakif": 757,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1613,
+     "kodikolojik_bilgi": 1484
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1613,
+  "bilgi_set": [
+   {
+    "id": 1484,
+    "murekkep_set": [
+     {
+      "id": 1364,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1484
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1150,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1484
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "185",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T21:32:32.064690Z",
+    "updated_at": "2025-10-01T21:32:32.064734Z",
+    "kayit": {
+     "id": 3591,
+     "tam_metin": "[5] Kitâb-ı Telvîh. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Tuzlalıoğlu. Yüz seksen beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50b",
+     "created_at": "2024-04-22T12:45:55.697306Z",
+     "updated_at": "2026-01-31T10:10:18.816862Z",
+     "vakif": 757,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1613,
+     "kodikolojik_bilgi": 1484
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[5] Kitâb-ı Telvîh. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Tuzlalıoğlu. Yüz seksen beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "50b",
+  "created_at": "2024-04-22T12:45:55.697306Z",
+  "updated_at": "2026-01-31T10:10:18.816862Z",
+  "vakif": {
+   "id": 757,
+   "isim": "Tuzlalıoğlu",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:07:50.292593Z",
+   "updated_at": "2026-01-31T10:07:50.292609Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1484,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "185",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T21:32:32.064690Z",
+   "updated_at": "2025-10-01T21:32:32.064734Z",
+   "kayit": 3591,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[32] Kitâbü’t-Telvîh eydan. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Tuzlalıoğlu. Yüz seksen beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "47a",
+ "created_at": "2024-02-10T12:46:47.791829Z",
+ "updated_at": "2026-01-31T10:11:40.388884Z",
+ "vakif": {
+  "id": 757,
+  "isim": "Tuzlalıoğlu",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:07:50.292593Z",
+  "updated_at": "2026-01-31T10:07:50.292609Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,288 @@
+{
+ "id": 1646,
+ "kitap_set": [
+  {
+   "id": 3898,
+   "isim": "Şerhu Ebyâti’l-Mufassal.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2024-12-19T11:44:24.930209Z",
+   "updated_at": "2025-04-06T19:20:09.845879Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1646,
+    "tam_metin": "[65] Kitâb-ı Şerhu’l-Minhâc fî ilmi’l-usûl li’l-Çârperdî ve Şerhu Ebyâti’l-Mufassal. Bir cildde. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. İki yüz on altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "48b",
+    "created_at": "2024-02-10T12:47:03.051109Z",
+    "updated_at": "2026-01-23T10:59:44.603697Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3241,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 1641,
+   "isim": "Kitâb-ı Şerhü’l-Minhâc fî ilmi’l-usûl.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:03.340916Z",
+   "updated_at": "2025-04-06T19:20:16.544364Z",
+   "yazar": {
+    "id": 151,
+    "isim": "Çârperdî, Ebü’l-Mekârim Fahrüddîn Ahmed b. el-Hasen b. Yûsuf",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-13T09:36:54.677691Z",
+    "updated_at": "2024-08-13T09:36:54.677704Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1646,
+    "tam_metin": "[65] Kitâb-ı Şerhu’l-Minhâc fî ilmi’l-usûl li’l-Çârperdî ve Şerhu Ebyâti’l-Mufassal. Bir cildde. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. İki yüz on altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "48b",
+    "created_at": "2024-02-10T12:47:03.051109Z",
+    "updated_at": "2026-01-23T10:59:44.603697Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3241,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3241,
+  "kitap_set": [
+   {
+    "id": 3223,
+    "isim": "Kitâb-ı Şerh-i Minhâc li’l-Fâzıl el-Çârperdî ve Şerh-i Ebyât-ı Mufassal.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:10.139258Z",
+    "updated_at": "2025-04-06T19:20:11.742370Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3241,
+     "tam_metin": "[8] Kitâb-ı Şerh-i Minhâc li’l-Fâzıl el-Çârperdî ve Şerh-i Ebyât-ı Mufassal. Bir cildde. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz on altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "37b",
+     "created_at": "2024-04-22T12:27:09.869503Z",
+     "updated_at": "2025-09-22T11:22:00.269411Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1646,
+     "kodikolojik_bilgi": 1178
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 658,
+    "koleksiyon_numarasi": "01433–001",
+    "nusha": "",
+    "created_at": "2025-01-14T11:37:49.681951Z",
+    "updated_at": "2025-01-14T11:37:49.681965Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3241,
+     "tam_metin": "[8] Kitâb-ı Şerh-i Minhâc li’l-Fâzıl el-Çârperdî ve Şerh-i Ebyât-ı Mufassal. Bir cildde. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz on altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "37b",
+     "created_at": "2024-04-22T12:27:09.869503Z",
+     "updated_at": "2025-09-22T11:22:00.269411Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1646,
+     "kodikolojik_bilgi": 1178
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1646,
+  "bilgi_set": [
+   {
+    "id": 1178,
+    "murekkep_set": [
+     {
+      "id": 1056,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1178
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 845,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1178
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "216",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T11:22:00.262549Z",
+    "updated_at": "2025-09-22T11:22:00.262569Z",
+    "kayit": {
+     "id": 3241,
+     "tam_metin": "[8] Kitâb-ı Şerh-i Minhâc li’l-Fâzıl el-Çârperdî ve Şerh-i Ebyât-ı Mufassal. Bir cildde. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz on altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "37b",
+     "created_at": "2024-04-22T12:27:09.869503Z",
+     "updated_at": "2025-09-22T11:22:00.269411Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1646,
+     "kodikolojik_bilgi": 1178
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[8] Kitâb-ı Şerh-i Minhâc li’l-Fâzıl el-Çârperdî ve Şerh-i Ebyât-ı Mufassal. Bir cildde. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz on altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "37b",
+  "created_at": "2024-04-22T12:27:09.869503Z",
+  "updated_at": "2025-09-22T11:22:00.269411Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1178,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "216",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T11:22:00.262549Z",
+   "updated_at": "2025-09-22T11:22:00.262569Z",
+   "kayit": 3241,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[65] Kitâb-ı Şerhu’l-Minhâc fî ilmi’l-usûl li’l-Çârperdî ve Şerhu Ebyâti’l-Mufassal. Bir cildde. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. İki yüz on altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "48b",
+ "created_at": "2024-02-10T12:47:03.051109Z",
+ "updated_at": "2026-01-23T10:59:44.603697Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,260 @@
+{
+ "id": 1608,
+ "kitap_set": [
+  {
+   "id": 1603,
+   "isim": "Kitâb-ı Şerhü’l-Muğnî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:45.761139Z",
+   "updated_at": "2025-04-06T19:20:16.648714Z",
+   "yazar": {
+    "id": 471,
+    "isim": "Mansûr el-Kāʾânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-12T20:05:30.715101Z",
+    "updated_at": "2024-12-12T20:05:30.715119Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1608,
+    "tam_metin": "[27] Kitâb-ı Şerhu’l-Muğnî li-Mansûr el-Kāʾânî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Ahmed Kâbilî. Yüz yetmiş sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "46b",
+    "created_at": "2024-02-10T12:46:45.475114Z",
+    "updated_at": "2026-01-23T11:12:01.382013Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3247,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3247,
+  "kitap_set": [
+   {
+    "id": 3229,
+    "isim": "Kitâb-ı Şerh-i Muğnî li’l-Mansûr.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:12.867510Z",
+    "updated_at": "2025-04-06T19:20:11.724116Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3247,
+     "tam_metin": "[14] Kitâb-ı Şerh-i Muğnî li’l-Mansûr. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz yetmiş sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "38a",
+     "created_at": "2024-04-22T12:27:12.584980Z",
+     "updated_at": "2025-09-22T12:11:08.898332Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1608,
+     "kodikolojik_bilgi": 1184
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 660,
+    "koleksiyon_numarasi": "01367",
+    "nusha": "",
+    "created_at": "2025-01-14T11:42:06.409296Z",
+    "updated_at": "2025-01-14T11:42:06.409316Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3247,
+     "tam_metin": "[14] Kitâb-ı Şerh-i Muğnî li’l-Mansûr. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz yetmiş sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "38a",
+     "created_at": "2024-04-22T12:27:12.584980Z",
+     "updated_at": "2025-09-22T12:11:08.898332Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1608,
+     "kodikolojik_bilgi": 1184
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1608,
+  "bilgi_set": [
+   {
+    "id": 1184,
+    "murekkep_set": [
+     {
+      "id": 1062,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1184
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 851,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1184
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "178",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T12:11:08.891179Z",
+    "updated_at": "2025-09-22T12:11:08.891196Z",
+    "kayit": {
+     "id": 3247,
+     "tam_metin": "[14] Kitâb-ı Şerh-i Muğnî li’l-Mansûr. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz yetmiş sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "38a",
+     "created_at": "2024-04-22T12:27:12.584980Z",
+     "updated_at": "2025-09-22T12:11:08.898332Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1608,
+     "kodikolojik_bilgi": 1184
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[14] Kitâb-ı Şerh-i Muğnî li’l-Mansûr. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz yetmiş sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "38a",
+  "created_at": "2024-04-22T12:27:12.584980Z",
+  "updated_at": "2025-09-22T12:11:08.898332Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1184,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "178",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T12:11:08.891179Z",
+   "updated_at": "2025-09-22T12:11:08.891196Z",
+   "kayit": 3247,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[27] Kitâb-ı Şerhu’l-Muğnî li-Mansûr el-Kāʾânî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Ahmed Kâbilî. Yüz yetmiş sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "46b",
+ "created_at": "2024-02-10T12:46:45.475114Z",
+ "updated_at": "2026-01-23T11:12:01.382013Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

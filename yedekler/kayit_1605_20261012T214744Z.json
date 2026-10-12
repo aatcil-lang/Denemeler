@@ -1,0 +1,260 @@
+{
+ "id": 1605,
+ "kitap_set": [
+  {
+   "id": 1600,
+   "isim": "Kitâb-ı Metnü’l-Muğnî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:44.385122Z",
+   "updated_at": "2025-04-06T19:20:16.657125Z",
+   "yazar": {
+    "id": 151,
+    "isim": "Çârperdî, Ebü’l-Mekârim Fahrüddîn Ahmed b. el-Hasen b. Yûsuf",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-13T09:36:54.677691Z",
+    "updated_at": "2024-08-13T09:36:54.677704Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1605,
+    "tam_metin": "[24] Kitâb-ı Metnü’l-Muğnî. Köhne. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Ak kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. Yetmiş beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "46b",
+    "created_at": "2024-02-10T12:46:44.112786Z",
+    "updated_at": "2026-01-23T11:43:27.738108Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3309,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3309,
+  "kitap_set": [
+   {
+    "id": 3291,
+    "isim": "Kitâb-ı Metn-i Muğnî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:40.930899Z",
+    "updated_at": "2025-04-06T19:20:11.540907Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3309,
+     "tam_metin": "[1] Kitâb-ı Metn-i Muğnî. Köhne. Min evvelihî ilâ âhirihî muhaşşâ. Kümmî. Köhne ak kâğıd mukavvâ cildli. Yetmiş beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "40a",
+     "created_at": "2024-04-22T12:27:40.654770Z",
+     "updated_at": "2025-09-22T17:51:26.258874Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1605,
+     "kodikolojik_bilgi": 1246
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 705,
+    "koleksiyon_numarasi": "01450",
+    "nusha": "",
+    "created_at": "2025-01-15T12:35:32.568549Z",
+    "updated_at": "2025-01-15T12:35:32.568566Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3309,
+     "tam_metin": "[1] Kitâb-ı Metn-i Muğnî. Köhne. Min evvelihî ilâ âhirihî muhaşşâ. Kümmî. Köhne ak kâğıd mukavvâ cildli. Yetmiş beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "40a",
+     "created_at": "2024-04-22T12:27:40.654770Z",
+     "updated_at": "2025-09-22T17:51:26.258874Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1605,
+     "kodikolojik_bilgi": 1246
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1605,
+  "bilgi_set": [
+   {
+    "id": 1246,
+    "murekkep_set": [
+     {
+      "id": 1124,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1246
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 913,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1246
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Köhne ak kağıt",
+    "varak_adedi": "75",
+    "kagit_turu": "",
+    "aciklama": "",
+    "kagit_ebadi": "",
+    "kagit_sekli": "Kümmî",
+    "note": "",
+    "created_at": "2025-09-22T17:51:26.253003Z",
+    "updated_at": "2025-09-22T17:51:26.253023Z",
+    "kayit": {
+     "id": 3309,
+     "tam_metin": "[1] Kitâb-ı Metn-i Muğnî. Köhne. Min evvelihî ilâ âhirihî muhaşşâ. Kümmî. Köhne ak kâğıd mukavvâ cildli. Yetmiş beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "40a",
+     "created_at": "2024-04-22T12:27:40.654770Z",
+     "updated_at": "2025-09-22T17:51:26.258874Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1605,
+     "kodikolojik_bilgi": 1246
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[1] Kitâb-ı Metn-i Muğnî. Köhne. Min evvelihî ilâ âhirihî muhaşşâ. Kümmî. Köhne ak kâğıd mukavvâ cildli. Yetmiş beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "40a",
+  "created_at": "2024-04-22T12:27:40.654770Z",
+  "updated_at": "2025-09-22T17:51:26.258874Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1246,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Köhne ak kağıt",
+   "varak_adedi": "75",
+   "kagit_turu": "",
+   "aciklama": "",
+   "kagit_ebadi": "",
+   "kagit_sekli": "Kümmî",
+   "note": "",
+   "created_at": "2025-09-22T17:51:26.253003Z",
+   "updated_at": "2025-09-22T17:51:26.253023Z",
+   "kayit": 3309,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[24] Kitâb-ı Metnü’l-Muğnî. Köhne. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Ak kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. Yetmiş beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "46b",
+ "created_at": "2024-02-10T12:46:44.112786Z",
+ "updated_at": "2026-01-23T11:43:27.738108Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,260 @@
+{
+ "id": 1604,
+ "kitap_set": [
+  {
+   "id": 1599,
+   "isim": "Kitâb-ı Şerhü’l-Menâr.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:43.933884Z",
+   "updated_at": "2025-04-06T19:20:16.659685Z",
+   "yazar": {
+    "id": 298,
+    "isim": "İbnü'l-Melek",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-12T17:38:53.691762Z",
+    "updated_at": "2024-09-12T17:38:53.691776Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1604,
+    "tam_metin": "[23] Kitâb-ı Şerhu’l-Menâr eydan li-İbnü’l-Melek. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Mahbûb Çelebi. İki yüz dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "46b",
+    "created_at": "2024-02-10T12:46:43.637007Z",
+    "updated_at": "2026-01-31T10:30:51.554445Z",
+    "vakif": 759,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3609,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3609,
+  "kitap_set": [
+   {
+    "id": 3588,
+    "isim": "Kitâb-ı Şerh-i Menâr li-İbni Ferişteh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:46:03.699624Z",
+    "updated_at": "2025-04-06T19:20:10.725249Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3609,
+     "tam_metin": "[23] Kitâb-ı Şerh-i Menâr li-İbni Ferişte. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Mahbûb Çelebi. İki yüz dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:46:03.435950Z",
+     "updated_at": "2026-01-31T10:29:28.153930Z",
+     "vakif": 759,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1604,
+     "kodikolojik_bilgi": 1502
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 859,
+    "koleksiyon_numarasi": "01401",
+    "nusha": "",
+    "created_at": "2025-01-16T01:21:45.700706Z",
+    "updated_at": "2025-01-16T01:21:45.700727Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3609,
+     "tam_metin": "[23] Kitâb-ı Şerh-i Menâr li-İbni Ferişte. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Mahbûb Çelebi. İki yüz dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:46:03.435950Z",
+     "updated_at": "2026-01-31T10:29:28.153930Z",
+     "vakif": 759,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1604,
+     "kodikolojik_bilgi": 1502
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1604,
+  "bilgi_set": [
+   {
+    "id": 1502,
+    "murekkep_set": [
+     {
+      "id": 1382,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1502
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1168,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1502
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "209",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-02T06:00:51.651915Z",
+    "updated_at": "2025-10-02T06:00:51.651932Z",
+    "kayit": {
+     "id": 3609,
+     "tam_metin": "[23] Kitâb-ı Şerh-i Menâr li-İbni Ferişte. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Mahbûb Çelebi. İki yüz dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:46:03.435950Z",
+     "updated_at": "2026-01-31T10:29:28.153930Z",
+     "vakif": 759,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1604,
+     "kodikolojik_bilgi": 1502
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[23] Kitâb-ı Şerh-i Menâr li-İbni Ferişte. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Mahbûb Çelebi. İki yüz dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "51a",
+  "created_at": "2024-04-22T12:46:03.435950Z",
+  "updated_at": "2026-01-31T10:29:28.153930Z",
+  "vakif": {
+   "id": 759,
+   "isim": "Mevlânâ Mahbûb Çelebi",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:27:30.479999Z",
+   "updated_at": "2026-01-31T10:27:30.480017Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1502,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "209",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-02T06:00:51.651915Z",
+   "updated_at": "2025-10-02T06:00:51.651932Z",
+   "kayit": 3609,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[23] Kitâb-ı Şerhu’l-Menâr eydan li-İbnü’l-Melek. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Mahbûb Çelebi. İki yüz dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "46b",
+ "created_at": "2024-02-10T12:46:43.637007Z",
+ "updated_at": "2026-01-31T10:30:51.554445Z",
+ "vakif": {
+  "id": 759,
+  "isim": "Mevlânâ Mahbûb Çelebi",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:27:30.479999Z",
+  "updated_at": "2026-01-31T10:27:30.480017Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

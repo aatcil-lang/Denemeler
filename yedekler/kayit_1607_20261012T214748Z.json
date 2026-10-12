@@ -1,0 +1,300 @@
+{
+ "id": 1607,
+ "kitap_set": [
+  {
+   "id": 3884,
+   "isim": "Kitâb-ı Metnü’l-Menâr.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2024-12-12T20:03:53.117378Z",
+   "updated_at": "2025-04-06T19:20:09.890080Z",
+   "yazar": {
+    "id": 164,
+    "isim": "Ebü’l-Berekât Hâfızüddîn Abdullah b. Ahmed b. Mahmûd en-Nesefî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-16T08:47:23.308739Z",
+    "updated_at": "2024-08-16T08:47:23.308759Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1607,
+    "tam_metin": "[26] Kitâb-ı Metnü’l-Muğnî ve Metnü’l-Menâr. Bir cildde. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Kırkkiliselioğlu. İki yüz üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "46b",
+    "created_at": "2024-02-10T12:46:45.028307Z",
+    "updated_at": "2026-01-31T10:40:23.128434Z",
+    "vakif": 743,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3621,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 1602,
+   "isim": "Kitâb-ı Metnü’l-Muğnî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:45.294462Z",
+   "updated_at": "2025-04-06T19:20:16.651479Z",
+   "yazar": {
+    "id": 151,
+    "isim": "Çârperdî, Ebü’l-Mekârim Fahrüddîn Ahmed b. el-Hasen b. Yûsuf",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-13T09:36:54.677691Z",
+    "updated_at": "2024-08-13T09:36:54.677704Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1607,
+    "tam_metin": "[26] Kitâb-ı Metnü’l-Muğnî ve Metnü’l-Menâr. Bir cildde. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Kırkkiliselioğlu. İki yüz üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "46b",
+    "created_at": "2024-02-10T12:46:45.028307Z",
+    "updated_at": "2026-01-31T10:40:23.128434Z",
+    "vakif": 743,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3621,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3621,
+  "kitap_set": [
+   {
+    "id": 3600,
+    "isim": "Kitâb-ı Metn-i Muğnî ve Metn-i Menâr.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:46:08.791185Z",
+    "updated_at": "2025-04-06T19:20:10.691979Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3621,
+     "tam_metin": "[35] Kitâb-ı Metn-i Muğnî ve Metn-i Menâr. Bir cildde. Dimeşkī tamâmından kırılmış. Siyâh cildli. Vakf-ı Kırkkiliselioğlu. İki yüz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51b",
+     "created_at": "2024-04-22T12:46:08.520063Z",
+     "updated_at": "2026-01-31T10:39:43.042087Z",
+     "vakif": 743,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1607,
+     "kodikolojik_bilgi": 1514
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 863,
+    "koleksiyon_numarasi": "01444-001",
+    "nusha": "",
+    "created_at": "2025-01-16T01:29:00.880565Z",
+    "updated_at": "2025-01-16T01:29:00.880581Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3621,
+     "tam_metin": "[35] Kitâb-ı Metn-i Muğnî ve Metn-i Menâr. Bir cildde. Dimeşkī tamâmından kırılmış. Siyâh cildli. Vakf-ı Kırkkiliselioğlu. İki yüz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51b",
+     "created_at": "2024-04-22T12:46:08.520063Z",
+     "updated_at": "2026-01-31T10:39:43.042087Z",
+     "vakif": 743,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1607,
+     "kodikolojik_bilgi": 1514
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1607,
+  "bilgi_set": [
+   {
+    "id": 1514,
+    "murekkep_set": [
+     {
+      "id": 1394,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1514
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1180,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1514
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "203",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-02T06:15:38.998315Z",
+    "updated_at": "2025-10-02T06:15:38.998332Z",
+    "kayit": {
+     "id": 3621,
+     "tam_metin": "[35] Kitâb-ı Metn-i Muğnî ve Metn-i Menâr. Bir cildde. Dimeşkī tamâmından kırılmış. Siyâh cildli. Vakf-ı Kırkkiliselioğlu. İki yüz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51b",
+     "created_at": "2024-04-22T12:46:08.520063Z",
+     "updated_at": "2026-01-31T10:39:43.042087Z",
+     "vakif": 743,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1607,
+     "kodikolojik_bilgi": 1514
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[35] Kitâb-ı Metn-i Muğnî ve Metn-i Menâr. Bir cildde. Dimeşkī tamâmından kırılmış. Siyâh cildli. Vakf-ı Kırkkiliselioğlu. İki yüz üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "51b",
+  "created_at": "2024-04-22T12:46:08.520063Z",
+  "updated_at": "2026-01-31T10:39:43.042087Z",
+  "vakif": {
+   "id": 743,
+   "isim": "Kırkkiliselioğlu",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-27T22:03:29.822784Z",
+   "updated_at": "2026-01-27T22:03:29.822807Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1514,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "203",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-02T06:15:38.998315Z",
+   "updated_at": "2025-10-02T06:15:38.998332Z",
+   "kayit": 3621,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[26] Kitâb-ı Metnü’l-Muğnî ve Metnü’l-Menâr. Bir cildde. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Kırkkiliselioğlu. İki yüz üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "46b",
+ "created_at": "2024-02-10T12:46:45.028307Z",
+ "updated_at": "2026-01-31T10:40:23.128434Z",
+ "vakif": {
+  "id": 743,
+  "isim": "Kırkkiliselioğlu",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-27T22:03:29.822784Z",
+  "updated_at": "2026-01-27T22:03:29.822807Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

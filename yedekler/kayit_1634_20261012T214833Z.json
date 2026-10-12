@@ -1,0 +1,288 @@
+{
+ "id": 1634,
+ "kitap_set": [
+  {
+   "id": 3892,
+   "isim": "birkaç varak müsveddât (Cihât bahsine müteʿallik, âhirinde).",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2024-12-19T11:14:25.718841Z",
+   "updated_at": "2025-04-06T19:20:09.862700Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1634,
+    "tam_metin": "[53]  Kitâb-ı Şerhu Muhtasari İbnü’l-Hâcib li’l-Kā[dî] Adud. Evvelinden Mebâdî âhirine dek ve Muhâkemât evvelinden Tabîʿiyyât الأجسام تنقسم بإعتبار الجهات mesʾelesine dek ve Şerhu İşârât Evvel-i Tabîʿiyyât’dan muhadded cihâtın istidrâʾı  şeklin isbâta dek ve âhirinde birkaç varak müsevvedât Cihât bahsine müteʿallik. Bir cildde. Dimeşkī nısfına. Sarı kâğıd mukavvâ cildle. Vakf-ı Baba Ali. Yüz doksan üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "48a",
+    "created_at": "2024-02-10T12:46:57.567625Z",
+    "updated_at": "2026-01-31T10:42:32.179141Z",
+    "vakif": 762,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3619,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 1629,
+   "isim": "Kitâb-ı Şerhu Muhtasari İbni’l-Hâcib.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:57.851618Z",
+   "updated_at": "2025-04-06T19:20:16.578576Z",
+   "yazar": {
+    "id": 180,
+    "isim": "Kādî Adud",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-02T22:35:20.179253Z",
+    "updated_at": "2024-09-02T22:35:20.179269Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1634,
+    "tam_metin": "[53]  Kitâb-ı Şerhu Muhtasari İbnü’l-Hâcib li’l-Kā[dî] Adud. Evvelinden Mebâdî âhirine dek ve Muhâkemât evvelinden Tabîʿiyyât الأجسام تنقسم بإعتبار الجهات mesʾelesine dek ve Şerhu İşârât Evvel-i Tabîʿiyyât’dan muhadded cihâtın istidrâʾı  şeklin isbâta dek ve âhirinde birkaç varak müsevvedât Cihât bahsine müteʿallik. Bir cildde. Dimeşkī nısfına. Sarı kâğıd mukavvâ cildle. Vakf-ı Baba Ali. Yüz doksan üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "48a",
+    "created_at": "2024-02-10T12:46:57.567625Z",
+    "updated_at": "2026-01-31T10:42:32.179141Z",
+    "vakif": 762,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3619,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3619,
+  "kitap_set": [
+   {
+    "id": 3598,
+    "isim": "Kitâb-ı Şerh-i Muhtasar-ı İbn Hâcib li-Kādî Adud.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:46:07.935161Z",
+    "updated_at": "2025-04-06T19:20:10.697941Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3619,
+     "tam_metin": "[33] Kitâb-ı Şerh-i Muhtasar-ı İbn Hâcib li-Kādî Adud. Evvelinden “Mebâdi” âhirine dek ve Muhâkemât Evveli Tabîʿiyyât’dan الأجسام ينقسم بإعتبار الجهات mesʾelesine dek ve Şerh-i İşârât Evvel-i Tabîʿiyyât’dan muhadded cihâtın istidrâc  şeklini isbâta dek ve âhirinde birkaç varak Müsevvedât cihât bahsine müteʿallik. bir cildde. Dimeşkī nısfına. Sarı cildli. Vakf-ı Baba Ali. Yüz doksan üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51b",
+     "created_at": "2024-04-22T12:46:07.674375Z",
+     "updated_at": "2026-01-31T10:42:22.522204Z",
+     "vakif": 762,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1634,
+     "kodikolojik_bilgi": 1512
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 862,
+    "koleksiyon_numarasi": "01357-001",
+    "nusha": "",
+    "created_at": "2025-01-16T01:27:57.070319Z",
+    "updated_at": "2025-01-16T01:27:57.070334Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3619,
+     "tam_metin": "[33] Kitâb-ı Şerh-i Muhtasar-ı İbn Hâcib li-Kādî Adud. Evvelinden “Mebâdi” âhirine dek ve Muhâkemât Evveli Tabîʿiyyât’dan الأجسام ينقسم بإعتبار الجهات mesʾelesine dek ve Şerh-i İşârât Evvel-i Tabîʿiyyât’dan muhadded cihâtın istidrâc  şeklini isbâta dek ve âhirinde birkaç varak Müsevvedât cihât bahsine müteʿallik. bir cildde. Dimeşkī nısfına. Sarı cildli. Vakf-ı Baba Ali. Yüz doksan üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51b",
+     "created_at": "2024-04-22T12:46:07.674375Z",
+     "updated_at": "2026-01-31T10:42:22.522204Z",
+     "vakif": 762,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1634,
+     "kodikolojik_bilgi": 1512
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1634,
+  "bilgi_set": [
+   {
+    "id": 1512,
+    "murekkep_set": [
+     {
+      "id": 1392,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1512
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1178,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1512
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Sarı cilt",
+    "cild_materyal": "",
+    "varak_adedi": "193",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-02T06:14:06.676072Z",
+    "updated_at": "2025-10-02T06:14:06.676147Z",
+    "kayit": {
+     "id": 3619,
+     "tam_metin": "[33] Kitâb-ı Şerh-i Muhtasar-ı İbn Hâcib li-Kādî Adud. Evvelinden “Mebâdi” âhirine dek ve Muhâkemât Evveli Tabîʿiyyât’dan الأجسام ينقسم بإعتبار الجهات mesʾelesine dek ve Şerh-i İşârât Evvel-i Tabîʿiyyât’dan muhadded cihâtın istidrâc  şeklini isbâta dek ve âhirinde birkaç varak Müsevvedât cihât bahsine müteʿallik. bir cildde. Dimeşkī nısfına. Sarı cildli. Vakf-ı Baba Ali. Yüz doksan üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51b",
+     "created_at": "2024-04-22T12:46:07.674375Z",
+     "updated_at": "2026-01-31T10:42:22.522204Z",
+     "vakif": 762,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1634,
+     "kodikolojik_bilgi": 1512
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[33] Kitâb-ı Şerh-i Muhtasar-ı İbn Hâcib li-Kādî Adud. Evvelinden “Mebâdi” âhirine dek ve Muhâkemât Evveli Tabîʿiyyât’dan الأجسام ينقسم بإعتبار الجهات mesʾelesine dek ve Şerh-i İşârât Evvel-i Tabîʿiyyât’dan muhadded cihâtın istidrâc  şeklini isbâta dek ve âhirinde birkaç varak Müsevvedât cihât bahsine müteʿallik. bir cildde. Dimeşkī nısfına. Sarı cildli. Vakf-ı Baba Ali. Yüz doksan üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "51b",
+  "created_at": "2024-04-22T12:46:07.674375Z",
+  "updated_at": "2026-01-31T10:42:22.522204Z",
+  "vakif": {
+   "id": 762,
+   "isim": "Baba Ali",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:42:03.612219Z",
+   "updated_at": "2026-01-31T10:42:03.612243Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1512,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Sarı cilt",
+   "cild_materyal": "",
+   "varak_adedi": "193",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-02T06:14:06.676072Z",
+   "updated_at": "2025-10-02T06:14:06.676147Z",
+   "kayit": 3619,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[53]  Kitâb-ı Şerhu Muhtasari İbnü’l-Hâcib li’l-Kā[dî] Adud. Evvelinden Mebâdî âhirine dek ve Muhâkemât evvelinden Tabîʿiyyât الأجسام تنقسم بإعتبار الجهات mesʾelesine dek ve Şerhu İşârât Evvel-i Tabîʿiyyât’dan muhadded cihâtın istidrâʾı  şeklin isbâta dek ve âhirinde birkaç varak müsevvedât Cihât bahsine müteʿallik. Bir cildde. Dimeşkī nısfına. Sarı kâğıd mukavvâ cildle. Vakf-ı Baba Ali. Yüz doksan üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "48a",
+ "created_at": "2024-02-10T12:46:57.567625Z",
+ "updated_at": "2026-01-31T10:42:32.179141Z",
+ "vakif": {
+  "id": 762,
+  "isim": "Baba Ali",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:42:03.612219Z",
+  "updated_at": "2026-01-31T10:42:03.612243Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

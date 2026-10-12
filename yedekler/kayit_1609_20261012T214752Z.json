@@ -1,0 +1,260 @@
+{
+ "id": 1609,
+ "kitap_set": [
+  {
+   "id": 1604,
+   "isim": "Kitâb-ı Şerhü’l-Muğnî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:46.234965Z",
+   "updated_at": "2025-04-06T19:20:16.645731Z",
+   "yazar": {
+    "id": 471,
+    "isim": "Mansûr el-Kāʾânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-12T20:05:30.715101Z",
+    "updated_at": "2024-12-12T20:05:30.715119Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1609,
+    "tam_metin": "[28] Kitâb-ı Şerhu’l-Muğnî eydan li-Mansûr el-Kāʾânî. Dimeşkī tamâmına. Kızıl ciğerî cildle. Vakf-ı Güngörmez Acem. Yüz doksan üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "46b",
+    "created_at": "2024-02-10T12:46:45.942537Z",
+    "updated_at": "2026-01-31T10:18:42.882493Z",
+    "vakif": 758,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3598,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3598,
+  "kitap_set": [
+   {
+    "id": 3577,
+    "isim": "Kitâb-ı Şerh-i Muğnî li’l-Mansûr.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:58.981100Z",
+    "updated_at": "2025-04-06T19:20:10.756832Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3598,
+     "tam_metin": "[12] Kitâb-ı Şerh-i Muğnî li’l-Mansûr. Dimeşkī tamâmına. Kızıl ciğerî cildli. Vakf-ı Güngörmez Acem. Yüz doksan üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50b",
+     "created_at": "2024-04-22T12:45:58.718634Z",
+     "updated_at": "2026-01-31T10:18:16.759706Z",
+     "vakif": 758,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1609,
+     "kodikolojik_bilgi": 1491
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 851,
+    "koleksiyon_numarasi": "01375",
+    "nusha": "",
+    "created_at": "2025-01-16T00:57:22.565334Z",
+    "updated_at": "2025-01-16T00:57:22.565349Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3598,
+     "tam_metin": "[12] Kitâb-ı Şerh-i Muğnî li’l-Mansûr. Dimeşkī tamâmına. Kızıl ciğerî cildli. Vakf-ı Güngörmez Acem. Yüz doksan üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50b",
+     "created_at": "2024-04-22T12:45:58.718634Z",
+     "updated_at": "2026-01-31T10:18:16.759706Z",
+     "vakif": 758,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1609,
+     "kodikolojik_bilgi": 1491
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1609,
+  "bilgi_set": [
+   {
+    "id": 1491,
+    "murekkep_set": [
+     {
+      "id": 1371,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1491
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1157,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1491
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Kızıl ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "193",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T21:39:26.997371Z",
+    "updated_at": "2025-10-01T21:39:26.997386Z",
+    "kayit": {
+     "id": 3598,
+     "tam_metin": "[12] Kitâb-ı Şerh-i Muğnî li’l-Mansûr. Dimeşkī tamâmına. Kızıl ciğerî cildli. Vakf-ı Güngörmez Acem. Yüz doksan üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50b",
+     "created_at": "2024-04-22T12:45:58.718634Z",
+     "updated_at": "2026-01-31T10:18:16.759706Z",
+     "vakif": 758,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1609,
+     "kodikolojik_bilgi": 1491
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[12] Kitâb-ı Şerh-i Muğnî li’l-Mansûr. Dimeşkī tamâmına. Kızıl ciğerî cildli. Vakf-ı Güngörmez Acem. Yüz doksan üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "50b",
+  "created_at": "2024-04-22T12:45:58.718634Z",
+  "updated_at": "2026-01-31T10:18:16.759706Z",
+  "vakif": {
+   "id": 758,
+   "isim": "Mevlânâ Güngörmez Acem",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:17:48.535325Z",
+   "updated_at": "2026-01-31T10:17:48.535343Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1491,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Kızıl ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "193",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T21:39:26.997371Z",
+   "updated_at": "2025-10-01T21:39:26.997386Z",
+   "kayit": 3598,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[28] Kitâb-ı Şerhu’l-Muğnî eydan li-Mansûr el-Kāʾânî. Dimeşkī tamâmına. Kızıl ciğerî cildle. Vakf-ı Güngörmez Acem. Yüz doksan üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "46b",
+ "created_at": "2024-02-10T12:46:45.942537Z",
+ "updated_at": "2026-01-31T10:18:42.882493Z",
+ "vakif": {
+  "id": 758,
+  "isim": "Mevlânâ Güngörmez Acem",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:17:48.535325Z",
+  "updated_at": "2026-01-31T10:17:48.535343Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
