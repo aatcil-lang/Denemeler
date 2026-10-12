@@ -1,0 +1,339 @@
+{
+ "id": 3022,
+ "kitap_set": [
+  {
+   "id": 3004,
+   "isim": "Kitâb-ı Muhâkemât li-Mevlânâ Kutbüddîn.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:25:31.192005Z",
+   "updated_at": "2025-04-06T19:20:12.394143Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3022,
+    "tam_metin": "[8] Kitâb-ı Muhâkemât li-Mevlânâ Kutbüddîn. Bi-hattı Züfer bin Muhammed. Dimeşkī tamâmından kırılmış. Siyâh cildli. Üç yüz kırk bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Hikemiyye",
+    "notlar": "",
+    "sayfa_numarasi": "28a",
+    "created_at": "2024-04-22T12:25:30.939057Z",
+    "updated_at": "2025-09-20T08:15:31.572721Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1273,
+    "kodikolojik_bilgi": 959
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 510,
+   "koleksiyon_numarasi": "03220",
+   "nusha": "",
+   "created_at": "2025-01-13T16:40:22.334908Z",
+   "updated_at": "2025-01-13T16:40:22.334925Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 3022,
+    "tam_metin": "[8] Kitâb-ı Muhâkemât li-Mevlânâ Kutbüddîn. Bi-hattı Züfer bin Muhammed. Dimeşkī tamâmından kırılmış. Siyâh cildli. Üç yüz kırk bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Hikemiyye",
+    "notlar": "",
+    "sayfa_numarasi": "28a",
+    "created_at": "2024-04-22T12:25:30.939057Z",
+    "updated_at": "2025-09-20T08:15:31.572721Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1273,
+    "kodikolojik_bilgi": 959
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1273,
+  "kitap_set": [
+   {
+    "id": 1268,
+    "isim": "Kitâbü’l-Muhâkemât.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:44:12.031507Z",
+    "updated_at": "2025-04-06T19:20:17.751503Z",
+    "yazar": {
+     "id": 41,
+     "isim": "Mevlana Kudbüddîn",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-07-27T13:44:46.127149Z",
+     "updated_at": "2024-07-27T13:44:46.127165Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1273,
+     "tam_metin": "[8] Kitâbü’l-Muhâkemât eydan li-Mevlânâ Kutbüddîn. Bi-hattı Züfer bin Muhammed. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Sultânî. Üç yüz kırk bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Hikemiyye",
+     "notlar": "",
+     "sayfa_numarasi": "32b",
+     "created_at": "2024-02-10T12:44:11.762627Z",
+     "updated_at": "2026-10-12T21:38:00.986024Z",
+     "vakif": 1,
+     "mustensih": 393,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3022,
+     "kodikolojik_bilgi": 2031
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 3022,
+  "bilgi_set": [
+   {
+    "id": 2031,
+    "murekkep_set": [
+     {
+      "id": 1914,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 2031
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1706,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 2031
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "341",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:38:00.982182Z",
+    "updated_at": "2026-10-12T21:38:00.982199Z",
+    "kayit": {
+     "id": 1273,
+     "tam_metin": "[8] Kitâbü’l-Muhâkemât eydan li-Mevlânâ Kutbüddîn. Bi-hattı Züfer bin Muhammed. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Sultânî. Üç yüz kırk bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Hikemiyye",
+     "notlar": "",
+     "sayfa_numarasi": "32b",
+     "created_at": "2024-02-10T12:44:11.762627Z",
+     "updated_at": "2026-10-12T21:38:00.986024Z",
+     "vakif": 1,
+     "mustensih": 393,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3022,
+     "kodikolojik_bilgi": 2031
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[8] Kitâbü’l-Muhâkemât eydan li-Mevlânâ Kutbüddîn. Bi-hattı Züfer bin Muhammed. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Sultânî. Üç yüz kırk bir varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Hikemiyye",
+  "notlar": "",
+  "sayfa_numarasi": "32b",
+  "created_at": "2024-02-10T12:44:11.762627Z",
+  "updated_at": "2026-10-12T21:38:00.986024Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 393,
+   "isim": "Züfer bin Muhammed",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-10-22T07:51:33.011986Z",
+   "updated_at": "2024-10-22T07:51:33.012001Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 2031,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "341",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:38:00.982182Z",
+   "updated_at": "2026-10-12T21:38:00.982199Z",
+   "kayit": 1273,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 959,
+   "murekkep_set": [
+    {
+     "id": 837,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 959
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 627,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 959
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "341",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T08:15:31.559308Z",
+   "updated_at": "2025-09-20T08:15:31.559327Z",
+   "kayit": {
+    "id": 3022,
+    "tam_metin": "[8] Kitâb-ı Muhâkemât li-Mevlânâ Kutbüddîn. Bi-hattı Züfer bin Muhammed. Dimeşkī tamâmından kırılmış. Siyâh cildli. Üç yüz kırk bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Hikemiyye",
+    "notlar": "",
+    "sayfa_numarasi": "28a",
+    "created_at": "2024-04-22T12:25:30.939057Z",
+    "updated_at": "2025-09-20T08:15:31.572721Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1273,
+    "kodikolojik_bilgi": 959
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[8] Kitâb-ı Muhâkemât li-Mevlânâ Kutbüddîn. Bi-hattı Züfer bin Muhammed. Dimeşkī tamâmından kırılmış. Siyâh cildli. Üç yüz kırk bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Hikemiyye",
+ "notlar": "",
+ "sayfa_numarasi": "28a",
+ "created_at": "2024-04-22T12:25:30.939057Z",
+ "updated_at": "2025-09-20T08:15:31.572721Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 959,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Siyah cilt",
+  "cild_materyal": "",
+  "varak_adedi": "341",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamından kırılmış",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-20T08:15:31.559308Z",
+  "updated_at": "2025-09-20T08:15:31.559327Z",
+  "kayit": 3022,
+  "created_by": null
+ }
+}
