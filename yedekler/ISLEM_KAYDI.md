@@ -153,3 +153,24 @@ Dayanak: katalogdaki “Vakf-ı …” ibaresi (Halebîzâde için katalog böl�
   - Kodikolojik kayıt sayısı 1574 → **3053**; beklenen sayıyla aynı.
   - Süre yaklaşık 45 dakika.
 - **Ayrıca bulunan:** Fenarizade kaydı #2366'da iki ayrı kodikolojik bilgi var: #311 (15.08.2025) ve #1602 (29.06.2026). İkisi de elle girilmiş, aynı nüshayı anlatıyor. Bu işlemle ilgisi yok. Kütüphane ekibi hangisinin kalacağına karar vermeli.
+
+## 12.10.2026 — Müstensih eksikleri tamamlandı
+- **Kapsam:** 271 kayda müstensih bağlandı (Fenarizade ve Hacıhasanzade). Kayıt listesi: `yedekler/mustensih_islenen_kayitlar.json`. Gruplar ve kararlar: `mustensih_onay_listesi.md`.
+  - Mevcut şahsa bağlanan: 141.
+  - Yeni şahıs açılıp bağlanan: 54.
+  - Mevlânâ Musannifek'e bağlanan: 52 (43 tam, 9 kısmi).
+  - Aynı adlı kopyalardan en çok kullanılana bağlanan: 17.
+  - Müellife bağlanan: 6.
+  - #93 el-Haşşâb'a bağlanan: 1.
+- **Yeni şahıslar:** 55 kayıt açıldı (#772–#826). Hepsi sitenin “Şahıs Ekle” yoluyla (`POST /api/sahislar/`) açıldı. **Geliştirici notunun 2. maddesi böylece doğrulandı: şahıs ekleme artık çalışıyor.** Liste: `yeni_mustensih_sahislar.csv`.
+- **Ad düzeltmeleri** (şahıs düzenleme yoluyla; her birinde değişen tek alan ad):
+  - #774: adın sonuna karışan “” deyu yazılmış” kaldırıldı.
+  - #780: fazla boşluk silindi.
+  - #782: dua ifadesi (“ahsenallâhu hâtimetehû bi’l-husnâ”) kaldırıldı.
+- **Doğrulama:**
+  - Her kayıt önce yedeklendi. İşlemden sonra yalnızca müstensih alanının değiştiği kontrol edildi.
+  - Son kontrolde 271 kaydın 271'i doğru.
+  - Şahıs sayısı 720 → 775; artış tam 55. Kaynak sayısı 3'te kaldı.
+- **İşlenmeyen:**
+  - #2193: müellif belli değil.
+  - Yalnızca yazı türü bildiren 23 kayıt (“bi-hattı mağribî” vb.).

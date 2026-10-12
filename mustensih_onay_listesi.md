@@ -2,7 +2,7 @@
 
 **Kapsam:** Fenarizade ve Hacıhasanzade kayıtları içinde, metninde “hatt” geçen ama müstensih alanı boş olan **295 kayıt**: 268'i Fenarizade'de, 27'si Hacıhasanzade'de.
 **Ayrıntılı tablo:** [`mustensih_eksikleri.csv`](mustensih_eksikleri.csv). Tabloda her kayıt için metinden okunan ad, eşleşen şahıs(lar) ve metindeki ifade yer alıyor.
-**Durum:** Bu listedeki hiçbir değişiklik henüz yapılmadı. İşlem, kodikolojik toplu işlem bittikten sonra başlayacak.
+**Durum:** ✅ **İşlendi (12.10.2026).** 271 kayda müstensih bağlandı ve 55 yeni şahıs açıldı. Ayrıntılar `yedekler/ISLEM_KAYDI.md` dosyasında.
 
 ## Mevcut kullanıma göre kurallar
 
@@ -57,6 +57,7 @@ M2'de açılacak yeni şahıslar, metindeki adla birebir açılacak. Köşeli pa
 ## Sonra birleştirilecek kopya şahıs kayıtları
 
 - Haşşâb: #93 *Muhammed bin Muhammed el-Haşşâb* ve #94 *Muhammed b. Muhammed b. Ali el-Halebî eş-şehîr bi-İbnü’l-Haşşâb*. Üçü de aynı *Şerh-i Kirmânî* nüshasının ciltlerine bağlı (#700, #701, #702).
+- Muhtemel kopyalar (yeni açılanlarla): #801 *Mahmûd Şâh bin Kayser er-Rûmî* ↔ #237 *Mahmûd Şâh bin Kayseri’r-Rûmî*; #805 *Hoca Ahmed bin Hızır bin Ömer* ↔ #779 *Hoca Ahmed bin Hızır bin Ömer bin İsmâîl en-Nekîdî*; #806 *Ahmed bin Ahmed bin Sâlih* ↔ mevcut *Ahmed bin Sâlih*. Aynı kişi olup olmadıkları kontrol edilmeli.
 - Niʿmetullâh b. Mekkî: #26, #27, #28, #29, #30 ve #31 (yalnızca #31 müstensih olarak kullanılmış; #2372 bu kayda bağlanacak).
 - M3 tablosundaki aynı adlı şahıs kayıtları (ör. “Muhammed bin Halîl”: #131, #230, #384, #204).
 
