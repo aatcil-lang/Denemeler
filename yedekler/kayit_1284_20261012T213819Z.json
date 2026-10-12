@@ -1,0 +1,248 @@
+{
+ "id": 1284,
+ "kitap_set": [
+  {
+   "id": 1279,
+   "isim": "Kitâbü’l-Cildi’l-Evvel min Metni’l-Miftâh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:17.053494Z",
+   "updated_at": "2025-04-06T19:20:17.719401Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1284,
+    "tam_metin": "[5] Kitâbü’l-Cildi’l-Evvel eydan min Metni’l-Miftâh. İlâ âhiri’l-Kısmi’s-Sâlis. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz otuz üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "33a",
+    "created_at": "2024-02-10T12:44:16.776433Z",
+    "updated_at": "2024-11-10T18:20:37.136192Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3086,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3086,
+  "kitap_set": [
+   {
+    "id": 3068,
+    "isim": "Kitâb-ı Metn-i Miftâh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:59.358820Z",
+    "updated_at": "2025-04-06T19:20:12.217515Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3086,
+     "tam_metin": "[59] Kitâb-ı Metn-i Miftâh. Evvelinden âhir-i Kısm-ı Sâlis’e dek. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz otuz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30b",
+     "created_at": "2024-04-22T12:25:59.078972Z",
+     "updated_at": "2025-09-20T11:48:04.543832Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1284,
+     "kodikolojik_bilgi": 1023
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 556,
+    "koleksiyon_numarasi": "04680",
+    "nusha": "",
+    "created_at": "2025-01-13T19:30:35.815719Z",
+    "updated_at": "2025-01-13T19:30:35.815735Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3086,
+     "tam_metin": "[59] Kitâb-ı Metn-i Miftâh. Evvelinden âhir-i Kısm-ı Sâlis’e dek. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz otuz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30b",
+     "created_at": "2024-04-22T12:25:59.078972Z",
+     "updated_at": "2025-09-20T11:48:04.543832Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1284,
+     "kodikolojik_bilgi": 1023
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1284,
+  "bilgi_set": [
+   {
+    "id": 1023,
+    "murekkep_set": [
+     {
+      "id": 901,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1023
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 690,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1023
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "133",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-20T11:48:04.535065Z",
+    "updated_at": "2025-09-20T11:48:04.535086Z",
+    "kayit": {
+     "id": 3086,
+     "tam_metin": "[59] Kitâb-ı Metn-i Miftâh. Evvelinden âhir-i Kısm-ı Sâlis’e dek. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz otuz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30b",
+     "created_at": "2024-04-22T12:25:59.078972Z",
+     "updated_at": "2025-09-20T11:48:04.543832Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1284,
+     "kodikolojik_bilgi": 1023
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[59] Kitâb-ı Metn-i Miftâh. Evvelinden âhir-i Kısm-ı Sâlis’e dek. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz otuz üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "30b",
+  "created_at": "2024-04-22T12:25:59.078972Z",
+  "updated_at": "2025-09-20T11:48:04.543832Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1023,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "133",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T11:48:04.535065Z",
+   "updated_at": "2025-09-20T11:48:04.535086Z",
+   "kayit": 3086,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[5] Kitâbü’l-Cildi’l-Evvel eydan min Metni’l-Miftâh. İlâ âhiri’l-Kısmi’s-Sâlis. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz otuz üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "33a",
+ "created_at": "2024-02-10T12:44:16.776433Z",
+ "updated_at": "2024-11-10T18:20:37.136192Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,208 @@
+{
+ "id": 1258,
+ "kitap_set": [
+  {
+   "id": 1253,
+   "isim": "Kitâbü’l-Maârif fî Şerhi’s-Sahâif.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:05.065707Z",
+   "updated_at": "2025-04-06T19:20:17.795394Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1258,
+    "tam_metin": "[38] Kitâbü’l-Maʿârif eydan fî Şerhi’s-Sahâʾif. Dimeşkī nısfına. Müzehheb kırmızı cildle. Vakf-ı Sultânî. Yüz seksen sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+    "notlar": "",
+    "sayfa_numarasi": "31b",
+    "created_at": "2024-02-10T12:44:04.799804Z",
+    "updated_at": "2024-09-27T16:54:28.206284Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3005,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3005,
+  "kitap_set": [
+   {
+    "id": 2987,
+    "isim": "Kitâbü’l-Maârif fî Şerhi’s-Sahâif.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:23.975455Z",
+    "updated_at": "2025-04-06T19:20:12.438728Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3005,
+     "tam_metin": "[32] Kitâbü’l-Maʿârif fî Şerhi’s-Sahâʾif. Dimeşkī nısfına. Müzehheb kırmızı cildli. Yüz seksen sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "27b",
+     "created_at": "2024-04-22T12:25:23.712728Z",
+     "updated_at": "2025-09-20T07:17:20.539071Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1258,
+     "kodikolojik_bilgi": 942
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1258,
+  "bilgi_set": [
+   {
+    "id": 942,
+    "murekkep_set": [
+     {
+      "id": 820,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 942
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 610,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 942
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Müzehheb kırmızı cilt",
+    "cild_materyal": "",
+    "varak_adedi": "188",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-20T07:17:20.531424Z",
+    "updated_at": "2025-09-20T07:17:20.531447Z",
+    "kayit": {
+     "id": 3005,
+     "tam_metin": "[32] Kitâbü’l-Maʿârif fî Şerhi’s-Sahâʾif. Dimeşkī nısfına. Müzehheb kırmızı cildli. Yüz seksen sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "27b",
+     "created_at": "2024-04-22T12:25:23.712728Z",
+     "updated_at": "2025-09-20T07:17:20.539071Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1258,
+     "kodikolojik_bilgi": 942
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[32] Kitâbü’l-Maʿârif fî Şerhi’s-Sahâʾif. Dimeşkī nısfına. Müzehheb kırmızı cildli. Yüz seksen sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+  "notlar": "",
+  "sayfa_numarasi": "27b",
+  "created_at": "2024-04-22T12:25:23.712728Z",
+  "updated_at": "2025-09-20T07:17:20.539071Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 942,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Müzehheb kırmızı cilt",
+   "cild_materyal": "",
+   "varak_adedi": "188",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T07:17:20.531424Z",
+   "updated_at": "2025-09-20T07:17:20.531447Z",
+   "kayit": 3005,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[38] Kitâbü’l-Maʿârif eydan fî Şerhi’s-Sahâʾif. Dimeşkī nısfına. Müzehheb kırmızı cildle. Vakf-ı Sultânî. Yüz seksen sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+ "notlar": "",
+ "sayfa_numarasi": "31b",
+ "created_at": "2024-02-10T12:44:04.799804Z",
+ "updated_at": "2024-09-27T16:54:28.206284Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

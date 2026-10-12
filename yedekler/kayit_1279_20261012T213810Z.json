@@ -1,0 +1,248 @@
+{
+ "id": 1279,
+ "kitap_set": [
+  {
+   "id": 1274,
+   "isim": "Kitâbü’l-Mu‘teber fî ilmi’l-hikme.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:14.768124Z",
+   "updated_at": "2025-04-06T19:20:17.733900Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1279,
+    "tam_metin": "[14] Kitâbü’l-Muʿteber fî ilmi’l-hikme. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Yüz doksan dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Hikemiyye",
+    "notlar": "",
+    "sayfa_numarasi": "32b",
+    "created_at": "2024-02-10T12:44:14.490424Z",
+    "updated_at": "2024-11-10T17:58:54.700574Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3018,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3018,
+  "kitap_set": [
+   {
+    "id": 3000,
+    "isim": "Kitâbü’l-Mu‘teber.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:29.502746Z",
+    "updated_at": "2025-04-06T19:20:12.404642Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3018,
+     "tam_metin": "[4] Kitâbü’l-Muʿteber. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz doksan dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Hikemiyye",
+     "notlar": "",
+     "sayfa_numarasi": "28a",
+     "created_at": "2024-04-22T12:25:29.239171Z",
+     "updated_at": "2025-09-20T08:12:42.706584Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1279,
+     "kodikolojik_bilgi": 955
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 508,
+    "koleksiyon_numarasi": "03224",
+    "nusha": "",
+    "created_at": "2025-01-13T16:29:03.052696Z",
+    "updated_at": "2025-01-13T16:29:03.052712Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3018,
+     "tam_metin": "[4] Kitâbü’l-Muʿteber. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz doksan dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Hikemiyye",
+     "notlar": "",
+     "sayfa_numarasi": "28a",
+     "created_at": "2024-04-22T12:25:29.239171Z",
+     "updated_at": "2025-09-20T08:12:42.706584Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1279,
+     "kodikolojik_bilgi": 955
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1279,
+  "bilgi_set": [
+   {
+    "id": 955,
+    "murekkep_set": [
+     {
+      "id": 833,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 955
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 623,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 955
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "194",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-20T08:12:42.700689Z",
+    "updated_at": "2025-09-20T08:12:42.700705Z",
+    "kayit": {
+     "id": 3018,
+     "tam_metin": "[4] Kitâbü’l-Muʿteber. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz doksan dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Hikemiyye",
+     "notlar": "",
+     "sayfa_numarasi": "28a",
+     "created_at": "2024-04-22T12:25:29.239171Z",
+     "updated_at": "2025-09-20T08:12:42.706584Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1279,
+     "kodikolojik_bilgi": 955
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[4] Kitâbü’l-Muʿteber. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz doksan dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Hikemiyye",
+  "notlar": "",
+  "sayfa_numarasi": "28a",
+  "created_at": "2024-04-22T12:25:29.239171Z",
+  "updated_at": "2025-09-20T08:12:42.706584Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 955,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "194",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T08:12:42.700689Z",
+   "updated_at": "2025-09-20T08:12:42.700705Z",
+   "kayit": 3018,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[14] Kitâbü’l-Muʿteber fî ilmi’l-hikme. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Yüz doksan dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Hikemiyye",
+ "notlar": "",
+ "sayfa_numarasi": "32b",
+ "created_at": "2024-02-10T12:44:14.490424Z",
+ "updated_at": "2024-11-10T17:58:54.700574Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
