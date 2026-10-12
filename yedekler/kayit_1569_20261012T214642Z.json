@@ -1,0 +1,220 @@
+{
+ "id": 1569,
+ "kitap_set": [
+  {
+   "id": 1564,
+   "isim": "Kitâbü’l-Mesâbîh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:27.716704Z",
+   "updated_at": "2025-04-06T19:20:16.756004Z",
+   "yazar": {
+    "id": 81,
+    "isim": "İmâm el-Begavî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-03T17:56:43.761130Z",
+    "updated_at": "2024-08-03T17:56:43.761152Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1569,
+    "tam_metin": "[24] Kitâbü’l-Mesâbîh eydan. Tamâm. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Evveli levhalı. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Tuzlalıoğlu. İki yüz altmış üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-02-10T12:46:27.433878Z",
+    "updated_at": "2026-01-31T10:08:19.918782Z",
+    "vakif": 757,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3588,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3588,
+  "kitap_set": [
+   {
+    "id": 3567,
+    "isim": "Kitâb-ı el-Mesâbîh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:54.688515Z",
+    "updated_at": "2025-04-06T19:20:10.786665Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3588,
+     "tam_metin": "[2] Kitâb-ı el-Mesâbîh. Min evvelihî ilâ âhirihî musahhah. Evveli levhalı. Dimeşkī tamâmına. Ciğerî cildli. Vakf-ı Tuzlalıoğlu. İki yüz altmış üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50b",
+     "created_at": "2024-04-22T12:45:54.423536Z",
+     "updated_at": "2026-01-31T10:08:09.679523Z",
+     "vakif": 757,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1569,
+     "kodikolojik_bilgi": 1481
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1569,
+  "bilgi_set": [
+   {
+    "id": 1481,
+    "murekkep_set": [
+     {
+      "id": 1361,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1481
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1147,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1481
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Evveli levhalı",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "263",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T21:29:52.780599Z",
+    "updated_at": "2025-11-08T12:14:47.180158Z",
+    "kayit": {
+     "id": 3588,
+     "tam_metin": "[2] Kitâb-ı el-Mesâbîh. Min evvelihî ilâ âhirihî musahhah. Evveli levhalı. Dimeşkī tamâmına. Ciğerî cildli. Vakf-ı Tuzlalıoğlu. İki yüz altmış üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50b",
+     "created_at": "2024-04-22T12:45:54.423536Z",
+     "updated_at": "2026-01-31T10:08:09.679523Z",
+     "vakif": 757,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1569,
+     "kodikolojik_bilgi": 1481
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[2] Kitâb-ı el-Mesâbîh. Min evvelihî ilâ âhirihî musahhah. Evveli levhalı. Dimeşkī tamâmına. Ciğerî cildli. Vakf-ı Tuzlalıoğlu. İki yüz altmış üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "50b",
+  "created_at": "2024-04-22T12:45:54.423536Z",
+  "updated_at": "2026-01-31T10:08:09.679523Z",
+  "vakif": {
+   "id": 757,
+   "isim": "Tuzlalıoğlu",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:07:50.292593Z",
+   "updated_at": "2026-01-31T10:07:50.292609Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1481,
+   "zahriye_exists": true,
+   "zahriye": "Evveli levhalı",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "263",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T21:29:52.780599Z",
+   "updated_at": "2025-11-08T12:14:47.180158Z",
+   "kayit": 3588,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[24] Kitâbü’l-Mesâbîh eydan. Tamâm. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Evveli levhalı. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Tuzlalıoğlu. İki yüz altmış üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+ "notlar": "",
+ "sayfa_numarasi": "45a",
+ "created_at": "2024-02-10T12:46:27.433878Z",
+ "updated_at": "2026-01-31T10:08:19.918782Z",
+ "vakif": {
+  "id": 757,
+  "isim": "Tuzlalıoğlu",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:07:50.292593Z",
+  "updated_at": "2026-01-31T10:07:50.292609Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,220 @@
+{
+ "id": 1593,
+ "kitap_set": [
+  {
+   "id": 1588,
+   "isim": "Kitâb-ı Şerhü’l-Fevâidi’l-Pezdevî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:38.815177Z",
+   "updated_at": "2025-04-06T19:20:16.688957Z",
+   "yazar": {
+    "id": 466,
+    "isim": "Ebû Abdullâh Muhammed el-Buharî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-10T08:06:51.276052Z",
+    "updated_at": "2024-12-10T08:06:51.276070Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1593,
+    "tam_metin": "[12] Kitâb-ı Şerhu’l-Fevâʾidi’l-Pezdevî li-Ebû Abdullâh Muhammed el-Buharî. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Ahmed Kâbilî. Seksen altı varak",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "46a",
+    "created_at": "2024-02-10T12:46:38.531687Z",
+    "updated_at": "2026-01-23T11:00:51.935244Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3244,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3244,
+  "kitap_set": [
+   {
+    "id": 3226,
+    "isim": "Kitâb-ı Şerh-i Fevâid-i Pezdevî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:11.472493Z",
+    "updated_at": "2025-04-06T19:20:11.732981Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3244,
+     "tam_metin": "[11] Kitâb-ı Şerh-i Fevâʾid-i Pezdevî min müʾellefâtı Ebû Abdullâh Muhammed el-Buhârî. Dimeşkī tamâmına. Siyâh cildli. Seksen altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "37b",
+     "created_at": "2024-04-22T12:27:11.196210Z",
+     "updated_at": "2025-09-22T11:24:03.373426Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1593,
+     "kodikolojik_bilgi": 1181
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1593,
+  "bilgi_set": [
+   {
+    "id": 1181,
+    "murekkep_set": [
+     {
+      "id": 1059,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1181
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 848,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1181
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "86",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T11:24:03.367274Z",
+    "updated_at": "2025-09-22T11:24:03.367299Z",
+    "kayit": {
+     "id": 3244,
+     "tam_metin": "[11] Kitâb-ı Şerh-i Fevâʾid-i Pezdevî min müʾellefâtı Ebû Abdullâh Muhammed el-Buhârî. Dimeşkī tamâmına. Siyâh cildli. Seksen altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "37b",
+     "created_at": "2024-04-22T12:27:11.196210Z",
+     "updated_at": "2025-09-22T11:24:03.373426Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1593,
+     "kodikolojik_bilgi": 1181
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[11] Kitâb-ı Şerh-i Fevâʾid-i Pezdevî min müʾellefâtı Ebû Abdullâh Muhammed el-Buhârî. Dimeşkī tamâmına. Siyâh cildli. Seksen altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "37b",
+  "created_at": "2024-04-22T12:27:11.196210Z",
+  "updated_at": "2025-09-22T11:24:03.373426Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1181,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "86",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T11:24:03.367274Z",
+   "updated_at": "2025-09-22T11:24:03.367299Z",
+   "kayit": 3244,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[12] Kitâb-ı Şerhu’l-Fevâʾidi’l-Pezdevî li-Ebû Abdullâh Muhammed el-Buharî. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Ahmed Kâbilî. Seksen altı varak",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "46a",
+ "created_at": "2024-02-10T12:46:38.531687Z",
+ "updated_at": "2026-01-23T11:00:51.935244Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

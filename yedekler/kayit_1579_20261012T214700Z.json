@@ -1,0 +1,226 @@
+{
+ "id": 1579,
+ "kitap_set": [
+  {
+   "id": 1574,
+   "isim": "Kitâb-ı Tuhfetü’l-Ebrâr fî Süneni’n-Nebiyyi’l-Muhtâr.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:32.317774Z",
+   "updated_at": "2025-04-06T19:20:16.726651Z",
+   "yazar": {
+    "id": 53,
+    "isim": "Kādî el-Beyzâvî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-07-30T08:18:27.116922Z",
+    "updated_at": "2024-07-30T08:18:27.116937Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1579,
+    "tam_metin": "[34] Kitâb-ı Tuhfetü’l-Ebrâr fî Süneni’n-Nebiyyi’l-Muhtâr. Dimeşkī nısfından kırılmış. Müzehheb siyâh cildle. Min evvelihî ilâ âhirihî musahhah mücedvel ve müzehheb. Vakf-ı Mîşeved Acem. On altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "45b",
+    "created_at": "2024-02-10T12:46:32.023434Z",
+    "updated_at": "2026-01-26T22:54:00.078114Z",
+    "vakif": 13,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3573,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3573,
+  "kitap_set": [
+   {
+    "id": 3552,
+    "isim": "Kitâb-ı Tuhfetü’l-Ebrâr fî Süneni’n-Nebiyyi’l-Muhtâr.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:48.223756Z",
+    "updated_at": "2025-04-06T19:20:10.827830Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3573,
+     "tam_metin": "[6] Kitâb-ı Tuhfetü’l-Ebrâr fî Süneni’n-Nebiyyi’l-Muhtâr. Dimeşkī nısfından kırılmış. Min evvelihî ilâ âhirihî müzehheb ve mücedvel. Müzehheb siyâh cildli. On altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50a",
+     "created_at": "2024-04-22T12:45:47.960697Z",
+     "updated_at": "2025-10-01T21:01:22.005816Z",
+     "vakif": 13,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1579,
+     "kodikolojik_bilgi": 1466
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1579,
+  "bilgi_set": [
+   {
+    "id": 1466,
+    "murekkep_set": [
+     {
+      "id": 1344,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1466
+     }
+    ],
+    "cedvel_set": [
+     {
+      "id": 62,
+      "detay": "Min evvelihî ilâ âhirihî müzehheb ve mücedvel",
+      "kodikolojik_bilgi": 1466
+     }
+    ],
+    "hatt_set": [
+     {
+      "id": 1132,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1466
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Müzehheb siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "16",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T21:01:22.000254Z",
+    "updated_at": "2025-10-01T21:01:22.000271Z",
+    "kayit": {
+     "id": 3573,
+     "tam_metin": "[6] Kitâb-ı Tuhfetü’l-Ebrâr fî Süneni’n-Nebiyyi’l-Muhtâr. Dimeşkī nısfından kırılmış. Min evvelihî ilâ âhirihî müzehheb ve mücedvel. Müzehheb siyâh cildli. On altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50a",
+     "created_at": "2024-04-22T12:45:47.960697Z",
+     "updated_at": "2025-10-01T21:01:22.005816Z",
+     "vakif": 13,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1579,
+     "kodikolojik_bilgi": 1466
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[6] Kitâb-ı Tuhfetü’l-Ebrâr fî Süneni’n-Nebiyyi’l-Muhtâr. Dimeşkī nısfından kırılmış. Min evvelihî ilâ âhirihî müzehheb ve mücedvel. Müzehheb siyâh cildli. On altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "50a",
+  "created_at": "2024-04-22T12:45:47.960697Z",
+  "updated_at": "2025-10-01T21:01:22.005816Z",
+  "vakif": {
+   "id": 13,
+   "isim": "Mevlânâ Mîşeved Acem",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:59:13.119764Z",
+   "updated_at": "2024-04-22T11:59:13.119787Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1466,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Müzehheb siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "16",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T21:01:22.000254Z",
+   "updated_at": "2025-10-01T21:01:22.000271Z",
+   "kayit": 3573,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[34] Kitâb-ı Tuhfetü’l-Ebrâr fî Süneni’n-Nebiyyi’l-Muhtâr. Dimeşkī nısfından kırılmış. Müzehheb siyâh cildle. Min evvelihî ilâ âhirihî musahhah mücedvel ve müzehheb. Vakf-ı Mîşeved Acem. On altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+ "notlar": "",
+ "sayfa_numarasi": "45b",
+ "created_at": "2024-02-10T12:46:32.023434Z",
+ "updated_at": "2026-01-26T22:54:00.078114Z",
+ "vakif": {
+  "id": 13,
+  "isim": "Mevlânâ Mîşeved Acem",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:59:13.119764Z",
+  "updated_at": "2024-04-22T11:59:13.119787Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

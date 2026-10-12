@@ -1,0 +1,248 @@
+{
+ "id": 1591,
+ "kitap_set": [
+  {
+   "id": 3872,
+   "isim": "Kitâb-ı Fevâʾidü’l-Pezdevî.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2024-12-10T08:04:36.931220Z",
+   "updated_at": "2025-04-06T19:20:09.924829Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1591,
+    "tam_metin": "[10] Kitâb-ı Fevâʾidü’l-Pezdevî. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Ahmed Kâbilî. Üç yüz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "46a",
+    "created_at": "2024-02-10T12:46:37.632507Z",
+    "updated_at": "2026-01-23T11:02:51.823780Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3239,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3239,
+  "kitap_set": [
+   {
+    "id": 3221,
+    "isim": "Kitâb-ı Fevâid-i Pezdevî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:09.233680Z",
+    "updated_at": "2025-04-06T19:20:11.748388Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3239,
+     "tam_metin": "[6] Kitâb-ı Fevâʾid-i Pezdevî. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. Üç yüz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "37b",
+     "created_at": "2024-04-22T12:27:08.961031Z",
+     "updated_at": "2025-09-22T11:20:37.780066Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1591,
+     "kodikolojik_bilgi": 1176
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 656,
+    "koleksiyon_numarasi": "01319",
+    "nusha": "",
+    "created_at": "2025-01-14T11:33:44.191080Z",
+    "updated_at": "2025-01-14T11:33:44.191095Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3239,
+     "tam_metin": "[6] Kitâb-ı Fevâʾid-i Pezdevî. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. Üç yüz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "37b",
+     "created_at": "2024-04-22T12:27:08.961031Z",
+     "updated_at": "2025-09-22T11:20:37.780066Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1591,
+     "kodikolojik_bilgi": 1176
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1591,
+  "bilgi_set": [
+   {
+    "id": 1176,
+    "murekkep_set": [
+     {
+      "id": 1054,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1176
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 843,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1176
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "300",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Rub'undan kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T11:20:37.774631Z",
+    "updated_at": "2025-09-22T11:20:37.774663Z",
+    "kayit": {
+     "id": 3239,
+     "tam_metin": "[6] Kitâb-ı Fevâʾid-i Pezdevî. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. Üç yüz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "37b",
+     "created_at": "2024-04-22T12:27:08.961031Z",
+     "updated_at": "2025-09-22T11:20:37.780066Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1591,
+     "kodikolojik_bilgi": 1176
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[6] Kitâb-ı Fevâʾid-i Pezdevî. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. Üç yüz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "37b",
+  "created_at": "2024-04-22T12:27:08.961031Z",
+  "updated_at": "2025-09-22T11:20:37.780066Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1176,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "300",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Rub'undan kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T11:20:37.774631Z",
+   "updated_at": "2025-09-22T11:20:37.774663Z",
+   "kayit": 3239,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[10] Kitâb-ı Fevâʾidü’l-Pezdevî. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Ahmed Kâbilî. Üç yüz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "46a",
+ "created_at": "2024-02-10T12:46:37.632507Z",
+ "updated_at": "2026-01-23T11:02:51.823780Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

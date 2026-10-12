@@ -1,0 +1,260 @@
+{
+ "id": 1576,
+ "kitap_set": [
+  {
+   "id": 1571,
+   "isim": "Kitâbü’l-Cildi’l-Evvel min Şerhi’ş-Şihâb.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:30.901638Z",
+   "updated_at": "2025-04-06T19:20:16.735023Z",
+   "yazar": {
+    "id": 463,
+    "isim": "Ebû Bekir Muhammed el-Bağdâdî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-08T23:37:29.578062Z",
+    "updated_at": "2024-12-08T23:37:29.578076Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1576,
+    "tam_metin": "[31] Kitâbü’l-Cildi’l-Evvel min Şerhi’ş-Şihâb li-Ebû Bekir Muhammed el-Bağdâdî. İlâ âhiri kavlihî sallallâhu aleyhi ve sellem  لا يحلّ لمسلم أن يهجر أخاه فوق ثلاث el-hadîs. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Mahbûb Çelebi. İki yüz altmış üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "45b",
+    "created_at": "2024-02-10T12:46:30.612943Z",
+    "updated_at": "2026-01-31T10:28:50.936274Z",
+    "vakif": 759,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3607,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3607,
+  "kitap_set": [
+   {
+    "id": 3586,
+    "isim": "Kitâb-ı Şerh-i Şihâb.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:46:02.850343Z",
+    "updated_at": "2025-04-06T19:20:10.731064Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3607,
+     "tam_metin": "[21] Kitâb-ı Şerh-i Şihâb min müʾellefâtı Hâfız Ebû Bekir Muhammed el-Bağdâdî. Evvelinden لا يحل لمسلم أن يهجر أخاه فوق ثلث hadîs[i] şerhine dek. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Mahbûb Çelebi. İki yüz altmış üç varak.\n[Derkenar] Defter-i atîkde “Sultânî” deyu kayd olunmuş ammâ kitâbın zahrında hatt-ı kadîmile “Vakf-ı Mahbûb Çelebi” deyu kayd olunmuş. Ol sebebden Mahbûb Çelebi evkāfına ilhâk olundu.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:46:02.579830Z",
+     "updated_at": "2026-01-31T10:27:57.031975Z",
+     "vakif": 759,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1576,
+     "kodikolojik_bilgi": 1500
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 857,
+    "koleksiyon_numarasi": "00826",
+    "nusha": "",
+    "created_at": "2025-01-16T01:18:57.737701Z",
+    "updated_at": "2025-01-16T01:18:57.737716Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3607,
+     "tam_metin": "[21] Kitâb-ı Şerh-i Şihâb min müʾellefâtı Hâfız Ebû Bekir Muhammed el-Bağdâdî. Evvelinden لا يحل لمسلم أن يهجر أخاه فوق ثلث hadîs[i] şerhine dek. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Mahbûb Çelebi. İki yüz altmış üç varak.\n[Derkenar] Defter-i atîkde “Sultânî” deyu kayd olunmuş ammâ kitâbın zahrında hatt-ı kadîmile “Vakf-ı Mahbûb Çelebi” deyu kayd olunmuş. Ol sebebden Mahbûb Çelebi evkāfına ilhâk olundu.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:46:02.579830Z",
+     "updated_at": "2026-01-31T10:27:57.031975Z",
+     "vakif": 759,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1576,
+     "kodikolojik_bilgi": 1500
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1576,
+  "bilgi_set": [
+   {
+    "id": 1500,
+    "murekkep_set": [
+     {
+      "id": 1380,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1500
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1166,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1500
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Defter-i atîkde “Sultânî” deyu kayd olunmuş ammâ kitâbın zahrında hatt-ı kadîmile “Vakf-ı Mahbûb Çelebi” deyu kayd olunmuş. Ol sebebden Mahbûb Çelebi evkāfına ilhâk olundu.",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "263",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-02T05:59:39.464311Z",
+    "updated_at": "2025-10-02T05:59:39.464340Z",
+    "kayit": {
+     "id": 3607,
+     "tam_metin": "[21] Kitâb-ı Şerh-i Şihâb min müʾellefâtı Hâfız Ebû Bekir Muhammed el-Bağdâdî. Evvelinden لا يحل لمسلم أن يهجر أخاه فوق ثلث hadîs[i] şerhine dek. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Mahbûb Çelebi. İki yüz altmış üç varak.\n[Derkenar] Defter-i atîkde “Sultânî” deyu kayd olunmuş ammâ kitâbın zahrında hatt-ı kadîmile “Vakf-ı Mahbûb Çelebi” deyu kayd olunmuş. Ol sebebden Mahbûb Çelebi evkāfına ilhâk olundu.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:46:02.579830Z",
+     "updated_at": "2026-01-31T10:27:57.031975Z",
+     "vakif": 759,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1576,
+     "kodikolojik_bilgi": 1500
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[21] Kitâb-ı Şerh-i Şihâb min müʾellefâtı Hâfız Ebû Bekir Muhammed el-Bağdâdî. Evvelinden لا يحل لمسلم أن يهجر أخاه فوق ثلث hadîs[i] şerhine dek. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Mahbûb Çelebi. İki yüz altmış üç varak.\n[Derkenar] Defter-i atîkde “Sultânî” deyu kayd olunmuş ammâ kitâbın zahrında hatt-ı kadîmile “Vakf-ı Mahbûb Çelebi” deyu kayd olunmuş. Ol sebebden Mahbûb Çelebi evkāfına ilhâk olundu.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "51a",
+  "created_at": "2024-04-22T12:46:02.579830Z",
+  "updated_at": "2026-01-31T10:27:57.031975Z",
+  "vakif": {
+   "id": 759,
+   "isim": "Mevlânâ Mahbûb Çelebi",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:27:30.479999Z",
+   "updated_at": "2026-01-31T10:27:30.480017Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1500,
+   "zahriye_exists": true,
+   "zahriye": "Defter-i atîkde “Sultânî” deyu kayd olunmuş ammâ kitâbın zahrında hatt-ı kadîmile “Vakf-ı Mahbûb Çelebi” deyu kayd olunmuş. Ol sebebden Mahbûb Çelebi evkāfına ilhâk olundu.",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "263",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-02T05:59:39.464311Z",
+   "updated_at": "2025-10-02T05:59:39.464340Z",
+   "kayit": 3607,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[31] Kitâbü’l-Cildi’l-Evvel min Şerhi’ş-Şihâb li-Ebû Bekir Muhammed el-Bağdâdî. İlâ âhiri kavlihî sallallâhu aleyhi ve sellem  لا يحلّ لمسلم أن يهجر أخاه فوق ثلاث el-hadîs. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Mahbûb Çelebi. İki yüz altmış üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+ "notlar": "",
+ "sayfa_numarasi": "45b",
+ "created_at": "2024-02-10T12:46:30.612943Z",
+ "updated_at": "2026-01-31T10:28:50.936274Z",
+ "vakif": {
+  "id": 759,
+  "isim": "Mevlânâ Mahbûb Çelebi",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:27:30.479999Z",
+  "updated_at": "2026-01-31T10:27:30.480017Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

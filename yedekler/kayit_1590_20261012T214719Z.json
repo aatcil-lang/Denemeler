@@ -1,0 +1,260 @@
+{
+ "id": 1590,
+ "kitap_set": [
+  {
+   "id": 1585,
+   "isim": "Kitâb-ı Şerhü’l-Pezdevî (Tahrîr).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:37.444415Z",
+   "updated_at": "2025-04-06T19:20:16.694213Z",
+   "yazar": {
+    "id": 11,
+    "isim": "Mevlânâ Musannifek",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-04-22T11:53:25.702212Z",
+    "updated_at": "2024-04-22T11:53:25.702230Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1590,
+    "tam_metin": "[9] Kitâb-ı Şerhu’l-Pezdevî el-müsemmâ bi’t-Tahrîr li-Musannifek. Bi-hattı Musannifek. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yüz elli dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "46a",
+    "created_at": "2024-02-10T12:46:37.157606Z",
+    "updated_at": "2026-01-26T16:47:01.083205Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3440,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3440,
+  "kitap_set": [
+   {
+    "id": 3422,
+    "isim": "Kitâb-ı Şerh-i Pezdevî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:40:57.920256Z",
+    "updated_at": "2025-04-06T19:20:11.187315Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3440,
+     "tam_metin": "[2] Kitâb-ı Şerh-i Pezdevî min müʾellefâtı Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz elli dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "44a",
+     "created_at": "2024-04-22T12:40:57.648637Z",
+     "updated_at": "2025-09-22T21:23:55.325454Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1590,
+     "kodikolojik_bilgi": 1338
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 767,
+    "koleksiyon_numarasi": "01324",
+    "nusha": "",
+    "created_at": "2025-01-15T15:24:17.167597Z",
+    "updated_at": "2025-01-15T15:24:17.167612Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3440,
+     "tam_metin": "[2] Kitâb-ı Şerh-i Pezdevî min müʾellefâtı Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz elli dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "44a",
+     "created_at": "2024-04-22T12:40:57.648637Z",
+     "updated_at": "2025-09-22T21:23:55.325454Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1590,
+     "kodikolojik_bilgi": 1338
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1590,
+  "bilgi_set": [
+   {
+    "id": 1338,
+    "murekkep_set": [
+     {
+      "id": 1216,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1338
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1005,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1338
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "154",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T21:23:55.321949Z",
+    "updated_at": "2025-09-22T21:23:55.321983Z",
+    "kayit": {
+     "id": 3440,
+     "tam_metin": "[2] Kitâb-ı Şerh-i Pezdevî min müʾellefâtı Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz elli dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "44a",
+     "created_at": "2024-04-22T12:40:57.648637Z",
+     "updated_at": "2025-09-22T21:23:55.325454Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1590,
+     "kodikolojik_bilgi": 1338
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[2] Kitâb-ı Şerh-i Pezdevî min müʾellefâtı Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz elli dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "44a",
+  "created_at": "2024-04-22T12:40:57.648637Z",
+  "updated_at": "2025-09-22T21:23:55.325454Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1338,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "154",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T21:23:55.321949Z",
+   "updated_at": "2025-09-22T21:23:55.321983Z",
+   "kayit": 3440,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[9] Kitâb-ı Şerhu’l-Pezdevî el-müsemmâ bi’t-Tahrîr li-Musannifek. Bi-hattı Musannifek. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yüz elli dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "46a",
+ "created_at": "2024-02-10T12:46:37.157606Z",
+ "updated_at": "2026-01-26T16:47:01.083205Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

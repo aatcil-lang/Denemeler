@@ -1,0 +1,260 @@
+{
+ "id": 1577,
+ "kitap_set": [
+  {
+   "id": 1572,
+   "isim": "Kitâb-ı Riyâzü’s-Sâlihîn.",
+   "isim2": null,
+   "disiplin": "Hadis",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:31.363042Z",
+   "updated_at": "2025-04-06T19:20:16.732190Z",
+   "yazar": {
+    "id": 98,
+    "isim": "İmâm en-Nevevî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-07T21:17:58.210661Z",
+    "updated_at": "2024-08-07T21:17:58.210676Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1577,
+    "tam_metin": "[32] Kitâb-ı Riyâzü’s-Sâlihîn. Tamâm. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Ahmed Kâbilî. İki yüz on dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "45b",
+    "created_at": "2024-02-10T12:46:31.075830Z",
+    "updated_at": "2026-01-23T10:54:03.229219Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3229,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3229,
+  "kitap_set": [
+   {
+    "id": 3211,
+    "isim": "Kitâb-ı Riyâzü’s-Sâlihîn.",
+    "isim2": null,
+    "disiplin": "Hadis",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:04.718313Z",
+    "updated_at": "2025-04-06T19:20:11.780439Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3229,
+     "tam_metin": "[1] Kitâb-ı Riyâzü’s-Sâlihîn. Tamâm. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. İki yüz on dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+     "notlar": "",
+     "sayfa_numarasi": "37a",
+     "created_at": "2024-04-22T12:27:04.440077Z",
+     "updated_at": "2025-09-22T11:09:25.123761Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1577,
+     "kodikolojik_bilgi": 1166
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 650,
+    "koleksiyon_numarasi": "02624",
+    "nusha": "",
+    "created_at": "2025-01-14T10:05:00.301127Z",
+    "updated_at": "2025-01-14T10:05:00.301142Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3229,
+     "tam_metin": "[1] Kitâb-ı Riyâzü’s-Sâlihîn. Tamâm. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. İki yüz on dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+     "notlar": "",
+     "sayfa_numarasi": "37a",
+     "created_at": "2024-04-22T12:27:04.440077Z",
+     "updated_at": "2025-09-22T11:09:25.123761Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1577,
+     "kodikolojik_bilgi": 1166
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1577,
+  "bilgi_set": [
+   {
+    "id": 1166,
+    "murekkep_set": [
+     {
+      "id": 1044,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1166
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 833,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1166
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "214",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T11:09:25.116253Z",
+    "updated_at": "2025-09-22T11:09:25.116648Z",
+    "kayit": {
+     "id": 3229,
+     "tam_metin": "[1] Kitâb-ı Riyâzü’s-Sâlihîn. Tamâm. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. İki yüz on dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+     "notlar": "",
+     "sayfa_numarasi": "37a",
+     "created_at": "2024-04-22T12:27:04.440077Z",
+     "updated_at": "2025-09-22T11:09:25.123761Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1577,
+     "kodikolojik_bilgi": 1166
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[1] Kitâb-ı Riyâzü’s-Sâlihîn. Tamâm. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. İki yüz on dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+  "notlar": "",
+  "sayfa_numarasi": "37a",
+  "created_at": "2024-04-22T12:27:04.440077Z",
+  "updated_at": "2025-09-22T11:09:25.123761Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1166,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "214",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T11:09:25.116253Z",
+   "updated_at": "2025-09-22T11:09:25.116648Z",
+   "kayit": 3229,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[32] Kitâb-ı Riyâzü’s-Sâlihîn. Tamâm. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Ahmed Kâbilî. İki yüz on dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+ "notlar": "",
+ "sayfa_numarasi": "45b",
+ "created_at": "2024-02-10T12:46:31.075830Z",
+ "updated_at": "2026-01-23T10:54:03.229219Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

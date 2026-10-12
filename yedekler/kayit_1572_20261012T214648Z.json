@@ -1,0 +1,83 @@
+{
+ "id": 1572,
+ "kitap_set": [
+  {
+   "id": 1567,
+   "isim": "Kitâb-ı Şerhu’l-Mesâbîh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:29.087881Z",
+   "updated_at": "2025-04-06T19:20:16.746595Z",
+   "yazar": {
+    "id": 104,
+    "isim": "Zeynü’l-Arab el-Mısrî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-07T22:44:16.868224Z",
+    "updated_at": "2024-08-07T22:44:16.868240Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1572,
+    "tam_metin": "[27] Kitâb-ı Şerhu’l-Mesâbîh eydan li-Zeynu’l-Arab. Tamâm. Metni siyâh mürekkeb ile çizilmiş. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. Dört yüz dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-02-10T12:46:28.805738Z",
+    "updated_at": "2026-10-11T22:54:02.297940Z",
+    "vakif": 434,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[27] Kitâb-ı Şerhu’l-Mesâbîh eydan li-Zeynu’l-Arab. Tamâm. Metni siyâh mürekkeb ile çizilmiş. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. Dört yüz dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+ "notlar": "",
+ "sayfa_numarasi": "45a",
+ "created_at": "2024-02-10T12:46:28.805738Z",
+ "updated_at": "2026-10-11T22:54:02.297940Z",
+ "vakif": {
+  "id": 434,
+  "isim": "Kādızâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-11-30T12:30:27.461215Z",
+  "updated_at": "2024-11-30T12:30:27.461229Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

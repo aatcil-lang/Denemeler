@@ -1,0 +1,220 @@
+{
+ "id": 1571,
+ "kitap_set": [
+  {
+   "id": 1566,
+   "isim": "Kitâb-ı Şerhu’l-Mesâbîh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:28.635351Z",
+   "updated_at": "2025-04-06T19:20:16.749866Z",
+   "yazar": {
+    "id": 399,
+    "isim": "Zeynü’l-Arab el-Mısrî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-10T19:23:33.296100Z",
+    "updated_at": "2024-11-10T19:23:33.296121Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1571,
+    "tam_metin": "[26] Kitâb-ı Şerhu’l-Mesâbîh li-Zeyni’l-Arab. Tamâm. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Üç yüz seksen dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-02-10T12:46:28.351526Z",
+    "updated_at": "2026-01-26T20:27:33.888934Z",
+    "vakif": 12,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3513,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3513,
+  "kitap_set": [
+   {
+    "id": 3494,
+    "isim": "Kitâb-ı Şerh-i Mesâbîh li-Zeyni’l-Arab.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:22.328573Z",
+    "updated_at": "2025-04-06T19:20:10.991632Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3513,
+     "tam_metin": "[1] Kitâb-ı Şerh-i Mesâbîh li-Zeynu’l-Arab. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz seksen dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+     "notlar": "",
+     "sayfa_numarasi": "47a",
+     "created_at": "2024-04-22T12:45:22.052722Z",
+     "updated_at": "2025-10-01T19:21:55.824424Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1571,
+     "kodikolojik_bilgi": 1406
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1571,
+  "bilgi_set": [
+   {
+    "id": 1406,
+    "murekkep_set": [
+     {
+      "id": 1283,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1406
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1072,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1406
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "389",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T19:21:55.820684Z",
+    "updated_at": "2025-10-01T19:21:55.820706Z",
+    "kayit": {
+     "id": 3513,
+     "tam_metin": "[1] Kitâb-ı Şerh-i Mesâbîh li-Zeynu’l-Arab. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz seksen dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+     "notlar": "",
+     "sayfa_numarasi": "47a",
+     "created_at": "2024-04-22T12:45:22.052722Z",
+     "updated_at": "2025-10-01T19:21:55.824424Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1571,
+     "kodikolojik_bilgi": 1406
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[1] Kitâb-ı Şerh-i Mesâbîh li-Zeynu’l-Arab. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz seksen dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+  "notlar": "",
+  "sayfa_numarasi": "47a",
+  "created_at": "2024-04-22T12:45:22.052722Z",
+  "updated_at": "2025-10-01T19:21:55.824424Z",
+  "vakif": {
+   "id": 12,
+   "isim": "Âlâiyyeli Muhyiddîn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:56:17.228524Z",
+   "updated_at": "2024-04-22T11:56:17.228541Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1406,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "389",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T19:21:55.820684Z",
+   "updated_at": "2025-10-01T19:21:55.820706Z",
+   "kayit": 3513,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[26] Kitâb-ı Şerhu’l-Mesâbîh li-Zeyni’l-Arab. Tamâm. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Üç yüz seksen dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+ "notlar": "",
+ "sayfa_numarasi": "45a",
+ "created_at": "2024-02-10T12:46:28.351526Z",
+ "updated_at": "2026-01-26T20:27:33.888934Z",
+ "vakif": {
+  "id": 12,
+  "isim": "Âlâiyyeli Muhyiddîn",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:56:17.228524Z",
+  "updated_at": "2024-04-22T11:56:17.228541Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

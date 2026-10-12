@@ -1,0 +1,260 @@
+{
+ "id": 1566,
+ "kitap_set": [
+  {
+   "id": 1561,
+   "isim": "Kitâb-ı Hadâiku’l-Ezhâr fî Şerhi Meşârikı’l-Envâr.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:26.330580Z",
+   "updated_at": "2025-04-06T19:20:16.765118Z",
+   "yazar": {
+    "id": 459,
+    "isim": "Vecîhüddin Ömer b. Abdülmuhsin el-Erzincânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-08T23:00:45.193872Z",
+    "updated_at": "2024-12-08T23:00:45.193888Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1566,
+    "tam_metin": "[21] Kitâb-ı Hadâʾiku’l-Ezhâr fî Şerhi Meşârıkı’l-Envâr. Dimeşkī tamâmına. Ciğerî cildle. Mine’l-kütübi’l-gayri maʿlûme. Yüz yetmiş altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-02-10T12:46:26.046461Z",
+    "updated_at": "2026-01-27T23:42:11.314153Z",
+    "vakif": 742,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3647,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3647,
+  "kitap_set": [
+   {
+    "id": 3626,
+    "isim": "Kitâb-ı Hadâiku’l-Ezhâr fî Şerhi Meşârikı’l-Envâr.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:46:19.985652Z",
+    "updated_at": "2025-04-06T19:20:10.618732Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3647,
+     "tam_metin": "[14] Kitâb-ı Hadâʾiku’l-Ezhâr fî Şerhi Meşârıkı’l-Envâr. Dimeşkī tamâmına. Ciğerî cildli. Yüz yetmiş altı varak. Âhir varakının zahrında “Vakf eyledi işbu kitâb[ı] Bahâeddîn Kız Melik Meşârık Şerhi’ni” deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+     "notlar": "",
+     "sayfa_numarasi": "53a",
+     "created_at": "2024-04-22T12:46:19.717538Z",
+     "updated_at": "2026-02-02T18:50:15.839985Z",
+     "vakif": 742,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1566,
+     "kodikolojik_bilgi": 1540
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 881,
+    "koleksiyon_numarasi": "00985",
+    "nusha": "",
+    "created_at": "2025-01-16T01:53:26.274193Z",
+    "updated_at": "2025-01-16T01:53:26.274211Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3647,
+     "tam_metin": "[14] Kitâb-ı Hadâʾiku’l-Ezhâr fî Şerhi Meşârıkı’l-Envâr. Dimeşkī tamâmına. Ciğerî cildli. Yüz yetmiş altı varak. Âhir varakının zahrında “Vakf eyledi işbu kitâb[ı] Bahâeddîn Kız Melik Meşârık Şerhi’ni” deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+     "notlar": "",
+     "sayfa_numarasi": "53a",
+     "created_at": "2024-04-22T12:46:19.717538Z",
+     "updated_at": "2026-02-02T18:50:15.839985Z",
+     "vakif": 742,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1566,
+     "kodikolojik_bilgi": 1540
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1566,
+  "bilgi_set": [
+   {
+    "id": 1540,
+    "murekkep_set": [
+     {
+      "id": 1420,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1540
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1206,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1540
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Âhir varakının zahrında “Vakf eyledi işbu kitâb[ı] Bahâeddîn Kız Melik Meşârık Şerhi’ni” deyu yazılmış.",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "176",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-03T05:41:45.329819Z",
+    "updated_at": "2025-10-03T05:41:45.342153Z",
+    "kayit": {
+     "id": 3647,
+     "tam_metin": "[14] Kitâb-ı Hadâʾiku’l-Ezhâr fî Şerhi Meşârıkı’l-Envâr. Dimeşkī tamâmına. Ciğerî cildli. Yüz yetmiş altı varak. Âhir varakının zahrında “Vakf eyledi işbu kitâb[ı] Bahâeddîn Kız Melik Meşârık Şerhi’ni” deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+     "notlar": "",
+     "sayfa_numarasi": "53a",
+     "created_at": "2024-04-22T12:46:19.717538Z",
+     "updated_at": "2026-02-02T18:50:15.839985Z",
+     "vakif": 742,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1566,
+     "kodikolojik_bilgi": 1540
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[14] Kitâb-ı Hadâʾiku’l-Ezhâr fî Şerhi Meşârıkı’l-Envâr. Dimeşkī tamâmına. Ciğerî cildli. Yüz yetmiş altı varak. Âhir varakının zahrında “Vakf eyledi işbu kitâb[ı] Bahâeddîn Kız Melik Meşârık Şerhi’ni” deyu yazılmış.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+  "notlar": "",
+  "sayfa_numarasi": "53a",
+  "created_at": "2024-04-22T12:46:19.717538Z",
+  "updated_at": "2026-02-02T18:50:15.839985Z",
+  "vakif": {
+   "id": 742,
+   "isim": "[bilgi yok]",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-27T21:30:30.238544Z",
+   "updated_at": "2026-01-27T21:30:30.239057Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1540,
+   "zahriye_exists": true,
+   "zahriye": "Âhir varakının zahrında “Vakf eyledi işbu kitâb[ı] Bahâeddîn Kız Melik Meşârık Şerhi’ni” deyu yazılmış.",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "176",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-03T05:41:45.329819Z",
+   "updated_at": "2025-10-03T05:41:45.342153Z",
+   "kayit": 3647,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[21] Kitâb-ı Hadâʾiku’l-Ezhâr fî Şerhi Meşârıkı’l-Envâr. Dimeşkī tamâmına. Ciğerî cildle. Mine’l-kütübi’l-gayri maʿlûme. Yüz yetmiş altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+ "notlar": "",
+ "sayfa_numarasi": "45a",
+ "created_at": "2024-02-10T12:46:26.046461Z",
+ "updated_at": "2026-01-27T23:42:11.314153Z",
+ "vakif": {
+  "id": 742,
+  "isim": "[bilgi yok]",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-27T21:30:30.238544Z",
+  "updated_at": "2026-01-27T21:30:30.239057Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

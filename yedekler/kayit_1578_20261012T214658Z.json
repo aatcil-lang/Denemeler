@@ -1,0 +1,260 @@
+{
+ "id": 1578,
+ "kitap_set": [
+  {
+   "id": 1573,
+   "isim": "Kitâb-ı Tenbîhü’l-Gāfilîn.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:31.833696Z",
+   "updated_at": "2025-04-06T19:20:16.729362Z",
+   "yazar": {
+    "id": 57,
+    "isim": "Ebu'l-Leys Semerkandî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-07-30T11:47:52.841548Z",
+    "updated_at": "2024-07-30T11:47:52.841564Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1578,
+    "tam_metin": "[33] Kitâb-ı Tenbîhü’l-Gāfilîn. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Hatîbzâde. İki yüz on iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "45b",
+    "created_at": "2024-02-10T12:46:31.548299Z",
+    "updated_at": "2026-01-23T11:37:14.959056Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3307,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3307,
+  "kitap_set": [
+   {
+    "id": 3289,
+    "isim": "Kitâb-ı Tenbîhü’l-Gāfilîn.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:40.030258Z",
+    "updated_at": "2025-04-06T19:20:11.547160Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3307,
+     "tam_metin": "[1] Kitâb-ı Tenbîhü’l-Gāfilîn. Dimeşkī tamâmına. Köhne ciğerî cildli. İki yüz on iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+     "notlar": "",
+     "sayfa_numarasi": "40a",
+     "created_at": "2024-04-22T12:27:39.749680Z",
+     "updated_at": "2025-09-22T17:49:45.673188Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1578,
+     "kodikolojik_bilgi": 1244
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 703,
+    "koleksiyon_numarasi": "02597",
+    "nusha": "",
+    "created_at": "2025-01-15T11:46:08.433056Z",
+    "updated_at": "2025-01-15T11:46:08.433072Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3307,
+     "tam_metin": "[1] Kitâb-ı Tenbîhü’l-Gāfilîn. Dimeşkī tamâmına. Köhne ciğerî cildli. İki yüz on iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+     "notlar": "",
+     "sayfa_numarasi": "40a",
+     "created_at": "2024-04-22T12:27:39.749680Z",
+     "updated_at": "2025-09-22T17:49:45.673188Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1578,
+     "kodikolojik_bilgi": 1244
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1578,
+  "bilgi_set": [
+   {
+    "id": 1244,
+    "murekkep_set": [
+     {
+      "id": 1122,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1244
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 911,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1244
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Köhne ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "212",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T17:49:45.661922Z",
+    "updated_at": "2025-09-22T17:49:45.661949Z",
+    "kayit": {
+     "id": 3307,
+     "tam_metin": "[1] Kitâb-ı Tenbîhü’l-Gāfilîn. Dimeşkī tamâmına. Köhne ciğerî cildli. İki yüz on iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+     "notlar": "",
+     "sayfa_numarasi": "40a",
+     "created_at": "2024-04-22T12:27:39.749680Z",
+     "updated_at": "2025-09-22T17:49:45.673188Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1578,
+     "kodikolojik_bilgi": 1244
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[1] Kitâb-ı Tenbîhü’l-Gāfilîn. Dimeşkī tamâmına. Köhne ciğerî cildli. İki yüz on iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+  "notlar": "",
+  "sayfa_numarasi": "40a",
+  "created_at": "2024-04-22T12:27:39.749680Z",
+  "updated_at": "2025-09-22T17:49:45.673188Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1244,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Köhne ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "212",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T17:49:45.661922Z",
+   "updated_at": "2025-09-22T17:49:45.661949Z",
+   "kayit": 3307,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[33] Kitâb-ı Tenbîhü’l-Gāfilîn. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Hatîbzâde. İki yüz on iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+ "notlar": "",
+ "sayfa_numarasi": "45b",
+ "created_at": "2024-02-10T12:46:31.548299Z",
+ "updated_at": "2026-01-23T11:37:14.959056Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
