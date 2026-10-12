@@ -1,0 +1,147 @@
+{
+ "id": 768,
+ "vakif": [
+  {
+   "id": 1507,
+   "kitap_set": [
+    {
+     "id": 1502,
+     "isim": "Kitâb-ı Meâlimü’t-Tenzîl Cild-i Evvel.",
+     "isim2": null,
+     "disiplin": "",
+     "kapsam": null,
+     "created_at": "2024-02-10T12:45:59.164152Z",
+     "updated_at": "2025-04-06T19:20:16.941929Z",
+     "yazar": {
+      "id": 447,
+      "isim": "Ebû Muhammed Muhyissünne el-Hüseyn b. Mes‘ûd b. Muhammed el-Ferrâ’ el-Begavî",
+      "isim2": "",
+      "dogum_tarihi": null,
+      "dogum_tarihi_hijri": null,
+      "olum_tarihi": null,
+      "olum_tarihi_hijri": null,
+      "created_at": "2024-11-30T19:59:22.771502Z",
+      "updated_at": "2024-11-30T19:59:22.771519Z",
+      "kaynak": null,
+      "created_by": null
+     },
+     "kayit": {
+      "id": 1507,
+      "tam_metin": "[74] Kitâb-ı Meʿâlimü’t-Tenzîl Cild-i Evvel. İlâ âhiri Sûre-i Âli İmrân. Semerkandî tamâmından kırılmış. Kelâm-ı Kadîm sürhle yazılmış. Köhne ciğerî cildle. Vakf-ı Bâzergânzâde. İki yüz doksan sekiz varak.",
+      "tur": "cilt",
+      "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+      "notlar": "",
+      "sayfa_numarasi": "42b",
+      "created_at": "2024-02-10T12:45:58.884415Z",
+      "updated_at": "2026-10-12T06:44:09.680831Z",
+      "vakif": 768,
+      "mustensih": null,
+      "kaynak": 1,
+      "created_by": null,
+      "iliskili_kayit": null,
+      "kodikolojik_bilgi": null
+     },
+     "kaynak": null,
+     "created_by": null
+    }
+   ],
+   "nusha_set": [
+    {
+     "id": 1083,
+     "koleksiyon_numarasi": "458",
+     "nusha": "https://portal.yek.gov.tr/works/detail/238018",
+     "created_at": "2026-05-05T20:49:51.714694Z",
+     "updated_at": "2026-05-05T20:49:51.714717Z",
+     "kutuphane": {
+      "id": 1,
+      "isim": "Süleymaniye Kütüphanesi",
+      "created_at": "2024-08-26T23:54:54.713633Z",
+      "updated_at": "2024-08-26T23:54:54.713655Z",
+      "created_by": 1
+     },
+     "koleksiyon": {
+      "id": 1,
+      "isim": "Fatih",
+      "created_at": "2024-08-26T23:54:45.815225Z",
+      "updated_at": "2024-08-26T23:54:45.815247Z",
+      "kutuphane": 1,
+      "created_by": 1
+     },
+     "kayit": {
+      "id": 1507,
+      "tam_metin": "[74] Kitâb-ı Meʿâlimü’t-Tenzîl Cild-i Evvel. İlâ âhiri Sûre-i Âli İmrân. Semerkandî tamâmından kırılmış. Kelâm-ı Kadîm sürhle yazılmış. Köhne ciğerî cildle. Vakf-ı Bâzergânzâde. İki yüz doksan sekiz varak.",
+      "tur": "cilt",
+      "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+      "notlar": "",
+      "sayfa_numarasi": "42b",
+      "created_at": "2024-02-10T12:45:58.884415Z",
+      "updated_at": "2026-10-12T06:44:09.680831Z",
+      "vakif": 768,
+      "mustensih": null,
+      "kaynak": 1,
+      "created_by": null,
+      "iliskili_kayit": null,
+      "kodikolojik_bilgi": null
+     },
+     "created_by": null
+    }
+   ],
+   "iliskili_kayit": null,
+   "bilgi_set": [],
+   "tam_metin": "[74] Kitâb-ı Meʿâlimü’t-Tenzîl Cild-i Evvel. İlâ âhiri Sûre-i Âli İmrân. Semerkandî tamâmından kırılmış. Kelâm-ı Kadîm sürhle yazılmış. Köhne ciğerî cildle. Vakf-ı Bâzergânzâde. İki yüz doksan sekiz varak.",
+   "tur": "cilt",
+   "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+   "notlar": "",
+   "sayfa_numarasi": "42b",
+   "created_at": "2024-02-10T12:45:58.884415Z",
+   "updated_at": "2026-10-12T06:44:09.680831Z",
+   "vakif": {
+    "id": 768,
+    "isim": "Bâzergânzâde",
+    "isim2": null,
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2026-10-12T06:44:09.676252Z",
+    "updated_at": "2026-10-12T06:44:09.676266Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "mustensih": null,
+   "kaynak": {
+    "id": 1,
+    "isim": "Hacıhasanzade",
+    "tur": "yazma",
+    "kunye_bilgisi": "TSMA. D.9559",
+    "yazma_turu": "arsiv",
+    "link": null,
+    "created_at": "2024-01-29T23:31:13.203668Z",
+    "updated_at": "2024-01-29T23:31:13.203689Z",
+    "kutuphane": null,
+    "created_by": null
+   },
+   "created_by": null,
+   "kodikolojik_bilgi": null
+  }
+ ],
+ "vakif_sayisi": 1,
+ "mustensih": [],
+ "mustensih_sayisi": 0,
+ "yazar": [],
+ "yazar_sayisi": 0,
+ "get_olum_tarihi_from_hijri": null,
+ "get_dogum_tarihi_from_hijri": null,
+ "get_olum_tarihi_from_gregorian": null,
+ "get_dogum_tarihi_from_gregorian": null,
+ "isim": "Bâzergânzâde",
+ "isim2": null,
+ "dogum_tarihi": null,
+ "dogum_tarihi_hijri": null,
+ "olum_tarihi": null,
+ "olum_tarihi_hijri": null,
+ "created_at": "2026-10-12T06:44:09.676252Z",
+ "updated_at": "2026-10-12T06:44:09.676266Z",
+ "kaynak": null,
+ "created_by": null
+}
