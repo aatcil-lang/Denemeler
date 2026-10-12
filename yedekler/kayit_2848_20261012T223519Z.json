@@ -1,0 +1,287 @@
+{
+ "id": 2848,
+ "kitap_set": [
+  {
+   "id": 2831,
+   "isim": "Kitâb-ı Kifâye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:24:17.164820Z",
+   "updated_at": "2025-04-06T19:20:12.895494Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2848,
+    "tam_metin": "[211] Kitâb-ı Kifâye. Kitâb-ı Buyûʿ’dan âhir-i kitâba dek. Bi-hattı Hacı Burhâneddîn bin Hacı Hüsâmeddîn. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. İki yüz seksen üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "21b",
+    "created_at": "2024-04-22T12:24:16.892693Z",
+    "updated_at": "2025-09-07T15:05:38.686577Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 911,
+    "kodikolojik_bilgi": 785
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 911,
+  "kitap_set": [
+   {
+    "id": 907,
+    "isim": "Kitâbü’l-Cildi’l-Ahîr mine’l-Kifâye fî Şerhi’l-Hidâye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:41:36.618930Z",
+    "updated_at": "2025-04-06T19:20:18.974149Z",
+    "yazar": null,
+    "kayit": {
+     "id": 911,
+     "tam_metin": "[38] Kitâbü’l-Cildi’l-Ahîr eydan mine’l-Kifâye fî Şerhi’l-Hidâye. Min evveli Kitâbi’l-Buyûʿ ilâ âhiri’l-kitâb. Bi-hattı Hacı Burhâneddîn bin Hacı Hüsâmeddîn. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz seksen üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "16b",
+     "created_at": "2024-02-10T12:41:36.354225Z",
+     "updated_at": "2026-10-12T21:27:14.349557Z",
+     "vakif": 1,
+     "mustensih": 221,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2848,
+     "kodikolojik_bilgi": 1673
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2848,
+  "bilgi_set": [
+   {
+    "id": 1673,
+    "murekkep_set": [
+     {
+      "id": 1556,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1673
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1348,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1673
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "283",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:27:14.343787Z",
+    "updated_at": "2026-10-12T21:27:14.343805Z",
+    "kayit": {
+     "id": 911,
+     "tam_metin": "[38] Kitâbü’l-Cildi’l-Ahîr eydan mine’l-Kifâye fî Şerhi’l-Hidâye. Min evveli Kitâbi’l-Buyûʿ ilâ âhiri’l-kitâb. Bi-hattı Hacı Burhâneddîn bin Hacı Hüsâmeddîn. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz seksen üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "16b",
+     "created_at": "2024-02-10T12:41:36.354225Z",
+     "updated_at": "2026-10-12T21:27:14.349557Z",
+     "vakif": 1,
+     "mustensih": 221,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2848,
+     "kodikolojik_bilgi": 1673
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[38] Kitâbü’l-Cildi’l-Ahîr eydan mine’l-Kifâye fî Şerhi’l-Hidâye. Min evveli Kitâbi’l-Buyûʿ ilâ âhiri’l-kitâb. Bi-hattı Hacı Burhâneddîn bin Hacı Hüsâmeddîn. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz seksen üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "16b",
+  "created_at": "2024-02-10T12:41:36.354225Z",
+  "updated_at": "2026-10-12T21:27:14.349557Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 221,
+   "isim": "Hacı Burhâneddîn bin Hacı Hüsâmeddîn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-10T13:49:49.382569Z",
+   "updated_at": "2024-09-10T13:49:49.382585Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1673,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "283",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:27:14.343787Z",
+   "updated_at": "2026-10-12T21:27:14.343805Z",
+   "kayit": 911,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 785,
+   "murekkep_set": [
+    {
+     "id": 662,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 785
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 453,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 785
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "283",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-07T15:05:38.673951Z",
+   "updated_at": "2025-09-07T15:05:38.673971Z",
+   "kayit": {
+    "id": 2848,
+    "tam_metin": "[211] Kitâb-ı Kifâye. Kitâb-ı Buyûʿ’dan âhir-i kitâba dek. Bi-hattı Hacı Burhâneddîn bin Hacı Hüsâmeddîn. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. İki yüz seksen üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "21b",
+    "created_at": "2024-04-22T12:24:16.892693Z",
+    "updated_at": "2025-09-07T15:05:38.686577Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 911,
+    "kodikolojik_bilgi": 785
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[211] Kitâb-ı Kifâye. Kitâb-ı Buyûʿ’dan âhir-i kitâba dek. Bi-hattı Hacı Burhâneddîn bin Hacı Hüsâmeddîn. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. İki yüz seksen üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "21b",
+ "created_at": "2024-04-22T12:24:16.892693Z",
+ "updated_at": "2025-09-07T15:05:38.686577Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 785,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Ak kağıt",
+  "varak_adedi": "283",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-07T15:05:38.673951Z",
+  "updated_at": "2025-09-07T15:05:38.673971Z",
+  "kayit": 2848,
+  "created_by": null
+ }
+}
