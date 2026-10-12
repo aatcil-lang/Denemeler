@@ -1,0 +1,327 @@
+{
+ "id": 2678,
+ "kitap_set": [
+  {
+   "id": 2661,
+   "isim": "Kitâb-ı Mecmau’l-Fetâvâ.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:23:05.774577Z",
+   "updated_at": "2025-04-06T19:20:13.374684Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2678,
+    "tam_metin": "[41] Kitâb-ı Mecmaʿu’l-Fetâvâ. Tamâm. Bi-hattı Mustafâ bin Hızır. Dimeşkī tamâmına. Sarı cildli. Yüz altmış varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "15b",
+    "created_at": "2024-04-22T12:23:05.500842Z",
+    "updated_at": "2025-09-02T13:58:22.394006Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 949,
+    "kodikolojik_bilgi": 612
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 245,
+   "koleksiyon_numarasi": "02464",
+   "nusha": "",
+   "created_at": "2024-12-29T08:57:34.259574Z",
+   "updated_at": "2024-12-29T08:57:34.259591Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2678,
+    "tam_metin": "[41] Kitâb-ı Mecmaʿu’l-Fetâvâ. Tamâm. Bi-hattı Mustafâ bin Hızır. Dimeşkī tamâmına. Sarı cildli. Yüz altmış varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "15b",
+    "created_at": "2024-04-22T12:23:05.500842Z",
+    "updated_at": "2025-09-02T13:58:22.394006Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 949,
+    "kodikolojik_bilgi": 612
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 949,
+  "kitap_set": [
+   {
+    "id": 945,
+    "isim": "Kitâb-ı Mecma‘u’l-Fetâvâ.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:41:52.685031Z",
+    "updated_at": "2025-04-06T19:20:18.856517Z",
+    "yazar": null,
+    "kayit": {
+     "id": 949,
+     "tam_metin": "[76] Kitâb-ı Mecmaʿu’l-Fetâvâ eydan. Tamâm. Bi-hattı Mustafâ bin Hızır. Dimeşkī tamâmına. Sarı cildle. Vakf-ı Sultânî. Yüz altmış varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "18a",
+     "created_at": "2024-02-10T12:41:52.426054Z",
+     "updated_at": "2026-10-12T21:28:21.003063Z",
+     "vakif": 1,
+     "mustensih": 227,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2678,
+     "kodikolojik_bilgi": 1711
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2678,
+  "bilgi_set": [
+   {
+    "id": 1711,
+    "murekkep_set": [
+     {
+      "id": 1594,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1711
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1386,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1711
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Sarı cilt",
+    "cild_materyal": "",
+    "varak_adedi": "160",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:28:20.999285Z",
+    "updated_at": "2026-10-12T21:28:20.999301Z",
+    "kayit": {
+     "id": 949,
+     "tam_metin": "[76] Kitâb-ı Mecmaʿu’l-Fetâvâ eydan. Tamâm. Bi-hattı Mustafâ bin Hızır. Dimeşkī tamâmına. Sarı cildle. Vakf-ı Sultânî. Yüz altmış varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "18a",
+     "created_at": "2024-02-10T12:41:52.426054Z",
+     "updated_at": "2026-10-12T21:28:21.003063Z",
+     "vakif": 1,
+     "mustensih": 227,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2678,
+     "kodikolojik_bilgi": 1711
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[76] Kitâb-ı Mecmaʿu’l-Fetâvâ eydan. Tamâm. Bi-hattı Mustafâ bin Hızır. Dimeşkī tamâmına. Sarı cildle. Vakf-ı Sultânî. Yüz altmış varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "18a",
+  "created_at": "2024-02-10T12:41:52.426054Z",
+  "updated_at": "2026-10-12T21:28:21.003063Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 227,
+   "isim": "Mustafâ bin Hızır",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-10T16:04:19.677602Z",
+   "updated_at": "2024-09-10T16:04:19.677623Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1711,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Sarı cilt",
+   "cild_materyal": "",
+   "varak_adedi": "160",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:28:20.999285Z",
+   "updated_at": "2026-10-12T21:28:20.999301Z",
+   "kayit": 949,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 612,
+   "murekkep_set": [
+    {
+     "id": 490,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 612
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 281,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 612
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Sarı cilt",
+   "cild_materyal": "",
+   "varak_adedi": "160",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T13:58:22.386797Z",
+   "updated_at": "2025-09-02T13:58:22.386812Z",
+   "kayit": {
+    "id": 2678,
+    "tam_metin": "[41] Kitâb-ı Mecmaʿu’l-Fetâvâ. Tamâm. Bi-hattı Mustafâ bin Hızır. Dimeşkī tamâmına. Sarı cildli. Yüz altmış varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "15b",
+    "created_at": "2024-04-22T12:23:05.500842Z",
+    "updated_at": "2025-09-02T13:58:22.394006Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 949,
+    "kodikolojik_bilgi": 612
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[41] Kitâb-ı Mecmaʿu’l-Fetâvâ. Tamâm. Bi-hattı Mustafâ bin Hızır. Dimeşkī tamâmına. Sarı cildli. Yüz altmış varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "15b",
+ "created_at": "2024-04-22T12:23:05.500842Z",
+ "updated_at": "2025-09-02T13:58:22.394006Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 612,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Sarı cilt",
+  "cild_materyal": "",
+  "varak_adedi": "160",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-02T13:58:22.386797Z",
+  "updated_at": "2025-09-02T13:58:22.386812Z",
+  "kayit": 2678,
+  "created_by": null
+ }
+}
