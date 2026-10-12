@@ -57,4 +57,9 @@ M2'de açılacak yeni şahıslar, metindeki adla birebir açılacak. Köşeli pa
 ## Sonra birleştirilecek kopya şahıs kayıtları
 
 - Haşşâb: #93 *Muhammed bin Muhammed el-Haşşâb* ve #94 *Muhammed b. Muhammed b. Ali el-Halebî eş-şehîr bi-İbnü’l-Haşşâb*. Üçü de aynı *Şerh-i Kirmânî* nüshasının ciltlerine bağlı (#700, #701, #702).
+- Niʿmetullâh b. Mekkî: #26, #27, #28, #29, #30 ve #31 (yalnızca #31 müstensih olarak kullanılmış; #2372 bu kayda bağlanacak).
 - M3 tablosundaki aynı adlı şahıs kayıtları (ör. “Muhammed bin Halîl”: #131, #230, #384, #204).
+
+## İşleme alınmayan
+
+- #2193 (74a [32] *Gurerü’l-Fevâʾid*): metinde “bi-hattı müʾellifihî” yazıyor, ama eserin müellifi ne metinde ne kitap kaydında belli.

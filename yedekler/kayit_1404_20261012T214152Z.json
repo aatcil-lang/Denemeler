@@ -1,0 +1,248 @@
+{
+ "id": 1404,
+ "kitap_set": [
+  {
+   "id": 1399,
+   "isim": "Kitâb-ı Menâkıbu’l-İmâm el-A‘zam ve Ashâbihî -radıyallâhu Teâlâ anhu ve anhum-.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:11.912573Z",
+   "updated_at": "2025-04-06T19:20:17.241042Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1404,
+    "tam_metin": "[4] Kitâb-ı Menâkıbu’l-İmâm el-Aʿzam ve Ashâbihî radıyallâhu teʿâlâ anhu ve anhum. Evveli levhalı. Evvel varakının zahrı tezhîbli. Dimeşkī tamâmına. Ciğerî cildd[e]. Vakf-ı Sultânî. Yüz altmış üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrikati",
+    "notlar": "",
+    "sayfa_numarasi": "37b",
+    "created_at": "2024-02-10T12:45:11.625069Z",
+    "updated_at": "2024-11-30T12:00:11.099316Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3134,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3134,
+  "kitap_set": [
+   {
+    "id": 3116,
+    "isim": "Kitâb-ı Menâkıb-ı İmâm-ı A‘zam ve Ashâbihî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:21.039520Z",
+    "updated_at": "2025-04-06T19:20:12.082567Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3134,
+     "tam_metin": "[5] Kitâb-ı Menâkıb-ı İmâm-ı Aʿzam ve Ashâbihî. Evveli levhalı ve evvel varakının zahrı müzehheb. Dimeşkī tamâmına. Ciğerî cildli. Yüz altmış üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "32b",
+     "created_at": "2024-04-22T12:26:20.752306Z",
+     "updated_at": "2025-09-21T21:52:18.800642Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1404,
+     "kodikolojik_bilgi": 1071
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 587,
+    "koleksiyon_numarasi": "04491",
+    "nusha": "",
+    "created_at": "2025-01-14T08:17:23.482256Z",
+    "updated_at": "2025-01-14T08:17:23.482275Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3134,
+     "tam_metin": "[5] Kitâb-ı Menâkıb-ı İmâm-ı Aʿzam ve Ashâbihî. Evveli levhalı ve evvel varakının zahrı müzehheb. Dimeşkī tamâmına. Ciğerî cildli. Yüz altmış üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "32b",
+     "created_at": "2024-04-22T12:26:20.752306Z",
+     "updated_at": "2025-09-21T21:52:18.800642Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1404,
+     "kodikolojik_bilgi": 1071
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1404,
+  "bilgi_set": [
+   {
+    "id": 1071,
+    "murekkep_set": [
+     {
+      "id": 949,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1071
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 738,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1071
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Evveli levhalı ve evvel varakının zahrı müzehheb",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "163",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-21T21:52:18.795014Z",
+    "updated_at": "2025-09-21T21:52:18.795037Z",
+    "kayit": {
+     "id": 3134,
+     "tam_metin": "[5] Kitâb-ı Menâkıb-ı İmâm-ı Aʿzam ve Ashâbihî. Evveli levhalı ve evvel varakının zahrı müzehheb. Dimeşkī tamâmına. Ciğerî cildli. Yüz altmış üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "32b",
+     "created_at": "2024-04-22T12:26:20.752306Z",
+     "updated_at": "2025-09-21T21:52:18.800642Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1404,
+     "kodikolojik_bilgi": 1071
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[5] Kitâb-ı Menâkıb-ı İmâm-ı Aʿzam ve Ashâbihî. Evveli levhalı ve evvel varakının zahrı müzehheb. Dimeşkī tamâmına. Ciğerî cildli. Yüz altmış üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+  "notlar": "",
+  "sayfa_numarasi": "32b",
+  "created_at": "2024-04-22T12:26:20.752306Z",
+  "updated_at": "2025-09-21T21:52:18.800642Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1071,
+   "zahriye_exists": true,
+   "zahriye": "Evveli levhalı ve evvel varakının zahrı müzehheb",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "163",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-21T21:52:18.795014Z",
+   "updated_at": "2025-09-21T21:52:18.795037Z",
+   "kayit": 3134,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[4] Kitâb-ı Menâkıbu’l-İmâm el-Aʿzam ve Ashâbihî radıyallâhu teʿâlâ anhu ve anhum. Evveli levhalı. Evvel varakının zahrı tezhîbli. Dimeşkī tamâmına. Ciğerî cildd[e]. Vakf-ı Sultânî. Yüz altmış üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrikati",
+ "notlar": "",
+ "sayfa_numarasi": "37b",
+ "created_at": "2024-02-10T12:45:11.625069Z",
+ "updated_at": "2024-11-30T12:00:11.099316Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

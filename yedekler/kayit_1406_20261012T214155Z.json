@@ -1,0 +1,248 @@
+{
+ "id": 1406,
+ "kitap_set": [
+  {
+   "id": 1401,
+   "isim": "Kitâb-ı Hullasu’l-Hâlisa.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:12.811364Z",
+   "updated_at": "2025-04-06T19:20:17.235105Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1406,
+    "tam_metin": "[6] Kitâb-ı Hullasu’l-Hâlisa. Dimeşkī [ ] kümmî vazʿ olmuş. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yetmiş yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrikati",
+    "notlar": "",
+    "sayfa_numarasi": "37b",
+    "created_at": "2024-02-10T12:45:12.532784Z",
+    "updated_at": "2024-11-30T12:01:39.020618Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3138,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3138,
+  "kitap_set": [
+   {
+    "id": 3120,
+    "isim": "Kitâb-ı Hullasu’l-Hâlisa.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:22.832231Z",
+    "updated_at": "2025-04-06T19:20:12.069516Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3138,
+     "tam_metin": "[9] Kitâb-ı Hullasu’l-Hâlisa. Kümmî. Yeşil kâğıd mukavvâ cildli. Yetmiş yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "32b",
+     "created_at": "2024-04-22T12:26:22.559646Z",
+     "updated_at": "2025-09-21T21:58:11.661477Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1406,
+     "kodikolojik_bilgi": 1075
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 589,
+    "koleksiyon_numarasi": "02612",
+    "nusha": "",
+    "created_at": "2025-01-14T08:20:52.615971Z",
+    "updated_at": "2025-01-14T08:20:52.615990Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3138,
+     "tam_metin": "[9] Kitâb-ı Hullasu’l-Hâlisa. Kümmî. Yeşil kâğıd mukavvâ cildli. Yetmiş yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "32b",
+     "created_at": "2024-04-22T12:26:22.559646Z",
+     "updated_at": "2025-09-21T21:58:11.661477Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1406,
+     "kodikolojik_bilgi": 1075
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1406,
+  "bilgi_set": [
+   {
+    "id": 1075,
+    "murekkep_set": [
+     {
+      "id": 953,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1075
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 742,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1075
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "77",
+    "kagit_turu": "",
+    "aciklama": "",
+    "kagit_ebadi": "",
+    "kagit_sekli": "Kümmî",
+    "note": "",
+    "created_at": "2025-09-21T21:58:11.656739Z",
+    "updated_at": "2025-09-21T21:58:11.656766Z",
+    "kayit": {
+     "id": 3138,
+     "tam_metin": "[9] Kitâb-ı Hullasu’l-Hâlisa. Kümmî. Yeşil kâğıd mukavvâ cildli. Yetmiş yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "32b",
+     "created_at": "2024-04-22T12:26:22.559646Z",
+     "updated_at": "2025-09-21T21:58:11.661477Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1406,
+     "kodikolojik_bilgi": 1075
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[9] Kitâb-ı Hullasu’l-Hâlisa. Kümmî. Yeşil kâğıd mukavvâ cildli. Yetmiş yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+  "notlar": "",
+  "sayfa_numarasi": "32b",
+  "created_at": "2024-04-22T12:26:22.559646Z",
+  "updated_at": "2025-09-21T21:58:11.661477Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1075,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "77",
+   "kagit_turu": "",
+   "aciklama": "",
+   "kagit_ebadi": "",
+   "kagit_sekli": "Kümmî",
+   "note": "",
+   "created_at": "2025-09-21T21:58:11.656739Z",
+   "updated_at": "2025-09-21T21:58:11.656766Z",
+   "kayit": 3138,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[6] Kitâb-ı Hullasu’l-Hâlisa. Dimeşkī [ ] kümmî vazʿ olmuş. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yetmiş yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrikati",
+ "notlar": "",
+ "sayfa_numarasi": "37b",
+ "created_at": "2024-02-10T12:45:12.532784Z",
+ "updated_at": "2024-11-30T12:01:39.020618Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

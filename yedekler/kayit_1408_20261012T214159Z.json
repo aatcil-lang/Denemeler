@@ -1,0 +1,208 @@
+{
+ "id": 1408,
+ "kitap_set": [
+  {
+   "id": 1403,
+   "isim": "Kitâb-ı Avârifü’l-Maârif.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:13.732058Z",
+   "updated_at": "2025-04-06T19:20:17.229314Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1408,
+    "tam_metin": "[8] Kitâb-ı Avârifü’l-Maʿârif. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Yüz doksan varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrikati",
+    "notlar": "",
+    "sayfa_numarasi": "37b",
+    "created_at": "2024-02-10T12:45:13.448948Z",
+    "updated_at": "2024-11-30T12:03:31.369929Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3133,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3133,
+  "kitap_set": [
+   {
+    "id": 3115,
+    "isim": "Kitâb-ı Avârifü’l-Maârif.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:20.555638Z",
+    "updated_at": "2025-04-06T19:20:12.086000Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3133,
+     "tam_metin": "[4] Kitâb-ı Avârifü’l-Maʿârif. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz doksan varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "32b",
+     "created_at": "2024-04-22T12:26:20.275086Z",
+     "updated_at": "2025-09-21T21:51:18.463914Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1408,
+     "kodikolojik_bilgi": 1070
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1408,
+  "bilgi_set": [
+   {
+    "id": 1070,
+    "murekkep_set": [
+     {
+      "id": 948,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1070
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 737,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1070
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "190",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-21T21:51:18.459224Z",
+    "updated_at": "2025-09-21T21:51:18.459248Z",
+    "kayit": {
+     "id": 3133,
+     "tam_metin": "[4] Kitâb-ı Avârifü’l-Maʿârif. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz doksan varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "32b",
+     "created_at": "2024-04-22T12:26:20.275086Z",
+     "updated_at": "2025-09-21T21:51:18.463914Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1408,
+     "kodikolojik_bilgi": 1070
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[4] Kitâb-ı Avârifü’l-Maʿârif. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz doksan varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+  "notlar": "",
+  "sayfa_numarasi": "32b",
+  "created_at": "2024-04-22T12:26:20.275086Z",
+  "updated_at": "2025-09-21T21:51:18.463914Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1070,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "190",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-21T21:51:18.459224Z",
+   "updated_at": "2025-09-21T21:51:18.459248Z",
+   "kayit": 3133,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[8] Kitâb-ı Avârifü’l-Maʿârif. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Yüz doksan varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrikati",
+ "notlar": "",
+ "sayfa_numarasi": "37b",
+ "created_at": "2024-02-10T12:45:13.448948Z",
+ "updated_at": "2024-11-30T12:03:31.369929Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
