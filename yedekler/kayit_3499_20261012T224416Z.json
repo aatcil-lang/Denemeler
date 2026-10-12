@@ -1,0 +1,299 @@
+{
+ "id": 3499,
+ "kitap_set": [
+  {
+   "id": 3481,
+   "isim": "Kitâb-ı Şerh-i Kasîde-i Bürde.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:45:15.928472Z",
+   "updated_at": "2025-04-06T19:20:11.027017Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3499,
+    "tam_metin": "[14] Kitâb-ı Şerh-i Kasîde-i Bürde min müʾellefâtı el-Mevla el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî. Dimeşkī nısfına. Sarı kâğıd mukavvâ cildli. Yüz yirmi dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi'l Müteferrika",
+    "notlar": "",
+    "sayfa_numarasi": "46a",
+    "created_at": "2024-04-22T12:45:15.651246Z",
+    "updated_at": "2025-09-25T08:34:15.978236Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1964,
+    "kodikolojik_bilgi": 1392
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 1964,
+  "kitap_set": [
+   {
+    "id": 1956,
+    "isim": "Kitâb-ı Şerhü Kasîdeti’l-Bürdeti’l-Mübâreke.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:49:30.898700Z",
+    "updated_at": "2025-04-06T19:20:15.512291Z",
+    "yazar": {
+     "id": 11,
+     "isim": "Mevlânâ Musannifek",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-04-22T11:53:25.702212Z",
+     "updated_at": "2024-04-22T11:53:25.702230Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1964,
+     "tam_metin": "[22] Kitâb-ı Şerhu Kasîdeti’l-Bürdeti’l-Mübâreke li-Musannifek. Bi-hattı Musannifek. Dimeşkī nısfına. Sarı kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yüz yirmi dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "62a",
+     "created_at": "2024-02-10T12:49:30.608458Z",
+     "updated_at": "2026-10-12T21:58:33.057214Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3499,
+     "kodikolojik_bilgi": 2708
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 3499,
+  "bilgi_set": [
+   {
+    "id": 2708,
+    "murekkep_set": [
+     {
+      "id": 2591,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 2708
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 2383,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 2708
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Sarı kağıt",
+    "varak_adedi": "129",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:58:33.052407Z",
+    "updated_at": "2026-10-12T21:58:33.052423Z",
+    "kayit": {
+     "id": 1964,
+     "tam_metin": "[22] Kitâb-ı Şerhu Kasîdeti’l-Bürdeti’l-Mübâreke li-Musannifek. Bi-hattı Musannifek. Dimeşkī nısfına. Sarı kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yüz yirmi dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "62a",
+     "created_at": "2024-02-10T12:49:30.608458Z",
+     "updated_at": "2026-10-12T21:58:33.057214Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3499,
+     "kodikolojik_bilgi": 2708
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[22] Kitâb-ı Şerhu Kasîdeti’l-Bürdeti’l-Mübâreke li-Musannifek. Bi-hattı Musannifek. Dimeşkī nısfına. Sarı kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yüz yirmi dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+  "notlar": "",
+  "sayfa_numarasi": "62a",
+  "created_at": "2024-02-10T12:49:30.608458Z",
+  "updated_at": "2026-10-12T21:58:33.057214Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 2708,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Sarı kağıt",
+   "varak_adedi": "129",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:58:33.052407Z",
+   "updated_at": "2026-10-12T21:58:33.052423Z",
+   "kayit": 1964,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 1392,
+   "murekkep_set": [
+    {
+     "id": 1269,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1392
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 1058,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1392
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Sarı kağıt",
+   "varak_adedi": "129",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-25T08:34:15.968478Z",
+   "updated_at": "2025-09-25T08:34:15.968501Z",
+   "kayit": {
+    "id": 3499,
+    "tam_metin": "[14] Kitâb-ı Şerh-i Kasîde-i Bürde min müʾellefâtı el-Mevla el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî. Dimeşkī nısfına. Sarı kâğıd mukavvâ cildli. Yüz yirmi dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi'l Müteferrika",
+    "notlar": "",
+    "sayfa_numarasi": "46a",
+    "created_at": "2024-04-22T12:45:15.651246Z",
+    "updated_at": "2025-09-25T08:34:15.978236Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1964,
+    "kodikolojik_bilgi": 1392
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[14] Kitâb-ı Şerh-i Kasîde-i Bürde min müʾellefâtı el-Mevla el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî. Dimeşkī nısfına. Sarı kâğıd mukavvâ cildli. Yüz yirmi dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi'l Müteferrika",
+ "notlar": "",
+ "sayfa_numarasi": "46a",
+ "created_at": "2024-04-22T12:45:15.651246Z",
+ "updated_at": "2025-09-25T08:34:15.978236Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1392,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Sarı kağıt",
+  "varak_adedi": "129",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Nısfına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-25T08:34:15.968478Z",
+  "updated_at": "2025-09-25T08:34:15.968501Z",
+  "kayit": 3499,
+  "created_by": null
+ }
+}
