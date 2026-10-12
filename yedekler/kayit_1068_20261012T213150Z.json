@@ -1,0 +1,260 @@
+{
+ "id": 1068,
+ "kitap_set": [
+  {
+   "id": 1063,
+   "isim": "Kitâb-ı Metnü’l-Vikāye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:42.534309Z",
+   "updated_at": "2025-04-06T19:20:18.452639Z",
+   "yazar": {
+    "id": 286,
+    "isim": "Burhânüşşerîa Mahmûd b. Sadrüşşerîa el-Evvel Ubeydullah el-Mahbûbî el-Buhârî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-11T18:09:30.803364Z",
+    "updated_at": "2024-09-11T18:09:30.803378Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1068,
+    "tam_metin": "[195] Kitâb-ı Metnü’l-Vikāye eydan. Tamâm. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Dimeşkī tamâmından kırılmış. Müzehheb sarı cildle. Vakf-ı Sultânî. Yüz seksen dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "23a",
+    "created_at": "2024-02-10T12:42:42.280762Z",
+    "updated_at": "2024-09-18T11:37:06.279636Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2695,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2695,
+  "kitap_set": [
+   {
+    "id": 2678,
+    "isim": "Kitâb-ı Vikāye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:12.904565Z",
+    "updated_at": "2025-04-06T19:20:13.322607Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2695,
+     "tam_metin": "[58] Kitâb-ı Vikāye. Min Evvelihî ilâ âhirihî musahhah ve mukayyed. Dimeşkī tamâmından kırılmış. Müzehheb sarı cildli. Yüz seksen dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "16a",
+     "created_at": "2024-04-22T12:23:12.638929Z",
+     "updated_at": "2025-09-02T15:37:26.145071Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1068,
+     "kodikolojik_bilgi": 629
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 258,
+    "koleksiyon_numarasi": "02224",
+    "nusha": "",
+    "created_at": "2024-12-29T09:40:02.232542Z",
+    "updated_at": "2024-12-29T09:40:02.232568Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2695,
+     "tam_metin": "[58] Kitâb-ı Vikāye. Min Evvelihî ilâ âhirihî musahhah ve mukayyed. Dimeşkī tamâmından kırılmış. Müzehheb sarı cildli. Yüz seksen dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "16a",
+     "created_at": "2024-04-22T12:23:12.638929Z",
+     "updated_at": "2025-09-02T15:37:26.145071Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1068,
+     "kodikolojik_bilgi": 629
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1068,
+  "bilgi_set": [
+   {
+    "id": 629,
+    "murekkep_set": [
+     {
+      "id": 507,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 629
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 298,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 629
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Müzehheb sarı cilt",
+    "cild_materyal": "",
+    "varak_adedi": "189",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T15:37:26.140984Z",
+    "updated_at": "2025-09-02T15:37:26.141000Z",
+    "kayit": {
+     "id": 2695,
+     "tam_metin": "[58] Kitâb-ı Vikāye. Min Evvelihî ilâ âhirihî musahhah ve mukayyed. Dimeşkī tamâmından kırılmış. Müzehheb sarı cildli. Yüz seksen dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "16a",
+     "created_at": "2024-04-22T12:23:12.638929Z",
+     "updated_at": "2025-09-02T15:37:26.145071Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1068,
+     "kodikolojik_bilgi": 629
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[58] Kitâb-ı Vikāye. Min Evvelihî ilâ âhirihî musahhah ve mukayyed. Dimeşkī tamâmından kırılmış. Müzehheb sarı cildli. Yüz seksen dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "16a",
+  "created_at": "2024-04-22T12:23:12.638929Z",
+  "updated_at": "2025-09-02T15:37:26.145071Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 629,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Müzehheb sarı cilt",
+   "cild_materyal": "",
+   "varak_adedi": "189",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T15:37:26.140984Z",
+   "updated_at": "2025-09-02T15:37:26.141000Z",
+   "kayit": 2695,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[195] Kitâb-ı Metnü’l-Vikāye eydan. Tamâm. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Dimeşkī tamâmından kırılmış. Müzehheb sarı cildle. Vakf-ı Sultânî. Yüz seksen dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "23a",
+ "created_at": "2024-02-10T12:42:42.280762Z",
+ "updated_at": "2024-09-18T11:37:06.279636Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
