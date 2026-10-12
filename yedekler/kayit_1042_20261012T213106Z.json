@@ -1,0 +1,260 @@
+{
+ "id": 1042,
+ "kitap_set": [
+  {
+   "id": 1037,
+   "isim": "Kitâb-ı Metnü’l-Bihâri’z-Zâhire.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:31.622471Z",
+   "updated_at": "2025-04-06T19:20:18.544691Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1042,
+    "tam_metin": "[169] Kitâb-ı Metnü’l-Bihâri’z-Zâhire eydan. Tamâm. Bi-hattı Saʿdeddîn bin Ahmed. Fî evvelihî cüzʾün yeştemilü alâ Şerhi Kavâʿidi’l-Bihâri’z-Zâhira. Bile cild olmuş. Haşebî nısfına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz elli sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "22a",
+    "created_at": "2024-02-10T12:42:31.368038Z",
+    "updated_at": "2024-09-21T15:51:20.829924Z",
+    "vakif": 1,
+    "mustensih": 270,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2843,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2843,
+  "kitap_set": [
+   {
+    "id": 2826,
+    "isim": "Kitâb-ı Bihâr-ı Manzûm?.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:15.012115Z",
+    "updated_at": "2025-04-06T19:20:12.910581Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2843,
+     "tam_metin": "[206] Kitâb-ı Bihâr-ı Manzûm?. Bi-hattı Saʿdeddîn bin Ahmed. Evvelinde bir cüz Metn-i Bihâr’ın kavâʿid[i] şerh yazılıp bile cild olmuş. Haşebî nısfına. Yeşil kâğıd mukavvâ cildli. İki yüz elli sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21a",
+     "created_at": "2024-04-22T12:24:14.738198Z",
+     "updated_at": "2025-09-07T15:01:03.669468Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1042,
+     "kodikolojik_bilgi": 780
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 383,
+    "koleksiyon_numarasi": "01496",
+    "nusha": "",
+    "created_at": "2025-01-11T19:59:00.574893Z",
+    "updated_at": "2025-01-11T19:59:00.574911Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2843,
+     "tam_metin": "[206] Kitâb-ı Bihâr-ı Manzûm?. Bi-hattı Saʿdeddîn bin Ahmed. Evvelinde bir cüz Metn-i Bihâr’ın kavâʿid[i] şerh yazılıp bile cild olmuş. Haşebî nısfına. Yeşil kâğıd mukavvâ cildli. İki yüz elli sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21a",
+     "created_at": "2024-04-22T12:24:14.738198Z",
+     "updated_at": "2025-09-07T15:01:03.669468Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1042,
+     "kodikolojik_bilgi": 780
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1042,
+  "bilgi_set": [
+   {
+    "id": 780,
+    "murekkep_set": [
+     {
+      "id": 657,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 780
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 448,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 780
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "258",
+    "kagit_turu": "Haşebî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-07T15:01:03.666043Z",
+    "updated_at": "2025-09-07T15:01:03.666058Z",
+    "kayit": {
+     "id": 2843,
+     "tam_metin": "[206] Kitâb-ı Bihâr-ı Manzûm?. Bi-hattı Saʿdeddîn bin Ahmed. Evvelinde bir cüz Metn-i Bihâr’ın kavâʿid[i] şerh yazılıp bile cild olmuş. Haşebî nısfına. Yeşil kâğıd mukavvâ cildli. İki yüz elli sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21a",
+     "created_at": "2024-04-22T12:24:14.738198Z",
+     "updated_at": "2025-09-07T15:01:03.669468Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1042,
+     "kodikolojik_bilgi": 780
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[206] Kitâb-ı Bihâr-ı Manzûm?. Bi-hattı Saʿdeddîn bin Ahmed. Evvelinde bir cüz Metn-i Bihâr’ın kavâʿid[i] şerh yazılıp bile cild olmuş. Haşebî nısfına. Yeşil kâğıd mukavvâ cildli. İki yüz elli sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "21a",
+  "created_at": "2024-04-22T12:24:14.738198Z",
+  "updated_at": "2025-09-07T15:01:03.669468Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 780,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "258",
+   "kagit_turu": "Haşebî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-07T15:01:03.666043Z",
+   "updated_at": "2025-09-07T15:01:03.666058Z",
+   "kayit": 2843,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[169] Kitâb-ı Metnü’l-Bihâri’z-Zâhire eydan. Tamâm. Bi-hattı Saʿdeddîn bin Ahmed. Fî evvelihî cüzʾün yeştemilü alâ Şerhi Kavâʿidi’l-Bihâri’z-Zâhira. Bile cild olmuş. Haşebî nısfına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz elli sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "22a",
+ "created_at": "2024-02-10T12:42:31.368038Z",
+ "updated_at": "2024-09-21T15:51:20.829924Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 270,
+  "isim": "Saʿdeddîn bin Ahmed",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-09-11T16:16:50.946178Z",
+  "updated_at": "2024-09-11T16:16:50.946194Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
