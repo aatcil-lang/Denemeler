@@ -1,0 +1,266 @@
+{
+ "id": 1033,
+ "kitap_set": [
+  {
+   "id": 1029,
+   "isim": "Kitâbü’l-İhtiyâr fî Şerhi’l-Muhtâr.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:27.937533Z",
+   "updated_at": "2025-04-06T19:20:18.571590Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1033,
+    "tam_metin": "[160] Kitâbü’l-İhtiyâr eydan fî Şerhi’l-Muhtâr. Tamâm. Bi-hattı Îsâ bin Ali er-Rûmî. Evvel varakının zahrı halle mücedvel ve laciverd ile muharrer. İçinde kitâbın ismi ve müʾellifinin adı yazılmış. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz yirmi yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "21b",
+    "created_at": "2024-02-10T12:42:27.668069Z",
+    "updated_at": "2024-09-14T14:04:31.131230Z",
+    "vakif": 1,
+    "mustensih": 265,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2676,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2676,
+  "kitap_set": [
+   {
+    "id": 2659,
+    "isim": "Kitâb-ı İhtiyâr.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:04.910568Z",
+    "updated_at": "2025-04-06T19:20:13.381244Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2676,
+     "tam_metin": "[39] Kitâb-ı İhtiyâr. Tamâm. Bi-hattı Îsâ bin Ali er-Rûmî. Evvel varakının zahrı halle mücedvel ve lâciverd ile muharrer. İçinde kitâbın ismi ve müʾellifinin adı yazılmış. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz yirmi yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15b",
+     "created_at": "2024-04-22T12:23:04.642401Z",
+     "updated_at": "2025-11-05T20:16:49.905496Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1033,
+     "kodikolojik_bilgi": 610
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 244,
+    "koleksiyon_numarasi": "02260",
+    "nusha": "",
+    "created_at": "2024-12-29T08:56:17.645089Z",
+    "updated_at": "2024-12-29T08:56:17.645109Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2676,
+     "tam_metin": "[39] Kitâb-ı İhtiyâr. Tamâm. Bi-hattı Îsâ bin Ali er-Rûmî. Evvel varakının zahrı halle mücedvel ve lâciverd ile muharrer. İçinde kitâbın ismi ve müʾellifinin adı yazılmış. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz yirmi yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15b",
+     "created_at": "2024-04-22T12:23:04.642401Z",
+     "updated_at": "2025-11-05T20:16:49.905496Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1033,
+     "kodikolojik_bilgi": 610
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1033,
+  "bilgi_set": [
+   {
+    "id": 610,
+    "murekkep_set": [
+     {
+      "id": 488,
+      "renk": "lacivert",
+      "ilgili_ibare": "Evvel varakının zahrı halle mücedvel ve lâciverd ile muharrer",
+      "kodikolojik_bilgi": 610
+     }
+    ],
+    "cedvel_set": [
+     {
+      "id": 46,
+      "detay": "Evvel varakının zahrı halle mücedvel",
+      "kodikolojik_bilgi": 610
+     }
+    ],
+    "hatt_set": [
+     {
+      "id": 279,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 610
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Evvel varakının zahrı halle mücedvel ve lâciverd ile muharrer İçinde kitâbın ismi ve müʾellifinin adı yazılmış",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "327",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T13:56:11.266368Z",
+    "updated_at": "2025-11-05T20:16:49.900308Z",
+    "kayit": {
+     "id": 2676,
+     "tam_metin": "[39] Kitâb-ı İhtiyâr. Tamâm. Bi-hattı Îsâ bin Ali er-Rûmî. Evvel varakının zahrı halle mücedvel ve lâciverd ile muharrer. İçinde kitâbın ismi ve müʾellifinin adı yazılmış. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz yirmi yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15b",
+     "created_at": "2024-04-22T12:23:04.642401Z",
+     "updated_at": "2025-11-05T20:16:49.905496Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1033,
+     "kodikolojik_bilgi": 610
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[39] Kitâb-ı İhtiyâr. Tamâm. Bi-hattı Îsâ bin Ali er-Rûmî. Evvel varakının zahrı halle mücedvel ve lâciverd ile muharrer. İçinde kitâbın ismi ve müʾellifinin adı yazılmış. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz yirmi yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "15b",
+  "created_at": "2024-04-22T12:23:04.642401Z",
+  "updated_at": "2025-11-05T20:16:49.905496Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 610,
+   "zahriye_exists": true,
+   "zahriye": "Evvel varakının zahrı halle mücedvel ve lâciverd ile muharrer İçinde kitâbın ismi ve müʾellifinin adı yazılmış",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "327",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T13:56:11.266368Z",
+   "updated_at": "2025-11-05T20:16:49.900308Z",
+   "kayit": 2676,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[160] Kitâbü’l-İhtiyâr eydan fî Şerhi’l-Muhtâr. Tamâm. Bi-hattı Îsâ bin Ali er-Rûmî. Evvel varakının zahrı halle mücedvel ve laciverd ile muharrer. İçinde kitâbın ismi ve müʾellifinin adı yazılmış. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz yirmi yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "21b",
+ "created_at": "2024-02-10T12:42:27.668069Z",
+ "updated_at": "2024-09-14T14:04:31.131230Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 265,
+  "isim": "Îsâ bin Ali er-Rûmî",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-09-11T15:35:43.275839Z",
+  "updated_at": "2024-09-11T15:35:43.275855Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

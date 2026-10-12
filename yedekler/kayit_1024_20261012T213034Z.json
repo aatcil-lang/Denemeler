@@ -1,0 +1,272 @@
+{
+ "id": 1024,
+ "kitap_set": [
+  {
+   "id": 1020,
+   "isim": "Kitâb-ı Cildün mine’l-Muhît.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:24.185352Z",
+   "updated_at": "2025-04-06T19:20:18.602820Z",
+   "yazar": {
+    "id": 260,
+    "isim": "Mergīnânî, Burhânüddîn (Burhânü’ş-Şerîa) Mahmûd b. Ahmed b. Abdilazîz el-Buhârî el-Mergīnânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-11T12:52:50.030434Z",
+    "updated_at": "2024-09-11T12:52:50.030450Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1024,
+    "tam_metin": "[151] Kitâb-ı Cildün mine’l-Muhît eydan. Min evveli’l-Fasli’s-Sâdis Aşer في الجمع بين الكفالة والوكالة في الخصومة ilâ âhiri kavlihî الولاء كله للمضارب. Bi-hattı Ömer bin Muhammed bin Ömer en-Nesefî. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz kırk beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "21a",
+    "created_at": "2024-02-10T12:42:23.923532Z",
+    "updated_at": "2024-09-24T11:33:36.845306Z",
+    "vakif": 1,
+    "mustensih": 261,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2907,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2907,
+  "kitap_set": [
+   {
+    "id": 2890,
+    "isim": "Kitâb-ı Muhît.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:42.253200Z",
+    "updated_at": "2025-04-06T19:20:12.732843Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2907,
+     "tam_metin": "[270] Kitâb-ı Muhît. el-Faslu’s-Sâdis Aşer fi’l-Cemʿi beyne’l-Kefâleti ve’l-Vekâleti fi’l-Husûmeti ibâretinden الولاء كله للمضارب ibâretine dek. Bi-hattı Ömer bin Muhammed bin Ömer en-Nesefî. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz kırk beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24a",
+     "created_at": "2024-04-22T12:24:41.989611Z",
+     "updated_at": "2025-09-10T09:19:42.108300Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1024,
+     "kodikolojik_bilgi": 844
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 437,
+    "koleksiyon_numarasi": "02118",
+    "nusha": "",
+    "created_at": "2025-01-12T14:52:49.773140Z",
+    "updated_at": "2025-01-12T14:52:49.773157Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2907,
+     "tam_metin": "[270] Kitâb-ı Muhît. el-Faslu’s-Sâdis Aşer fi’l-Cemʿi beyne’l-Kefâleti ve’l-Vekâleti fi’l-Husûmeti ibâretinden الولاء كله للمضارب ibâretine dek. Bi-hattı Ömer bin Muhammed bin Ömer en-Nesefî. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz kırk beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24a",
+     "created_at": "2024-04-22T12:24:41.989611Z",
+     "updated_at": "2025-09-10T09:19:42.108300Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1024,
+     "kodikolojik_bilgi": 844
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1024,
+  "bilgi_set": [
+   {
+    "id": 844,
+    "murekkep_set": [
+     {
+      "id": 722,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 844
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 512,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 844
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "245",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Rub'undan kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T09:19:42.103685Z",
+    "updated_at": "2025-09-10T09:19:42.103703Z",
+    "kayit": {
+     "id": 2907,
+     "tam_metin": "[270] Kitâb-ı Muhît. el-Faslu’s-Sâdis Aşer fi’l-Cemʿi beyne’l-Kefâleti ve’l-Vekâleti fi’l-Husûmeti ibâretinden الولاء كله للمضارب ibâretine dek. Bi-hattı Ömer bin Muhammed bin Ömer en-Nesefî. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz kırk beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24a",
+     "created_at": "2024-04-22T12:24:41.989611Z",
+     "updated_at": "2025-09-10T09:19:42.108300Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1024,
+     "kodikolojik_bilgi": 844
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[270] Kitâb-ı Muhît. el-Faslu’s-Sâdis Aşer fi’l-Cemʿi beyne’l-Kefâleti ve’l-Vekâleti fi’l-Husûmeti ibâretinden الولاء كله للمضارب ibâretine dek. Bi-hattı Ömer bin Muhammed bin Ömer en-Nesefî. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz kırk beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "24a",
+  "created_at": "2024-04-22T12:24:41.989611Z",
+  "updated_at": "2025-09-10T09:19:42.108300Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 844,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "245",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Rub'undan kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T09:19:42.103685Z",
+   "updated_at": "2025-09-10T09:19:42.103703Z",
+   "kayit": 2907,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[151] Kitâb-ı Cildün mine’l-Muhît eydan. Min evveli’l-Fasli’s-Sâdis Aşer في الجمع بين الكفالة والوكالة في الخصومة ilâ âhiri kavlihî الولاء كله للمضارب. Bi-hattı Ömer bin Muhammed bin Ömer en-Nesefî. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz kırk beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "21a",
+ "created_at": "2024-02-10T12:42:23.923532Z",
+ "updated_at": "2024-09-24T11:33:36.845306Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 261,
+  "isim": "Ömer bin Muhammed bin Ömer en-Nesefî",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-09-11T13:00:44.799759Z",
+  "updated_at": "2024-09-11T13:00:44.799776Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

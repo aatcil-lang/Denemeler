@@ -1,0 +1,260 @@
+{
+ "id": 1028,
+ "kitap_set": [
+  {
+   "id": 1024,
+   "isim": "Kitâb-ı Cildün min Muhîti’s-Serahsî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:25.841607Z",
+   "updated_at": "2025-04-06T19:20:18.589135Z",
+   "yazar": {
+    "id": 263,
+    "isim": "Serahsî, Ebû Abdillâh Radıyyüddîn Burhânü’l-İslâm Muhammed b. Muhammed es-Serahsî et-Tûsânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-11T13:53:04.680366Z",
+    "updated_at": "2024-09-11T13:53:04.680381Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1028,
+    "tam_metin": "[155] Kitâb-ı Cildün min Muhîti’s-Serahsî. Min evveli’l-Havâle ilâ âhiri’l-Ferâʾiz. Semerkandî tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz otuz sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "21b",
+    "created_at": "2024-02-10T12:42:25.580377Z",
+    "updated_at": "2024-09-24T11:37:43.783229Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2911,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2911,
+  "kitap_set": [
+   {
+    "id": 2894,
+    "isim": "Kitâb-ı Muhît-i Serahsî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:43.970388Z",
+    "updated_at": "2025-04-06T19:20:12.721765Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2911,
+     "tam_metin": "[274] Kitâb-ı Muhît-i Serahsî. Havâle’den âhir-i Ferâʾiz’e dek. Semerkandî tamâmından kırılmış. Ciğerî cildli. İki yüz otuz sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24a",
+     "created_at": "2024-04-22T12:24:43.706566Z",
+     "updated_at": "2025-09-10T09:31:27.017238Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1028,
+     "kodikolojik_bilgi": 848
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 440,
+    "koleksiyon_numarasi": "02106",
+    "nusha": "",
+    "created_at": "2025-01-12T14:56:02.528856Z",
+    "updated_at": "2025-01-12T14:56:02.528881Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2911,
+     "tam_metin": "[274] Kitâb-ı Muhît-i Serahsî. Havâle’den âhir-i Ferâʾiz’e dek. Semerkandî tamâmından kırılmış. Ciğerî cildli. İki yüz otuz sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24a",
+     "created_at": "2024-04-22T12:24:43.706566Z",
+     "updated_at": "2025-09-10T09:31:27.017238Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1028,
+     "kodikolojik_bilgi": 848
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1028,
+  "bilgi_set": [
+   {
+    "id": 848,
+    "murekkep_set": [
+     {
+      "id": 726,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 848
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 516,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 848
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "238",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T09:31:27.010075Z",
+    "updated_at": "2025-09-10T09:31:27.011441Z",
+    "kayit": {
+     "id": 2911,
+     "tam_metin": "[274] Kitâb-ı Muhît-i Serahsî. Havâle’den âhir-i Ferâʾiz’e dek. Semerkandî tamâmından kırılmış. Ciğerî cildli. İki yüz otuz sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24a",
+     "created_at": "2024-04-22T12:24:43.706566Z",
+     "updated_at": "2025-09-10T09:31:27.017238Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1028,
+     "kodikolojik_bilgi": 848
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[274] Kitâb-ı Muhît-i Serahsî. Havâle’den âhir-i Ferâʾiz’e dek. Semerkandî tamâmından kırılmış. Ciğerî cildli. İki yüz otuz sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "24a",
+  "created_at": "2024-04-22T12:24:43.706566Z",
+  "updated_at": "2025-09-10T09:31:27.017238Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 848,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "238",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T09:31:27.010075Z",
+   "updated_at": "2025-09-10T09:31:27.011441Z",
+   "kayit": 2911,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[155] Kitâb-ı Cildün min Muhîti’s-Serahsî. Min evveli’l-Havâle ilâ âhiri’l-Ferâʾiz. Semerkandî tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz otuz sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "21b",
+ "created_at": "2024-02-10T12:42:25.580377Z",
+ "updated_at": "2024-09-24T11:37:43.783229Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

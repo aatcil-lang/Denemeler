@@ -1,0 +1,220 @@
+{
+ "id": 1025,
+ "kitap_set": [
+  {
+   "id": 1021,
+   "isim": "Kitâb-ı Cildün mine’l-Muhît.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:24.592946Z",
+   "updated_at": "2025-04-06T19:20:18.599099Z",
+   "yazar": {
+    "id": 260,
+    "isim": "Mergīnânî, Burhânüddîn (Burhânü’ş-Şerîa) Mahmûd b. Ahmed b. Abdilazîz el-Buhârî el-Mergīnânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-11T12:52:50.030434Z",
+    "updated_at": "2024-09-11T12:52:50.030450Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1025,
+    "tam_metin": "[152] Kitâb-ı Cildün mine’l-Muhît eydan. Evveli ebter. Min evveli kavlihî إذا قال لآخر إشترى مني عبدي هذا الذي في يدك   ilâ âhiri kavlihî من عليه الدراهم إذا وكل رجلا أن يقضي  دينه ودفع إليه الدراهم إن رب  الدين وهب الدين من الوكيل وسلطه على قبضه حتى جازت الهبة إستحسانا كان للوكيل أن يحبس  ما في يده بذلك الدين. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Üç yüz kırk iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "21a",
+    "created_at": "2024-02-10T12:42:24.333989Z",
+    "updated_at": "2024-09-24T11:31:10.000634Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2905,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2905,
+  "kitap_set": [
+   {
+    "id": 2888,
+    "isim": "Kitâb-ı Muhît.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:41.372681Z",
+    "updated_at": "2025-04-06T19:20:12.738303Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2905,
+     "tam_metin": "[268] Kitâb-ı Muhît. Evveli ebter. إذا قال لآخر إشترى مني هذا الذي في يديك ibâretinden من عليه الدراهم إذا وكّل رجلا أن يقتضي دينه ودفع إليه الدراهم ثم إن رب العالمين  الدين وهب الدين من الوكيل وسلطه على قبضه حتى جازت الهبة إستحسانا كان للوكيل أن يجلس  ما في يده بذلك الدين ibâretine dek. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. Üç yüz kırk iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "23b",
+     "created_at": "2024-04-22T12:24:41.110058Z",
+     "updated_at": "2025-09-10T09:12:41.057546Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1025,
+     "kodikolojik_bilgi": 842
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1025,
+  "bilgi_set": [
+   {
+    "id": 842,
+    "murekkep_set": [
+     {
+      "id": 720,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 842
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 510,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 842
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "342",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Rub'undan kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T09:12:41.048958Z",
+    "updated_at": "2025-09-10T09:12:41.049214Z",
+    "kayit": {
+     "id": 2905,
+     "tam_metin": "[268] Kitâb-ı Muhît. Evveli ebter. إذا قال لآخر إشترى مني هذا الذي في يديك ibâretinden من عليه الدراهم إذا وكّل رجلا أن يقتضي دينه ودفع إليه الدراهم ثم إن رب العالمين  الدين وهب الدين من الوكيل وسلطه على قبضه حتى جازت الهبة إستحسانا كان للوكيل أن يجلس  ما في يده بذلك الدين ibâretine dek. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. Üç yüz kırk iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "23b",
+     "created_at": "2024-04-22T12:24:41.110058Z",
+     "updated_at": "2025-09-10T09:12:41.057546Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1025,
+     "kodikolojik_bilgi": 842
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[268] Kitâb-ı Muhît. Evveli ebter. إذا قال لآخر إشترى مني هذا الذي في يديك ibâretinden من عليه الدراهم إذا وكّل رجلا أن يقتضي دينه ودفع إليه الدراهم ثم إن رب العالمين  الدين وهب الدين من الوكيل وسلطه على قبضه حتى جازت الهبة إستحسانا كان للوكيل أن يجلس  ما في يده بذلك الدين ibâretine dek. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. Üç yüz kırk iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "23b",
+  "created_at": "2024-04-22T12:24:41.110058Z",
+  "updated_at": "2025-09-10T09:12:41.057546Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 842,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "342",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Rub'undan kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T09:12:41.048958Z",
+   "updated_at": "2025-09-10T09:12:41.049214Z",
+   "kayit": 2905,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[152] Kitâb-ı Cildün mine’l-Muhît eydan. Evveli ebter. Min evveli kavlihî إذا قال لآخر إشترى مني عبدي هذا الذي في يدك   ilâ âhiri kavlihî من عليه الدراهم إذا وكل رجلا أن يقضي  دينه ودفع إليه الدراهم إن رب  الدين وهب الدين من الوكيل وسلطه على قبضه حتى جازت الهبة إستحسانا كان للوكيل أن يحبس  ما في يده بذلك الدين. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Üç yüz kırk iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "21a",
+ "created_at": "2024-02-10T12:42:24.333989Z",
+ "updated_at": "2024-09-24T11:31:10.000634Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
