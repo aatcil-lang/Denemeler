@@ -1,0 +1,336 @@
+{
+ "id": 2482,
+ "kitap_set": [
+  {
+   "id": 2465,
+   "isim": "Kitâbu’r-Rasf li-mâ Ruviye ani’n-Nebiyyi -a[leyhi’s-selâ]m- mine’l-Fazli ve’l-Vasfi.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:21:39.586288Z",
+   "updated_at": "2025-04-06T19:20:13.992545Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2482,
+    "tam_metin": "[27] Kitâbu’r-Rasf li-mâ Ruviye ani’n-Nebiyyi aleyhisselâm mine’l-Fazli ve’l-Vasf. Bi-hattı İsmâîl bin Mûsâ bin Ali el-Cürcânî. Min evvelihî ilâ âhirihî mücedvel baʿzı sürhile baʿzı laciverdile. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz yetmiş dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "7b",
+    "created_at": "2024-04-22T12:21:39.326877Z",
+    "updated_at": "2025-08-29T11:18:28.415457Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 753,
+    "kodikolojik_bilgi": 413
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 96,
+   "koleksiyon_numarasi": "04363",
+   "nusha": "",
+   "created_at": "2024-12-18T15:27:57.286898Z",
+   "updated_at": "2024-12-18T15:27:57.286918Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2482,
+    "tam_metin": "[27] Kitâbu’r-Rasf li-mâ Ruviye ani’n-Nebiyyi aleyhisselâm mine’l-Fazli ve’l-Vasf. Bi-hattı İsmâîl bin Mûsâ bin Ali el-Cürcânî. Min evvelihî ilâ âhirihî mücedvel baʿzı sürhile baʿzı laciverdile. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz yetmiş dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "7b",
+    "created_at": "2024-04-22T12:21:39.326877Z",
+    "updated_at": "2025-08-29T11:18:28.415457Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 753,
+    "kodikolojik_bilgi": 413
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 753,
+  "kitap_set": [
+   {
+    "id": 749,
+    "isim": "Kitâbü’r-Rasf li-mâ Ruviye ani’n-Nebiyyi -sallallâhu aleyhi ve sellem- mine’l-Fadli ve’l-Vasf.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:40:25.667592Z",
+    "updated_at": "2025-04-06T19:20:19.451501Z",
+    "yazar": {
+     "id": 123,
+     "isim": "İbnü'l-Âkûlî - Ebü’l-Mekârim Gıyâsüddîn Muhammed b. Muhammed b. Abdillâh el-Vâsıtî el-Bağdâdî",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-08-08T13:10:04.096177Z",
+     "updated_at": "2024-08-08T13:10:04.096199Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 753,
+     "tam_metin": "[78] Kitâbü’r-Rasf li-mâ Ruviye ani’n-Nebiyyi sallallâhu aleyhi ve sellem mine’l-Fazli ve’l-Vasf. Bi-Hattı İsmâʿîl bin Mûsâ bin Ali el-Cürcânî. Min evvelihî ilâ âhirihî mücedvel baʿzuhû bi’l-ahmer ve baʿzuhû bi’l-lâziverd. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz yetmiş dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîsi’ş-Şerîfe",
+     "notlar": "",
+     "sayfa_numarasi": "10a",
+     "created_at": "2024-02-10T12:40:25.221995Z",
+     "updated_at": "2025-07-21T19:58:03.194828Z",
+     "vakif": 1,
+     "mustensih": 124,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2482,
+     "kodikolojik_bilgi": 240
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2482,
+  "bilgi_set": [
+   {
+    "id": 240,
+    "murekkep_set": [],
+    "cedvel_set": [
+     {
+      "id": 26,
+      "detay": " Min evvelihî ilâ âhirihî mücedvel baʿzuhû bi’l-ahmer ve baʿzuhû bi’l-lâziverd.",
+      "kodikolojik_bilgi": 240
+     }
+    ],
+    "hatt_set": [],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "279",
+    "kagit_turu": "Dımeşkî",
+    "aciklama": null,
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "Hatt türü, hatt şekli, kağıt şekli, cilt materyali ve mürekkep bilgisi bulunmuyor.",
+    "created_at": "2025-07-21T19:58:03.190520Z",
+    "updated_at": "2025-07-21T19:58:03.190534Z",
+    "kayit": {
+     "id": 753,
+     "tam_metin": "[78] Kitâbü’r-Rasf li-mâ Ruviye ani’n-Nebiyyi sallallâhu aleyhi ve sellem mine’l-Fazli ve’l-Vasf. Bi-Hattı İsmâʿîl bin Mûsâ bin Ali el-Cürcânî. Min evvelihî ilâ âhirihî mücedvel baʿzuhû bi’l-ahmer ve baʿzuhû bi’l-lâziverd. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz yetmiş dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîsi’ş-Şerîfe",
+     "notlar": "",
+     "sayfa_numarasi": "10a",
+     "created_at": "2024-02-10T12:40:25.221995Z",
+     "updated_at": "2025-07-21T19:58:03.194828Z",
+     "vakif": 1,
+     "mustensih": 124,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2482,
+     "kodikolojik_bilgi": 240
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[78] Kitâbü’r-Rasf li-mâ Ruviye ani’n-Nebiyyi sallallâhu aleyhi ve sellem mine’l-Fazli ve’l-Vasf. Bi-Hattı İsmâʿîl bin Mûsâ bin Ali el-Cürcânî. Min evvelihî ilâ âhirihî mücedvel baʿzuhû bi’l-ahmer ve baʿzuhû bi’l-lâziverd. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz yetmiş dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîsi’ş-Şerîfe",
+  "notlar": "",
+  "sayfa_numarasi": "10a",
+  "created_at": "2024-02-10T12:40:25.221995Z",
+  "updated_at": "2025-07-21T19:58:03.194828Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 124,
+   "isim": "İsmâʿîl bin Mûsâ bin Ali el-Cürcânî",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-08-08T13:10:28.926808Z",
+   "updated_at": "2024-08-08T13:10:28.926823Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 240,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "279",
+   "kagit_turu": "Dımeşkî",
+   "aciklama": null,
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "Hatt türü, hatt şekli, kağıt şekli, cilt materyali ve mürekkep bilgisi bulunmuyor.",
+   "created_at": "2025-07-21T19:58:03.190520Z",
+   "updated_at": "2025-07-21T19:58:03.190534Z",
+   "kayit": 753,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 413,
+   "murekkep_set": [
+    {
+     "id": 284,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 413
+    }
+   ],
+   "cedvel_set": [
+    {
+     "id": 40,
+     "detay": "Min evvelihî ilâ âhirihî mücedvel baʿzı sürhile baʿzı laciverdile",
+     "kodikolojik_bilgi": 413
+    }
+   ],
+   "hatt_set": [
+    {
+     "id": 74,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": null,
+     "kodikolojik_bilgi": 413
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "279",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-08-29T11:18:28.411036Z",
+   "updated_at": "2025-08-29T11:18:28.411052Z",
+   "kayit": {
+    "id": 2482,
+    "tam_metin": "[27] Kitâbu’r-Rasf li-mâ Ruviye ani’n-Nebiyyi aleyhisselâm mine’l-Fazli ve’l-Vasf. Bi-hattı İsmâîl bin Mûsâ bin Ali el-Cürcânî. Min evvelihî ilâ âhirihî mücedvel baʿzı sürhile baʿzı laciverdile. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz yetmiş dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "7b",
+    "created_at": "2024-04-22T12:21:39.326877Z",
+    "updated_at": "2025-08-29T11:18:28.415457Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 753,
+    "kodikolojik_bilgi": 413
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[27] Kitâbu’r-Rasf li-mâ Ruviye ani’n-Nebiyyi aleyhisselâm mine’l-Fazli ve’l-Vasf. Bi-hattı İsmâîl bin Mûsâ bin Ali el-Cürcânî. Min evvelihî ilâ âhirihî mücedvel baʿzı sürhile baʿzı laciverdile. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz yetmiş dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+ "notlar": "",
+ "sayfa_numarasi": "7b",
+ "created_at": "2024-04-22T12:21:39.326877Z",
+ "updated_at": "2025-08-29T11:18:28.415457Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 413,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "279",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamından kırılmış",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-08-29T11:18:28.411036Z",
+  "updated_at": "2025-08-29T11:18:28.411052Z",
+  "kayit": 2482,
+  "created_by": null
+ }
+}
