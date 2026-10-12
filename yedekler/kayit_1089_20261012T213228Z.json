@@ -1,0 +1,248 @@
+{
+ "id": 1089,
+ "kitap_set": [
+  {
+   "id": 1084,
+   "isim": "Kitâbü’l-Mustasfâ fî Şerhi Nâfi‘.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:51.271725Z",
+   "updated_at": "2025-04-06T19:20:18.379840Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1089,
+    "tam_metin": "[216] Kitâbü’l-Mustasfâ eydan fî Şerhi Nâfiʿ. Semerkandî tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "24a",
+    "created_at": "2024-02-10T12:42:51.018769Z",
+    "updated_at": "2024-09-19T15:47:34.410860Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2812,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2812,
+  "kitap_set": [
+   {
+    "id": 2795,
+    "isim": "Kitâbü’l-Mustasfâ fî Şerhi’n-Nâfi‘.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:01.691195Z",
+    "updated_at": "2025-04-06T19:20:13.000408Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2812,
+     "tam_metin": "[175] Kitâbü’l-Mustasfâ fî Şerhi’n-Nâfiʿ. Semerkandî tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "20a",
+     "created_at": "2024-04-22T12:24:01.423304Z",
+     "updated_at": "2025-09-07T11:58:28.599803Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1089,
+     "kodikolojik_bilgi": 746
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 355,
+    "koleksiyon_numarasi": "01841",
+    "nusha": "",
+    "created_at": "2025-01-11T17:40:06.219308Z",
+    "updated_at": "2025-01-11T17:40:06.219321Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2812,
+     "tam_metin": "[175] Kitâbü’l-Mustasfâ fî Şerhi’n-Nâfiʿ. Semerkandî tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "20a",
+     "created_at": "2024-04-22T12:24:01.423304Z",
+     "updated_at": "2025-09-07T11:58:28.599803Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1089,
+     "kodikolojik_bilgi": 746
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1089,
+  "bilgi_set": [
+   {
+    "id": 746,
+    "murekkep_set": [
+     {
+      "id": 624,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 746
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 415,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 746
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "202",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-07T11:58:28.593754Z",
+    "updated_at": "2025-09-07T11:58:28.593768Z",
+    "kayit": {
+     "id": 2812,
+     "tam_metin": "[175] Kitâbü’l-Mustasfâ fî Şerhi’n-Nâfiʿ. Semerkandî tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "20a",
+     "created_at": "2024-04-22T12:24:01.423304Z",
+     "updated_at": "2025-09-07T11:58:28.599803Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1089,
+     "kodikolojik_bilgi": 746
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[175] Kitâbü’l-Mustasfâ fî Şerhi’n-Nâfiʿ. Semerkandî tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "20a",
+  "created_at": "2024-04-22T12:24:01.423304Z",
+  "updated_at": "2025-09-07T11:58:28.599803Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 746,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "202",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-07T11:58:28.593754Z",
+   "updated_at": "2025-09-07T11:58:28.593768Z",
+   "kayit": 2812,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[216] Kitâbü’l-Mustasfâ eydan fî Şerhi Nâfiʿ. Semerkandî tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "24a",
+ "created_at": "2024-02-10T12:42:51.018769Z",
+ "updated_at": "2024-09-19T15:47:34.410860Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

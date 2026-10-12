@@ -1,0 +1,244 @@
+{
+ "id": 1098,
+ "kitap_set": [
+  {
+   "id": 1093,
+   "isim": "Kitâb-ı Mecmau’l-Bahreyn.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:55.047197Z",
+   "updated_at": "2025-04-06T19:20:18.346872Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1098,
+    "tam_metin": "[225] Kitâb-ı Mecmaʿu’l-Bahreyn eydan. Tamâm. Bi-hattı Durbeğ bin Ali. Evvel varakının zahrında halle “Kitâb-ı Mecmaʿu’l-Bahreyn fi’l-Fıkh” yazılmış. Dimeşkī nısfından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Yüz otuz yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "24b",
+    "created_at": "2024-02-10T12:42:54.787798Z",
+    "updated_at": "2024-09-21T15:38:13.806621Z",
+    "vakif": 1,
+    "mustensih": 295,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2834,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2834,
+  "kitap_set": [
+   {
+    "id": 2817,
+    "isim": "Kitâb-ı Mecmau’l-Bahreyn.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:11.160760Z",
+    "updated_at": "2025-04-06T19:20:12.935183Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2834,
+     "tam_metin": "[197] Kitâb-ı Mecmaʿu’l-Bahreyn. Tamâm. Bi-hattı Durbeği bin Ali. Evvel varakının zahrında halle “Kitâb-ı Mecmaʿu’l-Bahreyn fi’l-fıkh” deyu yazılmış. Dimeşkī nısfından kırılmış. Ciğerî cildli. Yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21a",
+     "created_at": "2024-04-22T12:24:10.905282Z",
+     "updated_at": "2025-09-07T12:36:20.199450Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1098,
+     "kodikolojik_bilgi": null
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 376,
+    "koleksiyon_numarasi": "02087",
+    "nusha": "",
+    "created_at": "2025-01-11T19:50:54.588591Z",
+    "updated_at": "2025-01-11T19:50:54.588605Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2834,
+     "tam_metin": "[197] Kitâb-ı Mecmaʿu’l-Bahreyn. Tamâm. Bi-hattı Durbeği bin Ali. Evvel varakının zahrında halle “Kitâb-ı Mecmaʿu’l-Bahreyn fi’l-fıkh” deyu yazılmış. Dimeşkī nısfından kırılmış. Ciğerî cildli. Yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21a",
+     "created_at": "2024-04-22T12:24:10.905282Z",
+     "updated_at": "2025-09-07T12:36:20.199450Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1098,
+     "kodikolojik_bilgi": null
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1098,
+  "bilgi_set": [
+   {
+    "id": 769,
+    "murekkep_set": [
+     {
+      "id": 646,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 769
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 437,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 769
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Evvel varakının zahrında halle “Kitâb-ı Mecmaʿu’l-Bahreyn fi’l-fıkh” deyu yazılmış",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "137",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-07T12:36:12.965077Z",
+    "updated_at": "2025-09-07T12:36:12.975705Z",
+    "kayit": {
+     "id": 2834,
+     "tam_metin": "[197] Kitâb-ı Mecmaʿu’l-Bahreyn. Tamâm. Bi-hattı Durbeği bin Ali. Evvel varakının zahrında halle “Kitâb-ı Mecmaʿu’l-Bahreyn fi’l-fıkh” deyu yazılmış. Dimeşkī nısfından kırılmış. Ciğerî cildli. Yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21a",
+     "created_at": "2024-04-22T12:24:10.905282Z",
+     "updated_at": "2025-09-07T12:36:20.199450Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1098,
+     "kodikolojik_bilgi": null
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[197] Kitâb-ı Mecmaʿu’l-Bahreyn. Tamâm. Bi-hattı Durbeği bin Ali. Evvel varakının zahrında halle “Kitâb-ı Mecmaʿu’l-Bahreyn fi’l-fıkh” deyu yazılmış. Dimeşkī nısfından kırılmış. Ciğerî cildli. Yüz otuz yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "21a",
+  "created_at": "2024-04-22T12:24:10.905282Z",
+  "updated_at": "2025-09-07T12:36:20.199450Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": null
+ },
+ "bilgi_set": [],
+ "tam_metin": "[225] Kitâb-ı Mecmaʿu’l-Bahreyn eydan. Tamâm. Bi-hattı Durbeğ bin Ali. Evvel varakının zahrında halle “Kitâb-ı Mecmaʿu’l-Bahreyn fi’l-Fıkh” yazılmış. Dimeşkī nısfından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Yüz otuz yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "24b",
+ "created_at": "2024-02-10T12:42:54.787798Z",
+ "updated_at": "2024-09-21T15:38:13.806621Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 295,
+  "isim": "Durbeğ bin Ali",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-09-12T16:55:56.546668Z",
+  "updated_at": "2024-09-12T16:55:56.546690Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,248 @@
+{
+ "id": 1082,
+ "kitap_set": [
+  {
+   "id": 1077,
+   "isim": "Kitâbü’l-İstiğnâ fî Şerhi’l-Vikāye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:48.345621Z",
+   "updated_at": "2025-04-06T19:20:18.402699Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1082,
+    "tam_metin": "[209] Kitâbü’l-İstiğnâʾ fî Şerhi’l-Vikāye. Tamâm. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz elli bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "24a",
+    "created_at": "2024-02-10T12:42:48.079662Z",
+    "updated_at": "2024-09-12T16:12:25.945875Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2652,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2652,
+  "kitap_set": [
+   {
+    "id": 2635,
+    "isim": "Kitâb-ı İstiğnâ fî Şerhi’l-Vikāye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:22:54.784554Z",
+    "updated_at": "2025-04-06T19:20:13.461343Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2652,
+     "tam_metin": "[15] Kitâb-ı İstiğnâ fî Şerhi’l-Vikāye. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz elli bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "14b",
+     "created_at": "2024-04-22T12:22:54.518905Z",
+     "updated_at": "2025-09-02T11:55:16.864473Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1082,
+     "kodikolojik_bilgi": 586
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 225,
+    "koleksiyon_numarasi": "01889",
+    "nusha": "",
+    "created_at": "2024-12-28T14:22:19.782827Z",
+    "updated_at": "2024-12-28T14:22:19.782849Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2652,
+     "tam_metin": "[15] Kitâb-ı İstiğnâ fî Şerhi’l-Vikāye. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz elli bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "14b",
+     "created_at": "2024-04-22T12:22:54.518905Z",
+     "updated_at": "2025-09-02T11:55:16.864473Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1082,
+     "kodikolojik_bilgi": 586
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1082,
+  "bilgi_set": [
+   {
+    "id": 586,
+    "murekkep_set": [
+     {
+      "id": 464,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 586
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 255,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 586
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "351",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T11:55:16.854859Z",
+    "updated_at": "2025-09-02T11:55:16.855139Z",
+    "kayit": {
+     "id": 2652,
+     "tam_metin": "[15] Kitâb-ı İstiğnâ fî Şerhi’l-Vikāye. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz elli bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "14b",
+     "created_at": "2024-04-22T12:22:54.518905Z",
+     "updated_at": "2025-09-02T11:55:16.864473Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1082,
+     "kodikolojik_bilgi": 586
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[15] Kitâb-ı İstiğnâ fî Şerhi’l-Vikāye. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz elli bir varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "14b",
+  "created_at": "2024-04-22T12:22:54.518905Z",
+  "updated_at": "2025-09-02T11:55:16.864473Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 586,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "351",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T11:55:16.854859Z",
+   "updated_at": "2025-09-02T11:55:16.855139Z",
+   "kayit": 2652,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[209] Kitâbü’l-İstiğnâʾ fî Şerhi’l-Vikāye. Tamâm. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz elli bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "24a",
+ "created_at": "2024-02-10T12:42:48.079662Z",
+ "updated_at": "2024-09-12T16:12:25.945875Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

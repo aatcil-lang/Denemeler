@@ -1,0 +1,248 @@
+{
+ "id": 1132,
+ "kitap_set": [
+  {
+   "id": 1127,
+   "isim": "Kitâbü’l-Yenâbî‘ fî Şerhi’l-Kudûrî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:09.397716Z",
+   "updated_at": "2025-04-06T19:20:18.222541Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1132,
+    "tam_metin": "[259] Kitâbü’l-Yenâbîʿ fî Şerhi’l-Kudûrî. Tamâm. Dimeşkī tamâmından kırılmış. Kümmî vazʿ olmuş. Ciğerî cildle. Vakf-ı Sultânî. Bedel-i Yegânî. Üç yüz seksen sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "26a",
+    "created_at": "2024-02-10T12:43:09.138309Z",
+    "updated_at": "2024-09-28T14:28:33.901308Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3187,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3187,
+  "kitap_set": [
+   {
+    "id": 3169,
+    "isim": "Kitâb-ı Yenâbî‘ fî Şerhi’l-Kudûrî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:45.592358Z",
+    "updated_at": "2025-04-06T19:20:11.915737Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3187,
+     "tam_metin": "[9] Kitâb-ı Yenâbîʿ fî Şerhi’l-Kudûrî. Kümmî. Ciğerî cildli. Üç yüz seksen sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "35a",
+     "created_at": "2024-04-22T12:26:45.310167Z",
+     "updated_at": "2025-09-22T08:55:04.933065Z",
+     "vakif": 7,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1132,
+     "kodikolojik_bilgi": 1124
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 622,
+    "koleksiyon_numarasi": "01767",
+    "nusha": "",
+    "created_at": "2025-01-14T09:19:40.801781Z",
+    "updated_at": "2025-01-14T09:19:40.801796Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3187,
+     "tam_metin": "[9] Kitâb-ı Yenâbîʿ fî Şerhi’l-Kudûrî. Kümmî. Ciğerî cildli. Üç yüz seksen sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "35a",
+     "created_at": "2024-04-22T12:26:45.310167Z",
+     "updated_at": "2025-09-22T08:55:04.933065Z",
+     "vakif": 7,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1132,
+     "kodikolojik_bilgi": 1124
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1132,
+  "bilgi_set": [
+   {
+    "id": 1124,
+    "murekkep_set": [
+     {
+      "id": 1002,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1124
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 791,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1124
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "388",
+    "kagit_turu": "",
+    "aciklama": "",
+    "kagit_ebadi": "",
+    "kagit_sekli": "Kümmî",
+    "note": "",
+    "created_at": "2025-09-22T08:55:04.926752Z",
+    "updated_at": "2025-09-22T08:55:04.926770Z",
+    "kayit": {
+     "id": 3187,
+     "tam_metin": "[9] Kitâb-ı Yenâbîʿ fî Şerhi’l-Kudûrî. Kümmî. Ciğerî cildli. Üç yüz seksen sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "35a",
+     "created_at": "2024-04-22T12:26:45.310167Z",
+     "updated_at": "2025-09-22T08:55:04.933065Z",
+     "vakif": 7,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1132,
+     "kodikolojik_bilgi": 1124
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[9] Kitâb-ı Yenâbîʿ fî Şerhi’l-Kudûrî. Kümmî. Ciğerî cildli. Üç yüz seksen sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "35a",
+  "created_at": "2024-04-22T12:26:45.310167Z",
+  "updated_at": "2025-09-22T08:55:04.933065Z",
+  "vakif": {
+   "id": 7,
+   "isim": "Ahmed Çelebi",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:27:02.625500Z",
+   "updated_at": "2024-04-22T11:27:02.625517Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1124,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "388",
+   "kagit_turu": "",
+   "aciklama": "",
+   "kagit_ebadi": "",
+   "kagit_sekli": "Kümmî",
+   "note": "",
+   "created_at": "2025-09-22T08:55:04.926752Z",
+   "updated_at": "2025-09-22T08:55:04.926770Z",
+   "kayit": 3187,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[259] Kitâbü’l-Yenâbîʿ fî Şerhi’l-Kudûrî. Tamâm. Dimeşkī tamâmından kırılmış. Kümmî vazʿ olmuş. Ciğerî cildle. Vakf-ı Sultânî. Bedel-i Yegânî. Üç yüz seksen sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "26a",
+ "created_at": "2024-02-10T12:43:09.138309Z",
+ "updated_at": "2024-09-28T14:28:33.901308Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

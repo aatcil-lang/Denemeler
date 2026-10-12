@@ -1,0 +1,208 @@
+{
+ "id": 1141,
+ "kitap_set": [
+  {
+   "id": 1136,
+   "isim": "Kitâbü’l-Cildi’l-Ahîr min Fetâvâ’l-Attâbî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:13.168049Z",
+   "updated_at": "2025-04-06T19:20:18.191882Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1141,
+    "tam_metin": "[268] Kitâbü’l-Cildi’l-Ahîr min Fetâvâ’l-Attâbî. Min evveli Kitâbi’l-Meʾzûn ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Bedel-i Yegânî. İki yüz altmış beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "26b",
+    "created_at": "2024-02-10T12:43:12.894804Z",
+    "updated_at": "2024-09-28T14:26:14.020911Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3185,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3185,
+  "kitap_set": [
+   {
+    "id": 3167,
+    "isim": "Kitâb-ı Fetâvâ Attâbî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:44.678112Z",
+    "updated_at": "2025-04-06T19:20:11.923594Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3185,
+     "tam_metin": "[7] Kitâb-ı Fetâvâ Attâbî. Kitâb-ı Meʾzûn’dan âhir-i kitâba dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "35a",
+     "created_at": "2024-04-22T12:26:44.394711Z",
+     "updated_at": "2025-09-22T08:53:32.765348Z",
+     "vakif": 7,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1141,
+     "kodikolojik_bilgi": 1122
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1141,
+  "bilgi_set": [
+   {
+    "id": 1122,
+    "murekkep_set": [
+     {
+      "id": 1000,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1122
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 789,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1122
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "265",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T08:53:32.760938Z",
+    "updated_at": "2025-09-22T08:53:32.760958Z",
+    "kayit": {
+     "id": 3185,
+     "tam_metin": "[7] Kitâb-ı Fetâvâ Attâbî. Kitâb-ı Meʾzûn’dan âhir-i kitâba dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "35a",
+     "created_at": "2024-04-22T12:26:44.394711Z",
+     "updated_at": "2025-09-22T08:53:32.765348Z",
+     "vakif": 7,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1141,
+     "kodikolojik_bilgi": 1122
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[7] Kitâb-ı Fetâvâ Attâbî. Kitâb-ı Meʾzûn’dan âhir-i kitâba dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "35a",
+  "created_at": "2024-04-22T12:26:44.394711Z",
+  "updated_at": "2025-09-22T08:53:32.765348Z",
+  "vakif": {
+   "id": 7,
+   "isim": "Ahmed Çelebi",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:27:02.625500Z",
+   "updated_at": "2024-04-22T11:27:02.625517Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1122,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "265",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T08:53:32.760938Z",
+   "updated_at": "2025-09-22T08:53:32.760958Z",
+   "kayit": 3185,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[268] Kitâbü’l-Cildi’l-Ahîr min Fetâvâ’l-Attâbî. Min evveli Kitâbi’l-Meʾzûn ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Bedel-i Yegânî. İki yüz altmış beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "26b",
+ "created_at": "2024-02-10T12:43:12.894804Z",
+ "updated_at": "2024-09-28T14:26:14.020911Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

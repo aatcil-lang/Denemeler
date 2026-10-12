@@ -1,0 +1,260 @@
+{
+ "id": 1135,
+ "kitap_set": [
+  {
+   "id": 1130,
+   "isim": "Kitâbü’l-Cildi’s-Sânî min Şerhi’l-Kenz.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:10.656882Z",
+   "updated_at": "2025-04-06T19:20:18.213525Z",
+   "yazar": {
+    "id": 315,
+    "isim": "Zeylaî, Ebû Muhammed Fahruddîn Osmân b. Alî b. Mihcen b. Yûnus es-Sûfî el-Bâriî ez-Zeylaî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-13T17:04:43.714259Z",
+    "updated_at": "2024-09-13T17:04:43.714277Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1135,
+    "tam_metin": "[262] Kitâbü’l-Cildi’s-Sânî min Şerhi’l-Kenz li’z-Zeylaʿî. Min evveli Kitâbi’n-Nikâh ilâ evveli Kitâbi’l-Hudûd. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz kırk varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "26a",
+    "created_at": "2024-02-10T12:43:10.396725Z",
+    "updated_at": "2024-09-19T12:39:25.310744Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2736,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2736,
+  "kitap_set": [
+   {
+    "id": 2719,
+    "isim": "Kitâb-ı Şerh-i Kenz-i Zeylaî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:30.185742Z",
+    "updated_at": "2025-04-06T19:20:13.209263Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2736,
+     "tam_metin": "[99] Kitâb-ı Şerh-i Kenz-i Zeylaʿî. Kitâb-ı Nikâh’dan Kitâb-ı Hudûd’a dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz kırk varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "17b",
+     "created_at": "2024-04-22T12:23:29.926672Z",
+     "updated_at": "2025-09-02T23:54:31.051089Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1135,
+     "kodikolojik_bilgi": 670
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 290,
+    "koleksiyon_numarasi": "01732",
+    "nusha": "",
+    "created_at": "2025-01-11T11:04:14.377468Z",
+    "updated_at": "2025-01-11T11:04:14.377484Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2736,
+     "tam_metin": "[99] Kitâb-ı Şerh-i Kenz-i Zeylaʿî. Kitâb-ı Nikâh’dan Kitâb-ı Hudûd’a dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz kırk varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "17b",
+     "created_at": "2024-04-22T12:23:29.926672Z",
+     "updated_at": "2025-09-02T23:54:31.051089Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1135,
+     "kodikolojik_bilgi": 670
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1135,
+  "bilgi_set": [
+   {
+    "id": 670,
+    "murekkep_set": [
+     {
+      "id": 548,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 670
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 339,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 670
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "240",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T23:54:31.046831Z",
+    "updated_at": "2025-09-02T23:54:31.046849Z",
+    "kayit": {
+     "id": 2736,
+     "tam_metin": "[99] Kitâb-ı Şerh-i Kenz-i Zeylaʿî. Kitâb-ı Nikâh’dan Kitâb-ı Hudûd’a dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz kırk varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "17b",
+     "created_at": "2024-04-22T12:23:29.926672Z",
+     "updated_at": "2025-09-02T23:54:31.051089Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1135,
+     "kodikolojik_bilgi": 670
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[99] Kitâb-ı Şerh-i Kenz-i Zeylaʿî. Kitâb-ı Nikâh’dan Kitâb-ı Hudûd’a dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz kırk varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "17b",
+  "created_at": "2024-04-22T12:23:29.926672Z",
+  "updated_at": "2025-09-02T23:54:31.051089Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 670,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "240",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T23:54:31.046831Z",
+   "updated_at": "2025-09-02T23:54:31.046849Z",
+   "kayit": 2736,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[262] Kitâbü’l-Cildi’s-Sânî min Şerhi’l-Kenz li’z-Zeylaʿî. Min evveli Kitâbi’n-Nikâh ilâ evveli Kitâbi’l-Hudûd. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz kırk varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "26a",
+ "created_at": "2024-02-10T12:43:10.396725Z",
+ "updated_at": "2024-09-19T12:39:25.310744Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

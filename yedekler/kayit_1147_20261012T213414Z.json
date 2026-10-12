@@ -1,0 +1,260 @@
+{
+ "id": 1147,
+ "kitap_set": [
+  {
+   "id": 1142,
+   "isim": "Kitâbü’z-Ziyâdât.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:15.660271Z",
+   "updated_at": "2025-04-06T19:20:18.172963Z",
+   "yazar": {
+    "id": 243,
+    "isim": "Kādîhân, Ebü’l-Mehâsin Fahrüddîn Hasen b. Mansûr b. Mahmûd el-Özkendî el-Fergānî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-10T17:45:10.215739Z",
+    "updated_at": "2024-09-10T17:45:10.215755Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1147,
+    "tam_metin": "[274] Kitâbü’z-Ziyâdât li-Kādîhân. Tamâm. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz otuz üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "27a",
+    "created_at": "2024-02-10T12:43:15.395412Z",
+    "updated_at": "2024-09-25T07:27:01.761219Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2973,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2973,
+  "kitap_set": [
+   {
+    "id": 2955,
+    "isim": "Kitâbü’z-Ziyâdât li-Kâdî Hân -aleyhi[’r-rahme]-.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:10.389974Z",
+    "updated_at": "2025-04-06T19:20:12.527128Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2973,
+     "tam_metin": "[336] Kitâbü’z-Ziyâdât li-Kâdî Hân aleyhi’r-rahme. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz otuz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "26a",
+     "created_at": "2024-04-22T12:25:10.123717Z",
+     "updated_at": "2025-09-12T09:08:03.771756Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1147,
+     "kodikolojik_bilgi": 910
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 479,
+    "koleksiyon_numarasi": "01706",
+    "nusha": "",
+    "created_at": "2025-01-12T22:04:48.402912Z",
+    "updated_at": "2025-01-12T22:04:48.402927Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2973,
+     "tam_metin": "[336] Kitâbü’z-Ziyâdât li-Kâdî Hân aleyhi’r-rahme. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz otuz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "26a",
+     "created_at": "2024-04-22T12:25:10.123717Z",
+     "updated_at": "2025-09-12T09:08:03.771756Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1147,
+     "kodikolojik_bilgi": 910
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1147,
+  "bilgi_set": [
+   {
+    "id": 910,
+    "murekkep_set": [
+     {
+      "id": 788,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 910
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 578,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 910
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğeri cilt",
+    "cild_materyal": "",
+    "varak_adedi": "333",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-12T09:08:03.761909Z",
+    "updated_at": "2025-09-12T09:08:03.761926Z",
+    "kayit": {
+     "id": 2973,
+     "tam_metin": "[336] Kitâbü’z-Ziyâdât li-Kâdî Hân aleyhi’r-rahme. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz otuz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "26a",
+     "created_at": "2024-04-22T12:25:10.123717Z",
+     "updated_at": "2025-09-12T09:08:03.771756Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1147,
+     "kodikolojik_bilgi": 910
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[336] Kitâbü’z-Ziyâdât li-Kâdî Hân aleyhi’r-rahme. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz otuz üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "26a",
+  "created_at": "2024-04-22T12:25:10.123717Z",
+  "updated_at": "2025-09-12T09:08:03.771756Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 910,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğeri cilt",
+   "cild_materyal": "",
+   "varak_adedi": "333",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-12T09:08:03.761909Z",
+   "updated_at": "2025-09-12T09:08:03.761926Z",
+   "kayit": 2973,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[274] Kitâbü’z-Ziyâdât li-Kādîhân. Tamâm. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz otuz üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "27a",
+ "created_at": "2024-02-10T12:43:15.395412Z",
+ "updated_at": "2024-09-25T07:27:01.761219Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
