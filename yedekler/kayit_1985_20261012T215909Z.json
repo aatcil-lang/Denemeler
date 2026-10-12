@@ -1,0 +1,123 @@
+{
+ "id": 1985,
+ "kitap_set": [
+  {
+   "id": 1977,
+   "isim": "Kitâb-ı Tefsîrü’l-Kādî.",
+   "isim2": null,
+   "disiplin": "Tefsir",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:05:35.809192Z",
+   "updated_at": "2025-04-06T19:20:15.438158Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1985,
+    "tam_metin": "Kitâb-ı Tefsîrü’l-Kādî. Tamâm. Dimeşkī tamâmına. Müzehheb siyâh cildle. Min evvelihî ilâ âhirihî bi-hattı Keyhüsrev bin Fethullâh. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ bi-zâlike’l-hat. Fî evvelihî levhatün mektûbun fî-hâ besmeletün şerîfetün bi’z-zeheb. Sahîfetâni min evvelihî mücedveletâni bi’z-zehebi ve’l-lâziverd mektûbun fî âhiri’s-sahîfeti’l-ûlâ ve mine’l-varakati’s-sâdiseti min evveli Sûreti’l-Mâʾide eş-şiʿr mensûbun ilâ ebînâ Âdem aleyhi’s-selâm ellezî rasâ bi-hî veledehû Hâbil ve fî zahri’s-sahîfeti’l-ûlâ minhu mine’l-varaki’l-beyâz fihristü süveri’l-Kelâmi’l-Kadîm ve’l-Furkāni’l-Hakîm min evvelihî ilâ âhirihî ve kütibe fî âhirihî târîhi vakfiyyetihî ve hüve gurretü Zilhicce li-sene erbaʿîn ve tisʿa mie ve kütibe eydan hâze’l-kelâm bi-aynihî fî zahrihîوقال الرجل المعروف بالحاج محمد الذي كان حافظا لهذه الكتب في دفتره وصل إليّ هذا الكتاب من يد قدوة العلماء وأسوة الفضلاء الشهير بقره محمد چلبي في يوم الخميس رابع عشرين ربيع الأول لسنة اثنين وخمسين وتسعمائة.  Ve dahi bu kitâbın evvelinde nişân-ı hümâyûn ve evvelinde ve âhirinde mühr-i Sultânî vardır. Vakf-ı Muhammed bin Bâlî. Beş yüz yirmi beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "BAŞLIKSIZ",
+    "notlar": "",
+    "sayfa_numarasi": "63a",
+    "created_at": "2024-02-10T13:05:35.538295Z",
+    "updated_at": "2025-01-16T10:14:32.066208Z",
+    "vakif": 3,
+    "mustensih": 567,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 882,
+   "koleksiyon_numarasi": "00110",
+   "nusha": "https://portal.yek.gov.tr/works/detail/237625",
+   "created_at": "2025-01-16T10:14:15.465699Z",
+   "updated_at": "2026-05-03T21:09:38.603862Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1985,
+    "tam_metin": "Kitâb-ı Tefsîrü’l-Kādî. Tamâm. Dimeşkī tamâmına. Müzehheb siyâh cildle. Min evvelihî ilâ âhirihî bi-hattı Keyhüsrev bin Fethullâh. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ bi-zâlike’l-hat. Fî evvelihî levhatün mektûbun fî-hâ besmeletün şerîfetün bi’z-zeheb. Sahîfetâni min evvelihî mücedveletâni bi’z-zehebi ve’l-lâziverd mektûbun fî âhiri’s-sahîfeti’l-ûlâ ve mine’l-varakati’s-sâdiseti min evveli Sûreti’l-Mâʾide eş-şiʿr mensûbun ilâ ebînâ Âdem aleyhi’s-selâm ellezî rasâ bi-hî veledehû Hâbil ve fî zahri’s-sahîfeti’l-ûlâ minhu mine’l-varaki’l-beyâz fihristü süveri’l-Kelâmi’l-Kadîm ve’l-Furkāni’l-Hakîm min evvelihî ilâ âhirihî ve kütibe fî âhirihî târîhi vakfiyyetihî ve hüve gurretü Zilhicce li-sene erbaʿîn ve tisʿa mie ve kütibe eydan hâze’l-kelâm bi-aynihî fî zahrihîوقال الرجل المعروف بالحاج محمد الذي كان حافظا لهذه الكتب في دفتره وصل إليّ هذا الكتاب من يد قدوة العلماء وأسوة الفضلاء الشهير بقره محمد چلبي في يوم الخميس رابع عشرين ربيع الأول لسنة اثنين وخمسين وتسعمائة.  Ve dahi bu kitâbın evvelinde nişân-ı hümâyûn ve evvelinde ve âhirinde mühr-i Sultânî vardır. Vakf-ı Muhammed bin Bâlî. Beş yüz yirmi beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "BAŞLIKSIZ",
+    "notlar": "",
+    "sayfa_numarasi": "63a",
+    "created_at": "2024-02-10T13:05:35.538295Z",
+    "updated_at": "2025-01-16T10:14:32.066208Z",
+    "vakif": 3,
+    "mustensih": 567,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "Kitâb-ı Tefsîrü’l-Kādî. Tamâm. Dimeşkī tamâmına. Müzehheb siyâh cildle. Min evvelihî ilâ âhirihî bi-hattı Keyhüsrev bin Fethullâh. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ bi-zâlike’l-hat. Fî evvelihî levhatün mektûbun fî-hâ besmeletün şerîfetün bi’z-zeheb. Sahîfetâni min evvelihî mücedveletâni bi’z-zehebi ve’l-lâziverd mektûbun fî âhiri’s-sahîfeti’l-ûlâ ve mine’l-varakati’s-sâdiseti min evveli Sûreti’l-Mâʾide eş-şiʿr mensûbun ilâ ebînâ Âdem aleyhi’s-selâm ellezî rasâ bi-hî veledehû Hâbil ve fî zahri’s-sahîfeti’l-ûlâ minhu mine’l-varaki’l-beyâz fihristü süveri’l-Kelâmi’l-Kadîm ve’l-Furkāni’l-Hakîm min evvelihî ilâ âhirihî ve kütibe fî âhirihî târîhi vakfiyyetihî ve hüve gurretü Zilhicce li-sene erbaʿîn ve tisʿa mie ve kütibe eydan hâze’l-kelâm bi-aynihî fî zahrihîوقال الرجل المعروف بالحاج محمد الذي كان حافظا لهذه الكتب في دفتره وصل إليّ هذا الكتاب من يد قدوة العلماء وأسوة الفضلاء الشهير بقره محمد چلبي في يوم الخميس رابع عشرين ربيع الأول لسنة اثنين وخمسين وتسعمائة.  Ve dahi bu kitâbın evvelinde nişân-ı hümâyûn ve evvelinde ve âhirinde mühr-i Sultânî vardır. Vakf-ı Muhammed bin Bâlî. Beş yüz yirmi beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "BAŞLIKSIZ",
+ "notlar": "",
+ "sayfa_numarasi": "63a",
+ "created_at": "2024-02-10T13:05:35.538295Z",
+ "updated_at": "2025-01-16T10:14:32.066208Z",
+ "vakif": {
+  "id": 3,
+  "isim": "Muhammed bin Bâli",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-02-10T12:30:00.335213Z",
+  "updated_at": "2024-02-10T12:30:00.335237Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 567,
+  "isim": "Keyhüsrev bin Fethullâh",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-01-03T15:06:20.401865Z",
+  "updated_at": "2025-01-03T15:06:20.401881Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

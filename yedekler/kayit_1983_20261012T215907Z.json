@@ -1,0 +1,208 @@
+{
+ "id": 1983,
+ "kitap_set": [
+  {
+   "id": 1975,
+   "isim": "Kitâb-ı Risâle Sî Fasl fî ilmi’n-nücûm.",
+   "isim2": null,
+   "disiplin": "Astronomi",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:49:39.868643Z",
+   "updated_at": "2025-04-06T19:20:15.445045Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1983,
+    "tam_metin": "[41] Kitâb-ı Risâle Sî Fasl fî ilmi’n-nücûm. Dimeşkī nısfına. Sarı kâğıd mukavvâ cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Yirmi dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+    "notlar": "",
+    "sayfa_numarasi": "63a",
+    "created_at": "2024-02-10T12:49:39.578374Z",
+    "updated_at": "2026-01-26T22:44:56.683584Z",
+    "vakif": 12,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3556,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3556,
+  "kitap_set": [
+   {
+    "id": 3536,
+    "isim": "Kitâb-ı Risâle-i Sî Fasl min ilmi’n-nücûm.",
+    "isim2": null,
+    "disiplin": "Astronomi",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:40.906043Z",
+    "updated_at": "2025-04-06T19:20:10.873065Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3556,
+     "tam_metin": "[4] Kitâb-ı Risâle-i Sî Fasl min ilmi’n-nücûm. Dimeşkī nısfına. Sarı kâğıd mukavvâ cildli. Yirmi dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "49a",
+     "created_at": "2024-04-22T12:45:40.640733Z",
+     "updated_at": "2025-10-01T20:18:34.035456Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1983,
+     "kodikolojik_bilgi": 1449
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1983,
+  "bilgi_set": [
+   {
+    "id": 1449,
+    "murekkep_set": [
+     {
+      "id": 1326,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1449
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1115,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1449
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Sarı kağıt",
+    "varak_adedi": "24",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T20:18:34.031254Z",
+    "updated_at": "2025-10-01T20:18:34.031273Z",
+    "kayit": {
+     "id": 3556,
+     "tam_metin": "[4] Kitâb-ı Risâle-i Sî Fasl min ilmi’n-nücûm. Dimeşkī nısfına. Sarı kâğıd mukavvâ cildli. Yirmi dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "49a",
+     "created_at": "2024-04-22T12:45:40.640733Z",
+     "updated_at": "2025-10-01T20:18:34.035456Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1983,
+     "kodikolojik_bilgi": 1449
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[4] Kitâb-ı Risâle-i Sî Fasl min ilmi’n-nücûm. Dimeşkī nısfına. Sarı kâğıd mukavvâ cildli. Yirmi dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+  "notlar": "",
+  "sayfa_numarasi": "49a",
+  "created_at": "2024-04-22T12:45:40.640733Z",
+  "updated_at": "2025-10-01T20:18:34.035456Z",
+  "vakif": {
+   "id": 12,
+   "isim": "Âlâiyyeli Muhyiddîn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:56:17.228524Z",
+   "updated_at": "2024-04-22T11:56:17.228541Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1449,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Sarı kağıt",
+   "varak_adedi": "24",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T20:18:34.031254Z",
+   "updated_at": "2025-10-01T20:18:34.031273Z",
+   "kayit": 3556,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[41] Kitâb-ı Risâle Sî Fasl fî ilmi’n-nücûm. Dimeşkī nısfına. Sarı kâğıd mukavvâ cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Yirmi dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+ "notlar": "",
+ "sayfa_numarasi": "63a",
+ "created_at": "2024-02-10T12:49:39.578374Z",
+ "updated_at": "2026-01-26T22:44:56.683584Z",
+ "vakif": {
+  "id": 12,
+  "isim": "Âlâiyyeli Muhyiddîn",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:56:17.228524Z",
+  "updated_at": "2024-04-22T11:56:17.228541Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
