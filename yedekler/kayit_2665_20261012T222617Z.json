@@ -1,0 +1,339 @@
+{
+ "id": 2665,
+ "kitap_set": [
+  {
+   "id": 2648,
+   "isim": "Kitâb-ı Cevâmiu’l-Fıkh li’l-İmâm el-Attâbî.",
+   "isim2": null,
+   "disiplin": "Fıkıh",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:23:00.273229Z",
+   "updated_at": "2025-04-06T19:20:13.416530Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2665,
+    "tam_metin": "[28] Kitâb-ı Cevâmiʿu’l-Fıkh li’l-İmâm el-Attâbî. Kitâb-ı Meʾzûn’dan âhir-i Kitâb-ı Vesâyâ’ya dek. Bi-hattı Muhammed bin Halîl. Dimeşkī tamâmına. Kızıl ciğerî cildli. İki yüz elli varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "15a",
+    "created_at": "2024-04-22T12:23:00.008749Z",
+    "updated_at": "2025-09-02T12:18:42.928150Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1140,
+    "kodikolojik_bilgi": 599
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 235,
+   "koleksiyon_numarasi": "01559",
+   "nusha": "",
+   "created_at": "2024-12-28T15:22:06.876761Z",
+   "updated_at": "2024-12-28T15:22:06.876778Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2665,
+    "tam_metin": "[28] Kitâb-ı Cevâmiʿu’l-Fıkh li’l-İmâm el-Attâbî. Kitâb-ı Meʾzûn’dan âhir-i Kitâb-ı Vesâyâ’ya dek. Bi-hattı Muhammed bin Halîl. Dimeşkī tamâmına. Kızıl ciğerî cildli. İki yüz elli varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "15a",
+    "created_at": "2024-04-22T12:23:00.008749Z",
+    "updated_at": "2025-09-02T12:18:42.928150Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1140,
+    "kodikolojik_bilgi": 599
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1140,
+  "kitap_set": [
+   {
+    "id": 1135,
+    "isim": "Kitâbü’l-Cildi’l-Ahîr min Cevâmii’l-Fıkh.",
+    "isim2": null,
+    "disiplin": "Fıkıh",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:43:12.731949Z",
+    "updated_at": "2025-04-06T19:20:18.195005Z",
+    "yazar": {
+     "id": 302,
+     "isim": "İmâm el-Attâbî",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-09-12T17:59:39.196652Z",
+     "updated_at": "2024-09-12T17:59:39.196668Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1140,
+     "tam_metin": "[267] Kitâbü’l-Cildi’l-Ahîr eydan min Cevâmiʿi’l-Fıkh li’l-Attâbî. Min evveli Kitâbi’l-Meʾzûn ilâ âhiri’l-kitâb. Bi-hattı Muhammed bin Halîl. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz elli varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "26b",
+     "created_at": "2024-02-10T12:43:12.471592Z",
+     "updated_at": "2026-10-12T21:34:02.059420Z",
+     "vakif": 1,
+     "mustensih": 131,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2665,
+     "kodikolojik_bilgi": 1900
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2665,
+  "bilgi_set": [
+   {
+    "id": 1900,
+    "murekkep_set": [
+     {
+      "id": 1783,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1900
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1575,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1900
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "250",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:34:02.054935Z",
+    "updated_at": "2026-10-12T21:34:02.054955Z",
+    "kayit": {
+     "id": 1140,
+     "tam_metin": "[267] Kitâbü’l-Cildi’l-Ahîr eydan min Cevâmiʿi’l-Fıkh li’l-Attâbî. Min evveli Kitâbi’l-Meʾzûn ilâ âhiri’l-kitâb. Bi-hattı Muhammed bin Halîl. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz elli varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "26b",
+     "created_at": "2024-02-10T12:43:12.471592Z",
+     "updated_at": "2026-10-12T21:34:02.059420Z",
+     "vakif": 1,
+     "mustensih": 131,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2665,
+     "kodikolojik_bilgi": 1900
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[267] Kitâbü’l-Cildi’l-Ahîr eydan min Cevâmiʿi’l-Fıkh li’l-Attâbî. Min evveli Kitâbi’l-Meʾzûn ilâ âhiri’l-kitâb. Bi-hattı Muhammed bin Halîl. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz elli varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "26b",
+  "created_at": "2024-02-10T12:43:12.471592Z",
+  "updated_at": "2026-10-12T21:34:02.059420Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 131,
+   "isim": "Muhammed bin Halîl",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-08-08T14:43:11.678280Z",
+   "updated_at": "2024-08-08T14:43:11.678295Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1900,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "250",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:34:02.054935Z",
+   "updated_at": "2026-10-12T21:34:02.054955Z",
+   "kayit": 1140,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 599,
+   "murekkep_set": [
+    {
+     "id": 477,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 599
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 268,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 599
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Kızıl ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "250",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T12:18:42.924526Z",
+   "updated_at": "2025-09-02T12:18:42.924543Z",
+   "kayit": {
+    "id": 2665,
+    "tam_metin": "[28] Kitâb-ı Cevâmiʿu’l-Fıkh li’l-İmâm el-Attâbî. Kitâb-ı Meʾzûn’dan âhir-i Kitâb-ı Vesâyâ’ya dek. Bi-hattı Muhammed bin Halîl. Dimeşkī tamâmına. Kızıl ciğerî cildli. İki yüz elli varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "15a",
+    "created_at": "2024-04-22T12:23:00.008749Z",
+    "updated_at": "2025-09-02T12:18:42.928150Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1140,
+    "kodikolojik_bilgi": 599
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[28] Kitâb-ı Cevâmiʿu’l-Fıkh li’l-İmâm el-Attâbî. Kitâb-ı Meʾzûn’dan âhir-i Kitâb-ı Vesâyâ’ya dek. Bi-hattı Muhammed bin Halîl. Dimeşkī tamâmına. Kızıl ciğerî cildli. İki yüz elli varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "15a",
+ "created_at": "2024-04-22T12:23:00.008749Z",
+ "updated_at": "2025-09-02T12:18:42.928150Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 599,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Kızıl ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "250",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-02T12:18:42.924526Z",
+  "updated_at": "2025-09-02T12:18:42.924543Z",
+  "kayit": 2665,
+  "created_by": null
+ }
+}

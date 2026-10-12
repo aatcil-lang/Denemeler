@@ -1,0 +1,327 @@
+{
+ "id": 2664,
+ "kitap_set": [
+  {
+   "id": 2647,
+   "isim": "Kitâb-ı Fetâvâ-i İbn Salâh alâ Mezhebi’ş-Şâfiî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:22:59.850360Z",
+   "updated_at": "2025-04-06T19:20:13.419425Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2664,
+    "tam_metin": "[27] Kitâb-ı Fetâvâ-i İbn Salâh alâ Mezhebi’ş-Şâfiʿî. Bi-hattı Abdullâh bin Muhammed. Âhirinde baʿzı edʿiye-i meʾsûra yazılmış Fezâʾiliyle. Dimeşkī tamâmına. Ciğerî cildli. Yüz doksan varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "15a",
+    "created_at": "2024-04-22T12:22:59.586447Z",
+    "updated_at": "2025-11-05T19:26:20.996389Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1216,
+    "kodikolojik_bilgi": 598
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 234,
+   "koleksiyon_numarasi": "02347-001",
+   "nusha": "",
+   "created_at": "2024-12-28T15:18:15.937275Z",
+   "updated_at": "2024-12-28T15:18:15.937295Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2664,
+    "tam_metin": "[27] Kitâb-ı Fetâvâ-i İbn Salâh alâ Mezhebi’ş-Şâfiʿî. Bi-hattı Abdullâh bin Muhammed. Âhirinde baʿzı edʿiye-i meʾsûra yazılmış Fezâʾiliyle. Dimeşkī tamâmına. Ciğerî cildli. Yüz doksan varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "15a",
+    "created_at": "2024-04-22T12:22:59.586447Z",
+    "updated_at": "2025-11-05T19:26:20.996389Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1216,
+    "kodikolojik_bilgi": 598
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1216,
+  "kitap_set": [
+   {
+    "id": 1211,
+    "isim": "Kitâb-ı Fetâvâ İbni Salâh alâ Mezhebi’ş-Şâfiî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:43:45.823943Z",
+    "updated_at": "2025-04-06T19:20:17.927971Z",
+    "yazar": null,
+    "kayit": {
+     "id": 1216,
+     "tam_metin": "[343] Kitâb-ı Fetâvâ İbni Salâh alâ Mezhebi’ş-Şâfiʿî. Bi-hattı Abdullâh bin Muhammed. Ve fî âhirihî baʿzı edʿiyetün meʾsûratün bi-fezâʾilihâ. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Yüz doksan varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "30a",
+     "created_at": "2024-02-10T12:43:45.545743Z",
+     "updated_at": "2026-10-12T21:36:18.512298Z",
+     "vakif": 1,
+     "mustensih": 353,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2664,
+     "kodikolojik_bilgi": 1975
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2664,
+  "bilgi_set": [
+   {
+    "id": 1975,
+    "murekkep_set": [
+     {
+      "id": 1858,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1975
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1650,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1975
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "190",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:36:18.508115Z",
+    "updated_at": "2026-10-12T21:36:18.508136Z",
+    "kayit": {
+     "id": 1216,
+     "tam_metin": "[343] Kitâb-ı Fetâvâ İbni Salâh alâ Mezhebi’ş-Şâfiʿî. Bi-hattı Abdullâh bin Muhammed. Ve fî âhirihî baʿzı edʿiyetün meʾsûratün bi-fezâʾilihâ. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Yüz doksan varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "30a",
+     "created_at": "2024-02-10T12:43:45.545743Z",
+     "updated_at": "2026-10-12T21:36:18.512298Z",
+     "vakif": 1,
+     "mustensih": 353,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2664,
+     "kodikolojik_bilgi": 1975
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[343] Kitâb-ı Fetâvâ İbni Salâh alâ Mezhebi’ş-Şâfiʿî. Bi-hattı Abdullâh bin Muhammed. Ve fî âhirihî baʿzı edʿiyetün meʾsûratün bi-fezâʾilihâ. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Yüz doksan varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "30a",
+  "created_at": "2024-02-10T12:43:45.545743Z",
+  "updated_at": "2026-10-12T21:36:18.512298Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 353,
+   "isim": "Abdullâh bin Muhammed",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-17T17:30:40.600735Z",
+   "updated_at": "2024-09-17T17:30:40.600751Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1975,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "190",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:36:18.508115Z",
+   "updated_at": "2026-10-12T21:36:18.508136Z",
+   "kayit": 1216,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 598,
+   "murekkep_set": [
+    {
+     "id": 476,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 598
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 267,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 598
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": null,
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "190",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "Âhirinde baʿzı edʿiye-i meʾsûra yazılmış Fezâʾiliyle",
+   "created_at": "2025-09-02T12:17:09.475221Z",
+   "updated_at": "2025-11-05T19:26:20.988600Z",
+   "kayit": {
+    "id": 2664,
+    "tam_metin": "[27] Kitâb-ı Fetâvâ-i İbn Salâh alâ Mezhebi’ş-Şâfiʿî. Bi-hattı Abdullâh bin Muhammed. Âhirinde baʿzı edʿiye-i meʾsûra yazılmış Fezâʾiliyle. Dimeşkī tamâmına. Ciğerî cildli. Yüz doksan varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "15a",
+    "created_at": "2024-04-22T12:22:59.586447Z",
+    "updated_at": "2025-11-05T19:26:20.996389Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1216,
+    "kodikolojik_bilgi": 598
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[27] Kitâb-ı Fetâvâ-i İbn Salâh alâ Mezhebi’ş-Şâfiʿî. Bi-hattı Abdullâh bin Muhammed. Âhirinde baʿzı edʿiye-i meʾsûra yazılmış Fezâʾiliyle. Dimeşkī tamâmına. Ciğerî cildli. Yüz doksan varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "15a",
+ "created_at": "2024-04-22T12:22:59.586447Z",
+ "updated_at": "2025-11-05T19:26:20.996389Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 598,
+  "zahriye_exists": false,
+  "zahriye": null,
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "190",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "Âhirinde baʿzı edʿiye-i meʾsûra yazılmış Fezâʾiliyle",
+  "created_at": "2025-09-02T12:17:09.475221Z",
+  "updated_at": "2025-11-05T19:26:20.988600Z",
+  "kayit": 2664,
+  "created_by": null
+ }
+}
