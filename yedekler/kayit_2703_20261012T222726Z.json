@@ -1,0 +1,138 @@
+{
+ "id": 2703,
+ "kitap_set": [
+  {
+   "id": 2686,
+   "isim": "Kitâb-ı Fetâvâ Kübrâ.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:23:16.347137Z",
+   "updated_at": "2025-04-06T19:20:13.302568Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2703,
+    "tam_metin": "[66] Kitâb-ı Fetâvâ Kübrâ. Kitâb-ı Buyûʿ’dan âhir-i kitâba dek. Bi-hattı Süleymân bin Hasan bin Mûsâ. Evvel varakının zahrında halle “el-Cildü’s-Sânî mine’l-Fetâvâ’l-Kübrâ” deyu yazılmış. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Yüz doksan dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "16a",
+    "created_at": "2024-04-22T12:23:16.090082Z",
+    "updated_at": "2025-09-02T15:47:10.721261Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": 637
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [
+  {
+   "id": 637,
+   "murekkep_set": [
+    {
+     "id": 515,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 637
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 306,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 637
+    }
+   ],
+   "zahriye_exists": true,
+   "zahriye": "Evvel varakının zahrında halle “el-Cildü’s-Sânî mine’l-Fetâvâ’l-Kübrâ” deyu yazılmış",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Sarı kağıt",
+   "varak_adedi": "194",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T15:47:10.692047Z",
+   "updated_at": "2025-09-02T15:47:10.692558Z",
+   "kayit": {
+    "id": 2703,
+    "tam_metin": "[66] Kitâb-ı Fetâvâ Kübrâ. Kitâb-ı Buyûʿ’dan âhir-i kitâba dek. Bi-hattı Süleymân bin Hasan bin Mûsâ. Evvel varakının zahrında halle “el-Cildü’s-Sânî mine’l-Fetâvâ’l-Kübrâ” deyu yazılmış. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Yüz doksan dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "16a",
+    "created_at": "2024-04-22T12:23:16.090082Z",
+    "updated_at": "2025-09-02T15:47:10.721261Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": 637
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[66] Kitâb-ı Fetâvâ Kübrâ. Kitâb-ı Buyûʿ’dan âhir-i kitâba dek. Bi-hattı Süleymân bin Hasan bin Mûsâ. Evvel varakının zahrında halle “el-Cildü’s-Sânî mine’l-Fetâvâ’l-Kübrâ” deyu yazılmış. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Yüz doksan dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "16a",
+ "created_at": "2024-04-22T12:23:16.090082Z",
+ "updated_at": "2025-09-02T15:47:10.721261Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 637,
+  "zahriye_exists": true,
+  "zahriye": "Evvel varakının zahrında halle “el-Cildü’s-Sânî mine’l-Fetâvâ’l-Kübrâ” deyu yazılmış",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Sarı kağıt",
+  "varak_adedi": "194",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-02T15:47:10.692047Z",
+  "updated_at": "2025-09-02T15:47:10.692558Z",
+  "kayit": 2703,
+  "created_by": null
+ }
+}
