@@ -1,0 +1,339 @@
+{
+ "id": 2985,
+ "kitap_set": [
+  {
+   "id": 2967,
+   "isim": "Kitâb-ı Şerh-i Mülahhas.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:25:15.495318Z",
+   "updated_at": "2025-04-06T19:20:12.495086Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2985,
+    "tam_metin": "[12] Kitâb-ı Şerh-i Mülahhas. أقول تقرير هذا الوجه أن يقال لو كان الحق مذهب الحكماء لزم أن يكون الجسم مركبا من أجزاء غير متناهية والتالي محال فالمقدم مثله ibâretinden âhir-i kitâba dek. Bi-hattı Meʾmûn bin Muhammed bin Meʾmûn. Zahrında “er-Râbiu min Şerhi’l-Mülahhas li’l-İmâm el-Allâme Necmeddîn el-Kâtibî” deyu yazılmış. Dimeşkī tamâmına. İbrişim alaca cildli. Üç yüz üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+    "notlar": "",
+    "sayfa_numarasi": "26b",
+    "created_at": "2024-04-22T12:25:15.230052Z",
+    "updated_at": "2025-09-20T06:37:14.180982Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1234,
+    "kodikolojik_bilgi": 922
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 486,
+   "koleksiyon_numarasi": "03209",
+   "nusha": "",
+   "created_at": "2025-01-12T22:13:10.134462Z",
+   "updated_at": "2025-01-12T22:13:10.134483Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2985,
+    "tam_metin": "[12] Kitâb-ı Şerh-i Mülahhas. أقول تقرير هذا الوجه أن يقال لو كان الحق مذهب الحكماء لزم أن يكون الجسم مركبا من أجزاء غير متناهية والتالي محال فالمقدم مثله ibâretinden âhir-i kitâba dek. Bi-hattı Meʾmûn bin Muhammed bin Meʾmûn. Zahrında “er-Râbiu min Şerhi’l-Mülahhas li’l-İmâm el-Allâme Necmeddîn el-Kâtibî” deyu yazılmış. Dimeşkī tamâmına. İbrişim alaca cildli. Üç yüz üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+    "notlar": "",
+    "sayfa_numarasi": "26b",
+    "created_at": "2024-04-22T12:25:15.230052Z",
+    "updated_at": "2025-09-20T06:37:14.180982Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1234,
+    "kodikolojik_bilgi": 922
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1234,
+  "kitap_set": [
+   {
+    "id": 1229,
+    "isim": "Kitâbü’l-Cildi’l-Ahîr min Şerhi’l-Mülahhas (er-Râbiʿu min Şerhi’l-Mülahhas li’l-İmâm el-Allâme Necmeddîn el-Kâtibî).",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:43:54.157424Z",
+    "updated_at": "2025-04-06T19:20:17.875140Z",
+    "yazar": {
+     "id": 361,
+     "isim": "İmâm el-Allâme Necmeddîn el-Kâtibî",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-09-17T18:42:35.134466Z",
+     "updated_at": "2024-09-17T18:42:35.134481Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1234,
+     "tam_metin": "[14] Kitâbü’l-Cildi’l-Ahîr eydan min Şerhi’l-Mülahhas. Min kavlihî أقول تقرير هذا الوجه أن يقال لو كان الحق مذهب الحكماء لزم أن يكون الجسم مركبا من أجزاء غير متناهية والثاني محال فالمقدم مثله ilâ âhiri’l-kitâb. Bi-hattı Meʾmûn bin Muhammed bin Meʾmûn. Zahrında “er-Râbiʿu min Şerhi’l-Mülahhas li’l-İmâm el-Allâme Necmeddîn el-Kâtibî”. Dimeşkī tamâmına. İbrişim alaca cildle. Vakf-ı Sultânî. Üç yüz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30b",
+     "created_at": "2024-02-10T12:43:53.864030Z",
+     "updated_at": "2026-10-12T21:36:49.910058Z",
+     "vakif": 1,
+     "mustensih": 360,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2985,
+     "kodikolojik_bilgi": 1992
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2985,
+  "bilgi_set": [
+   {
+    "id": 1992,
+    "murekkep_set": [
+     {
+      "id": 1875,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1992
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1667,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1992
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "İbrişim alaca cilt",
+    "cild_materyal": "",
+    "varak_adedi": "303",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:36:49.905795Z",
+    "updated_at": "2026-10-12T21:36:49.905815Z",
+    "kayit": {
+     "id": 1234,
+     "tam_metin": "[14] Kitâbü’l-Cildi’l-Ahîr eydan min Şerhi’l-Mülahhas. Min kavlihî أقول تقرير هذا الوجه أن يقال لو كان الحق مذهب الحكماء لزم أن يكون الجسم مركبا من أجزاء غير متناهية والثاني محال فالمقدم مثله ilâ âhiri’l-kitâb. Bi-hattı Meʾmûn bin Muhammed bin Meʾmûn. Zahrında “er-Râbiʿu min Şerhi’l-Mülahhas li’l-İmâm el-Allâme Necmeddîn el-Kâtibî”. Dimeşkī tamâmına. İbrişim alaca cildle. Vakf-ı Sultânî. Üç yüz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30b",
+     "created_at": "2024-02-10T12:43:53.864030Z",
+     "updated_at": "2026-10-12T21:36:49.910058Z",
+     "vakif": 1,
+     "mustensih": 360,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2985,
+     "kodikolojik_bilgi": 1992
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[14] Kitâbü’l-Cildi’l-Ahîr eydan min Şerhi’l-Mülahhas. Min kavlihî أقول تقرير هذا الوجه أن يقال لو كان الحق مذهب الحكماء لزم أن يكون الجسم مركبا من أجزاء غير متناهية والثاني محال فالمقدم مثله ilâ âhiri’l-kitâb. Bi-hattı Meʾmûn bin Muhammed bin Meʾmûn. Zahrında “er-Râbiʿu min Şerhi’l-Mülahhas li’l-İmâm el-Allâme Necmeddîn el-Kâtibî”. Dimeşkī tamâmına. İbrişim alaca cildle. Vakf-ı Sultânî. Üç yüz üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+  "notlar": "",
+  "sayfa_numarasi": "30b",
+  "created_at": "2024-02-10T12:43:53.864030Z",
+  "updated_at": "2026-10-12T21:36:49.910058Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 360,
+   "isim": "Meʾmûn bin Muhammed bin Meʾmûn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-17T18:35:46.511470Z",
+   "updated_at": "2024-09-17T18:35:46.511484Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1992,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "İbrişim alaca cilt",
+   "cild_materyal": "",
+   "varak_adedi": "303",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:36:49.905795Z",
+   "updated_at": "2026-10-12T21:36:49.905815Z",
+   "kayit": 1234,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 922,
+   "murekkep_set": [
+    {
+     "id": 800,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 922
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 590,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 922
+    }
+   ],
+   "zahriye_exists": true,
+   "zahriye": "Zahrında “er-Râbiu min Şerhi’l-Mülahhas li’l-İmâm el-Allâme Necmeddîn el-Kâtibî” deyu yazılmış.",
+   "cild_turu": "İbrişim alaca cilt",
+   "cild_materyal": "",
+   "varak_adedi": "303",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T06:37:14.175769Z",
+   "updated_at": "2025-09-20T06:37:14.175796Z",
+   "kayit": {
+    "id": 2985,
+    "tam_metin": "[12] Kitâb-ı Şerh-i Mülahhas. أقول تقرير هذا الوجه أن يقال لو كان الحق مذهب الحكماء لزم أن يكون الجسم مركبا من أجزاء غير متناهية والتالي محال فالمقدم مثله ibâretinden âhir-i kitâba dek. Bi-hattı Meʾmûn bin Muhammed bin Meʾmûn. Zahrında “er-Râbiu min Şerhi’l-Mülahhas li’l-İmâm el-Allâme Necmeddîn el-Kâtibî” deyu yazılmış. Dimeşkī tamâmına. İbrişim alaca cildli. Üç yüz üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+    "notlar": "",
+    "sayfa_numarasi": "26b",
+    "created_at": "2024-04-22T12:25:15.230052Z",
+    "updated_at": "2025-09-20T06:37:14.180982Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1234,
+    "kodikolojik_bilgi": 922
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[12] Kitâb-ı Şerh-i Mülahhas. أقول تقرير هذا الوجه أن يقال لو كان الحق مذهب الحكماء لزم أن يكون الجسم مركبا من أجزاء غير متناهية والتالي محال فالمقدم مثله ibâretinden âhir-i kitâba dek. Bi-hattı Meʾmûn bin Muhammed bin Meʾmûn. Zahrında “er-Râbiu min Şerhi’l-Mülahhas li’l-İmâm el-Allâme Necmeddîn el-Kâtibî” deyu yazılmış. Dimeşkī tamâmına. İbrişim alaca cildli. Üç yüz üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+ "notlar": "",
+ "sayfa_numarasi": "26b",
+ "created_at": "2024-04-22T12:25:15.230052Z",
+ "updated_at": "2025-09-20T06:37:14.180982Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 922,
+  "zahriye_exists": true,
+  "zahriye": "Zahrında “er-Râbiu min Şerhi’l-Mülahhas li’l-İmâm el-Allâme Necmeddîn el-Kâtibî” deyu yazılmış.",
+  "cild_turu": "İbrişim alaca cilt",
+  "cild_materyal": "",
+  "varak_adedi": "303",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-20T06:37:14.175769Z",
+  "updated_at": "2025-09-20T06:37:14.175796Z",
+  "kayit": 2985,
+  "created_by": null
+ }
+}

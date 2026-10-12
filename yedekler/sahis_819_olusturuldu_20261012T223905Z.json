@@ -1,0 +1,23 @@
+{
+ "id": 819,
+ "vakif": [],
+ "vakif_sayisi": 0,
+ "mustensih": [],
+ "mustensih_sayisi": 0,
+ "yazar": [],
+ "yazar_sayisi": 0,
+ "get_olum_tarihi_from_hijri": null,
+ "get_dogum_tarihi_from_hijri": null,
+ "get_olum_tarihi_from_gregorian": null,
+ "get_dogum_tarihi_from_gregorian": null,
+ "isim": "Muhammed bin Ebu’l-Meʿâlî",
+ "isim2": "",
+ "dogum_tarihi": null,
+ "dogum_tarihi_hijri": "",
+ "olum_tarihi": null,
+ "olum_tarihi_hijri": "",
+ "created_at": "2026-10-12T22:38:51.134636Z",
+ "updated_at": "2026-10-12T22:38:51.134653Z",
+ "kaynak": null,
+ "created_by": null
+}

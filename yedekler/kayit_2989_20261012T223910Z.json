@@ -1,0 +1,299 @@
+{
+ "id": 2989,
+ "kitap_set": [
+  {
+   "id": 2971,
+   "isim": "Kitâb-ı Şerh-i Tavâli‘-i Abrî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:25:17.201234Z",
+   "updated_at": "2025-04-06T19:20:12.483560Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2989,
+    "tam_metin": "[16] Kitâb-ı Şerh-i Tavâliʿ-i Abrî. Bi-hattı Yûsuf bin Devlet. Dimeşkī nısfına. Siyâh cildli. İki yüz kırk altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+    "notlar": "",
+    "sayfa_numarasi": "27a",
+    "created_at": "2024-04-22T12:25:16.932478Z",
+    "updated_at": "2025-09-20T06:41:45.226579Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1237,
+    "kodikolojik_bilgi": 926
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 1237,
+  "kitap_set": [
+   {
+    "id": 3756,
+    "isim": "Kitâb-ı Şerhu’t-Tavâliʿ.",
+    "isim2": "",
+    "disiplin": "",
+    "kapsam": "",
+    "created_at": "2024-09-18T12:47:01.888950Z",
+    "updated_at": "2025-04-06T19:20:10.238211Z",
+    "yazar": {
+     "id": 362,
+     "isim": "İbrî, Burhânüddîn Abdullāh (Ubeydullāh) b. Muhammed b. Gānim el-Fergānî et-Tebrîzî el-İbrî",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-09-18T12:42:19.415186Z",
+     "updated_at": "2024-09-18T12:42:19.415201Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1237,
+     "tam_metin": "[17] Kitâb-ı Şerhu’t-Tavâliʿ eydan li’l-İbrî. Bi-hattı Yûsuf bin Devlet. Dimeşkī nısfına. Siyâh cildle. Vakf-ı Sultânî. İki yüz kırk altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "31a",
+     "created_at": "2024-02-10T12:43:55.217907Z",
+     "updated_at": "2026-10-12T21:36:55.356996Z",
+     "vakif": 1,
+     "mustensih": 363,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2989,
+     "kodikolojik_bilgi": 1995
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2989,
+  "bilgi_set": [
+   {
+    "id": 1995,
+    "murekkep_set": [
+     {
+      "id": 1878,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1995
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1670,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1995
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "246",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:36:55.353573Z",
+    "updated_at": "2026-10-12T21:36:55.353589Z",
+    "kayit": {
+     "id": 1237,
+     "tam_metin": "[17] Kitâb-ı Şerhu’t-Tavâliʿ eydan li’l-İbrî. Bi-hattı Yûsuf bin Devlet. Dimeşkī nısfına. Siyâh cildle. Vakf-ı Sultânî. İki yüz kırk altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "31a",
+     "created_at": "2024-02-10T12:43:55.217907Z",
+     "updated_at": "2026-10-12T21:36:55.356996Z",
+     "vakif": 1,
+     "mustensih": 363,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2989,
+     "kodikolojik_bilgi": 1995
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[17] Kitâb-ı Şerhu’t-Tavâliʿ eydan li’l-İbrî. Bi-hattı Yûsuf bin Devlet. Dimeşkī nısfına. Siyâh cildle. Vakf-ı Sultânî. İki yüz kırk altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+  "notlar": "",
+  "sayfa_numarasi": "31a",
+  "created_at": "2024-02-10T12:43:55.217907Z",
+  "updated_at": "2026-10-12T21:36:55.356996Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 363,
+   "isim": "Yûsuf bin Devlet",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-18T12:48:42.285611Z",
+   "updated_at": "2024-09-18T12:48:42.285627Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1995,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "246",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:36:55.353573Z",
+   "updated_at": "2026-10-12T21:36:55.353589Z",
+   "kayit": 1237,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 926,
+   "murekkep_set": [
+    {
+     "id": 804,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 926
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 594,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 926
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "246",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T06:41:45.217415Z",
+   "updated_at": "2025-09-20T06:41:45.217765Z",
+   "kayit": {
+    "id": 2989,
+    "tam_metin": "[16] Kitâb-ı Şerh-i Tavâliʿ-i Abrî. Bi-hattı Yûsuf bin Devlet. Dimeşkī nısfına. Siyâh cildli. İki yüz kırk altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+    "notlar": "",
+    "sayfa_numarasi": "27a",
+    "created_at": "2024-04-22T12:25:16.932478Z",
+    "updated_at": "2025-09-20T06:41:45.226579Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1237,
+    "kodikolojik_bilgi": 926
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[16] Kitâb-ı Şerh-i Tavâliʿ-i Abrî. Bi-hattı Yûsuf bin Devlet. Dimeşkī nısfına. Siyâh cildli. İki yüz kırk altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+ "notlar": "",
+ "sayfa_numarasi": "27a",
+ "created_at": "2024-04-22T12:25:16.932478Z",
+ "updated_at": "2025-09-20T06:41:45.226579Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 926,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Siyah cilt",
+  "cild_materyal": "",
+  "varak_adedi": "246",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Nısfına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-20T06:41:45.217415Z",
+  "updated_at": "2025-09-20T06:41:45.217765Z",
+  "kayit": 2989,
+  "created_by": null
+ }
+}
