@@ -1,0 +1,339 @@
+{
+ "id": 2864,
+ "kitap_set": [
+  {
+   "id": 2847,
+   "isim": "Kitâbü’t-Tavzîh fî Şerhi Mukaddimeti Ebi’l-Leys.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:24:23.994425Z",
+   "updated_at": "2025-04-06T19:20:12.852006Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2864,
+    "tam_metin": "[227] Kitâbü’t-Tavzîh fî Şerhi Mukaddimeti Ebu’l-Leys min müʾellefâtı Mustafâ bin Zekeriyyâ bin Aydoğmuş el-Karamanî. Bi-hattı Ahmed bin Hüseyin bin Hüsâmeddîn. Dimeşkī nısfına. Ciğerî cildli. Yüz yirmi altı varak.\n[Derkenar] Evvel varakının zahrında “Vakf-ı Mîşeved” deyu yazılmış ammâ defter-i atîkde “Vakf-ı Sultânî” deyu kayd olunduğu sebebden defter-i sultânîde sebt olundu.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "22a",
+    "created_at": "2024-04-22T12:24:23.735330Z",
+    "updated_at": "2025-09-10T08:18:00.766408Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1177,
+    "kodikolojik_bilgi": 801
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 397,
+   "koleksiyon_numarasi": "01268",
+   "nusha": "",
+   "created_at": "2025-01-12T11:42:16.548603Z",
+   "updated_at": "2025-01-12T11:42:16.548629Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2864,
+    "tam_metin": "[227] Kitâbü’t-Tavzîh fî Şerhi Mukaddimeti Ebu’l-Leys min müʾellefâtı Mustafâ bin Zekeriyyâ bin Aydoğmuş el-Karamanî. Bi-hattı Ahmed bin Hüseyin bin Hüsâmeddîn. Dimeşkī nısfına. Ciğerî cildli. Yüz yirmi altı varak.\n[Derkenar] Evvel varakının zahrında “Vakf-ı Mîşeved” deyu yazılmış ammâ defter-i atîkde “Vakf-ı Sultânî” deyu kayd olunduğu sebebden defter-i sultânîde sebt olundu.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "22a",
+    "created_at": "2024-04-22T12:24:23.735330Z",
+    "updated_at": "2025-09-10T08:18:00.766408Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1177,
+    "kodikolojik_bilgi": 801
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1177,
+  "kitap_set": [
+   {
+    "id": 1172,
+    "isim": "Kitâbü’t-Tavzîh fî Şerhi Mukaddimeti Ebi’l-Leys fi’l-Fıkh.",
+    "isim2": null,
+    "disiplin": "Fıkıh",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:43:28.376289Z",
+    "updated_at": "2025-04-06T19:20:18.079195Z",
+    "yazar": {
+     "id": 337,
+     "isim": "Mustafâ bin Zekeriyyâ bin Aydoğmuş el-Karamânî",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-09-14T10:53:36.647336Z",
+     "updated_at": "2024-09-14T10:53:36.647350Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1177,
+     "tam_metin": "[304] Kitâbü’t-Tavzîh fî Şerhi Mukaddimeti Ebu’l-Leys fi’l-Fıkh li-Mustafâ bin Zekeriyyâ bin Aydoğmuş el-Karamânî. Bi-hattı Ahmed bin Hüsâmeddîn. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Sultânî. Yüz yirmi altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "28a",
+     "created_at": "2024-02-10T12:43:28.105055Z",
+     "updated_at": "2026-10-12T21:35:08.682813Z",
+     "vakif": 1,
+     "mustensih": 336,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2864,
+     "kodikolojik_bilgi": 1936
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2864,
+  "bilgi_set": [
+   {
+    "id": 1936,
+    "murekkep_set": [
+     {
+      "id": 1819,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1936
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1611,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1936
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "126",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:35:08.679810Z",
+    "updated_at": "2026-10-12T21:35:08.679827Z",
+    "kayit": {
+     "id": 1177,
+     "tam_metin": "[304] Kitâbü’t-Tavzîh fî Şerhi Mukaddimeti Ebu’l-Leys fi’l-Fıkh li-Mustafâ bin Zekeriyyâ bin Aydoğmuş el-Karamânî. Bi-hattı Ahmed bin Hüsâmeddîn. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Sultânî. Yüz yirmi altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "28a",
+     "created_at": "2024-02-10T12:43:28.105055Z",
+     "updated_at": "2026-10-12T21:35:08.682813Z",
+     "vakif": 1,
+     "mustensih": 336,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2864,
+     "kodikolojik_bilgi": 1936
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[304] Kitâbü’t-Tavzîh fî Şerhi Mukaddimeti Ebu’l-Leys fi’l-Fıkh li-Mustafâ bin Zekeriyyâ bin Aydoğmuş el-Karamânî. Bi-hattı Ahmed bin Hüsâmeddîn. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Sultânî. Yüz yirmi altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "28a",
+  "created_at": "2024-02-10T12:43:28.105055Z",
+  "updated_at": "2026-10-12T21:35:08.682813Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 336,
+   "isim": "Ahmed bin Hüsâmeddîn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-14T10:52:55.365172Z",
+   "updated_at": "2024-09-14T10:52:55.365188Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1936,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "126",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:35:08.679810Z",
+   "updated_at": "2026-10-12T21:35:08.679827Z",
+   "kayit": 1177,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 801,
+   "murekkep_set": [
+    {
+     "id": 678,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 801
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 469,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 801
+    }
+   ],
+   "zahriye_exists": true,
+   "zahriye": "Evvel varakının zahrında “Vakf-ı Mîşeved” deyu yazılmış",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "126",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T08:18:00.761022Z",
+   "updated_at": "2025-09-10T08:18:00.761040Z",
+   "kayit": {
+    "id": 2864,
+    "tam_metin": "[227] Kitâbü’t-Tavzîh fî Şerhi Mukaddimeti Ebu’l-Leys min müʾellefâtı Mustafâ bin Zekeriyyâ bin Aydoğmuş el-Karamanî. Bi-hattı Ahmed bin Hüseyin bin Hüsâmeddîn. Dimeşkī nısfına. Ciğerî cildli. Yüz yirmi altı varak.\n[Derkenar] Evvel varakının zahrında “Vakf-ı Mîşeved” deyu yazılmış ammâ defter-i atîkde “Vakf-ı Sultânî” deyu kayd olunduğu sebebden defter-i sultânîde sebt olundu.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "22a",
+    "created_at": "2024-04-22T12:24:23.735330Z",
+    "updated_at": "2025-09-10T08:18:00.766408Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1177,
+    "kodikolojik_bilgi": 801
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[227] Kitâbü’t-Tavzîh fî Şerhi Mukaddimeti Ebu’l-Leys min müʾellefâtı Mustafâ bin Zekeriyyâ bin Aydoğmuş el-Karamanî. Bi-hattı Ahmed bin Hüseyin bin Hüsâmeddîn. Dimeşkī nısfına. Ciğerî cildli. Yüz yirmi altı varak.\n[Derkenar] Evvel varakının zahrında “Vakf-ı Mîşeved” deyu yazılmış ammâ defter-i atîkde “Vakf-ı Sultânî” deyu kayd olunduğu sebebden defter-i sultânîde sebt olundu.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "22a",
+ "created_at": "2024-04-22T12:24:23.735330Z",
+ "updated_at": "2025-09-10T08:18:00.766408Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 801,
+  "zahriye_exists": true,
+  "zahriye": "Evvel varakının zahrında “Vakf-ı Mîşeved” deyu yazılmış",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "126",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Nısfına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-10T08:18:00.761022Z",
+  "updated_at": "2025-09-10T08:18:00.761040Z",
+  "kayit": 2864,
+  "created_by": null
+ }
+}
