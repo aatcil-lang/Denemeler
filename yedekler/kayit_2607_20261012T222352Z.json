@@ -1,0 +1,287 @@
+{
+ "id": 2607,
+ "kitap_set": [
+  {
+   "id": 2590,
+   "isim": "Kitâbü’t-Tahkīk.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:22:35.622118Z",
+   "updated_at": "2025-04-06T19:20:13.610968Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2607,
+    "tam_metin": "[57] Kitâbü’t-Tahkīk. Bi-hattı Mahmûd bin Abdullâh. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. Üç yüz otuz dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "12b",
+    "created_at": "2024-04-22T12:22:35.356073Z",
+    "updated_at": "2025-09-02T09:20:18.855981Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 849,
+    "kodikolojik_bilgi": 540
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 849,
+  "kitap_set": [
+   {
+    "id": 845,
+    "isim": "Kitâbü’t-Tahkīk fî Şerhi Ahsîketî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:41:10.636649Z",
+    "updated_at": "2025-04-06T19:20:19.154858Z",
+    "yazar": null,
+    "kayit": {
+     "id": 849,
+     "tam_metin": "[74] Kitâbü’t-Tahkīk fî Şerhi Ahsîkesî eydan. Bi-hattı Mahmûd bin Abdullâh. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Üç yüz otuz dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-02-10T12:41:10.371992Z",
+     "updated_at": "2026-10-12T21:25:26.681137Z",
+     "vakif": 1,
+     "mustensih": 194,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2607,
+     "kodikolojik_bilgi": 1612
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2607,
+  "bilgi_set": [
+   {
+    "id": 1612,
+    "murekkep_set": [
+     {
+      "id": 1495,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1612
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1287,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1612
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "334",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:25:26.676502Z",
+    "updated_at": "2026-10-12T21:25:26.676524Z",
+    "kayit": {
+     "id": 849,
+     "tam_metin": "[74] Kitâbü’t-Tahkīk fî Şerhi Ahsîkesî eydan. Bi-hattı Mahmûd bin Abdullâh. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Üç yüz otuz dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-02-10T12:41:10.371992Z",
+     "updated_at": "2026-10-12T21:25:26.681137Z",
+     "vakif": 1,
+     "mustensih": 194,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2607,
+     "kodikolojik_bilgi": 1612
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[74] Kitâbü’t-Tahkīk fî Şerhi Ahsîkesî eydan. Bi-hattı Mahmûd bin Abdullâh. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Üç yüz otuz dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "14a",
+  "created_at": "2024-02-10T12:41:10.371992Z",
+  "updated_at": "2026-10-12T21:25:26.681137Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 194,
+   "isim": "Mahmûd bin Abdullâh",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-02T23:20:47.190625Z",
+   "updated_at": "2024-09-02T23:20:47.190640Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1612,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "334",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:25:26.676502Z",
+   "updated_at": "2026-10-12T21:25:26.676524Z",
+   "kayit": 849,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 540,
+   "murekkep_set": [
+    {
+     "id": 418,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 540
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 209,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 540
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "334",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T09:20:18.852244Z",
+   "updated_at": "2025-09-02T09:20:18.852261Z",
+   "kayit": {
+    "id": 2607,
+    "tam_metin": "[57] Kitâbü’t-Tahkīk. Bi-hattı Mahmûd bin Abdullâh. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. Üç yüz otuz dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "12b",
+    "created_at": "2024-04-22T12:22:35.356073Z",
+    "updated_at": "2025-09-02T09:20:18.855981Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 849,
+    "kodikolojik_bilgi": 540
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[57] Kitâbü’t-Tahkīk. Bi-hattı Mahmûd bin Abdullâh. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. Üç yüz otuz dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "12b",
+ "created_at": "2024-04-22T12:22:35.356073Z",
+ "updated_at": "2025-09-02T09:20:18.855981Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 540,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Yeşil kağıt",
+  "varak_adedi": "334",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-02T09:20:18.852244Z",
+  "updated_at": "2025-09-02T09:20:18.852261Z",
+  "kayit": 2607,
+  "created_by": null
+ }
+}

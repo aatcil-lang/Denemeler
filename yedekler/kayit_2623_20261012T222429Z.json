@@ -1,0 +1,367 @@
+{
+ "id": 2623,
+ "kitap_set": [
+  {
+   "id": 2606,
+   "isim": "Kitâb-ı Sirâcü’l-Vehhâc fî Şerhi’l-Minhâc.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:22:42.413308Z",
+   "updated_at": "2025-04-06T19:20:13.562577Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2623,
+    "tam_metin": "[73] Kitâb-ı Sirâcü’l-Vehhâc fî Şerhi’l-Minhâc. Bi-hattı Ömer bin Abdürrahîm. Âhirinde kelâmdan İmâm Fahr-ı Râzî’nin bir risâlesi bile cild olmuş. Haşebî nısfından kırılmış kümmî olmuş. Siyâh cildli. Yüz yirmi üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "13a",
+    "created_at": "2024-04-22T12:22:42.142912Z",
+    "updated_at": "2025-09-02T09:57:38.759764Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 866,
+    "kodikolojik_bilgi": 556
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 203,
+   "koleksiyon_numarasi": "01432 - 001",
+   "nusha": "",
+   "created_at": "2024-12-28T13:39:26.500490Z",
+   "updated_at": "2024-12-28T13:39:26.500506Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2623,
+    "tam_metin": "[73] Kitâb-ı Sirâcü’l-Vehhâc fî Şerhi’l-Minhâc. Bi-hattı Ömer bin Abdürrahîm. Âhirinde kelâmdan İmâm Fahr-ı Râzî’nin bir risâlesi bile cild olmuş. Haşebî nısfından kırılmış kümmî olmuş. Siyâh cildli. Yüz yirmi üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "13a",
+    "created_at": "2024-04-22T12:22:42.142912Z",
+    "updated_at": "2025-09-02T09:57:38.759764Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 866,
+    "kodikolojik_bilgi": 556
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 866,
+  "kitap_set": [
+   {
+    "id": 3716,
+    "isim": "Risâletün teteʿalleku bi-ilmi’l-kelâm.",
+    "isim2": "",
+    "disiplin": "Kelam",
+    "kapsam": "",
+    "created_at": "2024-09-03T21:50:35.778223Z",
+    "updated_at": "2025-04-06T19:20:10.352091Z",
+    "yazar": {
+     "id": 208,
+     "isim": "İmâm Fahri’r-Râzî",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-09-03T21:45:50.651994Z",
+     "updated_at": "2024-09-03T21:45:50.652009Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 866,
+     "tam_metin": "[91] Kitâbü’s-Sirâci’l-Vehhâc fî Şerhi’l-Minhâc. Bi-hattı Ömer bin Abdürrahîm ve fî âhiri[hî] Risâletün teteʿalleku bi-ilmi’l-kelâm li’l-İmâm Fahri’r-Râzî. Bile cild olmuş. Haşebî nısfından kırılmış kümmî vazʿ olmuş. Siyâh cildle. Vakf-ı Sultânî. Yüz yirmi üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "14b",
+     "created_at": "2024-02-10T12:41:17.531779Z",
+     "updated_at": "2026-10-12T21:25:54.860914Z",
+     "vakif": 1,
+     "mustensih": 207,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2623,
+     "kodikolojik_bilgi": 1628
+    },
+    "kaynak": null,
+    "created_by": null
+   },
+   {
+    "id": 862,
+    "isim": "Kitâbü’s-Sirâci’l-Vehhâc fî Şerhi’l-Minhâc.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:41:17.788339Z",
+    "updated_at": "2025-04-06T19:20:19.105620Z",
+    "yazar": null,
+    "kayit": {
+     "id": 866,
+     "tam_metin": "[91] Kitâbü’s-Sirâci’l-Vehhâc fî Şerhi’l-Minhâc. Bi-hattı Ömer bin Abdürrahîm ve fî âhiri[hî] Risâletün teteʿalleku bi-ilmi’l-kelâm li’l-İmâm Fahri’r-Râzî. Bile cild olmuş. Haşebî nısfından kırılmış kümmî vazʿ olmuş. Siyâh cildle. Vakf-ı Sultânî. Yüz yirmi üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "14b",
+     "created_at": "2024-02-10T12:41:17.531779Z",
+     "updated_at": "2026-10-12T21:25:54.860914Z",
+     "vakif": 1,
+     "mustensih": 207,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2623,
+     "kodikolojik_bilgi": 1628
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2623,
+  "bilgi_set": [
+   {
+    "id": 1628,
+    "murekkep_set": [
+     {
+      "id": 1511,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1628
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1303,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1628
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "123",
+    "kagit_turu": "Haşebî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfından kırılmış",
+    "kagit_sekli": "Kümmî",
+    "note": "",
+    "created_at": "2026-10-12T21:25:54.857175Z",
+    "updated_at": "2026-10-12T21:25:54.857193Z",
+    "kayit": {
+     "id": 866,
+     "tam_metin": "[91] Kitâbü’s-Sirâci’l-Vehhâc fî Şerhi’l-Minhâc. Bi-hattı Ömer bin Abdürrahîm ve fî âhiri[hî] Risâletün teteʿalleku bi-ilmi’l-kelâm li’l-İmâm Fahri’r-Râzî. Bile cild olmuş. Haşebî nısfından kırılmış kümmî vazʿ olmuş. Siyâh cildle. Vakf-ı Sultânî. Yüz yirmi üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "14b",
+     "created_at": "2024-02-10T12:41:17.531779Z",
+     "updated_at": "2026-10-12T21:25:54.860914Z",
+     "vakif": 1,
+     "mustensih": 207,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2623,
+     "kodikolojik_bilgi": 1628
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[91] Kitâbü’s-Sirâci’l-Vehhâc fî Şerhi’l-Minhâc. Bi-hattı Ömer bin Abdürrahîm ve fî âhiri[hî] Risâletün teteʿalleku bi-ilmi’l-kelâm li’l-İmâm Fahri’r-Râzî. Bile cild olmuş. Haşebî nısfından kırılmış kümmî vazʿ olmuş. Siyâh cildle. Vakf-ı Sultânî. Yüz yirmi üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "14b",
+  "created_at": "2024-02-10T12:41:17.531779Z",
+  "updated_at": "2026-10-12T21:25:54.860914Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 207,
+   "isim": "Ömer bin Abdürrahîm",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-03T21:39:29.616049Z",
+   "updated_at": "2024-09-03T21:39:29.616066Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1628,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "123",
+   "kagit_turu": "Haşebî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfından kırılmış",
+   "kagit_sekli": "Kümmî",
+   "note": "",
+   "created_at": "2026-10-12T21:25:54.857175Z",
+   "updated_at": "2026-10-12T21:25:54.857193Z",
+   "kayit": 866,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 556,
+   "murekkep_set": [
+    {
+     "id": 434,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 556
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 225,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 556
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "123",
+   "kagit_turu": "Haşebî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfından kırılmış",
+   "kagit_sekli": "Kümmî",
+   "note": "",
+   "created_at": "2025-09-02T09:57:38.754799Z",
+   "updated_at": "2025-09-02T09:57:38.754814Z",
+   "kayit": {
+    "id": 2623,
+    "tam_metin": "[73] Kitâb-ı Sirâcü’l-Vehhâc fî Şerhi’l-Minhâc. Bi-hattı Ömer bin Abdürrahîm. Âhirinde kelâmdan İmâm Fahr-ı Râzî’nin bir risâlesi bile cild olmuş. Haşebî nısfından kırılmış kümmî olmuş. Siyâh cildli. Yüz yirmi üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "13a",
+    "created_at": "2024-04-22T12:22:42.142912Z",
+    "updated_at": "2025-09-02T09:57:38.759764Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 866,
+    "kodikolojik_bilgi": 556
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[73] Kitâb-ı Sirâcü’l-Vehhâc fî Şerhi’l-Minhâc. Bi-hattı Ömer bin Abdürrahîm. Âhirinde kelâmdan İmâm Fahr-ı Râzî’nin bir risâlesi bile cild olmuş. Haşebî nısfından kırılmış kümmî olmuş. Siyâh cildli. Yüz yirmi üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "13a",
+ "created_at": "2024-04-22T12:22:42.142912Z",
+ "updated_at": "2025-09-02T09:57:38.759764Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 556,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Siyah cilt",
+  "cild_materyal": "",
+  "varak_adedi": "123",
+  "kagit_turu": "Haşebî",
+  "aciklama": "",
+  "kagit_ebadi": "Nısfından kırılmış",
+  "kagit_sekli": "Kümmî",
+  "note": "",
+  "created_at": "2025-09-02T09:57:38.754799Z",
+  "updated_at": "2025-09-02T09:57:38.754814Z",
+  "kayit": 2623,
+  "created_by": null
+ }
+}
