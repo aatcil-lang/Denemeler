@@ -128,3 +128,13 @@ Dayanak: katalogdaki “Vakf-ı …” ibaresi (Halebîzâde için katalog böl�
   - Düz kimlik numarasıyla (`{"vakif": 12}`) gönderilen istek de artık 200 dönüyor ve hiçbir şey değişmiyor.
   - Test öncesi yedek: `kayit_3545_*_test.json`.
 - **2. madde (Şahıs Ekle):** Test edilmedi. Test, veritabanında deneme amaçlı bir şahıs kaydı oluşturmayı gerektiriyor.
+
+## 12.10.2026 — Kodikolojik bilgiler: deneme kaydı
+- **Okuyucu:** `araclar/kodik_extract.py`. Elle doldurulmuş yaklaşık 1570 kayıtta doğrulandı. Önerinin girilmiş değerle aynı çıkma oranı: kâğıt türü %99,3, varak %99,2, cilt türü %98,4, cilt malzemesi %97,7, kâğıt ebadı %94,9.
+- **Kullanıcı onayı:** 30 kayıtlık pilot tablo (`kodikolojik_pilot.csv`) uygun bulundu.
+- **Deneme:** Kayıt #1064 için kodikolojik bilgi **#1603** oluşturuldu (Dimeşkî / Tamamına / Mukavva cilt / Yeşil kağıt / 371 varak).
+  - Yük, sitenin “Bilgi Ekle” formuyla aynı; mürekkep ve hat için birer boş satır gönderildi.
+  - Sunucu başarılı istekte boş yanıt dönüyor. Bu yüzden oluşan kayıt, ana kayıt üzerinden okunarak doğrulandı.
+- **Doğrulama:**
+  - Tek kopya oluştu; toplam kodikolojik kayıt sayısı 1573 → 1574.
+  - Ana kayıtta yalnızca kodikolojik bilgi bağlantısı değişti.
