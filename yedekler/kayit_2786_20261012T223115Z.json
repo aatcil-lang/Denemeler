@@ -1,0 +1,327 @@
+{
+ "id": 2786,
+ "kitap_set": [
+  {
+   "id": 2769,
+   "isim": "Kitâb-ı Bihâr-ı Manzûm?.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:23:50.741731Z",
+   "updated_at": "2025-04-06T19:20:13.074462Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2786,
+    "tam_metin": "[149] Kitâb-ı Bihâr-ı Manzûm?. Ekser yeri musahhah ve mukayyed. Bi-hattı Hoca Ahmed bin Hızır bin Ömer. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "19a",
+    "created_at": "2024-04-22T12:23:50.483630Z",
+    "updated_at": "2025-09-03T09:38:02.156189Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1041,
+    "kodikolojik_bilgi": 720
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 333,
+   "koleksiyon_numarasi": "01499",
+   "nusha": "",
+   "created_at": "2025-01-11T12:27:13.568247Z",
+   "updated_at": "2025-01-11T12:27:13.568265Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2786,
+    "tam_metin": "[149] Kitâb-ı Bihâr-ı Manzûm?. Ekser yeri musahhah ve mukayyed. Bi-hattı Hoca Ahmed bin Hızır bin Ömer. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "19a",
+    "created_at": "2024-04-22T12:23:50.483630Z",
+    "updated_at": "2025-09-03T09:38:02.156189Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1041,
+    "kodikolojik_bilgi": 720
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1041,
+  "kitap_set": [
+   {
+    "id": 1036,
+    "isim": "Kitâb-ı Metnü’l-Bihâri’z-Zâhira.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:42:31.218571Z",
+    "updated_at": "2025-04-06T19:20:18.547698Z",
+    "yazar": null,
+    "kayit": {
+     "id": 1041,
+     "tam_metin": "[168] Kitâb-ı Metnü’l-Bihâri’z-Zâhira eydan. Tamâm. Ekseruhû musahhah ve muhaşşâ. Bi-hattı Hâce Ahmed bin Hızır bin Ömer. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "22a",
+     "created_at": "2024-02-10T12:42:30.966153Z",
+     "updated_at": "2026-10-12T21:31:05.452684Z",
+     "vakif": 1,
+     "mustensih": 269,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2786,
+     "kodikolojik_bilgi": 1803
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2786,
+  "bilgi_set": [
+   {
+    "id": 1803,
+    "murekkep_set": [
+     {
+      "id": 1686,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1803
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1478,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1803
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "210",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:31:05.448705Z",
+    "updated_at": "2026-10-12T21:31:05.448727Z",
+    "kayit": {
+     "id": 1041,
+     "tam_metin": "[168] Kitâb-ı Metnü’l-Bihâri’z-Zâhira eydan. Tamâm. Ekseruhû musahhah ve muhaşşâ. Bi-hattı Hâce Ahmed bin Hızır bin Ömer. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "22a",
+     "created_at": "2024-02-10T12:42:30.966153Z",
+     "updated_at": "2026-10-12T21:31:05.452684Z",
+     "vakif": 1,
+     "mustensih": 269,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2786,
+     "kodikolojik_bilgi": 1803
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[168] Kitâb-ı Metnü’l-Bihâri’z-Zâhira eydan. Tamâm. Ekseruhû musahhah ve muhaşşâ. Bi-hattı Hâce Ahmed bin Hızır bin Ömer. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz on varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "22a",
+  "created_at": "2024-02-10T12:42:30.966153Z",
+  "updated_at": "2026-10-12T21:31:05.452684Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 269,
+   "isim": "Hâce Ahmed bin Hızır bin Ömer",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-11T16:14:30.839060Z",
+   "updated_at": "2024-09-11T16:14:30.839076Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1803,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "210",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:31:05.448705Z",
+   "updated_at": "2026-10-12T21:31:05.448727Z",
+   "kayit": 1041,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 720,
+   "murekkep_set": [
+    {
+     "id": 598,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 720
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 389,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 720
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "210",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-03T09:38:02.148395Z",
+   "updated_at": "2025-09-03T09:38:02.148429Z",
+   "kayit": {
+    "id": 2786,
+    "tam_metin": "[149] Kitâb-ı Bihâr-ı Manzûm?. Ekser yeri musahhah ve mukayyed. Bi-hattı Hoca Ahmed bin Hızır bin Ömer. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "19a",
+    "created_at": "2024-04-22T12:23:50.483630Z",
+    "updated_at": "2025-09-03T09:38:02.156189Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1041,
+    "kodikolojik_bilgi": 720
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[149] Kitâb-ı Bihâr-ı Manzûm?. Ekser yeri musahhah ve mukayyed. Bi-hattı Hoca Ahmed bin Hızır bin Ömer. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "19a",
+ "created_at": "2024-04-22T12:23:50.483630Z",
+ "updated_at": "2025-09-03T09:38:02.156189Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 720,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "210",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-03T09:38:02.148395Z",
+  "updated_at": "2025-09-03T09:38:02.148429Z",
+  "kayit": 2786,
+  "created_by": null
+ }
+}

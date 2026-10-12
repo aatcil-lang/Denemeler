@@ -1,0 +1,339 @@
+{
+ "id": 2787,
+ "kitap_set": [
+  {
+   "id": 2770,
+   "isim": "Kitâb-ı Şerh-i Manzûme-i Karahisârî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:23:51.144920Z",
+   "updated_at": "2025-04-06T19:20:13.071822Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2787,
+    "tam_metin": "[150] Kitâb-ı Şerh-i Manzûme-i Karahisârî. Min evvelihî ilâ âhirihî içinde manzûme sürhle yazılmış. Bi-hattı Yûsuf bin Ömer. Semerkandî tamâmından kırılmış. Ciğerî cildli. Üç yüz kırk dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "19b",
+    "created_at": "2024-04-22T12:23:50.892255Z",
+    "updated_at": "2025-09-03T09:39:30.952930Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1055,
+    "kodikolojik_bilgi": 721
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 334,
+   "koleksiyon_numarasi": "01820",
+   "nusha": "",
+   "created_at": "2025-01-11T12:28:16.040673Z",
+   "updated_at": "2025-01-11T12:28:16.040688Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2787,
+    "tam_metin": "[150] Kitâb-ı Şerh-i Manzûme-i Karahisârî. Min evvelihî ilâ âhirihî içinde manzûme sürhle yazılmış. Bi-hattı Yûsuf bin Ömer. Semerkandî tamâmından kırılmış. Ciğerî cildli. Üç yüz kırk dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "19b",
+    "created_at": "2024-04-22T12:23:50.892255Z",
+    "updated_at": "2025-09-03T09:39:30.952930Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1055,
+    "kodikolojik_bilgi": 721
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1055,
+  "kitap_set": [
+   {
+    "id": 1050,
+    "isim": "Kitâb-ı Şerhu Manzûmeti’l-İmâm en-Nesefî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:42:37.061781Z",
+    "updated_at": "2025-04-06T19:20:18.501012Z",
+    "yazar": {
+     "id": 276,
+     "isim": "Karahisârî",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-09-11T16:39:27.991764Z",
+     "updated_at": "2024-09-11T16:39:27.991780Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1055,
+     "tam_metin": "[182] Kitâb-ı Şerhu Manzûmeti’l-İmâm en-Nesefî li-Karahisârî eydan. Tamâm. Min evvelihî ilâ âhirihî içinde Manzûme sürhle yazılmış. Bi-hattı Yûsuf bin Ömer. Semerkandî tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz kırk dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "22b",
+     "created_at": "2024-02-10T12:42:36.808815Z",
+     "updated_at": "2026-10-12T21:31:30.563018Z",
+     "vakif": 1,
+     "mustensih": 280,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2787,
+     "kodikolojik_bilgi": 1817
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2787,
+  "bilgi_set": [
+   {
+    "id": 1817,
+    "murekkep_set": [
+     {
+      "id": 1700,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1817
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1492,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1817
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "344",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:31:30.559107Z",
+    "updated_at": "2026-10-12T21:31:30.559125Z",
+    "kayit": {
+     "id": 1055,
+     "tam_metin": "[182] Kitâb-ı Şerhu Manzûmeti’l-İmâm en-Nesefî li-Karahisârî eydan. Tamâm. Min evvelihî ilâ âhirihî içinde Manzûme sürhle yazılmış. Bi-hattı Yûsuf bin Ömer. Semerkandî tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz kırk dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "22b",
+     "created_at": "2024-02-10T12:42:36.808815Z",
+     "updated_at": "2026-10-12T21:31:30.563018Z",
+     "vakif": 1,
+     "mustensih": 280,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2787,
+     "kodikolojik_bilgi": 1817
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[182] Kitâb-ı Şerhu Manzûmeti’l-İmâm en-Nesefî li-Karahisârî eydan. Tamâm. Min evvelihî ilâ âhirihî içinde Manzûme sürhle yazılmış. Bi-hattı Yûsuf bin Ömer. Semerkandî tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz kırk dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "22b",
+  "created_at": "2024-02-10T12:42:36.808815Z",
+  "updated_at": "2026-10-12T21:31:30.563018Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 280,
+   "isim": "Yûsuf bin Ömer",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-11T16:47:25.050969Z",
+   "updated_at": "2024-09-11T16:47:25.050985Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1817,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "344",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:31:30.559107Z",
+   "updated_at": "2026-10-12T21:31:30.559125Z",
+   "kayit": 1055,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 721,
+   "murekkep_set": [
+    {
+     "id": 599,
+     "renk": "kirmizi",
+     "ilgili_ibare": "Min evvelihî ilâ âhirihî içinde manzûme sürhle yazılmış",
+     "kodikolojik_bilgi": 721
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 390,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 721
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "344",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-03T09:39:30.948622Z",
+   "updated_at": "2025-09-03T09:39:30.948643Z",
+   "kayit": {
+    "id": 2787,
+    "tam_metin": "[150] Kitâb-ı Şerh-i Manzûme-i Karahisârî. Min evvelihî ilâ âhirihî içinde manzûme sürhle yazılmış. Bi-hattı Yûsuf bin Ömer. Semerkandî tamâmından kırılmış. Ciğerî cildli. Üç yüz kırk dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "19b",
+    "created_at": "2024-04-22T12:23:50.892255Z",
+    "updated_at": "2025-09-03T09:39:30.952930Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1055,
+    "kodikolojik_bilgi": 721
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[150] Kitâb-ı Şerh-i Manzûme-i Karahisârî. Min evvelihî ilâ âhirihî içinde manzûme sürhle yazılmış. Bi-hattı Yûsuf bin Ömer. Semerkandî tamâmından kırılmış. Ciğerî cildli. Üç yüz kırk dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "19b",
+ "created_at": "2024-04-22T12:23:50.892255Z",
+ "updated_at": "2025-09-03T09:39:30.952930Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 721,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "344",
+  "kagit_turu": "Semerkandî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamından kırılmış",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-03T09:39:30.948622Z",
+  "updated_at": "2025-09-03T09:39:30.948643Z",
+  "kayit": 2787,
+  "created_by": null
+ }
+}
