@@ -26,7 +26,9 @@ Müstensihi zaten girilmiş 320 kayıttan şu kurallar çıkarıldı:
 
 ## Karar gereken konular
 
-**M3. Aynı ada sahip birden fazla şahıs kaydı.** Veri girişi sırasında aynı ad için farklı zamanlarda ayrı şahıs kayıtları açılmış. Örnekler:
+**M3. Aynı ada sahip birden fazla şahıs kaydı.** ✅ **Karar: (a).** Kayıt, en çok müstensih olarak kullanılan şahsa bağlanacak; eşitlik varsa numarası küçük olana. Kopyalar daha sonra ayrı bir çalışmada birleştirilecek.
+
+ Veri girişi sırasında aynı ad için farklı zamanlarda ayrı şahıs kayıtları açılmış. Örnekler:
 - “Muhammed bin Halîl”: #230, #131, #384 ve #204.
 - “Muhammed bin Hüsâmeddîn”: #307 ve #226.
 

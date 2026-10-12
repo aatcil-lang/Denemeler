@@ -1,0 +1,248 @@
+{
+ "id": 1059,
+ "kitap_set": [
+  {
+   "id": 1054,
+   "isim": "Kitâb-ı Muhtelefü’r-Rivâye fî Şerhi Manzûmeti’l-İmâm en-Nesefî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:38.733964Z",
+   "updated_at": "2025-04-06T19:20:18.487451Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1059,
+    "tam_metin": "[186] Kitâb-ı Muhtelefü’r-Rivâye fî Şerhi Manzûmeti’l-İmâm en-Nesefî. Semerkandî nısfına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz yetmiş beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "23a",
+    "created_at": "2024-02-10T12:42:38.470943Z",
+    "updated_at": "2024-09-21T22:41:07.861825Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2854,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2854,
+  "kitap_set": [
+   {
+    "id": 2837,
+    "isim": "Kitâb-ı Muhtelif fî Şerhi’l-Manzûme.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:19.736869Z",
+    "updated_at": "2025-04-06T19:20:12.879257Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2854,
+     "tam_metin": "[217] Kitâb-ı Muhtelef fî Şerhi’l-Manzûme. Semerkandî nısfına. Ciğerî cildli. İki yüz yetmiş beş varak.\n[Derkenar] Zahrında “Müsellem Lütfî Halîfe ale’l-mütevellî” deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21b",
+     "created_at": "2024-04-22T12:24:19.465714Z",
+     "updated_at": "2025-09-07T15:11:48.805959Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1059,
+     "kodikolojik_bilgi": 791
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 390,
+    "koleksiyon_numarasi": "02141",
+    "nusha": "",
+    "created_at": "2025-01-12T11:25:41.231670Z",
+    "updated_at": "2025-01-12T11:25:41.231687Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2854,
+     "tam_metin": "[217] Kitâb-ı Muhtelef fî Şerhi’l-Manzûme. Semerkandî nısfına. Ciğerî cildli. İki yüz yetmiş beş varak.\n[Derkenar] Zahrında “Müsellem Lütfî Halîfe ale’l-mütevellî” deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21b",
+     "created_at": "2024-04-22T12:24:19.465714Z",
+     "updated_at": "2025-09-07T15:11:48.805959Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1059,
+     "kodikolojik_bilgi": 791
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1059,
+  "bilgi_set": [
+   {
+    "id": 791,
+    "murekkep_set": [
+     {
+      "id": 668,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 791
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 459,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 791
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Zahrında “Müsellem Lütfî Halîfe ale’l-mütevellî” deyu yazılmış",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "275",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-07T15:11:48.801602Z",
+    "updated_at": "2025-09-07T15:11:48.801621Z",
+    "kayit": {
+     "id": 2854,
+     "tam_metin": "[217] Kitâb-ı Muhtelef fî Şerhi’l-Manzûme. Semerkandî nısfına. Ciğerî cildli. İki yüz yetmiş beş varak.\n[Derkenar] Zahrında “Müsellem Lütfî Halîfe ale’l-mütevellî” deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21b",
+     "created_at": "2024-04-22T12:24:19.465714Z",
+     "updated_at": "2025-09-07T15:11:48.805959Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1059,
+     "kodikolojik_bilgi": 791
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[217] Kitâb-ı Muhtelef fî Şerhi’l-Manzûme. Semerkandî nısfına. Ciğerî cildli. İki yüz yetmiş beş varak.\n[Derkenar] Zahrında “Müsellem Lütfî Halîfe ale’l-mütevellî” deyu yazılmış.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "21b",
+  "created_at": "2024-04-22T12:24:19.465714Z",
+  "updated_at": "2025-09-07T15:11:48.805959Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 791,
+   "zahriye_exists": true,
+   "zahriye": "Zahrında “Müsellem Lütfî Halîfe ale’l-mütevellî” deyu yazılmış",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "275",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-07T15:11:48.801602Z",
+   "updated_at": "2025-09-07T15:11:48.801621Z",
+   "kayit": 2854,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[186] Kitâb-ı Muhtelefü’r-Rivâye fî Şerhi Manzûmeti’l-İmâm en-Nesefî. Semerkandî nısfına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz yetmiş beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "23a",
+ "created_at": "2024-02-10T12:42:38.470943Z",
+ "updated_at": "2024-09-21T22:41:07.861825Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,248 @@
+{
+ "id": 1063,
+ "kitap_set": [
+  {
+   "id": 1058,
+   "isim": "Kitâbü’l-Cildi’l-Evvel mine’l-Muhtelef fi’l-Fıkh.",
+   "isim2": null,
+   "disiplin": "Fıkıh",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:40.439448Z",
+   "updated_at": "2025-04-06T19:20:18.471756Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1063,
+    "tam_metin": "[190] Kitâbü’l-Cildi’l-Evvel mine’l-Muhtelef fi’l-Fıkh. İlâ evveli Kitâbi’l-Atâk. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz kırk üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "23a",
+    "created_at": "2024-02-10T12:42:40.166200Z",
+    "updated_at": "2024-09-14T14:33:20.223669Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2686,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2686,
+  "kitap_set": [
+   {
+    "id": 2669,
+    "isim": "Kitâb-ı Muhtelif.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:09.140595Z",
+    "updated_at": "2025-04-06T19:20:13.347614Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2686,
+     "tam_metin": "[49] Kitâb-ı Muhtelef. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Evvelinden Kitâb-ı Atâk’a dek. İki yüz kırk üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15b",
+     "created_at": "2024-04-22T12:23:08.867555Z",
+     "updated_at": "2025-09-02T14:09:21.747891Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1063,
+     "kodikolojik_bilgi": 620
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 251,
+    "koleksiyon_numarasi": "02139",
+    "nusha": "",
+    "created_at": "2024-12-29T09:08:37.887743Z",
+    "updated_at": "2024-12-29T09:08:37.887768Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2686,
+     "tam_metin": "[49] Kitâb-ı Muhtelef. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Evvelinden Kitâb-ı Atâk’a dek. İki yüz kırk üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15b",
+     "created_at": "2024-04-22T12:23:08.867555Z",
+     "updated_at": "2025-09-02T14:09:21.747891Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1063,
+     "kodikolojik_bilgi": 620
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1063,
+  "bilgi_set": [
+   {
+    "id": 620,
+    "murekkep_set": [
+     {
+      "id": 498,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 620
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 289,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 620
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "243",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T14:09:21.742579Z",
+    "updated_at": "2025-09-02T14:09:21.742592Z",
+    "kayit": {
+     "id": 2686,
+     "tam_metin": "[49] Kitâb-ı Muhtelef. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Evvelinden Kitâb-ı Atâk’a dek. İki yüz kırk üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15b",
+     "created_at": "2024-04-22T12:23:08.867555Z",
+     "updated_at": "2025-09-02T14:09:21.747891Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1063,
+     "kodikolojik_bilgi": 620
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[49] Kitâb-ı Muhtelef. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Evvelinden Kitâb-ı Atâk’a dek. İki yüz kırk üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "15b",
+  "created_at": "2024-04-22T12:23:08.867555Z",
+  "updated_at": "2025-09-02T14:09:21.747891Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 620,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "243",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T14:09:21.742579Z",
+   "updated_at": "2025-09-02T14:09:21.742592Z",
+   "kayit": 2686,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[190] Kitâbü’l-Cildi’l-Evvel mine’l-Muhtelef fi’l-Fıkh. İlâ evveli Kitâbi’l-Atâk. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz kırk üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "23a",
+ "created_at": "2024-02-10T12:42:40.166200Z",
+ "updated_at": "2024-09-14T14:33:20.223669Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

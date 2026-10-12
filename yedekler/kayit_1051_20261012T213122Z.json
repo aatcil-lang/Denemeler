@@ -1,0 +1,284 @@
+{
+ "id": 1051,
+ "kitap_set": [
+  {
+   "id": 1046,
+   "isim": "Kitâb-ı Şerhu Manzûmeti’l-İmâm en-Nesefî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:35.396715Z",
+   "updated_at": "2025-04-06T19:20:18.515680Z",
+   "yazar": {
+    "id": 276,
+    "isim": "Karahisârî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-11T16:39:27.991764Z",
+    "updated_at": "2024-09-11T16:39:27.991780Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1051,
+    "tam_metin": "[178] Kitâb-ı Şerhu Manzûmeti’l-İmâm en-Nesefî li-Karahisârî. Tamâm. Bi-hattı Mahmûd bin Ahî Nasûh. İçinde Manzûme sürhle yazılmış. Dimeşkī tamâmına. Müzehheb siyâh cildle. Vakf-ı Sultânî. İki yüz on dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "22b",
+    "created_at": "2024-02-10T12:42:35.133620Z",
+    "updated_at": "2024-09-14T14:32:24.129903Z",
+    "vakif": 1,
+    "mustensih": 275,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2685,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2685,
+  "kitap_set": [
+   {
+    "id": 2668,
+    "isim": "Kitâb-ı Şerh-i Manzûme-i Karahisârî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:08.694163Z",
+    "updated_at": "2025-04-06T19:20:13.350696Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2685,
+     "tam_metin": "[48] Kitâb-ı Şerh-i Manzûme-i Karahisârî. Bi-hattı Mahmûd bin Ahî Nasûh. İçinde manzûme sürhle yazılmış. Dimeşkī tamâmına. Müzehheb siyâh cildli. İki yüz on dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15b",
+     "created_at": "2024-04-22T12:23:08.426862Z",
+     "updated_at": "2025-09-02T14:07:13.840625Z",
+     "vakif": 1,
+     "mustensih": 275,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1051,
+     "kodikolojik_bilgi": 619
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 250,
+    "koleksiyon_numarasi": "01816",
+    "nusha": "",
+    "created_at": "2024-12-29T09:06:41.667301Z",
+    "updated_at": "2024-12-29T09:06:41.667323Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2685,
+     "tam_metin": "[48] Kitâb-ı Şerh-i Manzûme-i Karahisârî. Bi-hattı Mahmûd bin Ahî Nasûh. İçinde manzûme sürhle yazılmış. Dimeşkī tamâmına. Müzehheb siyâh cildli. İki yüz on dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15b",
+     "created_at": "2024-04-22T12:23:08.426862Z",
+     "updated_at": "2025-09-02T14:07:13.840625Z",
+     "vakif": 1,
+     "mustensih": 275,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1051,
+     "kodikolojik_bilgi": 619
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1051,
+  "bilgi_set": [
+   {
+    "id": 619,
+    "murekkep_set": [
+     {
+      "id": 497,
+      "renk": "kirmizi",
+      "ilgili_ibare": "İçinde manzûme sürhle yazılmış",
+      "kodikolojik_bilgi": 619
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 288,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 619
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Müzehheb siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "214",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T14:07:13.831221Z",
+    "updated_at": "2025-09-02T14:07:13.831249Z",
+    "kayit": {
+     "id": 2685,
+     "tam_metin": "[48] Kitâb-ı Şerh-i Manzûme-i Karahisârî. Bi-hattı Mahmûd bin Ahî Nasûh. İçinde manzûme sürhle yazılmış. Dimeşkī tamâmına. Müzehheb siyâh cildli. İki yüz on dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "15b",
+     "created_at": "2024-04-22T12:23:08.426862Z",
+     "updated_at": "2025-09-02T14:07:13.840625Z",
+     "vakif": 1,
+     "mustensih": 275,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1051,
+     "kodikolojik_bilgi": 619
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[48] Kitâb-ı Şerh-i Manzûme-i Karahisârî. Bi-hattı Mahmûd bin Ahî Nasûh. İçinde manzûme sürhle yazılmış. Dimeşkī tamâmına. Müzehheb siyâh cildli. İki yüz on dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "15b",
+  "created_at": "2024-04-22T12:23:08.426862Z",
+  "updated_at": "2025-09-02T14:07:13.840625Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 275,
+   "isim": "Mahmûd bin Ahî Nasûh",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-11T16:33:08.148042Z",
+   "updated_at": "2024-09-11T16:33:08.148058Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 619,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Müzehheb siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "214",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T14:07:13.831221Z",
+   "updated_at": "2025-09-02T14:07:13.831249Z",
+   "kayit": 2685,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[178] Kitâb-ı Şerhu Manzûmeti’l-İmâm en-Nesefî li-Karahisârî. Tamâm. Bi-hattı Mahmûd bin Ahî Nasûh. İçinde Manzûme sürhle yazılmış. Dimeşkī tamâmına. Müzehheb siyâh cildle. Vakf-ı Sultânî. İki yüz on dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "22b",
+ "created_at": "2024-02-10T12:42:35.133620Z",
+ "updated_at": "2024-09-14T14:32:24.129903Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 275,
+  "isim": "Mahmûd bin Ahî Nasûh",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-09-11T16:33:08.148042Z",
+  "updated_at": "2024-09-11T16:33:08.148058Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
