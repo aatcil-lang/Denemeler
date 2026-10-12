@@ -21,7 +21,7 @@ Müstensihi zaten girilmiş 320 kayıttan şu kurallar çıkarıldı:
 | M4 | Musannifek'in kendi hattı (“Bi-hattı Musannifek”, “kendi hattıyla”, “ve bi-hattıhî”) | 43 | Mevlânâ Musannifek'e (#11) bağlanacak |
 | M5 | Eserin yalnızca bir kısmı Musannifek'in hattıyla | 9 | **Karar gerekiyor** (aşağıda) |
 | M6 | “Bi-hattı müʾellifihî” (müellifin kendi hattı) | 7 | Ad yazılıysa o şahıs; yazılı değilse kitabın kayıtlı yazarı |
-| M7 | “İbn Haşşâb hattıyla” (#2544) | 1 | **Karar gerekiyor**: mevcut *Muhammed bin Muhammed el-Haşşâb* mı, yeni şahıs mı? |
+| M7 ✅ | “İbn Haşşâb hattıyla” (#2544) | 1 | **Karar:** mevcut **#93 Muhammed bin Muhammed el-Haşşâb**'a bağlanacak, yeni şahıs açılmayacak. Gerekçe: aynı cilt Hacıhasanzade'de #701 olarak kayıtlı ve #93'e bağlı. |
 | X | “bi-hattı mağribî”, “bi’l-hattı’l-Kûfî”, “bi-hattın vâzıh” gibi yazı türü ya da yazı netliği bildiren ifadeler | 23 | **Dokunulmayacak**; bunlar müstensih bilgisi değil |
 
 ## Karar gereken konular
@@ -53,3 +53,8 @@ Bunların aynı kişi olup olmadığı belli değil, çünkü yaygın adlar. Se�
 ## Not
 
 M2'de açılacak yeni şahıslar, metindeki adla birebir açılacak. Köşeli parantezle tamamlanmış harfler adın içine alınacak (“Zekeriyy[â]” → “Zekeriyyâ”). Kısaltılmış ya da eksik görünen adlar (ör. “Niʿmetullâh b”) açılmadan önce ayrıca kontrol edilecek.
+
+## Sonra birleştirilecek kopya şahıs kayıtları
+
+- Haşşâb: #93 *Muhammed bin Muhammed el-Haşşâb* ve #94 *Muhammed b. Muhammed b. Ali el-Halebî eş-şehîr bi-İbnü’l-Haşşâb*. Üçü de aynı *Şerh-i Kirmânî* nüshasının ciltlerine bağlı (#700, #701, #702).
+- M3 tablosundaki aynı adlı şahıs kayıtları (ör. “Muhammed bin Halîl”: #131, #230, #384, #204).
