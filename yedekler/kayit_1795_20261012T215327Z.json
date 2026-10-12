@@ -1,0 +1,248 @@
+{
+ "id": 1795,
+ "kitap_set": [
+  {
+   "id": 1790,
+   "isim": "Kitâbü’l-Cildi’l-Ahîr min Şerhi’l-Mülahhas.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:11.857436Z",
+   "updated_at": "2025-04-06T19:20:16.070690Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1795,
+    "tam_metin": "[15] Kitâbü’l-Cildi’l-Ahîr min Şerhi’l-Mülahhas. Min evveli kavlihî الجملة الثانية في الجواهر وفيها خمسة فنون ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. İki yüz doksan varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+    "notlar": "",
+    "sayfa_numarasi": "54b",
+    "created_at": "2024-02-10T12:48:11.562933Z",
+    "updated_at": "2026-01-26T22:28:32.196066Z",
+    "vakif": 12,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3541,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3541,
+  "kitap_set": [
+   {
+    "id": 3522,
+    "isim": "Kitâb-ı Şerh-i Mülahhas.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:34.432313Z",
+    "updated_at": "2025-04-06T19:20:10.913949Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3541,
+     "tam_metin": "[10] Kitâb-ı Şerh-i Mülahhas. قال الجملة الثانية في الجواهر وفيها خمسة فنونى ibâretinden âhir-i kitâba dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan varak.\n[Derkenar] Zahrında “Şerh-i Tabîʿiyyât” deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "48a",
+     "created_at": "2024-04-22T12:45:34.169781Z",
+     "updated_at": "2025-10-01T19:49:34.043759Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1795,
+     "kodikolojik_bilgi": 1434
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 825,
+    "koleksiyon_numarasi": "03207",
+    "nusha": "",
+    "created_at": "2025-01-16T00:05:01.620322Z",
+    "updated_at": "2025-01-16T00:05:01.620341Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3541,
+     "tam_metin": "[10] Kitâb-ı Şerh-i Mülahhas. قال الجملة الثانية في الجواهر وفيها خمسة فنونى ibâretinden âhir-i kitâba dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan varak.\n[Derkenar] Zahrında “Şerh-i Tabîʿiyyât” deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "48a",
+     "created_at": "2024-04-22T12:45:34.169781Z",
+     "updated_at": "2025-10-01T19:49:34.043759Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1795,
+     "kodikolojik_bilgi": 1434
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1795,
+  "bilgi_set": [
+   {
+    "id": 1434,
+    "murekkep_set": [
+     {
+      "id": 1311,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1434
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1100,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1434
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Zahrında “Şerh-i Tabîʿiyyât” deyu yazılmış",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "290",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T19:49:34.038333Z",
+    "updated_at": "2025-10-01T19:49:34.038359Z",
+    "kayit": {
+     "id": 3541,
+     "tam_metin": "[10] Kitâb-ı Şerh-i Mülahhas. قال الجملة الثانية في الجواهر وفيها خمسة فنونى ibâretinden âhir-i kitâba dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan varak.\n[Derkenar] Zahrında “Şerh-i Tabîʿiyyât” deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "48a",
+     "created_at": "2024-04-22T12:45:34.169781Z",
+     "updated_at": "2025-10-01T19:49:34.043759Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1795,
+     "kodikolojik_bilgi": 1434
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[10] Kitâb-ı Şerh-i Mülahhas. قال الجملة الثانية في الجواهر وفيها خمسة فنونى ibâretinden âhir-i kitâba dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan varak.\n[Derkenar] Zahrında “Şerh-i Tabîʿiyyât” deyu yazılmış.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+  "notlar": "",
+  "sayfa_numarasi": "48a",
+  "created_at": "2024-04-22T12:45:34.169781Z",
+  "updated_at": "2025-10-01T19:49:34.043759Z",
+  "vakif": {
+   "id": 12,
+   "isim": "Âlâiyyeli Muhyiddîn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:56:17.228524Z",
+   "updated_at": "2024-04-22T11:56:17.228541Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1434,
+   "zahriye_exists": true,
+   "zahriye": "Zahrında “Şerh-i Tabîʿiyyât” deyu yazılmış",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "290",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T19:49:34.038333Z",
+   "updated_at": "2025-10-01T19:49:34.038359Z",
+   "kayit": 3541,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[15] Kitâbü’l-Cildi’l-Ahîr min Şerhi’l-Mülahhas. Min evveli kavlihî الجملة الثانية في الجواهر وفيها خمسة فنون ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. İki yüz doksan varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+ "notlar": "",
+ "sayfa_numarasi": "54b",
+ "created_at": "2024-02-10T12:48:11.562933Z",
+ "updated_at": "2026-01-26T22:28:32.196066Z",
+ "vakif": {
+  "id": 12,
+  "isim": "Âlâiyyeli Muhyiddîn",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:56:17.228524Z",
+  "updated_at": "2024-04-22T11:56:17.228541Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

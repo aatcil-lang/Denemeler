@@ -1,0 +1,220 @@
+{
+ "id": 1777,
+ "kitap_set": [
+  {
+   "id": 1772,
+   "isim": "Kitâbü’l-Azîz fî Şerhi’l-Vecîz fî Fıkhi’ş-Şâfiî.",
+   "isim2": null,
+   "disiplin": "Fıkıh",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:03.478313Z",
+   "updated_at": "2025-04-06T19:20:16.132352Z",
+   "yazar": {
+    "id": 505,
+    "isim": "Ebü’l-Kāsım Abdülkerîm b. Muhammed b. Abdilkerîm er-Râfiî el-Kazvînî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-27T15:46:40.901893Z",
+    "updated_at": "2024-12-27T15:46:40.901909Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1777,
+    "tam_metin": "[113] Kitâbü’l-Azîz fî Şerhi’l-Vecîz fî Fıkhi’ş-Şâfiʿî. Zahrında müʾellifin adı halle yazılmış. Sarı kâğıd mukavvâ cildle. Vakf-ı Musannifek. Üç yüz altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "53b",
+    "created_at": "2024-02-10T12:48:03.192275Z",
+    "updated_at": "2026-01-26T16:51:49.621989Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3447,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3447,
+  "kitap_set": [
+   {
+    "id": 3429,
+    "isim": "Kitâbü’l-Azîz fî Şerhi’l-Vecîz.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:41:00.904215Z",
+    "updated_at": "2025-04-06T19:20:11.168674Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3447,
+     "tam_metin": "[2] Kitâbü’l-Azîz fî Şerhi’l-Vecîz. Zahrında müʾellifinin adı halle yazılmış. Dimeşkī tamâmından kırılmış. Sarı kâğıd mukavvâ cildli. Üç yüz altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "44a",
+     "created_at": "2024-04-22T12:41:00.634700Z",
+     "updated_at": "2025-09-22T21:33:13.055077Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1777,
+     "kodikolojik_bilgi": 1346
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1777,
+  "bilgi_set": [
+   {
+    "id": 1346,
+    "murekkep_set": [
+     {
+      "id": 1224,
+      "renk": "altin",
+      "ilgili_ibare": "Zahrında müʾellifinin adı halle yazılmış",
+      "kodikolojik_bilgi": 1346
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1013,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1346
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Zahrında müʾellifinin adı halle yazılmış",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Sarı kağıt",
+    "varak_adedi": "306",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T21:33:13.048622Z",
+    "updated_at": "2025-09-22T21:33:13.049104Z",
+    "kayit": {
+     "id": 3447,
+     "tam_metin": "[2] Kitâbü’l-Azîz fî Şerhi’l-Vecîz. Zahrında müʾellifinin adı halle yazılmış. Dimeşkī tamâmından kırılmış. Sarı kâğıd mukavvâ cildli. Üç yüz altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "44a",
+     "created_at": "2024-04-22T12:41:00.634700Z",
+     "updated_at": "2025-09-22T21:33:13.055077Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1777,
+     "kodikolojik_bilgi": 1346
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[2] Kitâbü’l-Azîz fî Şerhi’l-Vecîz. Zahrında müʾellifinin adı halle yazılmış. Dimeşkī tamâmından kırılmış. Sarı kâğıd mukavvâ cildli. Üç yüz altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "44a",
+  "created_at": "2024-04-22T12:41:00.634700Z",
+  "updated_at": "2025-09-22T21:33:13.055077Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1346,
+   "zahriye_exists": true,
+   "zahriye": "Zahrında müʾellifinin adı halle yazılmış",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Sarı kağıt",
+   "varak_adedi": "306",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T21:33:13.048622Z",
+   "updated_at": "2025-09-22T21:33:13.049104Z",
+   "kayit": 3447,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[113] Kitâbü’l-Azîz fî Şerhi’l-Vecîz fî Fıkhi’ş-Şâfiʿî. Zahrında müʾellifin adı halle yazılmış. Sarı kâğıd mukavvâ cildle. Vakf-ı Musannifek. Üç yüz altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "53b",
+ "created_at": "2024-02-10T12:48:03.192275Z",
+ "updated_at": "2026-01-26T16:51:49.621989Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

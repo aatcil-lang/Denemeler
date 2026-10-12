@@ -1,0 +1,220 @@
+{
+ "id": 1794,
+ "kitap_set": [
+  {
+   "id": 1789,
+   "isim": "Kitâb-ı Telhîsü’l-Muhassal.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:11.384440Z",
+   "updated_at": "2025-04-06T19:20:16.073845Z",
+   "yazar": {
+    "id": 501,
+    "isim": "Nasîrüddîn et-Tûsî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-23T20:43:27.257202Z",
+    "updated_at": "2024-12-23T20:43:27.257217Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1794,
+    "tam_metin": "[14] Kitâb-ı Telhîsü’l-Muhassal. Dimeşkī nısfından kırılmış. Yeni siyâh cildle. Vakf-ı Hatîbzâde. Yüz kırk beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+    "notlar": "",
+    "sayfa_numarasi": "54b",
+    "created_at": "2024-02-10T12:48:11.104440Z",
+    "updated_at": "2026-01-23T12:00:44.929564Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3334,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3334,
+  "kitap_set": [
+   {
+    "id": 3316,
+    "isim": "Kitâb-ı Telhîsü’l-Muhassal.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:52.410731Z",
+    "updated_at": "2025-04-06T19:20:11.469895Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3334,
+     "tam_metin": "[7] Kitâb-ı Telhîsü’l-Muhassal. Köhne. Dimeşkī nısfından kırılmış. Siyâh cildli. Cildinin bir tarafı zâyiʿ olmuş. Yüz kırk beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "41a",
+     "created_at": "2024-04-22T12:27:52.132463Z",
+     "updated_at": "2025-09-22T18:51:34.049106Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1794,
+     "kodikolojik_bilgi": 1271
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1794,
+  "bilgi_set": [
+   {
+    "id": 1271,
+    "murekkep_set": [
+     {
+      "id": 1149,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1271
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 938,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1271
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "145",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfından kırılmış",
+    "kagit_sekli": "",
+    "note": "Cildinin bir tarafı zâyiʿ olmuş.",
+    "created_at": "2025-09-22T18:51:34.023314Z",
+    "updated_at": "2025-09-22T18:51:34.023353Z",
+    "kayit": {
+     "id": 3334,
+     "tam_metin": "[7] Kitâb-ı Telhîsü’l-Muhassal. Köhne. Dimeşkī nısfından kırılmış. Siyâh cildli. Cildinin bir tarafı zâyiʿ olmuş. Yüz kırk beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "41a",
+     "created_at": "2024-04-22T12:27:52.132463Z",
+     "updated_at": "2025-09-22T18:51:34.049106Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1794,
+     "kodikolojik_bilgi": 1271
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[7] Kitâb-ı Telhîsü’l-Muhassal. Köhne. Dimeşkī nısfından kırılmış. Siyâh cildli. Cildinin bir tarafı zâyiʿ olmuş. Yüz kırk beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+  "notlar": "",
+  "sayfa_numarasi": "41a",
+  "created_at": "2024-04-22T12:27:52.132463Z",
+  "updated_at": "2025-09-22T18:51:34.049106Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1271,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "145",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfından kırılmış",
+   "kagit_sekli": "",
+   "note": "Cildinin bir tarafı zâyiʿ olmuş.",
+   "created_at": "2025-09-22T18:51:34.023314Z",
+   "updated_at": "2025-09-22T18:51:34.023353Z",
+   "kayit": 3334,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[14] Kitâb-ı Telhîsü’l-Muhassal. Dimeşkī nısfından kırılmış. Yeni siyâh cildle. Vakf-ı Hatîbzâde. Yüz kırk beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+ "notlar": "",
+ "sayfa_numarasi": "54b",
+ "created_at": "2024-02-10T12:48:11.104440Z",
+ "updated_at": "2026-01-23T12:00:44.929564Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

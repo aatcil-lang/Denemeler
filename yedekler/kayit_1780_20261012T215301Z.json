@@ -1,0 +1,220 @@
+{
+ "id": 1780,
+ "kitap_set": [
+  {
+   "id": 1775,
+   "isim": "Kitâb-ı Tetimmetü’l-Fetâvâ alâ Mezhebi’ş-Şâfiî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:04.847032Z",
+   "updated_at": "2025-04-06T19:20:16.122367Z",
+   "yazar": {
+    "id": 260,
+    "isim": "Mergīnânî, Burhânüddîn (Burhânü’ş-Şerîa) Mahmûd b. Ahmed b. Abdilazîz el-Buhârî el-Mergīnânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-11T12:52:50.030434Z",
+    "updated_at": "2024-09-11T12:52:50.030450Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1780,
+    "tam_metin": "[116] Kitâb-ı Tetimmetü’l-Fetâvâ alâ Mezhebi’ş-Şâfiʿî. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Ahmed Kâbilî. İki yüz kırk üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "53b",
+    "created_at": "2024-02-10T12:48:04.567479Z",
+    "updated_at": "2026-01-23T11:17:03.954746Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3270,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3270,
+  "kitap_set": [
+   {
+    "id": 3252,
+    "isim": "Kitâb-ı Tetimme alâ Mezhebi’ş-Şâfiî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:23.319795Z",
+    "updated_at": "2025-04-06T19:20:11.655703Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3270,
+     "tam_metin": "[13] Kitâb-ı Tetimme alâ Mezhebi’ş-Şâfiʿî. Dimeşkī tamâmından kırılmış. Siyâh cildli. İki yüz kırk üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "38b",
+     "created_at": "2024-04-22T12:27:23.025987Z",
+     "updated_at": "2025-09-22T12:46:16.074653Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1780,
+     "kodikolojik_bilgi": 1207
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1780,
+  "bilgi_set": [
+   {
+    "id": 1207,
+    "murekkep_set": [
+     {
+      "id": 1085,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1207
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 874,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1207
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "243",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T12:46:16.068792Z",
+    "updated_at": "2025-09-22T12:46:16.068812Z",
+    "kayit": {
+     "id": 3270,
+     "tam_metin": "[13] Kitâb-ı Tetimme alâ Mezhebi’ş-Şâfiʿî. Dimeşkī tamâmından kırılmış. Siyâh cildli. İki yüz kırk üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "38b",
+     "created_at": "2024-04-22T12:27:23.025987Z",
+     "updated_at": "2025-09-22T12:46:16.074653Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1780,
+     "kodikolojik_bilgi": 1207
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[13] Kitâb-ı Tetimme alâ Mezhebi’ş-Şâfiʿî. Dimeşkī tamâmından kırılmış. Siyâh cildli. İki yüz kırk üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "38b",
+  "created_at": "2024-04-22T12:27:23.025987Z",
+  "updated_at": "2025-09-22T12:46:16.074653Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1207,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "243",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T12:46:16.068792Z",
+   "updated_at": "2025-09-22T12:46:16.068812Z",
+   "kayit": 3270,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[116] Kitâb-ı Tetimmetü’l-Fetâvâ alâ Mezhebi’ş-Şâfiʿî. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Ahmed Kâbilî. İki yüz kırk üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "53b",
+ "created_at": "2024-02-10T12:48:04.567479Z",
+ "updated_at": "2026-01-23T11:17:03.954746Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

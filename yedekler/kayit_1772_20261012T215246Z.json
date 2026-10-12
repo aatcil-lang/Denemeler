@@ -1,0 +1,260 @@
+{
+ "id": 1772,
+ "kitap_set": [
+  {
+   "id": 1767,
+   "isim": "Kitâbün mine’l-fıkh ve fî nefsi’l-emr Kitâbü’z-Ziyâdât.",
+   "isim2": null,
+   "disiplin": "Fıkıh",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:01.132333Z",
+   "updated_at": "2025-04-06T19:20:16.148690Z",
+   "yazar": {
+    "id": 503,
+    "isim": "Sadr Süleymân",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-23T20:58:30.515377Z",
+    "updated_at": "2024-12-23T20:58:30.515391Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1772,
+    "tam_metin": "[108] Kitâbün mine’l-fıkh kezâ fi’d-defâtiri’s-sâbıka ve fî nefsi’l-emr Kitâbü’z-Ziyâdât li’s-Sadr Süleymân. Musahhah ve muhaşşâ. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Yüz yirmi iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "53b",
+    "created_at": "2024-02-10T12:48:00.852553Z",
+    "updated_at": "2026-01-23T11:13:58.904107Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3263,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3263,
+  "kitap_set": [
+   {
+    "id": 3245,
+    "isim": "Kitâbun mine’l-fıkh.",
+    "isim2": null,
+    "disiplin": "Fıkıh",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:20.147196Z",
+    "updated_at": "2025-04-06T19:20:11.675812Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3263,
+     "tam_metin": "[6] Kitâbün mine’l-fıkh. Muhaşşâ. Ciğerî cildli. Dimeşkī tamâmından kırılmış. Yüz yirmi iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "38b",
+     "created_at": "2024-04-22T12:27:19.878377Z",
+     "updated_at": "2025-09-22T12:32:22.927002Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1772,
+     "kodikolojik_bilgi": 1200
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 669,
+    "koleksiyon_numarasi": "01666",
+    "nusha": "",
+    "created_at": "2025-01-14T12:00:38.702847Z",
+    "updated_at": "2025-01-14T12:00:38.702865Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3263,
+     "tam_metin": "[6] Kitâbün mine’l-fıkh. Muhaşşâ. Ciğerî cildli. Dimeşkī tamâmından kırılmış. Yüz yirmi iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "38b",
+     "created_at": "2024-04-22T12:27:19.878377Z",
+     "updated_at": "2025-09-22T12:32:22.927002Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1772,
+     "kodikolojik_bilgi": 1200
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1772,
+  "bilgi_set": [
+   {
+    "id": 1200,
+    "murekkep_set": [
+     {
+      "id": 1078,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1200
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 867,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1200
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "122",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T12:32:22.918241Z",
+    "updated_at": "2025-09-22T12:32:22.918259Z",
+    "kayit": {
+     "id": 3263,
+     "tam_metin": "[6] Kitâbün mine’l-fıkh. Muhaşşâ. Ciğerî cildli. Dimeşkī tamâmından kırılmış. Yüz yirmi iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "38b",
+     "created_at": "2024-04-22T12:27:19.878377Z",
+     "updated_at": "2025-09-22T12:32:22.927002Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1772,
+     "kodikolojik_bilgi": 1200
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[6] Kitâbün mine’l-fıkh. Muhaşşâ. Ciğerî cildli. Dimeşkī tamâmından kırılmış. Yüz yirmi iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "38b",
+  "created_at": "2024-04-22T12:27:19.878377Z",
+  "updated_at": "2025-09-22T12:32:22.927002Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1200,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "122",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T12:32:22.918241Z",
+   "updated_at": "2025-09-22T12:32:22.918259Z",
+   "kayit": 3263,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[108] Kitâbün mine’l-fıkh kezâ fi’d-defâtiri’s-sâbıka ve fî nefsi’l-emr Kitâbü’z-Ziyâdât li’s-Sadr Süleymân. Musahhah ve muhaşşâ. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Yüz yirmi iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "53b",
+ "created_at": "2024-02-10T12:48:00.852553Z",
+ "updated_at": "2026-01-23T11:13:58.904107Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,248 @@
+{
+ "id": 1787,
+ "kitap_set": [
+  {
+   "id": 1782,
+   "isim": "Kitâbü’l-Cildi’l-Evvel min Şerhi’l-Mevâkıf.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:08.143658Z",
+   "updated_at": "2025-04-06T19:20:16.097604Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1787,
+    "tam_metin": "[7] Kitâbü’l-Cildi’l-Evvel eydan min Şerhi’l-Mevâkıf. İlâ âhiri’l-Umûri’l-Âmme. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Yüz iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+    "notlar": "",
+    "sayfa_numarasi": "54a",
+    "created_at": "2024-02-10T12:48:07.843444Z",
+    "updated_at": "2026-01-26T22:22:33.035240Z",
+    "vakif": 12,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3535,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3535,
+  "kitap_set": [
+   {
+    "id": 3516,
+    "isim": "Kitâb-ı Şerh-i Mevâkıf.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:31.858484Z",
+    "updated_at": "2025-04-06T19:20:10.929491Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3535,
+     "tam_metin": "[4] Kitâb-ı Şerh-i Mevâkıf. Evvelinden âhir-i Umûr-ı Âmme’ye dek. Dimeşkī tamâmına. Ciğerî cildli. Yüz iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "48a",
+     "created_at": "2024-04-22T12:45:31.591141Z",
+     "updated_at": "2025-10-01T19:45:09.323882Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1787,
+     "kodikolojik_bilgi": 1428
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 820,
+    "koleksiyon_numarasi": "03113",
+    "nusha": "",
+    "created_at": "2025-01-15T23:59:15.636248Z",
+    "updated_at": "2025-01-15T23:59:15.636267Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3535,
+     "tam_metin": "[4] Kitâb-ı Şerh-i Mevâkıf. Evvelinden âhir-i Umûr-ı Âmme’ye dek. Dimeşkī tamâmına. Ciğerî cildli. Yüz iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "48a",
+     "created_at": "2024-04-22T12:45:31.591141Z",
+     "updated_at": "2025-10-01T19:45:09.323882Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1787,
+     "kodikolojik_bilgi": 1428
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1787,
+  "bilgi_set": [
+   {
+    "id": 1428,
+    "murekkep_set": [
+     {
+      "id": 1305,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1428
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1094,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1428
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "102",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T19:45:09.313791Z",
+    "updated_at": "2025-10-01T19:45:09.313821Z",
+    "kayit": {
+     "id": 3535,
+     "tam_metin": "[4] Kitâb-ı Şerh-i Mevâkıf. Evvelinden âhir-i Umûr-ı Âmme’ye dek. Dimeşkī tamâmına. Ciğerî cildli. Yüz iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "48a",
+     "created_at": "2024-04-22T12:45:31.591141Z",
+     "updated_at": "2025-10-01T19:45:09.323882Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1787,
+     "kodikolojik_bilgi": 1428
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[4] Kitâb-ı Şerh-i Mevâkıf. Evvelinden âhir-i Umûr-ı Âmme’ye dek. Dimeşkī tamâmına. Ciğerî cildli. Yüz iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+  "notlar": "",
+  "sayfa_numarasi": "48a",
+  "created_at": "2024-04-22T12:45:31.591141Z",
+  "updated_at": "2025-10-01T19:45:09.323882Z",
+  "vakif": {
+   "id": 12,
+   "isim": "Âlâiyyeli Muhyiddîn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:56:17.228524Z",
+   "updated_at": "2024-04-22T11:56:17.228541Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1428,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "102",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T19:45:09.313791Z",
+   "updated_at": "2025-10-01T19:45:09.313821Z",
+   "kayit": 3535,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[7] Kitâbü’l-Cildi’l-Evvel eydan min Şerhi’l-Mevâkıf. İlâ âhiri’l-Umûri’l-Âmme. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Yüz iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+ "notlar": "",
+ "sayfa_numarasi": "54a",
+ "created_at": "2024-02-10T12:48:07.843444Z",
+ "updated_at": "2026-01-26T22:22:33.035240Z",
+ "vakif": {
+  "id": 12,
+  "isim": "Âlâiyyeli Muhyiddîn",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:56:17.228524Z",
+  "updated_at": "2024-04-22T11:56:17.228541Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

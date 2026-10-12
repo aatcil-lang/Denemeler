@@ -1,0 +1,300 @@
+{
+ "id": 1767,
+ "kitap_set": [
+  {
+   "id": 3908,
+   "isim": "Kitâb-ı Şerhu’l-Ferâʾiz.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2024-12-23T20:27:18.735099Z",
+   "updated_at": "2025-04-06T19:20:09.819780Z",
+   "yazar": {
+    "id": 496,
+    "isim": "Şihâbüddin",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-23T20:26:26.922277Z",
+    "updated_at": "2024-12-23T20:26:26.922292Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1767,
+    "tam_metin": "[103] Kitâb-ı Metnü’l-Ferâʾizi’s-Sirâciyye ve Kitâb-ı Şerhu’l-Ferâʾiz li-Şihâbüddîn. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Yüz otuz yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "53a",
+    "created_at": "2024-02-10T12:47:58.548959Z",
+    "updated_at": "2026-10-11T22:58:02.957977Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3273,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 1762,
+   "isim": "Kitâb-ı Metnü’l-Ferâizi’s-Sirâciyye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:58.830181Z",
+   "updated_at": "2025-04-06T19:20:16.164662Z",
+   "yazar": {
+    "id": 495,
+    "isim": "Sirâciyye",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-23T20:22:28.966359Z",
+    "updated_at": "2024-12-23T20:22:28.966373Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1767,
+    "tam_metin": "[103] Kitâb-ı Metnü’l-Ferâʾizi’s-Sirâciyye ve Kitâb-ı Şerhu’l-Ferâʾiz li-Şihâbüddîn. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Yüz otuz yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "53a",
+    "created_at": "2024-02-10T12:47:58.548959Z",
+    "updated_at": "2026-10-11T22:58:02.957977Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3273,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3273,
+  "kitap_set": [
+   {
+    "id": 3255,
+    "isim": "Kitâb-ı Ferâizü’s-Sirâciyye ve Şerh-i Ferâiz-i Mevlânâ Şihâbeddîn.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:24.685255Z",
+    "updated_at": "2025-04-06T19:20:11.647711Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3273,
+     "tam_metin": "[16] Kitâb-ı Ferâʾizü’s-Sirâciyye ve Şerh-i Ferâʾiz-i Mevlânâ Şihâbeddîn. Dimeşkī nısfına. Ciğerî cildli. Yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "38b",
+     "created_at": "2024-04-22T12:27:24.408280Z",
+     "updated_at": "2025-09-22T12:48:26.709329Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1767,
+     "kodikolojik_bilgi": 1210
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 675,
+    "koleksiyon_numarasi": "02515-001",
+    "nusha": "",
+    "created_at": "2025-01-14T12:14:16.824154Z",
+    "updated_at": "2025-01-14T12:14:16.824169Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3273,
+     "tam_metin": "[16] Kitâb-ı Ferâʾizü’s-Sirâciyye ve Şerh-i Ferâʾiz-i Mevlânâ Şihâbeddîn. Dimeşkī nısfına. Ciğerî cildli. Yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "38b",
+     "created_at": "2024-04-22T12:27:24.408280Z",
+     "updated_at": "2025-09-22T12:48:26.709329Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1767,
+     "kodikolojik_bilgi": 1210
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1767,
+  "bilgi_set": [
+   {
+    "id": 1210,
+    "murekkep_set": [
+     {
+      "id": 1088,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1210
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 877,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1210
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "137",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T12:48:26.578304Z",
+    "updated_at": "2025-09-22T12:48:26.580121Z",
+    "kayit": {
+     "id": 3273,
+     "tam_metin": "[16] Kitâb-ı Ferâʾizü’s-Sirâciyye ve Şerh-i Ferâʾiz-i Mevlânâ Şihâbeddîn. Dimeşkī nısfına. Ciğerî cildli. Yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "38b",
+     "created_at": "2024-04-22T12:27:24.408280Z",
+     "updated_at": "2025-09-22T12:48:26.709329Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1767,
+     "kodikolojik_bilgi": 1210
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[16] Kitâb-ı Ferâʾizü’s-Sirâciyye ve Şerh-i Ferâʾiz-i Mevlânâ Şihâbeddîn. Dimeşkī nısfına. Ciğerî cildli. Yüz otuz yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "38b",
+  "created_at": "2024-04-22T12:27:24.408280Z",
+  "updated_at": "2025-09-22T12:48:26.709329Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1210,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "137",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T12:48:26.578304Z",
+   "updated_at": "2025-09-22T12:48:26.580121Z",
+   "kayit": 3273,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[103] Kitâb-ı Metnü’l-Ferâʾizi’s-Sirâciyye ve Kitâb-ı Şerhu’l-Ferâʾiz li-Şihâbüddîn. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Yüz otuz yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "53a",
+ "created_at": "2024-02-10T12:47:58.548959Z",
+ "updated_at": "2026-10-11T22:58:02.957977Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
