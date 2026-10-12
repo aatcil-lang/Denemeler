@@ -1,0 +1,178 @@
+{
+ "id": 3475,
+ "kitap_set": [
+  {
+   "id": 3457,
+   "isim": "Kitâb-ı Şerh-i Radî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:41:12.906411Z",
+   "updated_at": "2025-04-06T19:20:11.088017Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3475,
+    "tam_metin": "[13] Kitâb-ı Şerh-i Radî. Bi-hattı el-Mevlâ el-Vâkıf Mevlânâ Musannifek. Evveli levhalı. Evvel-i Mebnî’den âhir-i kitâba dek. münakkaş Ciğerî cildli. Dört yüz yetmiş üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "45b",
+    "created_at": "2024-04-22T12:41:12.630995Z",
+    "updated_at": "2026-02-02T19:00:15.004844Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": 1373
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 789,
+   "koleksiyon_numarasi": "04961",
+   "nusha": "",
+   "created_at": "2025-01-15T23:18:36.698115Z",
+   "updated_at": "2025-01-15T23:18:36.698130Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 3475,
+    "tam_metin": "[13] Kitâb-ı Şerh-i Radî. Bi-hattı el-Mevlâ el-Vâkıf Mevlânâ Musannifek. Evveli levhalı. Evvel-i Mebnî’den âhir-i kitâba dek. münakkaş Ciğerî cildli. Dört yüz yetmiş üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "45b",
+    "created_at": "2024-04-22T12:41:12.630995Z",
+    "updated_at": "2026-02-02T19:00:15.004844Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": 1373
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [
+  {
+   "id": 1373,
+   "murekkep_set": [
+    {
+     "id": 1251,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1373
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 1040,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1373
+    }
+   ],
+   "zahriye_exists": true,
+   "zahriye": "Evveli levhalı",
+   "cild_turu": "Münakkaş ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "473",
+   "kagit_turu": "",
+   "aciklama": "",
+   "kagit_ebadi": "",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-24T17:33:35.961585Z",
+   "updated_at": "2025-11-08T07:46:37.674880Z",
+   "kayit": {
+    "id": 3475,
+    "tam_metin": "[13] Kitâb-ı Şerh-i Radî. Bi-hattı el-Mevlâ el-Vâkıf Mevlânâ Musannifek. Evveli levhalı. Evvel-i Mebnî’den âhir-i kitâba dek. münakkaş Ciğerî cildli. Dört yüz yetmiş üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "45b",
+    "created_at": "2024-04-22T12:41:12.630995Z",
+    "updated_at": "2026-02-02T19:00:15.004844Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": 1373
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[13] Kitâb-ı Şerh-i Radî. Bi-hattı el-Mevlâ el-Vâkıf Mevlânâ Musannifek. Evveli levhalı. Evvel-i Mebnî’den âhir-i kitâba dek. münakkaş Ciğerî cildli. Dört yüz yetmiş üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "45b",
+ "created_at": "2024-04-22T12:41:12.630995Z",
+ "updated_at": "2026-02-02T19:00:15.004844Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1373,
+  "zahriye_exists": true,
+  "zahriye": "Evveli levhalı",
+  "cild_turu": "Münakkaş ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "473",
+  "kagit_turu": "",
+  "aciklama": "",
+  "kagit_ebadi": "",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-24T17:33:35.961585Z",
+  "updated_at": "2025-11-08T07:46:37.674880Z",
+  "kayit": 3475,
+  "created_by": null
+ }
+}

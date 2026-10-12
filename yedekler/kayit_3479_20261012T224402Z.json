@@ -1,0 +1,287 @@
+{
+ "id": 3479,
+ "kitap_set": [
+  {
+   "id": 3461,
+   "isim": "Kitâb-ı Şerh-i Şemsiyye-i Fârisî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:41:14.629159Z",
+   "updated_at": "2025-04-06T19:20:11.076839Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3479,
+    "tam_metin": "[1] Kitâb-ı Şerh-i Şemsiyye-i Fârisî min müʾellefâtı Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. İki yüz kırk dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkıyye",
+    "notlar": "",
+    "sayfa_numarasi": "45b",
+    "created_at": "2024-04-22T12:41:14.359651Z",
+    "updated_at": "2025-09-24T17:38:48.109102Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1887,
+    "kodikolojik_bilgi": 1377
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 1887,
+  "kitap_set": [
+   {
+    "id": 1882,
+    "isim": "Kitâb-ı Şerhü’ş-Şemsiyye bi’l-Fârisiyye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:48:54.616755Z",
+    "updated_at": "2025-04-06T19:20:15.769966Z",
+    "yazar": {
+     "id": 11,
+     "isim": "Mevlânâ Musannifek",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-04-22T11:53:25.702212Z",
+     "updated_at": "2024-04-22T11:53:25.702230Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1887,
+     "tam_metin": "[3] Kitâb-ı Şerhu’ş-Şemsiyye bi’l-Fârisiyye li-Musannifek. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Musannifek. İki yüz kırk dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkiyye",
+     "notlar": "",
+     "sayfa_numarasi": "58b",
+     "created_at": "2024-02-10T12:48:54.327029Z",
+     "updated_at": "2026-10-12T21:56:16.152202Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3479,
+     "kodikolojik_bilgi": 2632
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 3479,
+  "bilgi_set": [
+   {
+    "id": 2632,
+    "murekkep_set": [
+     {
+      "id": 2515,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 2632
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 2307,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 2632
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "249",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:56:16.148672Z",
+    "updated_at": "2026-10-12T21:56:16.148688Z",
+    "kayit": {
+     "id": 1887,
+     "tam_metin": "[3] Kitâb-ı Şerhu’ş-Şemsiyye bi’l-Fârisiyye li-Musannifek. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Musannifek. İki yüz kırk dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkiyye",
+     "notlar": "",
+     "sayfa_numarasi": "58b",
+     "created_at": "2024-02-10T12:48:54.327029Z",
+     "updated_at": "2026-10-12T21:56:16.152202Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3479,
+     "kodikolojik_bilgi": 2632
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[3] Kitâb-ı Şerhu’ş-Şemsiyye bi’l-Fârisiyye li-Musannifek. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Musannifek. İki yüz kırk dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkiyye",
+  "notlar": "",
+  "sayfa_numarasi": "58b",
+  "created_at": "2024-02-10T12:48:54.327029Z",
+  "updated_at": "2026-10-12T21:56:16.152202Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 2632,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "249",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:56:16.148672Z",
+   "updated_at": "2026-10-12T21:56:16.148688Z",
+   "kayit": 1887,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 1377,
+   "murekkep_set": [
+    {
+     "id": 1255,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1377
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 1044,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1377
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "249",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-24T17:38:48.103476Z",
+   "updated_at": "2025-09-24T17:38:48.103492Z",
+   "kayit": {
+    "id": 3479,
+    "tam_metin": "[1] Kitâb-ı Şerh-i Şemsiyye-i Fârisî min müʾellefâtı Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. İki yüz kırk dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkıyye",
+    "notlar": "",
+    "sayfa_numarasi": "45b",
+    "created_at": "2024-04-22T12:41:14.359651Z",
+    "updated_at": "2025-09-24T17:38:48.109102Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1887,
+    "kodikolojik_bilgi": 1377
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[1] Kitâb-ı Şerh-i Şemsiyye-i Fârisî min müʾellefâtı Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. İki yüz kırk dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkıyye",
+ "notlar": "",
+ "sayfa_numarasi": "45b",
+ "created_at": "2024-04-22T12:41:14.359651Z",
+ "updated_at": "2025-09-24T17:38:48.109102Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1377,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Ak kağıt",
+  "varak_adedi": "249",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-24T17:38:48.103476Z",
+  "updated_at": "2025-09-24T17:38:48.103492Z",
+  "kayit": 3479,
+  "created_by": null
+ }
+}
