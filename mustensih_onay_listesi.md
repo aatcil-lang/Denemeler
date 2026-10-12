@@ -36,7 +36,9 @@ Bunların aynı kişi olup olmadığı belli değil, çünkü yaygın adlar. Se�
 - **(a)** En çok müstensih olarak kullanılan kayda bağlamak. Kopyalar daha sonra ayrı bir çalışmada birleştirilebilir.
 - **(b)** Her kayıt için yeni şahıs açmamak, bu 16 kaydı şimdilik boş bırakmak.
 
-**M5. Kısmi Musannifek hattı.** Kayıtlara göre önerim:
+**M5. Kısmi Musannifek hattı.** ✅ **Karar:** 9 kaydın hepsi **Mevlânâ Musannifek'e (#11)** bağlanacak. Hangi kısmın onun hattıyla olduğu, daha sonraki bir çalışmada kaydın not alanına “istinsah notu” olarak yazılacak. Aşağıdaki ilk öneri tablosu bu karar nedeniyle uygulanmayacak.
+
+İlk öneri:
 
 | Kayıt | İfade | Öneri |
 |---|---|---|
