@@ -1,0 +1,327 @@
+{
+ "id": 2651,
+ "kitap_set": [
+  {
+   "id": 2634,
+   "isim": "Kitâb-ı İhtiyâr.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:22:54.367572Z",
+   "updated_at": "2025-04-06T19:20:13.466214Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2651,
+    "tam_metin": "[14] Kitâb-ı İhtiyâr. Bi-hattı Hacı Ali bin Durabeği. Dimeşkī tamâmına. Ciğerî cildli. İki yüz elli üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "14b",
+    "created_at": "2024-04-22T12:22:54.103296Z",
+    "updated_at": "2025-09-02T11:53:13.370599Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1032,
+    "kodikolojik_bilgi": 585
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 224,
+   "koleksiyon_numarasi": "02267",
+   "nusha": "",
+   "created_at": "2024-12-28T14:21:26.945219Z",
+   "updated_at": "2024-12-28T14:21:26.945234Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2651,
+    "tam_metin": "[14] Kitâb-ı İhtiyâr. Bi-hattı Hacı Ali bin Durabeği. Dimeşkī tamâmına. Ciğerî cildli. İki yüz elli üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "14b",
+    "created_at": "2024-04-22T12:22:54.103296Z",
+    "updated_at": "2025-09-02T11:53:13.370599Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1032,
+    "kodikolojik_bilgi": 585
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1032,
+  "kitap_set": [
+   {
+    "id": 1028,
+    "isim": "Kitâbü’l-İhtiyâr fî Şerhi’l-Muhtâr.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:42:27.506596Z",
+    "updated_at": "2025-04-06T19:20:18.574600Z",
+    "yazar": null,
+    "kayit": {
+     "id": 1032,
+     "tam_metin": "[159] Kitâbü’l-İhtiyâr fî Şerhi’l-Muhtâr. Tamâm. Bi-hattı Hacı Ali bin Durbeğ.  Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz elli üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "21b",
+     "created_at": "2024-02-10T12:42:27.251451Z",
+     "updated_at": "2026-10-12T21:30:48.682694Z",
+     "vakif": 1,
+     "mustensih": 264,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2651,
+     "kodikolojik_bilgi": 1794
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2651,
+  "bilgi_set": [
+   {
+    "id": 1794,
+    "murekkep_set": [
+     {
+      "id": 1677,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1794
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1469,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1794
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "253",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:30:48.677450Z",
+    "updated_at": "2026-10-12T21:30:48.677471Z",
+    "kayit": {
+     "id": 1032,
+     "tam_metin": "[159] Kitâbü’l-İhtiyâr fî Şerhi’l-Muhtâr. Tamâm. Bi-hattı Hacı Ali bin Durbeğ.  Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz elli üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "21b",
+     "created_at": "2024-02-10T12:42:27.251451Z",
+     "updated_at": "2026-10-12T21:30:48.682694Z",
+     "vakif": 1,
+     "mustensih": 264,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2651,
+     "kodikolojik_bilgi": 1794
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[159] Kitâbü’l-İhtiyâr fî Şerhi’l-Muhtâr. Tamâm. Bi-hattı Hacı Ali bin Durbeğ.  Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz elli üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "21b",
+  "created_at": "2024-02-10T12:42:27.251451Z",
+  "updated_at": "2026-10-12T21:30:48.682694Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 264,
+   "isim": "Hacı Ali bin Durbeğ",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-11T15:34:51.310949Z",
+   "updated_at": "2024-09-11T15:34:51.310968Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1794,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "253",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:30:48.677450Z",
+   "updated_at": "2026-10-12T21:30:48.677471Z",
+   "kayit": 1032,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 585,
+   "murekkep_set": [
+    {
+     "id": 463,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 585
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 254,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 585
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "253",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T11:53:13.365148Z",
+   "updated_at": "2025-09-02T11:53:13.365174Z",
+   "kayit": {
+    "id": 2651,
+    "tam_metin": "[14] Kitâb-ı İhtiyâr. Bi-hattı Hacı Ali bin Durabeği. Dimeşkī tamâmına. Ciğerî cildli. İki yüz elli üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "14b",
+    "created_at": "2024-04-22T12:22:54.103296Z",
+    "updated_at": "2025-09-02T11:53:13.370599Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1032,
+    "kodikolojik_bilgi": 585
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[14] Kitâb-ı İhtiyâr. Bi-hattı Hacı Ali bin Durabeği. Dimeşkī tamâmına. Ciğerî cildli. İki yüz elli üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "14b",
+ "created_at": "2024-04-22T12:22:54.103296Z",
+ "updated_at": "2025-09-02T11:53:13.370599Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 585,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "253",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-02T11:53:13.365148Z",
+  "updated_at": "2025-09-02T11:53:13.365174Z",
+  "kayit": 2651,
+  "created_by": null
+ }
+}

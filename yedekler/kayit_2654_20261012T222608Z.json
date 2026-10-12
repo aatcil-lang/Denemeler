@@ -1,0 +1,327 @@
+{
+ "id": 2654,
+ "kitap_set": [
+  {
+   "id": 2637,
+   "isim": "Kitâb-ı Münyetü’l-Müftî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:22:55.636305Z",
+   "updated_at": "2025-04-06T19:20:13.455028Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2654,
+    "tam_metin": "[17] Kitâb-ı Münyetü’l-Müftî. Tamâm. Bi-hattı Abdullâh bin Hüseyin bin Ali bin Beşâret. Âhirinde halle üç beyit yazılmış. Evvel beyit “Temme’l-kitâbu li-mevlânâ ve seyyidinâ / Kādî’l-Kudât İmâdüddîn sâhibühû” ve evvel varakının zahrı levhalı. Levhanın içinde kitâbın ismi ve müʾellifin adı yazılmış. Dimeşkī tamâmına. Müzehheb sarı cildli. İki yüz on yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "14b",
+    "created_at": "2024-04-22T12:22:55.377342Z",
+    "updated_at": "2025-11-05T13:34:09.242623Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 967,
+    "kodikolojik_bilgi": 588
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 226,
+   "koleksiyon_numarasi": "02483",
+   "nusha": "",
+   "created_at": "2024-12-28T14:23:18.097676Z",
+   "updated_at": "2024-12-28T14:23:18.097719Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2654,
+    "tam_metin": "[17] Kitâb-ı Münyetü’l-Müftî. Tamâm. Bi-hattı Abdullâh bin Hüseyin bin Ali bin Beşâret. Âhirinde halle üç beyit yazılmış. Evvel beyit “Temme’l-kitâbu li-mevlânâ ve seyyidinâ / Kādî’l-Kudât İmâdüddîn sâhibühû” ve evvel varakının zahrı levhalı. Levhanın içinde kitâbın ismi ve müʾellifin adı yazılmış. Dimeşkī tamâmına. Müzehheb sarı cildli. İki yüz on yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "14b",
+    "created_at": "2024-04-22T12:22:55.377342Z",
+    "updated_at": "2025-11-05T13:34:09.242623Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 967,
+    "kodikolojik_bilgi": 588
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 967,
+  "kitap_set": [
+   {
+    "id": 963,
+    "isim": "Kitâb-ı Münyetü’l-Müftî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:42:00.215971Z",
+    "updated_at": "2025-04-06T19:20:18.795332Z",
+    "yazar": null,
+    "kayit": {
+     "id": 967,
+     "tam_metin": "[94] Kitâb-ı Münyetü’l-Müftî. Tamâm. Bi-hattı Abdullâh bin Hüseyin bin Ali bin Beşâret. Fî âhirihî selâsetü ebyât mektûbetün bi’z-zeheb. İbâretü’l-beyti’l-evvel minhâ تم الكتاب لمولانا وسيدنا قاضي القضاة عماد الدين صاحبه. Zahrı levhalı. levha içinde kitâbın ismi ve müʾellifinin adı yazılmış. Dimeşkī tamâmına. Müzehheb sarı cildle. Vakf-ı Sultânî. İki yüz on yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "18b",
+     "created_at": "2024-02-10T12:41:59.953298Z",
+     "updated_at": "2026-10-12T21:28:53.132142Z",
+     "vakif": 1,
+     "mustensih": 238,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2654,
+     "kodikolojik_bilgi": 1729
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2654,
+  "bilgi_set": [
+   {
+    "id": 1729,
+    "murekkep_set": [
+     {
+      "id": 1612,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1729
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1404,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1729
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Müzehheb sarı cilt",
+    "cild_materyal": "",
+    "varak_adedi": "217",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:28:53.128584Z",
+    "updated_at": "2026-10-12T21:28:53.128605Z",
+    "kayit": {
+     "id": 967,
+     "tam_metin": "[94] Kitâb-ı Münyetü’l-Müftî. Tamâm. Bi-hattı Abdullâh bin Hüseyin bin Ali bin Beşâret. Fî âhirihî selâsetü ebyât mektûbetün bi’z-zeheb. İbâretü’l-beyti’l-evvel minhâ تم الكتاب لمولانا وسيدنا قاضي القضاة عماد الدين صاحبه. Zahrı levhalı. levha içinde kitâbın ismi ve müʾellifinin adı yazılmış. Dimeşkī tamâmına. Müzehheb sarı cildle. Vakf-ı Sultânî. İki yüz on yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "18b",
+     "created_at": "2024-02-10T12:41:59.953298Z",
+     "updated_at": "2026-10-12T21:28:53.132142Z",
+     "vakif": 1,
+     "mustensih": 238,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2654,
+     "kodikolojik_bilgi": 1729
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[94] Kitâb-ı Münyetü’l-Müftî. Tamâm. Bi-hattı Abdullâh bin Hüseyin bin Ali bin Beşâret. Fî âhirihî selâsetü ebyât mektûbetün bi’z-zeheb. İbâretü’l-beyti’l-evvel minhâ تم الكتاب لمولانا وسيدنا قاضي القضاة عماد الدين صاحبه. Zahrı levhalı. levha içinde kitâbın ismi ve müʾellifinin adı yazılmış. Dimeşkī tamâmına. Müzehheb sarı cildle. Vakf-ı Sultânî. İki yüz on yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "18b",
+  "created_at": "2024-02-10T12:41:59.953298Z",
+  "updated_at": "2026-10-12T21:28:53.132142Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 238,
+   "isim": "Abdullâh bin Hüseyin bin Ali bin Beşâret",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-10T17:23:44.701535Z",
+   "updated_at": "2024-09-10T17:23:44.701563Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1729,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Müzehheb sarı cilt",
+   "cild_materyal": "",
+   "varak_adedi": "217",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:28:53.128584Z",
+   "updated_at": "2026-10-12T21:28:53.128605Z",
+   "kayit": 967,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 588,
+   "murekkep_set": [
+    {
+     "id": 466,
+     "renk": "altin",
+     "ilgili_ibare": "Âhirinde halle üç beyit yazılmış. ",
+     "kodikolojik_bilgi": 588
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 257,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 588
+    }
+   ],
+   "zahriye_exists": true,
+   "zahriye": "Evvel varakının zahrı levhalı. Levhanın içinde kitâbın ismi ve müʾellifin adı yazılmış. Âhirinde halle üç beyit yazılmış. Evvel beyit “Temme’l-kitâbu li-mevlânâ ve seyyidinâ / Kādî’l-Kudât İmâdüddîn sâhibühû” ",
+   "cild_turu": "Müzehheb sarı cilt",
+   "cild_materyal": "",
+   "varak_adedi": "217",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T11:58:13.191586Z",
+   "updated_at": "2025-11-05T13:34:09.237595Z",
+   "kayit": {
+    "id": 2654,
+    "tam_metin": "[17] Kitâb-ı Münyetü’l-Müftî. Tamâm. Bi-hattı Abdullâh bin Hüseyin bin Ali bin Beşâret. Âhirinde halle üç beyit yazılmış. Evvel beyit “Temme’l-kitâbu li-mevlânâ ve seyyidinâ / Kādî’l-Kudât İmâdüddîn sâhibühû” ve evvel varakının zahrı levhalı. Levhanın içinde kitâbın ismi ve müʾellifin adı yazılmış. Dimeşkī tamâmına. Müzehheb sarı cildli. İki yüz on yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "14b",
+    "created_at": "2024-04-22T12:22:55.377342Z",
+    "updated_at": "2025-11-05T13:34:09.242623Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 967,
+    "kodikolojik_bilgi": 588
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[17] Kitâb-ı Münyetü’l-Müftî. Tamâm. Bi-hattı Abdullâh bin Hüseyin bin Ali bin Beşâret. Âhirinde halle üç beyit yazılmış. Evvel beyit “Temme’l-kitâbu li-mevlânâ ve seyyidinâ / Kādî’l-Kudât İmâdüddîn sâhibühû” ve evvel varakının zahrı levhalı. Levhanın içinde kitâbın ismi ve müʾellifin adı yazılmış. Dimeşkī tamâmına. Müzehheb sarı cildli. İki yüz on yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "14b",
+ "created_at": "2024-04-22T12:22:55.377342Z",
+ "updated_at": "2025-11-05T13:34:09.242623Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 588,
+  "zahriye_exists": true,
+  "zahriye": "Evvel varakının zahrı levhalı. Levhanın içinde kitâbın ismi ve müʾellifin adı yazılmış. Âhirinde halle üç beyit yazılmış. Evvel beyit “Temme’l-kitâbu li-mevlânâ ve seyyidinâ / Kādî’l-Kudât İmâdüddîn sâhibühû” ",
+  "cild_turu": "Müzehheb sarı cilt",
+  "cild_materyal": "",
+  "varak_adedi": "217",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-02T11:58:13.191586Z",
+  "updated_at": "2025-11-05T13:34:09.237595Z",
+  "kayit": 2654,
+  "created_by": null
+ }
+}
