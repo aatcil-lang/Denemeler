@@ -1,0 +1,208 @@
+{
+ "id": 1300,
+ "kitap_set": [
+  {
+   "id": 1295,
+   "isim": "Kitâbü’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:24.173073Z",
+   "updated_at": "2025-04-06T19:20:17.585466Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1300,
+    "tam_metin": "[21] Kitâbü’ş-Şerhi’l-Mutavvel eydan li-Telhîsi’l-Miftâh. Haşebî nısfından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz seksen bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "33b",
+    "created_at": "2024-02-10T12:44:23.908944Z",
+    "updated_at": "2024-11-10T19:52:56.680133Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3097,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3097,
+  "kitap_set": [
+   {
+    "id": 3079,
+    "isim": "Kitâb-ı Şerh-i Mutavvel li-Telhîsi’l-Miftâh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:04.350909Z",
+    "updated_at": "2025-04-06T19:20:12.185260Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3097,
+     "tam_metin": "[70] Kitâb-ı Şerh-i Mutavvel li-Telhîsi’l-Miftâh. Haşebî nısfından kırılmış. Ciğerî cildli. İki yüz seksen bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "31a",
+     "created_at": "2024-04-22T12:26:04.071909Z",
+     "updated_at": "2025-09-21T20:57:05.775259Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1300,
+     "kodikolojik_bilgi": 1034
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1300,
+  "bilgi_set": [
+   {
+    "id": 1034,
+    "murekkep_set": [
+     {
+      "id": 912,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1034
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 701,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1034
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "281",
+    "kagit_turu": "Haşebî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-21T20:57:05.769352Z",
+    "updated_at": "2025-09-21T20:57:05.769370Z",
+    "kayit": {
+     "id": 3097,
+     "tam_metin": "[70] Kitâb-ı Şerh-i Mutavvel li-Telhîsi’l-Miftâh. Haşebî nısfından kırılmış. Ciğerî cildli. İki yüz seksen bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "31a",
+     "created_at": "2024-04-22T12:26:04.071909Z",
+     "updated_at": "2025-09-21T20:57:05.775259Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1300,
+     "kodikolojik_bilgi": 1034
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[70] Kitâb-ı Şerh-i Mutavvel li-Telhîsi’l-Miftâh. Haşebî nısfından kırılmış. Ciğerî cildli. İki yüz seksen bir varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "31a",
+  "created_at": "2024-04-22T12:26:04.071909Z",
+  "updated_at": "2025-09-21T20:57:05.775259Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1034,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "281",
+   "kagit_turu": "Haşebî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-21T20:57:05.769352Z",
+   "updated_at": "2025-09-21T20:57:05.769370Z",
+   "kayit": 3097,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[21] Kitâbü’ş-Şerhi’l-Mutavvel eydan li-Telhîsi’l-Miftâh. Haşebî nısfından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz seksen bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "33b",
+ "created_at": "2024-02-10T12:44:23.908944Z",
+ "updated_at": "2024-11-10T19:52:56.680133Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,260 @@
+{
+ "id": 1316,
+ "kitap_set": [
+  {
+   "id": 1311,
+   "isim": "Kitâb-ı Şerhu Lübbi’l-Elbâb.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:31.542180Z",
+   "updated_at": "2025-04-06T19:20:17.528808Z",
+   "yazar": {
+    "id": 408,
+    "isim": "Seyyid Abdullâh",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-20T13:25:46.325825Z",
+    "updated_at": "2024-11-20T13:25:46.325852Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1316,
+    "tam_metin": "[37] Kitâb-ı Şerhu Lübbi’l-Elbâb li’s-Seyyid Abdullâh. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "34a",
+    "created_at": "2024-02-10T12:44:31.262875Z",
+    "updated_at": "2024-11-20T13:27:57.612154Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3047,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3047,
+  "kitap_set": [
+   {
+    "id": 3029,
+    "isim": "Kitâb-ı Şerh-i Lübbü’l-Elbâb li-Seyyid Abdullâh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:41.874073Z",
+    "updated_at": "2025-04-06T19:20:12.327376Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3047,
+     "tam_metin": "[20] Kitâb-ı Şerh-i Lübbü’l-Elbâb li-Seyyid Abdullâh. Dimeşkī tamâmına. Ciğerî cildli. İki yüz dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "29a",
+     "created_at": "2024-04-22T12:25:41.608619Z",
+     "updated_at": "2025-09-20T10:14:05.582975Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1316,
+     "kodikolojik_bilgi": 984
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 529,
+    "koleksiyon_numarasi": "05007",
+    "nusha": "",
+    "created_at": "2025-01-13T17:42:15.578229Z",
+    "updated_at": "2025-01-13T17:42:15.578245Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3047,
+     "tam_metin": "[20] Kitâb-ı Şerh-i Lübbü’l-Elbâb li-Seyyid Abdullâh. Dimeşkī tamâmına. Ciğerî cildli. İki yüz dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "29a",
+     "created_at": "2024-04-22T12:25:41.608619Z",
+     "updated_at": "2025-09-20T10:14:05.582975Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1316,
+     "kodikolojik_bilgi": 984
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1316,
+  "bilgi_set": [
+   {
+    "id": 984,
+    "murekkep_set": [
+     {
+      "id": 863,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 984
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 652,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 984
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "204",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-20T10:14:05.573635Z",
+    "updated_at": "2025-09-20T10:14:05.573654Z",
+    "kayit": {
+     "id": 3047,
+     "tam_metin": "[20] Kitâb-ı Şerh-i Lübbü’l-Elbâb li-Seyyid Abdullâh. Dimeşkī tamâmına. Ciğerî cildli. İki yüz dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "29a",
+     "created_at": "2024-04-22T12:25:41.608619Z",
+     "updated_at": "2025-09-20T10:14:05.582975Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1316,
+     "kodikolojik_bilgi": 984
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[20] Kitâb-ı Şerh-i Lübbü’l-Elbâb li-Seyyid Abdullâh. Dimeşkī tamâmına. Ciğerî cildli. İki yüz dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "29a",
+  "created_at": "2024-04-22T12:25:41.608619Z",
+  "updated_at": "2025-09-20T10:14:05.582975Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 984,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "204",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T10:14:05.573635Z",
+   "updated_at": "2025-09-20T10:14:05.573654Z",
+   "kayit": 3047,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[37] Kitâb-ı Şerhu Lübbi’l-Elbâb li’s-Seyyid Abdullâh. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "34a",
+ "created_at": "2024-02-10T12:44:31.262875Z",
+ "updated_at": "2024-11-20T13:27:57.612154Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

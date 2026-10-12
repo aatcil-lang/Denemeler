@@ -1,0 +1,260 @@
+{
+ "id": 1293,
+ "kitap_set": [
+  {
+   "id": 1288,
+   "isim": "Kitâb-ı Şerhu’l-Miftâh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:21.085143Z",
+   "updated_at": "2025-04-06T19:20:17.609969Z",
+   "yazar": {
+    "id": 42,
+    "isim": "Mevlânâ Sa‘deddîn",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-07-27T13:47:34.802380Z",
+    "updated_at": "2024-07-27T13:47:34.802396Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1293,
+    "tam_metin": "[14] Kitâb-ı Şerhu’l-Miftâh li-Mevlânâ Saʿdeddîn. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Sultânî. İki yüz altmış beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "33a",
+    "created_at": "2024-02-10T12:44:20.807696Z",
+    "updated_at": "2024-11-10T19:22:03.171476Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3030,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3030,
+  "kitap_set": [
+   {
+    "id": 3012,
+    "isim": "Kitâb-ı Şerh-i Miftâh li-Mevlânâ Sa‘deddîn.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:34.655040Z",
+    "updated_at": "2025-04-06T19:20:12.372878Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3030,
+     "tam_metin": "[3] Kitâb-ı Şerh-i Miftâh li-Mevlânâ Saʿdeddîn. Dimeşkī tamâmından kırılmış. Siyâh cildli. İki yüz altmış beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "28b",
+     "created_at": "2024-04-22T12:25:34.387471Z",
+     "updated_at": "2025-09-20T09:41:21.763553Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1293,
+     "kodikolojik_bilgi": 967
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 515,
+    "koleksiyon_numarasi": "04643",
+    "nusha": "",
+    "created_at": "2025-01-13T16:47:46.338238Z",
+    "updated_at": "2025-01-13T16:47:46.338254Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3030,
+     "tam_metin": "[3] Kitâb-ı Şerh-i Miftâh li-Mevlânâ Saʿdeddîn. Dimeşkī tamâmından kırılmış. Siyâh cildli. İki yüz altmış beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "28b",
+     "created_at": "2024-04-22T12:25:34.387471Z",
+     "updated_at": "2025-09-20T09:41:21.763553Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1293,
+     "kodikolojik_bilgi": 967
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1293,
+  "bilgi_set": [
+   {
+    "id": 967,
+    "murekkep_set": [
+     {
+      "id": 845,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 967
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 635,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 967
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "265",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-20T09:41:21.755942Z",
+    "updated_at": "2025-09-20T09:41:21.755964Z",
+    "kayit": {
+     "id": 3030,
+     "tam_metin": "[3] Kitâb-ı Şerh-i Miftâh li-Mevlânâ Saʿdeddîn. Dimeşkī tamâmından kırılmış. Siyâh cildli. İki yüz altmış beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "28b",
+     "created_at": "2024-04-22T12:25:34.387471Z",
+     "updated_at": "2025-09-20T09:41:21.763553Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1293,
+     "kodikolojik_bilgi": 967
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[3] Kitâb-ı Şerh-i Miftâh li-Mevlânâ Saʿdeddîn. Dimeşkī tamâmından kırılmış. Siyâh cildli. İki yüz altmış beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "28b",
+  "created_at": "2024-04-22T12:25:34.387471Z",
+  "updated_at": "2025-09-20T09:41:21.763553Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 967,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "265",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T09:41:21.755942Z",
+   "updated_at": "2025-09-20T09:41:21.755964Z",
+   "kayit": 3030,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[14] Kitâb-ı Şerhu’l-Miftâh li-Mevlânâ Saʿdeddîn. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Sultânî. İki yüz altmış beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "33a",
+ "created_at": "2024-02-10T12:44:20.807696Z",
+ "updated_at": "2024-11-10T19:22:03.171476Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

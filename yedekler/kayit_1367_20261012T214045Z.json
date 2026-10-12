@@ -1,0 +1,208 @@
+{
+ "id": 1367,
+ "kitap_set": [
+  {
+   "id": 1362,
+   "isim": "Kitâbü’l-Cildi’l-Evvel min Fâiki’l-Luga.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:54.952974Z",
+   "updated_at": "2025-04-06T19:20:17.356653Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1367,
+    "tam_metin": "[88] Kitâbü’l-Cildi’l-Evvel min Fâʾiki’l-Luga. İlâ âhiri kavlihî تم حرف الصاد.   Semerkandî nısfına. Nohûdî cildle. Vakf-ı Sultânî. İki yüz yirmi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "36b",
+    "created_at": "2024-02-10T12:44:54.658165Z",
+    "updated_at": "2024-11-24T21:38:02.211175Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3082,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3082,
+  "kitap_set": [
+   {
+    "id": 3064,
+    "isim": "Kitâb-ı Fâiku’l-Luga.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:57.547805Z",
+    "updated_at": "2025-04-06T19:20:12.230383Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3082,
+     "tam_metin": "[55] Kitâb-ı Fâʾiku’l-Luga. Evvelinden كاالصياصي في سو ثم  حرف الصاد ibâretine dek. Semerkandî nısfına. Nohûdî cildli. İki yüz yirmi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30b",
+     "created_at": "2024-04-22T12:25:57.270160Z",
+     "updated_at": "2025-09-20T11:45:18.192683Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1367,
+     "kodikolojik_bilgi": 1019
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1367,
+  "bilgi_set": [
+   {
+    "id": 1019,
+    "murekkep_set": [
+     {
+      "id": 897,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1019
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 686,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1019
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Nohudî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "220",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-20T11:45:18.183905Z",
+    "updated_at": "2025-09-20T11:45:18.183923Z",
+    "kayit": {
+     "id": 3082,
+     "tam_metin": "[55] Kitâb-ı Fâʾiku’l-Luga. Evvelinden كاالصياصي في سو ثم  حرف الصاد ibâretine dek. Semerkandî nısfına. Nohûdî cildli. İki yüz yirmi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30b",
+     "created_at": "2024-04-22T12:25:57.270160Z",
+     "updated_at": "2025-09-20T11:45:18.192683Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1367,
+     "kodikolojik_bilgi": 1019
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[55] Kitâb-ı Fâʾiku’l-Luga. Evvelinden كاالصياصي في سو ثم  حرف الصاد ibâretine dek. Semerkandî nısfına. Nohûdî cildli. İki yüz yirmi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "30b",
+  "created_at": "2024-04-22T12:25:57.270160Z",
+  "updated_at": "2025-09-20T11:45:18.192683Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1019,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Nohudî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "220",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T11:45:18.183905Z",
+   "updated_at": "2025-09-20T11:45:18.183923Z",
+   "kayit": 3082,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[88] Kitâbü’l-Cildi’l-Evvel min Fâʾiki’l-Luga. İlâ âhiri kavlihî تم حرف الصاد.   Semerkandî nısfına. Nohûdî cildle. Vakf-ı Sultânî. İki yüz yirmi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "36b",
+ "created_at": "2024-02-10T12:44:54.658165Z",
+ "updated_at": "2024-11-24T21:38:02.211175Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

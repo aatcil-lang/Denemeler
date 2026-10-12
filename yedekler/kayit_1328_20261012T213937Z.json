@@ -1,0 +1,248 @@
+{
+ "id": 1328,
+ "kitap_set": [
+  {
+   "id": 1323,
+   "isim": "Kitâbü’l-Ubâb fî Şerhi’l-Lübâb.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:37.010077Z",
+   "updated_at": "2025-04-06T19:20:17.484852Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1328,
+    "tam_metin": "[49] Kitâbü’l-ʿUbâb fî Şerhi’l-Lübâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Yüz seksen varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "34b",
+    "created_at": "2024-02-10T12:44:36.734053Z",
+    "updated_at": "2024-11-24T17:12:18.797752Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3040,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3040,
+  "kitap_set": [
+   {
+    "id": 3022,
+    "isim": "Kitâb-ı Ubâb fî Şerhi’l-Lübâb.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:38.907035Z",
+    "updated_at": "2025-04-06T19:20:12.346587Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3040,
+     "tam_metin": "[13] Kitâb-ı Ubâb fî Şerhi’l-Lübâb. Dimeşkī tamâmına. Ciğerî cildli. Yüz seksen varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "29a",
+     "created_at": "2024-04-22T12:25:38.644991Z",
+     "updated_at": "2025-09-20T10:04:12.200721Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1328,
+     "kodikolojik_bilgi": 977
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 522,
+    "koleksiyon_numarasi": "05018",
+    "nusha": "",
+    "created_at": "2025-01-13T17:10:48.859371Z",
+    "updated_at": "2025-01-13T17:10:48.859386Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3040,
+     "tam_metin": "[13] Kitâb-ı Ubâb fî Şerhi’l-Lübâb. Dimeşkī tamâmına. Ciğerî cildli. Yüz seksen varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "29a",
+     "created_at": "2024-04-22T12:25:38.644991Z",
+     "updated_at": "2025-09-20T10:04:12.200721Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1328,
+     "kodikolojik_bilgi": 977
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1328,
+  "bilgi_set": [
+   {
+    "id": 977,
+    "murekkep_set": [
+     {
+      "id": 855,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 977
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 645,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 977
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "180",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-20T10:04:12.193091Z",
+    "updated_at": "2025-09-20T10:04:12.193117Z",
+    "kayit": {
+     "id": 3040,
+     "tam_metin": "[13] Kitâb-ı Ubâb fî Şerhi’l-Lübâb. Dimeşkī tamâmına. Ciğerî cildli. Yüz seksen varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "29a",
+     "created_at": "2024-04-22T12:25:38.644991Z",
+     "updated_at": "2025-09-20T10:04:12.200721Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1328,
+     "kodikolojik_bilgi": 977
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[13] Kitâb-ı Ubâb fî Şerhi’l-Lübâb. Dimeşkī tamâmına. Ciğerî cildli. Yüz seksen varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "29a",
+  "created_at": "2024-04-22T12:25:38.644991Z",
+  "updated_at": "2025-09-20T10:04:12.200721Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 977,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "180",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T10:04:12.193091Z",
+   "updated_at": "2025-09-20T10:04:12.193117Z",
+   "kayit": 3040,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[49] Kitâbü’l-ʿUbâb fî Şerhi’l-Lübâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Yüz seksen varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "34b",
+ "created_at": "2024-02-10T12:44:36.734053Z",
+ "updated_at": "2024-11-24T17:12:18.797752Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

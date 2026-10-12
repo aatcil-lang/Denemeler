@@ -1,0 +1,220 @@
+{
+ "id": 1329,
+ "kitap_set": [
+  {
+   "id": 1324,
+   "isim": "Kitâbü’l-Mufassal fi’n-nahv.",
+   "isim2": null,
+   "disiplin": "Nahiv",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:37.470706Z",
+   "updated_at": "2025-04-06T19:20:17.481347Z",
+   "yazar": {
+    "id": 411,
+    "isim": "Cârullâh el-Allâme",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-24T17:13:26.567705Z",
+    "updated_at": "2024-11-24T17:13:26.567728Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1329,
+    "tam_metin": "[50] Kitâbü’l-Mufassal fi’n-nahv li-Cârullâh el-Allâme. Tamâm. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "34b",
+    "created_at": "2024-02-10T12:44:37.189898Z",
+    "updated_at": "2024-11-24T17:13:40.488384Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3059,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3059,
+  "kitap_set": [
+   {
+    "id": 3041,
+    "isim": "Kitâb-ı Mufassal.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:47.147624Z",
+    "updated_at": "2025-04-06T19:20:12.295588Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3059,
+     "tam_metin": "[32] Kitâb-ı Mufassal. Min evvelihî ilâ âhirihî musahhah. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "29b",
+     "created_at": "2024-04-22T12:25:46.803547Z",
+     "updated_at": "2025-09-20T10:48:36.906518Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1329,
+     "kodikolojik_bilgi": 996
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1329,
+  "bilgi_set": [
+   {
+    "id": 996,
+    "murekkep_set": [
+     {
+      "id": 875,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 996
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 664,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 996
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "200",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-20T10:48:36.899985Z",
+    "updated_at": "2025-09-20T10:48:36.900009Z",
+    "kayit": {
+     "id": 3059,
+     "tam_metin": "[32] Kitâb-ı Mufassal. Min evvelihî ilâ âhirihî musahhah. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "29b",
+     "created_at": "2024-04-22T12:25:46.803547Z",
+     "updated_at": "2025-09-20T10:48:36.906518Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1329,
+     "kodikolojik_bilgi": 996
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[32] Kitâb-ı Mufassal. Min evvelihî ilâ âhirihî musahhah. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "29b",
+  "created_at": "2024-04-22T12:25:46.803547Z",
+  "updated_at": "2025-09-20T10:48:36.906518Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 996,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "200",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T10:48:36.899985Z",
+   "updated_at": "2025-09-20T10:48:36.900009Z",
+   "kayit": 3059,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[50] Kitâbü’l-Mufassal fi’n-nahv li-Cârullâh el-Allâme. Tamâm. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "34b",
+ "created_at": "2024-02-10T12:44:37.189898Z",
+ "updated_at": "2024-11-24T17:13:40.488384Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,248 @@
+{
+ "id": 1324,
+ "kitap_set": [
+  {
+   "id": 1319,
+   "isim": "Kitâb-ı Şerhu Lübâbi’l-İ‘râb.",
+   "isim2": null,
+   "disiplin": "İrab",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:35.182436Z",
+   "updated_at": "2025-04-06T19:20:17.498881Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1324,
+    "tam_metin": "[45] Kitâb-ı Şerhu Lübâbi’l-İʿrâb eydan. İçinde metin sürhle yazılmış. Semerkandî rubʿundan kırılmış. Kümmî olmuş. Ciğerî cildle. Vakf-ı Sultânî. İki yüz bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "34b",
+    "created_at": "2024-02-10T12:44:34.908563Z",
+    "updated_at": "2024-11-21T14:03:53.831780Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3090,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3090,
+  "kitap_set": [
+   {
+    "id": 3072,
+    "isim": "Kitâb-ı Şerh-i Lübâbü’l-İ‘râb.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:01.171810Z",
+    "updated_at": "2025-04-06T19:20:12.205729Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3090,
+     "tam_metin": "[63] Kitâb-ı Şerh-i Lübâbü’l-İʿrâb. İçinde metin sürhle yazılmış. Semerkandî rubʿundan kırılmış kümmî olmuş. Ciğerî cildli. İki yüz bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30b",
+     "created_at": "2024-04-22T12:26:00.891843Z",
+     "updated_at": "2025-09-20T12:03:50.407732Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1324,
+     "kodikolojik_bilgi": 1027
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 560,
+    "koleksiyon_numarasi": "05020",
+    "nusha": "",
+    "created_at": "2025-01-13T19:34:40.275126Z",
+    "updated_at": "2025-01-13T19:34:40.275139Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3090,
+     "tam_metin": "[63] Kitâb-ı Şerh-i Lübâbü’l-İʿrâb. İçinde metin sürhle yazılmış. Semerkandî rubʿundan kırılmış kümmî olmuş. Ciğerî cildli. İki yüz bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30b",
+     "created_at": "2024-04-22T12:26:00.891843Z",
+     "updated_at": "2025-09-20T12:03:50.407732Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1324,
+     "kodikolojik_bilgi": 1027
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1324,
+  "bilgi_set": [
+   {
+    "id": 1027,
+    "murekkep_set": [
+     {
+      "id": 905,
+      "renk": "kirmizi",
+      "ilgili_ibare": "İçinde metin sürhle yazılmış",
+      "kodikolojik_bilgi": 1027
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 694,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1027
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "201",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Rub'undan kırılmış",
+    "kagit_sekli": "Kümmî",
+    "note": "",
+    "created_at": "2025-09-20T12:03:50.402400Z",
+    "updated_at": "2025-09-20T12:03:50.402727Z",
+    "kayit": {
+     "id": 3090,
+     "tam_metin": "[63] Kitâb-ı Şerh-i Lübâbü’l-İʿrâb. İçinde metin sürhle yazılmış. Semerkandî rubʿundan kırılmış kümmî olmuş. Ciğerî cildli. İki yüz bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30b",
+     "created_at": "2024-04-22T12:26:00.891843Z",
+     "updated_at": "2025-09-20T12:03:50.407732Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1324,
+     "kodikolojik_bilgi": 1027
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[63] Kitâb-ı Şerh-i Lübâbü’l-İʿrâb. İçinde metin sürhle yazılmış. Semerkandî rubʿundan kırılmış kümmî olmuş. Ciğerî cildli. İki yüz bir varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "30b",
+  "created_at": "2024-04-22T12:26:00.891843Z",
+  "updated_at": "2025-09-20T12:03:50.407732Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1027,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "201",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Rub'undan kırılmış",
+   "kagit_sekli": "Kümmî",
+   "note": "",
+   "created_at": "2025-09-20T12:03:50.402400Z",
+   "updated_at": "2025-09-20T12:03:50.402727Z",
+   "kayit": 3090,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[45] Kitâb-ı Şerhu Lübâbi’l-İʿrâb eydan. İçinde metin sürhle yazılmış. Semerkandî rubʿundan kırılmış. Kümmî olmuş. Ciğerî cildle. Vakf-ı Sultânî. İki yüz bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "34b",
+ "created_at": "2024-02-10T12:44:34.908563Z",
+ "updated_at": "2024-11-21T14:03:53.831780Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

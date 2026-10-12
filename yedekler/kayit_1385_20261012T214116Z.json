@@ -1,0 +1,276 @@
+{
+ "id": 1385,
+ "kitap_set": [
+  {
+   "id": 3843,
+   "isim": "Hâşiyetü Şerhi’l-Metâliʿ gayr-i meşhûr.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2024-11-30T11:31:19.390806Z",
+   "updated_at": "2025-04-06T19:20:10.012243Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1385,
+    "tam_metin": "[11] Kitâb-ı Şerhu’ş-Şemsiyye eydan gayr-i meşhûr ve Hâşiyetü Şerhi’l-Metâliʿ eydan gayr-i meşhûr. Bir cildde. Dimeşkī nısfına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz kırk iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkıyye",
+    "notlar": "",
+    "sayfa_numarasi": "37a",
+    "created_at": "2024-02-10T12:45:02.913076Z",
+    "updated_at": "2024-11-30T11:31:22.709586Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3126,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 1380,
+   "isim": "Kitâb-ı Şerhu’ş-Şemsiyye gayr-i meşhûr.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:03.204965Z",
+   "updated_at": "2025-04-06T19:20:17.300861Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1385,
+    "tam_metin": "[11] Kitâb-ı Şerhu’ş-Şemsiyye eydan gayr-i meşhûr ve Hâşiyetü Şerhi’l-Metâliʿ eydan gayr-i meşhûr. Bir cildde. Dimeşkī nısfına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz kırk iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkıyye",
+    "notlar": "",
+    "sayfa_numarasi": "37a",
+    "created_at": "2024-02-10T12:45:02.913076Z",
+    "updated_at": "2024-11-30T11:31:22.709586Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3126,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3126,
+  "kitap_set": [
+   {
+    "id": 3108,
+    "isim": "Kitâb-ı Şerh-i Şemsiyye-i gayr-ı meşhûr ve Hâşiye-i Şerh-i Metâli‘-i gayr-ı ma‘rûf.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:17.382027Z",
+    "updated_at": "2025-04-06T19:20:12.105277Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3126,
+     "tam_metin": "[10] Kitâb-ı Şerh-i Şemsiyye-i gayr-ı meşhûr ve Hâşiye-i Şerh-i Metâliʿ-i gayr-ı maʿrûf. Bir cildde. Dimeşkī nısfına. Yeşil kâğıd mukavvâ cildli. İki yüz kırk iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkıyye",
+     "notlar": "",
+     "sayfa_numarasi": "32a",
+     "created_at": "2024-04-22T12:26:17.099059Z",
+     "updated_at": "2025-09-21T21:42:59.923891Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1385,
+     "kodikolojik_bilgi": 1063
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 583,
+    "koleksiyon_numarasi": "03289",
+    "nusha": "",
+    "created_at": "2025-01-14T08:10:36.750592Z",
+    "updated_at": "2025-01-14T08:10:36.750607Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3126,
+     "tam_metin": "[10] Kitâb-ı Şerh-i Şemsiyye-i gayr-ı meşhûr ve Hâşiye-i Şerh-i Metâliʿ-i gayr-ı maʿrûf. Bir cildde. Dimeşkī nısfına. Yeşil kâğıd mukavvâ cildli. İki yüz kırk iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkıyye",
+     "notlar": "",
+     "sayfa_numarasi": "32a",
+     "created_at": "2024-04-22T12:26:17.099059Z",
+     "updated_at": "2025-09-21T21:42:59.923891Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1385,
+     "kodikolojik_bilgi": 1063
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1385,
+  "bilgi_set": [
+   {
+    "id": 1063,
+    "murekkep_set": [
+     {
+      "id": 941,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1063
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 730,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1063
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "242",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-21T21:42:59.917033Z",
+    "updated_at": "2025-09-21T21:42:59.917080Z",
+    "kayit": {
+     "id": 3126,
+     "tam_metin": "[10] Kitâb-ı Şerh-i Şemsiyye-i gayr-ı meşhûr ve Hâşiye-i Şerh-i Metâliʿ-i gayr-ı maʿrûf. Bir cildde. Dimeşkī nısfına. Yeşil kâğıd mukavvâ cildli. İki yüz kırk iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkıyye",
+     "notlar": "",
+     "sayfa_numarasi": "32a",
+     "created_at": "2024-04-22T12:26:17.099059Z",
+     "updated_at": "2025-09-21T21:42:59.923891Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1385,
+     "kodikolojik_bilgi": 1063
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[10] Kitâb-ı Şerh-i Şemsiyye-i gayr-ı meşhûr ve Hâşiye-i Şerh-i Metâliʿ-i gayr-ı maʿrûf. Bir cildde. Dimeşkī nısfına. Yeşil kâğıd mukavvâ cildli. İki yüz kırk iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkıyye",
+  "notlar": "",
+  "sayfa_numarasi": "32a",
+  "created_at": "2024-04-22T12:26:17.099059Z",
+  "updated_at": "2025-09-21T21:42:59.923891Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1063,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "242",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-21T21:42:59.917033Z",
+   "updated_at": "2025-09-21T21:42:59.917080Z",
+   "kayit": 3126,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[11] Kitâb-ı Şerhu’ş-Şemsiyye eydan gayr-i meşhûr ve Hâşiyetü Şerhi’l-Metâliʿ eydan gayr-i meşhûr. Bir cildde. Dimeşkī nısfına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz kırk iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkıyye",
+ "notlar": "",
+ "sayfa_numarasi": "37a",
+ "created_at": "2024-02-10T12:45:02.913076Z",
+ "updated_at": "2024-11-30T11:31:22.709586Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

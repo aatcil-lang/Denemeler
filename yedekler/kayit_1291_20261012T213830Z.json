@@ -1,0 +1,260 @@
+{
+ "id": 1291,
+ "kitap_set": [
+  {
+   "id": 1286,
+   "isim": "Kitâb-ı Şerhu’l-Miftâh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:20.164262Z",
+   "updated_at": "2025-04-06T19:20:17.618410Z",
+   "yazar": {
+    "id": 357,
+    "isim": "Seyyid eş-Şerîf",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-17T18:01:23.032067Z",
+    "updated_at": "2024-09-17T18:01:23.032082Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1291,
+    "tam_metin": "[12] Kitâb-ı Şerhu’l-Miftâh eydan li’s-Seyyid eş-Şerîf. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Sultânî. Bedel-i Yegânî. İki yüz yetmiş beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "33a",
+    "created_at": "2024-02-10T12:44:19.896266Z",
+    "updated_at": "2024-11-10T18:46:08.328623Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3195,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3195,
+  "kitap_set": [
+   {
+    "id": 3177,
+    "isim": "Kitâb-ı Şerh-i Miftâh li’s-Seyyid eş-Şerîf.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:49.311257Z",
+    "updated_at": "2025-04-06T19:20:11.890812Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3195,
+     "tam_metin": "[1] Kitâb-ı Şerh-i Miftâh li’s-Seyyid eş-Şerîf. Dimeşkī tamâmına. Siyâh cildli. İki yüz yetmiş beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb-i Arabiyye ve Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "35b",
+     "created_at": "2024-04-22T12:26:49.018696Z",
+     "updated_at": "2025-09-22T09:06:38.009577Z",
+     "vakif": 7,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1291,
+     "kodikolojik_bilgi": 1132
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 624,
+    "koleksiyon_numarasi": "04656",
+    "nusha": "",
+    "created_at": "2025-01-14T09:41:17.375752Z",
+    "updated_at": "2025-01-14T09:41:17.375768Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3195,
+     "tam_metin": "[1] Kitâb-ı Şerh-i Miftâh li’s-Seyyid eş-Şerîf. Dimeşkī tamâmına. Siyâh cildli. İki yüz yetmiş beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb-i Arabiyye ve Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "35b",
+     "created_at": "2024-04-22T12:26:49.018696Z",
+     "updated_at": "2025-09-22T09:06:38.009577Z",
+     "vakif": 7,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1291,
+     "kodikolojik_bilgi": 1132
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1291,
+  "bilgi_set": [
+   {
+    "id": 1132,
+    "murekkep_set": [
+     {
+      "id": 1010,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1132
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 799,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1132
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "275",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T09:06:38.004098Z",
+    "updated_at": "2025-09-22T09:06:38.004116Z",
+    "kayit": {
+     "id": 3195,
+     "tam_metin": "[1] Kitâb-ı Şerh-i Miftâh li’s-Seyyid eş-Şerîf. Dimeşkī tamâmına. Siyâh cildli. İki yüz yetmiş beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb-i Arabiyye ve Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "35b",
+     "created_at": "2024-04-22T12:26:49.018696Z",
+     "updated_at": "2025-09-22T09:06:38.009577Z",
+     "vakif": 7,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1291,
+     "kodikolojik_bilgi": 1132
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[1] Kitâb-ı Şerh-i Miftâh li’s-Seyyid eş-Şerîf. Dimeşkī tamâmına. Siyâh cildli. İki yüz yetmiş beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîl-i Kütüb-i Arabiyye ve Müteferrika",
+  "notlar": "",
+  "sayfa_numarasi": "35b",
+  "created_at": "2024-04-22T12:26:49.018696Z",
+  "updated_at": "2025-09-22T09:06:38.009577Z",
+  "vakif": {
+   "id": 7,
+   "isim": "Ahmed Çelebi",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:27:02.625500Z",
+   "updated_at": "2024-04-22T11:27:02.625517Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1132,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "275",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T09:06:38.004098Z",
+   "updated_at": "2025-09-22T09:06:38.004116Z",
+   "kayit": 3195,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[12] Kitâb-ı Şerhu’l-Miftâh eydan li’s-Seyyid eş-Şerîf. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Sultânî. Bedel-i Yegânî. İki yüz yetmiş beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "33a",
+ "created_at": "2024-02-10T12:44:19.896266Z",
+ "updated_at": "2024-11-10T18:46:08.328623Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

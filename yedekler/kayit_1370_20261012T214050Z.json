@@ -1,0 +1,248 @@
+{
+ "id": 1370,
+ "kitap_set": [
+  {
+   "id": 1365,
+   "isim": "Kitâb-ı Mesâdirü’l-Luga.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:56.289810Z",
+   "updated_at": "2025-04-06T19:20:17.347398Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1370,
+    "tam_metin": "[91] Kitâb-ı Mesâdirü’l-Luga. Dimeşkī tamâmından kırılmış kümmî olmuş. Ciğerî cildle. Vakf-ı Sultânî. İki yüz yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "36b",
+    "created_at": "2024-02-10T12:44:56.011983Z",
+    "updated_at": "2024-11-24T21:40:01.222626Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3089,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3089,
+  "kitap_set": [
+   {
+    "id": 3071,
+    "isim": "Kitâb-ı Mesâdirü’l-Luga.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:00.714188Z",
+    "updated_at": "2025-04-06T19:20:12.208784Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3089,
+     "tam_metin": "[62] Kitâb-ı Mesâdirü’l-Luga. Dimeşkī tamâmından kırılmış kümmî olmuş. Ciğerî cildli. İki yüz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30b",
+     "created_at": "2024-04-22T12:26:00.437028Z",
+     "updated_at": "2025-09-20T12:03:06.214382Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1370,
+     "kodikolojik_bilgi": 1026
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 559,
+    "koleksiyon_numarasi": "05266",
+    "nusha": "",
+    "created_at": "2025-01-13T19:33:24.519846Z",
+    "updated_at": "2025-01-13T19:33:24.519862Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3089,
+     "tam_metin": "[62] Kitâb-ı Mesâdirü’l-Luga. Dimeşkī tamâmından kırılmış kümmî olmuş. Ciğerî cildli. İki yüz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30b",
+     "created_at": "2024-04-22T12:26:00.437028Z",
+     "updated_at": "2025-09-20T12:03:06.214382Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1370,
+     "kodikolojik_bilgi": 1026
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1370,
+  "bilgi_set": [
+   {
+    "id": 1026,
+    "murekkep_set": [
+     {
+      "id": 904,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1026
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 693,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1026
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "207",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "Kümmî",
+    "note": "",
+    "created_at": "2025-09-20T12:03:06.209701Z",
+    "updated_at": "2025-09-20T12:03:06.209718Z",
+    "kayit": {
+     "id": 3089,
+     "tam_metin": "[62] Kitâb-ı Mesâdirü’l-Luga. Dimeşkī tamâmından kırılmış kümmî olmuş. Ciğerî cildli. İki yüz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30b",
+     "created_at": "2024-04-22T12:26:00.437028Z",
+     "updated_at": "2025-09-20T12:03:06.214382Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1370,
+     "kodikolojik_bilgi": 1026
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[62] Kitâb-ı Mesâdirü’l-Luga. Dimeşkī tamâmından kırılmış kümmî olmuş. Ciğerî cildli. İki yüz yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "30b",
+  "created_at": "2024-04-22T12:26:00.437028Z",
+  "updated_at": "2025-09-20T12:03:06.214382Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1026,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "207",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "Kümmî",
+   "note": "",
+   "created_at": "2025-09-20T12:03:06.209701Z",
+   "updated_at": "2025-09-20T12:03:06.209718Z",
+   "kayit": 3089,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[91] Kitâb-ı Mesâdirü’l-Luga. Dimeşkī tamâmından kırılmış kümmî olmuş. Ciğerî cildle. Vakf-ı Sultânî. İki yüz yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "36b",
+ "created_at": "2024-02-10T12:44:56.011983Z",
+ "updated_at": "2024-11-24T21:40:01.222626Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

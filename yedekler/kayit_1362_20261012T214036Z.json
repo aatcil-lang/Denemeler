@@ -1,0 +1,208 @@
+{
+ "id": 1362,
+ "kitap_set": [
+  {
+   "id": 1357,
+   "isim": "Kitâb-ı Sıhâhu’l-Cevherî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:52.619604Z",
+   "updated_at": "2025-04-06T19:20:17.372226Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1362,
+    "tam_metin": "[83] Kitâb-ı Sıhâhu’l-Cevherî. Tamâm. Semerkandî tamâmına. Siyâh cildle. Vakf-ı Sultânî. Dört yüz seksen üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "36a",
+    "created_at": "2024-02-10T12:44:52.333177Z",
+    "updated_at": "2024-11-24T21:31:16.914790Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3102,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3102,
+  "kitap_set": [
+   {
+    "id": 3084,
+    "isim": "Kitâb-ı Sıhâh-ı Cevherî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:06.578001Z",
+    "updated_at": "2025-04-06T19:20:12.171153Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3102,
+     "tam_metin": "[75] Kitâb-ı Sıhâh-ı Cevherî. Tamâm. Semerkandî tamâmına. Siyâh cildli. Dört yüz seksen üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "31a",
+     "created_at": "2024-04-22T12:26:06.304181Z",
+     "updated_at": "2025-09-21T21:01:45.730893Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1362,
+     "kodikolojik_bilgi": 1039
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1362,
+  "bilgi_set": [
+   {
+    "id": 1039,
+    "murekkep_set": [
+     {
+      "id": 917,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1039
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 706,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1039
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "483",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-21T21:01:45.721777Z",
+    "updated_at": "2025-09-21T21:01:45.722143Z",
+    "kayit": {
+     "id": 3102,
+     "tam_metin": "[75] Kitâb-ı Sıhâh-ı Cevherî. Tamâm. Semerkandî tamâmına. Siyâh cildli. Dört yüz seksen üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "31a",
+     "created_at": "2024-04-22T12:26:06.304181Z",
+     "updated_at": "2025-09-21T21:01:45.730893Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1362,
+     "kodikolojik_bilgi": 1039
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[75] Kitâb-ı Sıhâh-ı Cevherî. Tamâm. Semerkandî tamâmına. Siyâh cildli. Dört yüz seksen üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "31a",
+  "created_at": "2024-04-22T12:26:06.304181Z",
+  "updated_at": "2025-09-21T21:01:45.730893Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1039,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "483",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-21T21:01:45.721777Z",
+   "updated_at": "2025-09-21T21:01:45.722143Z",
+   "kayit": 3102,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[83] Kitâb-ı Sıhâhu’l-Cevherî. Tamâm. Semerkandî tamâmına. Siyâh cildle. Vakf-ı Sultânî. Dört yüz seksen üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "36a",
+ "created_at": "2024-02-10T12:44:52.333177Z",
+ "updated_at": "2024-11-24T21:31:16.914790Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

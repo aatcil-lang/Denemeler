@@ -1,0 +1,220 @@
+{
+ "id": 1361,
+ "kitap_set": [
+  {
+   "id": 1356,
+   "isim": "Kitâb-ı Şerhu’l-Hârûniyye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:52.152883Z",
+   "updated_at": "2025-04-06T19:20:17.375432Z",
+   "yazar": {
+    "id": 423,
+    "isim": "Şemseddîn en-Niksârî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-24T21:30:35.748652Z",
+    "updated_at": "2024-11-24T21:30:35.748671Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1361,
+    "tam_metin": "[82] Kitâb-ı Şerhu’l-Hârûniyye eydan li-Şemseddîn en-Niksârî. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Kırk iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "36a",
+    "created_at": "2024-02-10T12:44:51.870163Z",
+    "updated_at": "2024-11-24T21:30:49.435667Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3115,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3115,
+  "kitap_set": [
+   {
+    "id": 3097,
+    "isim": "Kitâb-ı Şerh-i Hârûniyye li-Şemsiddîn Niksârî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:12.410074Z",
+    "updated_at": "2025-04-06T19:20:12.136897Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3115,
+     "tam_metin": "[88] Kitâb-ı Şerh-i Hârûniyye li-Şemsiddîn Niksârî. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Kırk iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "31b",
+     "created_at": "2024-04-22T12:26:12.141675Z",
+     "updated_at": "2025-09-21T21:29:35.712974Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1361,
+     "kodikolojik_bilgi": 1052
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1361,
+  "bilgi_set": [
+   {
+    "id": 1052,
+    "murekkep_set": [
+     {
+      "id": 930,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1052
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 719,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1052
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "42",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-21T21:29:35.703163Z",
+    "updated_at": "2025-09-21T21:29:35.703179Z",
+    "kayit": {
+     "id": 3115,
+     "tam_metin": "[88] Kitâb-ı Şerh-i Hârûniyye li-Şemsiddîn Niksârî. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Kırk iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "31b",
+     "created_at": "2024-04-22T12:26:12.141675Z",
+     "updated_at": "2025-09-21T21:29:35.712974Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1361,
+     "kodikolojik_bilgi": 1052
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[88] Kitâb-ı Şerh-i Hârûniyye li-Şemsiddîn Niksârî. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Kırk iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "31b",
+  "created_at": "2024-04-22T12:26:12.141675Z",
+  "updated_at": "2025-09-21T21:29:35.712974Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1052,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "42",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-21T21:29:35.703163Z",
+   "updated_at": "2025-09-21T21:29:35.703179Z",
+   "kayit": 3115,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[82] Kitâb-ı Şerhu’l-Hârûniyye eydan li-Şemseddîn en-Niksârî. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Kırk iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "36a",
+ "created_at": "2024-02-10T12:44:51.870163Z",
+ "updated_at": "2024-11-24T21:30:49.435667Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

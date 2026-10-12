@@ -1,0 +1,220 @@
+{
+ "id": 1297,
+ "kitap_set": [
+  {
+   "id": 1292,
+   "isim": "Kitâb-ı Metnü Telhîsi’l-Miftâh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:22.841409Z",
+   "updated_at": "2025-04-06T19:20:17.595445Z",
+   "yazar": {
+    "id": 403,
+    "isim": "Kazvînî el-Hatîb bi-Câmiʿ Benî Ümeyye",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-10T19:43:03.855563Z",
+    "updated_at": "2024-11-10T19:43:03.855576Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1297,
+    "tam_metin": "[18] Kitâb-ı Metnü Telhîsi’l-Miftâh eydan li’l-Kazvînî. Dimeşkī nısfına. Siyâh cildle. Vakf-ı Sultânî. Otuz iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "33b",
+    "created_at": "2024-02-10T12:44:22.572926Z",
+    "updated_at": "2024-11-10T19:46:29.464874Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3050,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3050,
+  "kitap_set": [
+   {
+    "id": 3032,
+    "isim": "Kitâb-ı Telhîs.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:43.141250Z",
+    "updated_at": "2025-04-06T19:20:12.319578Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3050,
+     "tam_metin": "[23] Kitâb-ı Telhîs. Dimeşkī nısfına. Siyâh cildli. Otuz iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "29a",
+     "created_at": "2024-04-22T12:25:42.873145Z",
+     "updated_at": "2025-09-20T10:17:01.510455Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1297,
+     "kodikolojik_bilgi": 987
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1297,
+  "bilgi_set": [
+   {
+    "id": 987,
+    "murekkep_set": [
+     {
+      "id": 866,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 987
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 655,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 987
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "32",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-20T10:17:00.562816Z",
+    "updated_at": "2025-09-20T10:17:00.562915Z",
+    "kayit": {
+     "id": 3050,
+     "tam_metin": "[23] Kitâb-ı Telhîs. Dimeşkī nısfına. Siyâh cildli. Otuz iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "29a",
+     "created_at": "2024-04-22T12:25:42.873145Z",
+     "updated_at": "2025-09-20T10:17:01.510455Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1297,
+     "kodikolojik_bilgi": 987
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[23] Kitâb-ı Telhîs. Dimeşkī nısfına. Siyâh cildli. Otuz iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "29a",
+  "created_at": "2024-04-22T12:25:42.873145Z",
+  "updated_at": "2025-09-20T10:17:01.510455Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 987,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "32",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T10:17:00.562816Z",
+   "updated_at": "2025-09-20T10:17:00.562915Z",
+   "kayit": 3050,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[18] Kitâb-ı Metnü Telhîsi’l-Miftâh eydan li’l-Kazvînî. Dimeşkī nısfına. Siyâh cildle. Vakf-ı Sultânî. Otuz iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "33b",
+ "created_at": "2024-02-10T12:44:22.572926Z",
+ "updated_at": "2024-11-10T19:46:29.464874Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

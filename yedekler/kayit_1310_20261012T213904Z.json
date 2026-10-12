@@ -1,0 +1,248 @@
+{
+ "id": 1310,
+ "kitap_set": [
+  {
+   "id": 1305,
+   "isim": "Kitâb-ı Îzâhu’l-Meânî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:44:28.752008Z",
+   "updated_at": "2025-04-06T19:20:17.551381Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1310,
+    "tam_metin": "[31] Kitâb-ı Îzâhu’l-Meʿânî. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Dimeşkī tamâmından kırılmış kümmî olmuş. Ciğerî cildle. Vakf-ı Sultânî. İki yüz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "34a",
+    "created_at": "2024-02-10T12:44:28.467011Z",
+    "updated_at": "2024-11-20T13:13:04.721547Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3073,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3073,
+  "kitap_set": [
+   {
+    "id": 3055,
+    "isim": "Kitâb-ı Îzâh-ı Meânî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:53.506863Z",
+    "updated_at": "2025-04-06T19:20:12.257127Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3073,
+     "tam_metin": "[46] Kitâb-ı Îzâh-ı Meʿânî. Min evvelihî ilâ âhirihî musahhah ve mukayyed. Dimeşkī tamâmından kırılmış kümmî olmuş. Ciğerî cildli. İki yüz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30a",
+     "created_at": "2024-04-22T12:25:53.229610Z",
+     "updated_at": "2025-09-20T11:31:40.388952Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1310,
+     "kodikolojik_bilgi": 1010
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 546,
+    "koleksiyon_numarasi": "04529",
+    "nusha": "",
+    "created_at": "2025-01-13T19:10:13.507073Z",
+    "updated_at": "2025-01-13T19:10:13.507087Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3073,
+     "tam_metin": "[46] Kitâb-ı Îzâh-ı Meʿânî. Min evvelihî ilâ âhirihî musahhah ve mukayyed. Dimeşkī tamâmından kırılmış kümmî olmuş. Ciğerî cildli. İki yüz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30a",
+     "created_at": "2024-04-22T12:25:53.229610Z",
+     "updated_at": "2025-09-20T11:31:40.388952Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1310,
+     "kodikolojik_bilgi": 1010
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1310,
+  "bilgi_set": [
+   {
+    "id": 1010,
+    "murekkep_set": [
+     {
+      "id": 888,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1010
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 677,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1010
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "200",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "Kümmî",
+    "note": "",
+    "created_at": "2025-09-20T11:31:40.383456Z",
+    "updated_at": "2025-09-20T11:31:40.383473Z",
+    "kayit": {
+     "id": 3073,
+     "tam_metin": "[46] Kitâb-ı Îzâh-ı Meʿânî. Min evvelihî ilâ âhirihî musahhah ve mukayyed. Dimeşkī tamâmından kırılmış kümmî olmuş. Ciğerî cildli. İki yüz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "30a",
+     "created_at": "2024-04-22T12:25:53.229610Z",
+     "updated_at": "2025-09-20T11:31:40.388952Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1310,
+     "kodikolojik_bilgi": 1010
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[46] Kitâb-ı Îzâh-ı Meʿânî. Min evvelihî ilâ âhirihî musahhah ve mukayyed. Dimeşkī tamâmından kırılmış kümmî olmuş. Ciğerî cildli. İki yüz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "30a",
+  "created_at": "2024-04-22T12:25:53.229610Z",
+  "updated_at": "2025-09-20T11:31:40.388952Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1010,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "200",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "Kümmî",
+   "note": "",
+   "created_at": "2025-09-20T11:31:40.383456Z",
+   "updated_at": "2025-09-20T11:31:40.383473Z",
+   "kayit": 3073,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[31] Kitâb-ı Îzâhu’l-Meʿânî. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Dimeşkī tamâmından kırılmış kümmî olmuş. Ciğerî cildle. Vakf-ı Sultânî. İki yüz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "34a",
+ "created_at": "2024-02-10T12:44:28.467011Z",
+ "updated_at": "2024-11-20T13:13:04.721547Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
