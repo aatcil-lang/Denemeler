@@ -96,3 +96,14 @@ Dayanak: katalogdaki “Vakf-ı …” ibaresi (Halebîzâde için katalog böl�
   - Halebîzâde: 18 → **333**. Katalogdaki bölüm toplamı 333, birebir aynı.
   - II. Mehmed: 2044 → 1686.
 - Şahıs sayısı 718'de, kaynak sayısı 3'te kaldı.
+
+## 12.10.2026 — V6, V7: iki yeni şahıs kaydı açıldı, 7 kayda vâkıf atandı
+- **Sorun:** Sitenin şahıs ekleme ucu (`POST /api/sahislar/`) çalışmıyor. `defter/viewsets.py` (satır ~468) `Sahis.objects.create(...)` çağrısına `dogum_tarihi_hicri` ve `olum_tarihi_hicri` adlarını gönderiyor, oysa modeldeki alanlar `..._hijri`. Sonuç: *“Sahis() got unexpected keyword arguments”* hatası (HTTP 500). İki deneme yapıldı, ikisinde de kayıt oluşmadı; şahıs sayısı 718'de kaldı. **Site geliştiricisine bildirilmeli:** sitenin “Şahıs Ekle” formu da bu yüzden çalışmıyor olmalı.
+- **Kullanılan yol:** Yeni şahıslar, kayıt düzenleme formundaki “yeni vâkıf” seçeneğiyle açıldı (`vakif` = `{value: ad, label: ad}`, `vakif_new: true`). Bu, sitenin kendi arayüzünün kullandığı yol. Her gruptaki ilk kayıtta yeni şahıs açıldı, kalan kayıtlar yeni şahsın numarasıyla bağlandı.
+- **V6:** Yeni şahıs **#768 “Bâzergânzâde”**. 5 kayıt bu şahsa bağlandı: #1507–#1511 (42b [74] – 43a [78]).
+- **V7:** Yeni şahıs **#769 “Mevlânâ Kāsım bin Hasan el-Karamânî”**. 2 kayıt bu şahsa bağlandı: #1480 ve #1481 (41b [47]–[48]).
+- **Doğrulama:**
+  - Her kayıtta yalnızca vâkıf alanı değişti.
+  - Şahıs sayısı her adımda tam 1 arttı (718 → 720); kaynak sayısı 3'te kaldı.
+  - Son kontrol: 7 kaydın 7'si doğru.
+  - Yeni şahısların vâkıf sayıları beklenen değerlerde (5 ve 2).

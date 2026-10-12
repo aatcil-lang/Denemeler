@@ -24,8 +24,8 @@ Hacıhasanzade'deki 136 kaydın 135'i katalogda neredeyse birebir karşılığı
 | V3 ✅ (işlendi) | Vakf-ı Hatîbzâde | 7 | **Mevlânâ Hatîbzâde (#10)** | 74 kaydın 74'ü bu şahısta |
 | V4 ✅ (işlendi) | Vakf-ı (Mevlânâ) Musannifek | 3 | **Mevlânâ Musannifek (#11)** | 78 kaydın 78'i bu şahısta |
 | V5 ✅ (işlendi) | Katalogun V. bölümü (Halebîzâde), #2045 | 1 | **Halebîzâde (#741)** | Bölüm başlığı: *“…bi-Halebîzâde elletî vakafehâ…”* |
-| V6 | Vakf-ı Bâzergânzâde | 5 | Veritabanında bu şahıs **yok**. Yeni şahıs kaydı açılmalı | Sizin kararınız |
-| V7 | Vakf-ı (Mevlânâ) Kāsım bin Hasan el-Karamânî | 2 | Veritabanında **yok**. Yeni şahıs kaydı açılmalı | Sizin kararınız. Benzer bir ad var: #198 *Kāsım bin İbrâhîm el-Karamanî*, ama baba adı farklı |
+| V6 ✅ (işlendi, şahıs #768) | Vakf-ı Bâzergânzâde | 5 | Veritabanında bu şahıs **yok**. Yeni şahıs kaydı açılmalı | Sizin kararınız |
+| V7 ✅ (işlendi, şahıs #769) | Vakf-ı (Mevlânâ) Kāsım bin Hasan el-Karamânî | 2 | Veritabanında **yok**. Yeni şahıs kaydı açılmalı | Sizin kararınız. Benzer bir ad var: #198 *Kāsım bin İbrâhîm el-Karamanî*, ama baba adı farklı |
 
 Toplam: 92 + 11 + 7 + 3 + 1 + 5 + 2 = **121**.
 
