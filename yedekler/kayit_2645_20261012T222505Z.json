@@ -1,0 +1,327 @@
+{
+ "id": 2645,
+ "kitap_set": [
+  {
+   "id": 2628,
+   "isim": "Kitâbü’l-Mustasfâ fî Şerhi’n-Nâfi‘.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:22:51.859512Z",
+   "updated_at": "2025-04-06T19:20:13.489712Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2645,
+    "tam_metin": "[8] Kitâbü’l-Mustasfâ fî Şerhi’n-Nâfiʿ. Bi-hattı Ebû Bekir bin İsmâîl bin Abdullâh. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "14a",
+    "created_at": "2024-04-22T12:22:51.593072Z",
+    "updated_at": "2025-09-02T11:44:50.049311Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1091,
+    "kodikolojik_bilgi": 579
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 221,
+   "koleksiyon_numarasi": "01845",
+   "nusha": "",
+   "created_at": "2024-12-28T14:14:57.722148Z",
+   "updated_at": "2024-12-28T14:14:57.722164Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2645,
+    "tam_metin": "[8] Kitâbü’l-Mustasfâ fî Şerhi’n-Nâfiʿ. Bi-hattı Ebû Bekir bin İsmâîl bin Abdullâh. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "14a",
+    "created_at": "2024-04-22T12:22:51.593072Z",
+    "updated_at": "2025-09-02T11:44:50.049311Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1091,
+    "kodikolojik_bilgi": 579
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1091,
+  "kitap_set": [
+   {
+    "id": 1086,
+    "isim": "Kitâbü’l-Mustasfâ fî Şerhi Nâfi‘.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:42:52.114626Z",
+    "updated_at": "2025-04-06T19:20:18.372235Z",
+    "yazar": null,
+    "kayit": {
+     "id": 1091,
+     "tam_metin": "[218] Kitâbü’l-Mustasfâ eydan fî Şerhi Nâfiʿ. Bi-hattı Ebû Bekir bin İsmâʿîl bin Abdullâh. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz altmış beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "24a",
+     "created_at": "2024-02-10T12:42:51.849668Z",
+     "updated_at": "2026-10-12T21:32:32.772852Z",
+     "vakif": 1,
+     "mustensih": 293,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2645,
+     "kodikolojik_bilgi": 1852
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2645,
+  "bilgi_set": [
+   {
+    "id": 1852,
+    "murekkep_set": [
+     {
+      "id": 1735,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1852
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1527,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1852
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "265",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:32:32.769510Z",
+    "updated_at": "2026-10-12T21:32:32.769528Z",
+    "kayit": {
+     "id": 1091,
+     "tam_metin": "[218] Kitâbü’l-Mustasfâ eydan fî Şerhi Nâfiʿ. Bi-hattı Ebû Bekir bin İsmâʿîl bin Abdullâh. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz altmış beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "24a",
+     "created_at": "2024-02-10T12:42:51.849668Z",
+     "updated_at": "2026-10-12T21:32:32.772852Z",
+     "vakif": 1,
+     "mustensih": 293,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2645,
+     "kodikolojik_bilgi": 1852
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[218] Kitâbü’l-Mustasfâ eydan fî Şerhi Nâfiʿ. Bi-hattı Ebû Bekir bin İsmâʿîl bin Abdullâh. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz altmış beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "24a",
+  "created_at": "2024-02-10T12:42:51.849668Z",
+  "updated_at": "2026-10-12T21:32:32.772852Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 293,
+   "isim": "Ebû Bekir bin İsmâʿîl bin Abdullâh",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-12T16:41:48.985728Z",
+   "updated_at": "2024-09-12T16:41:48.985742Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1852,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "265",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:32:32.769510Z",
+   "updated_at": "2026-10-12T21:32:32.769528Z",
+   "kayit": 1091,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 579,
+   "murekkep_set": [
+    {
+     "id": 457,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 579
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 248,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 579
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "265",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T11:44:50.043388Z",
+   "updated_at": "2025-09-02T11:44:50.043412Z",
+   "kayit": {
+    "id": 2645,
+    "tam_metin": "[8] Kitâbü’l-Mustasfâ fî Şerhi’n-Nâfiʿ. Bi-hattı Ebû Bekir bin İsmâîl bin Abdullâh. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "14a",
+    "created_at": "2024-04-22T12:22:51.593072Z",
+    "updated_at": "2025-09-02T11:44:50.049311Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1091,
+    "kodikolojik_bilgi": 579
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[8] Kitâbü’l-Mustasfâ fî Şerhi’n-Nâfiʿ. Bi-hattı Ebû Bekir bin İsmâîl bin Abdullâh. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "14a",
+ "created_at": "2024-04-22T12:22:51.593072Z",
+ "updated_at": "2025-09-02T11:44:50.049311Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 579,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "265",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-02T11:44:50.043388Z",
+  "updated_at": "2025-09-02T11:44:50.043412Z",
+  "kayit": 2645,
+  "created_by": null
+ }
+}
