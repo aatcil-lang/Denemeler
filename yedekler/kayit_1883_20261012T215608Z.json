@@ -1,0 +1,220 @@
+{
+ "id": 1883,
+ "kitap_set": [
+  {
+   "id": 1878,
+   "isim": "Kitâb-ı Şerhü’l-İzâh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:52.738070Z",
+   "updated_at": "2025-04-06T19:20:15.780972Z",
+   "yazar": {
+    "id": 51,
+    "isim": "Cemâleddîn el-Aksarâyî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-07-30T07:03:16.887006Z",
+    "updated_at": "2024-07-30T07:03:16.887021Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1883,
+    "tam_metin": "[55] Kitâb-ı Şerhu’l-İzâh li-Cemâleddîn el-Aksarâyî. Nâkısu’l-âhir. İlâ kavlihî وقول أبو نواس ليس hâzihî âhiru ibâretihî. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Hatîbzâde. İki yüz kırk sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "58b",
+    "created_at": "2024-02-10T12:48:52.444089Z",
+    "updated_at": "2026-01-23T12:16:28.948040Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3350,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3350,
+  "kitap_set": [
+   {
+    "id": 3332,
+    "isim": "Kitâb-ı Şerh-i Îzâh li-Mevlânâ Cemâleddîn Aksarâyî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:59.643279Z",
+    "updated_at": "2025-04-06T19:20:11.420209Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3350,
+     "tam_metin": "[1] Kitâb-ı Şerh-i Îzâh li-Mevlânâ Cemâleddîn Aksarâyî. Evvelinden وقول أبي نفاس  ليس ibâretinde âhir olmuş. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz kırk sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:27:59.363312Z",
+     "updated_at": "2025-09-22T20:14:13.396830Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1883,
+     "kodikolojik_bilgi": 1287
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1883,
+  "bilgi_set": [
+   {
+    "id": 1287,
+    "murekkep_set": [
+     {
+      "id": 1165,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1287
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 954,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1287
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "248",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T20:14:13.391409Z",
+    "updated_at": "2025-09-22T20:14:13.391433Z",
+    "kayit": {
+     "id": 3350,
+     "tam_metin": "[1] Kitâb-ı Şerh-i Îzâh li-Mevlânâ Cemâleddîn Aksarâyî. Evvelinden وقول أبي نفاس  ليس ibâretinde âhir olmuş. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz kırk sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:27:59.363312Z",
+     "updated_at": "2025-09-22T20:14:13.396830Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1883,
+     "kodikolojik_bilgi": 1287
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[1] Kitâb-ı Şerh-i Îzâh li-Mevlânâ Cemâleddîn Aksarâyî. Evvelinden وقول أبي نفاس  ليس ibâretinde âhir olmuş. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz kırk sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "42a",
+  "created_at": "2024-04-22T12:27:59.363312Z",
+  "updated_at": "2025-09-22T20:14:13.396830Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1287,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "248",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T20:14:13.391409Z",
+   "updated_at": "2025-09-22T20:14:13.391433Z",
+   "kayit": 3350,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[55] Kitâb-ı Şerhu’l-İzâh li-Cemâleddîn el-Aksarâyî. Nâkısu’l-âhir. İlâ kavlihî وقول أبو نواس ليس hâzihî âhiru ibâretihî. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Hatîbzâde. İki yüz kırk sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "58b",
+ "created_at": "2024-02-10T12:48:52.444089Z",
+ "updated_at": "2026-01-23T12:16:28.948040Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

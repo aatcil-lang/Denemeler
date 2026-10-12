@@ -1,0 +1,260 @@
+{
+ "id": 1890,
+ "kitap_set": [
+  {
+   "id": 1885,
+   "isim": "Kitâb-ı Tasavvurâtü Şerhi’l-Metâli‘.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:56.011436Z",
+   "updated_at": "2025-04-06T19:20:15.760967Z",
+   "yazar": {
+    "id": 428,
+    "isim": "Mevlânâ Kutbüddîn",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-25T06:13:18.295868Z",
+    "updated_at": "2024-11-25T06:13:18.295886Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1890,
+    "tam_metin": "[6] Kitâb-ı Tasavvurâtü Şerhi’l-Metâliʿ li-Mevlânâ Kutbüddîn. Dimeşkī nısfına. Ak kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. Seksen dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkiyye",
+    "notlar": "",
+    "sayfa_numarasi": "58b",
+    "created_at": "2024-02-10T12:48:55.718717Z",
+    "updated_at": "2026-01-23T12:28:53.038399Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3373,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3373,
+  "kitap_set": [
+   {
+    "id": 3355,
+    "isim": "Kitâb-ı Tasavvurât Şerh-i Metâli‘-i Mevlânâ Kutbüddîn.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:28:10.133114Z",
+    "updated_at": "2025-04-06T19:20:11.351316Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3373,
+     "tam_metin": "[7] Kitâb-ı Tasavvurât-ı Şerh-i Metâliʿ-i Mevlânâ Kutbüddîn. Dimeşkī nısfına. Ak kâğıd mukavvâ cildli. Seksen dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42b",
+     "created_at": "2024-04-22T12:28:09.846095Z",
+     "updated_at": "2025-09-22T20:32:39.202646Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1890,
+     "kodikolojik_bilgi": 1310
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 746,
+    "koleksiyon_numarasi": "03369",
+    "nusha": "",
+    "created_at": "2025-01-15T14:28:24.337383Z",
+    "updated_at": "2025-01-15T14:28:24.337450Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3373,
+     "tam_metin": "[7] Kitâb-ı Tasavvurât-ı Şerh-i Metâliʿ-i Mevlânâ Kutbüddîn. Dimeşkī nısfına. Ak kâğıd mukavvâ cildli. Seksen dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42b",
+     "created_at": "2024-04-22T12:28:09.846095Z",
+     "updated_at": "2025-09-22T20:32:39.202646Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1890,
+     "kodikolojik_bilgi": 1310
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1890,
+  "bilgi_set": [
+   {
+    "id": 1310,
+    "murekkep_set": [
+     {
+      "id": 1188,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1310
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 977,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1310
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "89",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T20:32:39.195136Z",
+    "updated_at": "2025-09-22T20:32:39.195165Z",
+    "kayit": {
+     "id": 3373,
+     "tam_metin": "[7] Kitâb-ı Tasavvurât-ı Şerh-i Metâliʿ-i Mevlânâ Kutbüddîn. Dimeşkī nısfına. Ak kâğıd mukavvâ cildli. Seksen dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42b",
+     "created_at": "2024-04-22T12:28:09.846095Z",
+     "updated_at": "2025-09-22T20:32:39.202646Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1890,
+     "kodikolojik_bilgi": 1310
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[7] Kitâb-ı Tasavvurât-ı Şerh-i Metâliʿ-i Mevlânâ Kutbüddîn. Dimeşkī nısfına. Ak kâğıd mukavvâ cildli. Seksen dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkiyye",
+  "notlar": "",
+  "sayfa_numarasi": "42b",
+  "created_at": "2024-04-22T12:28:09.846095Z",
+  "updated_at": "2025-09-22T20:32:39.202646Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1310,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "89",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T20:32:39.195136Z",
+   "updated_at": "2025-09-22T20:32:39.195165Z",
+   "kayit": 3373,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[6] Kitâb-ı Tasavvurâtü Şerhi’l-Metâliʿ li-Mevlânâ Kutbüddîn. Dimeşkī nısfına. Ak kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. Seksen dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Mantıkiyye",
+ "notlar": "",
+ "sayfa_numarasi": "58b",
+ "created_at": "2024-02-10T12:48:55.718717Z",
+ "updated_at": "2026-01-23T12:28:53.038399Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

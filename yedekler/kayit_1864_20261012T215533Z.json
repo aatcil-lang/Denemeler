@@ -1,0 +1,260 @@
+{
+ "id": 1864,
+ "kitap_set": [
+  {
+   "id": 1859,
+   "isim": "Kitâb-ı Şerhu’l-Miftâh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:43.818431Z",
+   "updated_at": "2025-04-06T19:20:15.842012Z",
+   "yazar": {
+    "id": 533,
+    "isim": "İmâdî el-Kâşî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-01T08:10:46.240508Z",
+    "updated_at": "2025-01-01T08:10:46.240524Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1864,
+    "tam_metin": "[36] Kitâb-ı Şerhu’l-Miftâh li’l-İmâdî el-Kâşî. Tamâm. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Hatîb. İki yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "57b",
+    "created_at": "2024-02-10T12:48:43.532907Z",
+    "updated_at": "2026-01-23T12:21:10.742212Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3361,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3361,
+  "kitap_set": [
+   {
+    "id": 3343,
+    "isim": "Kitâb-ı Şerh-i Miftâh li-İmâd Kâşî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:28:04.675437Z",
+    "updated_at": "2025-04-06T19:20:11.387124Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3361,
+     "tam_metin": "[12] Kitâb-ı Şerh-i Miftâh li-İmâd-ı Kâşî. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:04.395465Z",
+     "updated_at": "2025-09-22T20:21:52.150018Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1864,
+     "kodikolojik_bilgi": 1298
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 736,
+    "koleksiyon_numarasi": "04663",
+    "nusha": "",
+    "created_at": "2025-01-15T14:11:08.176771Z",
+    "updated_at": "2025-01-15T14:11:08.176794Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3361,
+     "tam_metin": "[12] Kitâb-ı Şerh-i Miftâh li-İmâd-ı Kâşî. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:04.395465Z",
+     "updated_at": "2025-09-22T20:21:52.150018Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1864,
+     "kodikolojik_bilgi": 1298
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1864,
+  "bilgi_set": [
+   {
+    "id": 1298,
+    "murekkep_set": [
+     {
+      "id": 1176,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1298
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 965,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1298
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "210",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T20:21:52.145592Z",
+    "updated_at": "2025-09-22T20:21:52.145616Z",
+    "kayit": {
+     "id": 3361,
+     "tam_metin": "[12] Kitâb-ı Şerh-i Miftâh li-İmâd-ı Kâşî. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:04.395465Z",
+     "updated_at": "2025-09-22T20:21:52.150018Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1864,
+     "kodikolojik_bilgi": 1298
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[12] Kitâb-ı Şerh-i Miftâh li-İmâd-ı Kâşî. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "42a",
+  "created_at": "2024-04-22T12:28:04.395465Z",
+  "updated_at": "2025-09-22T20:21:52.150018Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1298,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "210",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T20:21:52.145592Z",
+   "updated_at": "2025-09-22T20:21:52.145616Z",
+   "kayit": 3361,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[36] Kitâb-ı Şerhu’l-Miftâh li’l-İmâdî el-Kâşî. Tamâm. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Hatîb. İki yüz on varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "57b",
+ "created_at": "2024-02-10T12:48:43.532907Z",
+ "updated_at": "2026-01-23T12:21:10.742212Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

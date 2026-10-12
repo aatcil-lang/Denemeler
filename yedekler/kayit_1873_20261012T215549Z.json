@@ -1,0 +1,248 @@
+{
+ "id": 1873,
+ "kitap_set": [
+  {
+   "id": 1868,
+   "isim": "Kitâbü’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:48.023336Z",
+   "updated_at": "2025-04-06T19:20:15.810752Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1873,
+    "tam_metin": "[45] Kitâbü’ş-Şerhi’l-Mutavvel eydan li-Telhîsi’l-Miftâh. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ ve cemîʿu’l-metn min evvelihî ilâ âhiri[hî] mektûbun fî-hî bi’l-ahmer. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Mîşeved Acem. İki yüz yirmi sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "58a",
+    "created_at": "2024-02-10T12:48:47.730959Z",
+    "updated_at": "2026-01-26T23:02:37.587073Z",
+    "vakif": 13,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3585,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3585,
+  "kitap_set": [
+   {
+    "id": 3564,
+    "isim": "Kitâb-ı Şerh-i Mutavvel li-Telhîsi’l-Miftâh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:53.361582Z",
+    "updated_at": "2025-04-06T19:20:10.794890Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3585,
+     "tam_metin": "[18] Kitâb-ı Şerh-i Mutavvel li-Telhîsi’l-Miftâh. Min Evvelihî ilâ âhirihî musahhah. Hem metin sürhle yazılmış. Dimeşkī tamâmına. Ciğerî cildli. İki yüz yirmi sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50a",
+     "created_at": "2024-04-22T12:45:53.091241Z",
+     "updated_at": "2025-10-01T21:19:52.880013Z",
+     "vakif": 13,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1873,
+     "kodikolojik_bilgi": 1478
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 846,
+    "koleksiyon_numarasi": "04625",
+    "nusha": "",
+    "created_at": "2025-01-16T00:47:50.068419Z",
+    "updated_at": "2025-01-16T00:47:50.068436Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3585,
+     "tam_metin": "[18] Kitâb-ı Şerh-i Mutavvel li-Telhîsi’l-Miftâh. Min Evvelihî ilâ âhirihî musahhah. Hem metin sürhle yazılmış. Dimeşkī tamâmına. Ciğerî cildli. İki yüz yirmi sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50a",
+     "created_at": "2024-04-22T12:45:53.091241Z",
+     "updated_at": "2025-10-01T21:19:52.880013Z",
+     "vakif": 13,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1873,
+     "kodikolojik_bilgi": 1478
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1873,
+  "bilgi_set": [
+   {
+    "id": 1478,
+    "murekkep_set": [
+     {
+      "id": 1356,
+      "renk": "kirmizi",
+      "ilgili_ibare": "Metin sürhle yazılmış",
+      "kodikolojik_bilgi": 1478
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1144,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1478
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "228",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T21:19:52.874752Z",
+    "updated_at": "2025-10-01T21:19:52.874767Z",
+    "kayit": {
+     "id": 3585,
+     "tam_metin": "[18] Kitâb-ı Şerh-i Mutavvel li-Telhîsi’l-Miftâh. Min Evvelihî ilâ âhirihî musahhah. Hem metin sürhle yazılmış. Dimeşkī tamâmına. Ciğerî cildli. İki yüz yirmi sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50a",
+     "created_at": "2024-04-22T12:45:53.091241Z",
+     "updated_at": "2025-10-01T21:19:52.880013Z",
+     "vakif": 13,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1873,
+     "kodikolojik_bilgi": 1478
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[18] Kitâb-ı Şerh-i Mutavvel li-Telhîsi’l-Miftâh. Min Evvelihî ilâ âhirihî musahhah. Hem metin sürhle yazılmış. Dimeşkī tamâmına. Ciğerî cildli. İki yüz yirmi sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "50a",
+  "created_at": "2024-04-22T12:45:53.091241Z",
+  "updated_at": "2025-10-01T21:19:52.880013Z",
+  "vakif": {
+   "id": 13,
+   "isim": "Mevlânâ Mîşeved Acem",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:59:13.119764Z",
+   "updated_at": "2024-04-22T11:59:13.119787Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1478,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "228",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T21:19:52.874752Z",
+   "updated_at": "2025-10-01T21:19:52.874767Z",
+   "kayit": 3585,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[45] Kitâbü’ş-Şerhi’l-Mutavvel eydan li-Telhîsi’l-Miftâh. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ ve cemîʿu’l-metn min evvelihî ilâ âhiri[hî] mektûbun fî-hî bi’l-ahmer. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Mîşeved Acem. İki yüz yirmi sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "58a",
+ "created_at": "2024-02-10T12:48:47.730959Z",
+ "updated_at": "2026-01-26T23:02:37.587073Z",
+ "vakif": {
+  "id": 13,
+  "isim": "Mevlânâ Mîşeved Acem",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:59:13.119764Z",
+  "updated_at": "2024-04-22T11:59:13.119787Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

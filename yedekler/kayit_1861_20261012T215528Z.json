@@ -1,0 +1,260 @@
+{
+ "id": 1861,
+ "kitap_set": [
+  {
+   "id": 1856,
+   "isim": "Kitâb-ı Şerhu’l-Miftâh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:42.416405Z",
+   "updated_at": "2025-04-06T19:20:15.851380Z",
+   "yazar": {
+    "id": 357,
+    "isim": "Seyyid eş-Şerîf",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-17T18:01:23.032067Z",
+    "updated_at": "2024-09-17T18:01:23.032082Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1861,
+    "tam_metin": "[33] Kitâb-ı Şerhu’l-Miftâh li’s-Seyyid eş-Şerîf. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. Yüz seksen yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "57b",
+    "created_at": "2024-02-10T12:48:42.124071Z",
+    "updated_at": "2026-01-23T12:22:45.103294Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3352,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3352,
+  "kitap_set": [
+   {
+    "id": 3334,
+    "isim": "Kitâb-ı Şerh-i Miftâh li-Seyyid Şerîf.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:28:00.572777Z",
+    "updated_at": "2025-04-06T19:20:11.414201Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3352,
+     "tam_metin": "[3] Kitâb-ı Şerh-i Miftâh li-Seyyid Şerîf. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Yüz seksen yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:00.282367Z",
+     "updated_at": "2025-09-22T20:15:24.384748Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1861,
+     "kodikolojik_bilgi": 1289
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 729,
+    "koleksiyon_numarasi": "04655",
+    "nusha": "",
+    "created_at": "2025-01-15T13:59:25.236261Z",
+    "updated_at": "2025-01-15T13:59:25.236277Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3352,
+     "tam_metin": "[3] Kitâb-ı Şerh-i Miftâh li-Seyyid Şerîf. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Yüz seksen yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:00.282367Z",
+     "updated_at": "2025-09-22T20:15:24.384748Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1861,
+     "kodikolojik_bilgi": 1289
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1861,
+  "bilgi_set": [
+   {
+    "id": 1289,
+    "murekkep_set": [
+     {
+      "id": 1167,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1289
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 956,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1289
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Sarı kağıt",
+    "varak_adedi": "187",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T20:15:24.379796Z",
+    "updated_at": "2025-09-22T20:15:24.379813Z",
+    "kayit": {
+     "id": 3352,
+     "tam_metin": "[3] Kitâb-ı Şerh-i Miftâh li-Seyyid Şerîf. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Yüz seksen yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:00.282367Z",
+     "updated_at": "2025-09-22T20:15:24.384748Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1861,
+     "kodikolojik_bilgi": 1289
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[3] Kitâb-ı Şerh-i Miftâh li-Seyyid Şerîf. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Yüz seksen yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "42a",
+  "created_at": "2024-04-22T12:28:00.282367Z",
+  "updated_at": "2025-09-22T20:15:24.384748Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1289,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Sarı kağıt",
+   "varak_adedi": "187",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T20:15:24.379796Z",
+   "updated_at": "2025-09-22T20:15:24.379813Z",
+   "kayit": 3352,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[33] Kitâb-ı Şerhu’l-Miftâh li’s-Seyyid eş-Şerîf. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. Yüz seksen yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "57b",
+ "created_at": "2024-02-10T12:48:42.124071Z",
+ "updated_at": "2026-01-23T12:22:45.103294Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

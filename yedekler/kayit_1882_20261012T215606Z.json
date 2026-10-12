@@ -1,0 +1,248 @@
+{
+ "id": 1882,
+ "kitap_set": [
+  {
+   "id": 1877,
+   "isim": "Kitâb-ı Îzâhü’l-Meâ‘nî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:52.256865Z",
+   "updated_at": "2025-04-06T19:20:15.783837Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1882,
+    "tam_metin": "[54] Kitâb-ı Îzâhü’l-Meâʿnî. Dimeşkī nısfından kırılmış. Ciğerî cildle. Vakf-ı Hatîbzâde. Yüz yetmiş yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "58b",
+    "created_at": "2024-02-10T12:48:51.966810Z",
+    "updated_at": "2026-01-23T12:17:07.222634Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3360,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3360,
+  "kitap_set": [
+   {
+    "id": 3342,
+    "isim": "Kitâb-ı Îzâh-ı Meânî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:28:04.227024Z",
+    "updated_at": "2025-04-06T19:20:11.389914Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3360,
+     "tam_metin": "[11] Kitâb-ı Îzâh-ı Meʿânî. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz yetmiş yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:03.947581Z",
+     "updated_at": "2025-09-22T20:21:12.163044Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1882,
+     "kodikolojik_bilgi": 1297
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 735,
+    "koleksiyon_numarasi": "04532",
+    "nusha": "",
+    "created_at": "2025-01-15T14:10:17.308740Z",
+    "updated_at": "2025-01-15T14:10:17.308758Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3360,
+     "tam_metin": "[11] Kitâb-ı Îzâh-ı Meʿânî. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz yetmiş yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:03.947581Z",
+     "updated_at": "2025-09-22T20:21:12.163044Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1882,
+     "kodikolojik_bilgi": 1297
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1882,
+  "bilgi_set": [
+   {
+    "id": 1297,
+    "murekkep_set": [
+     {
+      "id": 1175,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1297
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 964,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1297
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "177",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T20:21:12.156406Z",
+    "updated_at": "2025-09-22T20:21:12.156426Z",
+    "kayit": {
+     "id": 3360,
+     "tam_metin": "[11] Kitâb-ı Îzâh-ı Meʿânî. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz yetmiş yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:03.947581Z",
+     "updated_at": "2025-09-22T20:21:12.163044Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1882,
+     "kodikolojik_bilgi": 1297
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[11] Kitâb-ı Îzâh-ı Meʿânî. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz yetmiş yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "42a",
+  "created_at": "2024-04-22T12:28:03.947581Z",
+  "updated_at": "2025-09-22T20:21:12.163044Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1297,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "177",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T20:21:12.156406Z",
+   "updated_at": "2025-09-22T20:21:12.156426Z",
+   "kayit": 3360,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[54] Kitâb-ı Îzâhü’l-Meâʿnî. Dimeşkī nısfından kırılmış. Ciğerî cildle. Vakf-ı Hatîbzâde. Yüz yetmiş yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "58b",
+ "created_at": "2024-02-10T12:48:51.966810Z",
+ "updated_at": "2026-01-23T12:17:07.222634Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

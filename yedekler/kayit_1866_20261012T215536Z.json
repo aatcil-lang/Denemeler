@@ -1,0 +1,288 @@
+{
+ "id": 1866,
+ "kitap_set": [
+  {
+   "id": 3961,
+   "isim": "Kitâbü’ş-Şerhu’l-Mutavvel li’t-Telhîs.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2025-01-01T08:17:13.580999Z",
+   "updated_at": "2025-04-06T19:20:09.655822Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1866,
+    "tam_metin": "[38] Kitâb-ı Şerhu’l-Miftâh eydan li-Mevlânâ Sultân Şâh ve Kitâbü’ş-Şerhu’l-Mutavvel li’t-Telhîs. Bir cildde. Dimeşkī tamâmına. Kızıl kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. İki yüz otuz yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "57b",
+    "created_at": "2024-02-10T12:48:44.468477Z",
+    "updated_at": "2026-01-23T12:20:34.078814Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3351,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 1861,
+   "isim": "Kitâb-ı Şerhu’l-Miftâh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:44.754595Z",
+   "updated_at": "2025-04-06T19:20:15.835244Z",
+   "yazar": {
+    "id": 534,
+    "isim": "Mevlânâ Sultân Şâh",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-01T08:16:46.368559Z",
+    "updated_at": "2025-01-01T08:16:46.368575Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1866,
+    "tam_metin": "[38] Kitâb-ı Şerhu’l-Miftâh eydan li-Mevlânâ Sultân Şâh ve Kitâbü’ş-Şerhu’l-Mutavvel li’t-Telhîs. Bir cildde. Dimeşkī tamâmına. Kızıl kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. İki yüz otuz yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "57b",
+    "created_at": "2024-02-10T12:48:44.468477Z",
+    "updated_at": "2026-01-23T12:20:34.078814Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3351,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3351,
+  "kitap_set": [
+   {
+    "id": 3333,
+    "isim": "Kitâb-ı Şerh-i Miftâh li-Mevlânâ Sultân Şâh ve Şerh-i Mutavvel li’t-Telhîs.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:28:00.102064Z",
+    "updated_at": "2025-04-06T19:20:11.417253Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3351,
+     "tam_metin": "[2] Kitâb-ı Şerh-i Miftâh li-Mevlânâ Sultân Şâh ve Şerh-i Mutavvel li’t-Telhîs. Bir cildde. Dimeşkī tamâmına. Kızıl kâğıd mukavvâ cildli. İki yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:27:59.820806Z",
+     "updated_at": "2025-09-22T20:14:54.275565Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1866,
+     "kodikolojik_bilgi": 1288
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 728,
+    "koleksiyon_numarasi": "04628",
+    "nusha": "",
+    "created_at": "2025-01-15T13:58:24.453381Z",
+    "updated_at": "2025-01-15T13:58:24.453442Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3351,
+     "tam_metin": "[2] Kitâb-ı Şerh-i Miftâh li-Mevlânâ Sultân Şâh ve Şerh-i Mutavvel li’t-Telhîs. Bir cildde. Dimeşkī tamâmına. Kızıl kâğıd mukavvâ cildli. İki yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:27:59.820806Z",
+     "updated_at": "2025-09-22T20:14:54.275565Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1866,
+     "kodikolojik_bilgi": 1288
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1866,
+  "bilgi_set": [
+   {
+    "id": 1288,
+    "murekkep_set": [
+     {
+      "id": 1166,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1288
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 955,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1288
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Kızıl kağıt",
+    "varak_adedi": "237",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T20:14:54.270300Z",
+    "updated_at": "2025-09-22T20:14:54.270324Z",
+    "kayit": {
+     "id": 3351,
+     "tam_metin": "[2] Kitâb-ı Şerh-i Miftâh li-Mevlânâ Sultân Şâh ve Şerh-i Mutavvel li’t-Telhîs. Bir cildde. Dimeşkī tamâmına. Kızıl kâğıd mukavvâ cildli. İki yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:27:59.820806Z",
+     "updated_at": "2025-09-22T20:14:54.275565Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1866,
+     "kodikolojik_bilgi": 1288
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[2] Kitâb-ı Şerh-i Miftâh li-Mevlânâ Sultân Şâh ve Şerh-i Mutavvel li’t-Telhîs. Bir cildde. Dimeşkī tamâmına. Kızıl kâğıd mukavvâ cildli. İki yüz otuz yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "42a",
+  "created_at": "2024-04-22T12:27:59.820806Z",
+  "updated_at": "2025-09-22T20:14:54.275565Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1288,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Kızıl kağıt",
+   "varak_adedi": "237",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T20:14:54.270300Z",
+   "updated_at": "2025-09-22T20:14:54.270324Z",
+   "kayit": 3351,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[38] Kitâb-ı Şerhu’l-Miftâh eydan li-Mevlânâ Sultân Şâh ve Kitâbü’ş-Şerhu’l-Mutavvel li’t-Telhîs. Bir cildde. Dimeşkī tamâmına. Kızıl kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. İki yüz otuz yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "57b",
+ "created_at": "2024-02-10T12:48:44.468477Z",
+ "updated_at": "2026-01-23T12:20:34.078814Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

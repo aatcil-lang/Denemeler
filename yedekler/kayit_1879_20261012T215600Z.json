@@ -1,0 +1,260 @@
+{
+ "id": 1879,
+ "kitap_set": [
+  {
+   "id": 1874,
+   "isim": "Kitâb-ı Hâşiyetü’l-Hıtâî ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:50.842155Z",
+   "updated_at": "2025-04-06T19:20:15.792774Z",
+   "yazar": {
+    "id": 507,
+    "isim": "Mevlânâzâde Hıtâʾî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-27T16:35:06.371411Z",
+    "updated_at": "2024-12-27T16:35:06.371430Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1879,
+    "tam_metin": "[51] Kitâb-ı Hâşiyetü’l-Hıtâʾî ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh. Hûb hatla. Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. Elli dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "58a",
+    "created_at": "2024-02-10T12:48:50.548070Z",
+    "updated_at": "2026-01-23T12:18:37.221904Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3359,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3359,
+  "kitap_set": [
+   {
+    "id": 3341,
+    "isim": "Kitâb-ı Hâşiye-i Hıtâyî [Hıtâî] ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:28:03.775487Z",
+    "updated_at": "2025-04-06T19:20:11.392610Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3359,
+     "tam_metin": "[10] Kitâb-ı Hâşiye-i Hıtâʾî ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh. Hûb hatla. Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Elli dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:03.492808Z",
+     "updated_at": "2025-09-22T20:20:12.729505Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1879,
+     "kodikolojik_bilgi": 1296
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 734,
+    "koleksiyon_numarasi": "04561",
+    "nusha": "",
+    "created_at": "2025-01-15T14:09:26.163705Z",
+    "updated_at": "2025-01-15T14:09:26.163720Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3359,
+     "tam_metin": "[10] Kitâb-ı Hâşiye-i Hıtâʾî ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh. Hûb hatla. Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Elli dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:03.492808Z",
+     "updated_at": "2025-09-22T20:20:12.729505Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1879,
+     "kodikolojik_bilgi": 1296
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1879,
+  "bilgi_set": [
+   {
+    "id": 1296,
+    "murekkep_set": [
+     {
+      "id": 1174,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1296
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 963,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "Hûb hatla",
+      "kodikolojik_bilgi": 1296
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "59",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T20:20:12.367804Z",
+    "updated_at": "2025-09-22T20:20:12.387251Z",
+    "kayit": {
+     "id": 3359,
+     "tam_metin": "[10] Kitâb-ı Hâşiye-i Hıtâʾî ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh. Hûb hatla. Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Elli dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:03.492808Z",
+     "updated_at": "2025-09-22T20:20:12.729505Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1879,
+     "kodikolojik_bilgi": 1296
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[10] Kitâb-ı Hâşiye-i Hıtâʾî ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh. Hûb hatla. Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Elli dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "42a",
+  "created_at": "2024-04-22T12:28:03.492808Z",
+  "updated_at": "2025-09-22T20:20:12.729505Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1296,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "59",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T20:20:12.367804Z",
+   "updated_at": "2025-09-22T20:20:12.387251Z",
+   "kayit": 3359,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[51] Kitâb-ı Hâşiyetü’l-Hıtâʾî ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh. Hûb hatla. Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. Elli dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "58a",
+ "created_at": "2024-02-10T12:48:50.548070Z",
+ "updated_at": "2026-01-23T12:18:37.221904Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
