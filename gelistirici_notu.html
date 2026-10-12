@@ -60,7 +60,7 @@ a{color:var(--accent)}
 <header>
   <span class="eyebrow">Geliştirici notu · backend.fatihkutuphanesi.com</span>
   <h1>Fatih Kütüphanesi API ve arayüzünde bulunan hatalar</h1>
-  <div class="meta"><span>Tarih: 12 Ekim 2026</span><span>Kapsam: Django REST API (<code>defter/viewsets.py</code>) ve Next.js arayüzü</span></div>
+  <div class="meta"><span>Tarih: 12 Ekim 2026 (güncellendi)</span><span>Kapsam: Django REST API (<code>defter/viewsets.py</code>) ve Next.js arayüzü</span></div>
   <p class="lead">Fenarizade ve Hacıhasanzade kayıtları katalog transkripsiyonuyla karşılaştırılıp düzeltilirken API üzerinden yaklaşık 520 kayıt güncellendi. Bu sırada aşağıdaki hatalar ortaya çıktı. İlk ikisi veri kaybına ya da bir formun hiç çalışmamasına yol açıyor.</p>
 </header>
 
@@ -141,11 +141,11 @@ if vakif and vakif['value'] and vakif['value'] == vakif['label']:   # satır 238
 <article class="s-mid">
   <div class="head"><span class="id">4</span><h2>Vâkıf filtresi bütün şahısları listeliyor</h2><span class="chip mid">Orta</span></div>
   <div class="block"><h3>Belirti</h3>
-    <p>Kayıtlar sayfasındaki vâkıf filtresine “kadizade” yazınca iki seçenek çıkıyor. Bunlardan biri hiçbir kitabın vâkıfı değil, bu yüzden onu seçince liste boş geliyor.</p></div>
+    <p>Kayıtlar sayfasındaki vâkıf filtresine “kadizade” yazınca iki seçenek çıkıyor: <em>Kādızâde</em> (#434) ve <em>Kādızâde-i Rûmî</em> (#564). İkincisi hiçbir kitabın vâkıfı değil, yalnızca müellif. Bu yüzden onu seçince liste boş geliyor.</p></div>
   <div class="block"><h3>Neden</h3>
     <ul>
       <li>Filtrenin seçenekleri <code>GET /api/sahis_options/</code> ucundan geliyor. Bu uç vâkıf, müstensih ve yazar ayrımı yapmadan 720 şahsın hepsini döndürüyor.</li>
-      <li>Veride aynı ad farklı işaretlerle iki kez girilmiş: #434 <em>Kādızâde</em> (137 kayıtta vâkıf) ve #564 <em>Kâdızâde</em> (yalnızca yazar). Bu bir veri konusu; kütüphane ekibi ayrıca ele alacak.</li>
+      <li>Veri tarafı düzeltildi (12.10.2026). Daha önce aynı ad farklı işaretlerle iki kez girilmişti ve müellif bilgisi iki kayda bölünmüştü. Şimdi #434 <em>Kādızâde</em> yalnızca vâkıf (137 kitap). #564'ün adı <em>Kādızâde-i Rûmî</em> olarak değiştirildi ve müellifin dört eseri bu kayıtta toplandı. Filtrede iki isim görünmeye devam ediyor, çünkü filtre bütün şahısları listeliyor.</li>
     </ul></div>
   <div class="block"><h3>Önerilen düzeltme</h3>
     <ol>
