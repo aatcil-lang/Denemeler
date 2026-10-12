@@ -1,0 +1,288 @@
+{
+ "id": 1502,
+ "kitap_set": [
+  {
+   "id": 3855,
+   "isim": "Sûre-i “Etâ emrullâh” tefsîrinden bir cüz’.",
+   "isim2": "",
+   "disiplin": "Tefsir",
+   "kapsam": "",
+   "created_at": "2024-11-30T20:15:40.978656Z",
+   "updated_at": "2025-04-06T19:20:09.975978Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1502,
+    "tam_metin": "[69] Kitâb-ı Meʿâlimü’t-Tenzîl. Sûre-i Ahkāf’dan قُلْ اَرَاَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللّٰهِ âyetinden ilâ âhiri’l-Kelâmi’l-Kadîm. Evvelinde Sûre-i Etâ emrullâh tefsîrinden bir cüzʾ bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Hasan Paşa. Yüz elli üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "42b",
+    "created_at": "2024-02-10T12:45:56.552181Z",
+    "updated_at": "2026-01-23T10:27:40.977340Z",
+    "vakif": 8,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3206,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 1497,
+   "isim": "Kitâb-ı Meâlimü’t-Tenzîl (Sûre-i Ahkāf’dan قُلْ اَرَاَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللّٰهِ âyetinden ilâ âhiri’l-Kelâmi’l-Kadîm).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:56.836957Z",
+   "updated_at": "2025-04-06T19:20:16.957875Z",
+   "yazar": {
+    "id": 447,
+    "isim": "Ebû Muhammed Muhyissünne el-Hüseyn b. Mes‘ûd b. Muhammed el-Ferrâ’ el-Begavî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-30T19:59:22.771502Z",
+    "updated_at": "2024-11-30T19:59:22.771519Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1502,
+    "tam_metin": "[69] Kitâb-ı Meʿâlimü’t-Tenzîl. Sûre-i Ahkāf’dan قُلْ اَرَاَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللّٰهِ âyetinden ilâ âhiri’l-Kelâmi’l-Kadîm. Evvelinde Sûre-i Etâ emrullâh tefsîrinden bir cüzʾ bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Hasan Paşa. Yüz elli üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "42b",
+    "created_at": "2024-02-10T12:45:56.552181Z",
+    "updated_at": "2026-01-23T10:27:40.977340Z",
+    "vakif": 8,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3206,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1080,
+   "koleksiyon_numarasi": "450",
+   "nusha": "https://portal.yek.gov.tr/works/detail/238010",
+   "created_at": "2026-05-05T20:44:38.479455Z",
+   "updated_at": "2026-05-05T20:44:38.479476Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1502,
+    "tam_metin": "[69] Kitâb-ı Meʿâlimü’t-Tenzîl. Sûre-i Ahkāf’dan قُلْ اَرَاَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللّٰهِ âyetinden ilâ âhiri’l-Kelâmi’l-Kadîm. Evvelinde Sûre-i Etâ emrullâh tefsîrinden bir cüzʾ bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Hasan Paşa. Yüz elli üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "42b",
+    "created_at": "2024-02-10T12:45:56.552181Z",
+    "updated_at": "2026-01-23T10:27:40.977340Z",
+    "vakif": 8,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3206,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 3206,
+  "kitap_set": [
+   {
+    "id": 3188,
+    "isim": "Kitâb-ı Meâlimü’t-Tenzîl.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:54.272486Z",
+    "updated_at": "2025-04-06T19:20:11.849502Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3206,
+     "tam_metin": "[6] Kitâb-ı Meʿâlimü’t-Tenzîl. Sûre-i Ahkāf’dan قُلْ أَرَأَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللهِ âyetinden  Sûre-i Nâs’a dek. Âhir varakının zahrında قد وقف وحبس حسن باشا بن عبد الرزاق وقفًا صحيحًا شرعيًّا هذه من معالم التنزيل deyu yazılmış.  Evvelinde Sûre-i Etâ Emrullâh tefsîrinden bir cüz bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildli. Yüz elli üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "36a",
+     "created_at": "2024-04-22T12:26:53.994557Z",
+     "updated_at": "2025-11-07T15:35:24.002667Z",
+     "vakif": 8,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1502,
+     "kodikolojik_bilgi": 1143
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1502,
+  "bilgi_set": [
+   {
+    "id": 1143,
+    "murekkep_set": [
+     {
+      "id": 1021,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1143
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 810,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1143
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Âhir varakının zahrında قد وقف وحبس حسن باشا بن عبد الرزاق وقفًا صحيحًا شرعيًّا هذه من معالم التنزيل deyu yazılmış.",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "153",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T09:18:04.932109Z",
+    "updated_at": "2025-11-07T15:35:23.994309Z",
+    "kayit": {
+     "id": 3206,
+     "tam_metin": "[6] Kitâb-ı Meʿâlimü’t-Tenzîl. Sûre-i Ahkāf’dan قُلْ أَرَأَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللهِ âyetinden  Sûre-i Nâs’a dek. Âhir varakının zahrında قد وقف وحبس حسن باشا بن عبد الرزاق وقفًا صحيحًا شرعيًّا هذه من معالم التنزيل deyu yazılmış.  Evvelinde Sûre-i Etâ Emrullâh tefsîrinden bir cüz bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildli. Yüz elli üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "36a",
+     "created_at": "2024-04-22T12:26:53.994557Z",
+     "updated_at": "2025-11-07T15:35:24.002667Z",
+     "vakif": 8,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1502,
+     "kodikolojik_bilgi": 1143
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[6] Kitâb-ı Meʿâlimü’t-Tenzîl. Sûre-i Ahkāf’dan قُلْ أَرَأَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللهِ âyetinden  Sûre-i Nâs’a dek. Âhir varakının zahrında قد وقف وحبس حسن باشا بن عبد الرزاق وقفًا صحيحًا شرعيًّا هذه من معالم التنزيل deyu yazılmış.  Evvelinde Sûre-i Etâ Emrullâh tefsîrinden bir cüz bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildli. Yüz elli üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "36a",
+  "created_at": "2024-04-22T12:26:53.994557Z",
+  "updated_at": "2025-11-07T15:35:24.002667Z",
+  "vakif": {
+   "id": 8,
+   "isim": "Hasan Paşa",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:46:05.924632Z",
+   "updated_at": "2024-04-22T11:46:05.924653Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1143,
+   "zahriye_exists": true,
+   "zahriye": "Âhir varakının zahrında قد وقف وحبس حسن باشا بن عبد الرزاق وقفًا صحيحًا شرعيًّا هذه من معالم التنزيل deyu yazılmış.",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "153",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T09:18:04.932109Z",
+   "updated_at": "2025-11-07T15:35:23.994309Z",
+   "kayit": 3206,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[69] Kitâb-ı Meʿâlimü’t-Tenzîl. Sûre-i Ahkāf’dan قُلْ اَرَاَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللّٰهِ âyetinden ilâ âhiri’l-Kelâmi’l-Kadîm. Evvelinde Sûre-i Etâ emrullâh tefsîrinden bir cüzʾ bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Hasan Paşa. Yüz elli üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "42b",
+ "created_at": "2024-02-10T12:45:56.552181Z",
+ "updated_at": "2026-01-23T10:27:40.977340Z",
+ "vakif": {
+  "id": 8,
+  "isim": "Hasan Paşa",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:46:05.924632Z",
+  "updated_at": "2024-04-22T11:46:05.924653Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

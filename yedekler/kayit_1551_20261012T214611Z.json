@@ -1,0 +1,260 @@
+{
+ "id": 1551,
+ "kitap_set": [
+  {
+   "id": 1546,
+   "isim": "Kitâbü’l-Cildi’r-Râbi‘ min Sahîhi’l-Buhârî (Min evveli Kitâbi’l-Merdâ ilâ âhiri’l-kitâb).",
+   "isim2": null,
+   "disiplin": "Hadis",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:19.526311Z",
+   "updated_at": "2025-04-06T19:20:16.812397Z",
+   "yazar": {
+    "id": 82,
+    "isim": "Muhammed b. İsmâil Buhârî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-03T18:04:25.945479Z",
+    "updated_at": "2024-08-03T18:04:25.945495Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1551,
+    "tam_metin": "[6] Kitâbü’l-Cildi’r-Râbiʿ min Sahîhi’l-Buhârî. Min evveli Kitâbi’l-Merdâ ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Musannifek. İki yüz on bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "44b",
+    "created_at": "2024-02-10T12:46:19.246823Z",
+    "updated_at": "2026-01-26T16:30:03.462659Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3438,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3438,
+  "kitap_set": [
+   {
+    "id": 3420,
+    "isim": "Kitâb-ı Câmiu’s-Sahîh-i Buhârî.",
+    "isim2": null,
+    "disiplin": "Hadis",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:40:57.065715Z",
+    "updated_at": "2025-04-06T19:20:11.193035Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3438,
+     "tam_metin": "[8] Kitâb-ı Câmiʿu’s-Sahîh-i Buhârî. Kitâb-ı Merdâ’dan âhirine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+     "notlar": "",
+     "sayfa_numarasi": "43b",
+     "created_at": "2024-04-22T12:40:56.798542Z",
+     "updated_at": "2025-09-22T21:19:38.386058Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1551,
+     "kodikolojik_bilgi": 1336
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 765,
+    "koleksiyon_numarasi": "01091",
+    "nusha": "",
+    "created_at": "2025-01-15T15:10:23.344754Z",
+    "updated_at": "2025-01-15T15:10:23.344770Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3438,
+     "tam_metin": "[8] Kitâb-ı Câmiʿu’s-Sahîh-i Buhârî. Kitâb-ı Merdâ’dan âhirine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+     "notlar": "",
+     "sayfa_numarasi": "43b",
+     "created_at": "2024-04-22T12:40:56.798542Z",
+     "updated_at": "2025-09-22T21:19:38.386058Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1551,
+     "kodikolojik_bilgi": 1336
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1551,
+  "bilgi_set": [
+   {
+    "id": 1336,
+    "murekkep_set": [
+     {
+      "id": 1214,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1336
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1003,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1336
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "211",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T21:19:38.379698Z",
+    "updated_at": "2025-09-22T21:19:38.379716Z",
+    "kayit": {
+     "id": 3438,
+     "tam_metin": "[8] Kitâb-ı Câmiʿu’s-Sahîh-i Buhârî. Kitâb-ı Merdâ’dan âhirine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+     "notlar": "",
+     "sayfa_numarasi": "43b",
+     "created_at": "2024-04-22T12:40:56.798542Z",
+     "updated_at": "2025-09-22T21:19:38.386058Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1551,
+     "kodikolojik_bilgi": 1336
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[8] Kitâb-ı Câmiʿu’s-Sahîh-i Buhârî. Kitâb-ı Merdâ’dan âhirine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on bir varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+  "notlar": "",
+  "sayfa_numarasi": "43b",
+  "created_at": "2024-04-22T12:40:56.798542Z",
+  "updated_at": "2025-09-22T21:19:38.386058Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1336,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "211",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T21:19:38.379698Z",
+   "updated_at": "2025-09-22T21:19:38.379716Z",
+   "kayit": 3438,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[6] Kitâbü’l-Cildi’r-Râbiʿ min Sahîhi’l-Buhârî. Min evveli Kitâbi’l-Merdâ ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Musannifek. İki yüz on bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+ "notlar": "",
+ "sayfa_numarasi": "44b",
+ "created_at": "2024-02-10T12:46:19.246823Z",
+ "updated_at": "2026-01-26T16:30:03.462659Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

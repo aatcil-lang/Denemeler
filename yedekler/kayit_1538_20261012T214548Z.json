@@ -1,0 +1,272 @@
+{
+ "id": 1538,
+ "kitap_set": [
+  {
+   "id": 1533,
+   "isim": "Kitâb-ı Cildün min Tefsîri Musannifek.",
+   "isim2": null,
+   "disiplin": "Tefsir",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:13.628657Z",
+   "updated_at": "2025-04-06T19:20:16.852477Z",
+   "yazar": {
+    "id": 11,
+    "isim": "Mevlânâ Musannifek",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-04-22T11:53:25.702212Z",
+    "updated_at": "2024-04-22T11:53:25.702230Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1538,
+    "tam_metin": "[105] Kitâb-ı Cildün min Tefsîri Musannifek. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildle. Bi-hattı Musannifek. Vakf-ı Musannifek. Elli varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "44a",
+    "created_at": "2024-02-10T12:46:13.355004Z",
+    "updated_at": "2026-01-26T16:18:12.657951Z",
+    "vakif": 11,
+    "mustensih": 11,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3430,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1077,
+   "koleksiyon_numarasi": "379",
+   "nusha": "https://portal.yek.gov.tr/works/detail/237939",
+   "created_at": "2026-05-04T20:10:15.654165Z",
+   "updated_at": "2026-05-04T20:10:15.654179Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1538,
+    "tam_metin": "[105] Kitâb-ı Cildün min Tefsîri Musannifek. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildle. Bi-hattı Musannifek. Vakf-ı Musannifek. Elli varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "44a",
+    "created_at": "2024-02-10T12:46:13.355004Z",
+    "updated_at": "2026-01-26T16:18:12.657951Z",
+    "vakif": 11,
+    "mustensih": 11,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3430,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 3430,
+  "kitap_set": [
+   {
+    "id": 3412,
+    "isim": "Kitâb-ı Müsveddât.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:40:53.682825Z",
+    "updated_at": "2025-04-06T19:20:11.215674Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3430,
+     "tam_metin": "[14] Kitâb-ı Müsevvedât. Sûre-i Yûsuf tefsîrine müteʿallik. Bi-hattı el-Mevlâ el-Vâkıf Mevlânâ Musannifek. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Elli varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "43b",
+     "created_at": "2024-04-22T12:40:53.413726Z",
+     "updated_at": "2025-09-22T21:05:19.007042Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1538,
+     "kodikolojik_bilgi": 1328
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1538,
+  "bilgi_set": [
+   {
+    "id": 1328,
+    "murekkep_set": [
+     {
+      "id": 1206,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1328
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 995,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1328
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Sarı kağıt",
+    "varak_adedi": "50",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T21:05:18.988021Z",
+    "updated_at": "2025-09-22T21:05:18.988053Z",
+    "kayit": {
+     "id": 3430,
+     "tam_metin": "[14] Kitâb-ı Müsevvedât. Sûre-i Yûsuf tefsîrine müteʿallik. Bi-hattı el-Mevlâ el-Vâkıf Mevlânâ Musannifek. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Elli varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "43b",
+     "created_at": "2024-04-22T12:40:53.413726Z",
+     "updated_at": "2025-09-22T21:05:19.007042Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1538,
+     "kodikolojik_bilgi": 1328
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[14] Kitâb-ı Müsevvedât. Sûre-i Yûsuf tefsîrine müteʿallik. Bi-hattı el-Mevlâ el-Vâkıf Mevlânâ Musannifek. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Elli varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+  "notlar": "",
+  "sayfa_numarasi": "43b",
+  "created_at": "2024-04-22T12:40:53.413726Z",
+  "updated_at": "2025-09-22T21:05:19.007042Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1328,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Sarı kağıt",
+   "varak_adedi": "50",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T21:05:18.988021Z",
+   "updated_at": "2025-09-22T21:05:18.988053Z",
+   "kayit": 3430,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[105] Kitâb-ı Cildün min Tefsîri Musannifek. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildle. Bi-hattı Musannifek. Vakf-ı Musannifek. Elli varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "44a",
+ "created_at": "2024-02-10T12:46:13.355004Z",
+ "updated_at": "2026-01-26T16:18:12.657951Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

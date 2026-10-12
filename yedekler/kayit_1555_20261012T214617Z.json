@@ -1,0 +1,111 @@
+{
+ "id": 1555,
+ "kitap_set": [
+  {
+   "id": 1550,
+   "isim": "Kitâbü’l-Cildi’r-Râbi‘ mine’l-Kirmânî ale’l-Buhârî (Min evveli Kitâbi’l-Merdâ ilâ âhiri’l-kitâb).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:21.332694Z",
+   "updated_at": "2025-04-06T19:20:16.801201Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1555,
+    "tam_metin": "[10] Kitâbü’l-Cildi’r-Râbiʿ mine’l-Kirmânî ale’l-Buhârî. Min evveli Kitâbi’l-Merdâ ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. Yüz altmış sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "44b",
+    "created_at": "2024-02-10T12:46:21.050500Z",
+    "updated_at": "2026-10-11T22:53:58.641139Z",
+    "vakif": 434,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1098,
+   "koleksiyon_numarasi": "938",
+   "nusha": "https://portal.yek.gov.tr/works/detail/238557",
+   "created_at": "2026-05-06T19:08:10.081087Z",
+   "updated_at": "2026-05-06T19:08:10.081101Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1555,
+    "tam_metin": "[10] Kitâbü’l-Cildi’r-Râbiʿ mine’l-Kirmânî ale’l-Buhârî. Min evveli Kitâbi’l-Merdâ ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. Yüz altmış sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+    "notlar": "",
+    "sayfa_numarasi": "44b",
+    "created_at": "2024-02-10T12:46:21.050500Z",
+    "updated_at": "2026-10-11T22:53:58.641139Z",
+    "vakif": 434,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[10] Kitâbü’l-Cildi’r-Râbiʿ mine’l-Kirmânî ale’l-Buhârî. Min evveli Kitâbi’l-Merdâ ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. Yüz altmış sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+ "notlar": "",
+ "sayfa_numarasi": "44b",
+ "created_at": "2024-02-10T12:46:21.050500Z",
+ "updated_at": "2026-10-11T22:53:58.641139Z",
+ "vakif": {
+  "id": 434,
+  "isim": "Kādızâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-11-30T12:30:27.461215Z",
+  "updated_at": "2024-11-30T12:30:27.461229Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

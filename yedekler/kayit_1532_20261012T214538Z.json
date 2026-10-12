@@ -1,0 +1,248 @@
+{
+ "id": 1532,
+ "kitap_set": [
+  {
+   "id": 1527,
+   "isim": "Kitâbün mine’t-Tefsîr (Sûre-i Sâd’dan Sûre-i Nâs âhirine dek).",
+   "isim2": null,
+   "disiplin": "Tefsir",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:10.908388Z",
+   "updated_at": "2025-04-06T19:20:16.869744Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1532,
+    "tam_metin": "[99] Kitâbün mine’t-Tefsîr. Sûre-i Sâd’dan Sûre-i Nâs âhirine dek. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildle. Mine’l-kütübi’l-gayri maʿlûme. İki yüz yirmi bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "43b",
+    "created_at": "2024-02-10T12:46:10.626989Z",
+    "updated_at": "2026-01-27T22:56:06.134260Z",
+    "vakif": 742,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3634,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1086,
+   "koleksiyon_numarasi": "483",
+   "nusha": "https://portal.yek.gov.tr/works/detail/238043",
+   "created_at": "2026-05-05T20:54:36.268737Z",
+   "updated_at": "2026-05-05T20:54:36.268756Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1532,
+    "tam_metin": "[99] Kitâbün mine’t-Tefsîr. Sûre-i Sâd’dan Sûre-i Nâs âhirine dek. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildle. Mine’l-kütübi’l-gayri maʿlûme. İki yüz yirmi bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "43b",
+    "created_at": "2024-02-10T12:46:10.626989Z",
+    "updated_at": "2026-01-27T22:56:06.134260Z",
+    "vakif": 742,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3634,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 3634,
+  "kitap_set": [
+   {
+    "id": 3613,
+    "isim": "Kitâb-ı Tefsîr.",
+    "isim2": null,
+    "disiplin": "Tefsir",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:46:14.440536Z",
+    "updated_at": "2025-04-06T19:20:10.654322Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3634,
+     "tam_metin": "[1] Kitâb-ı Tefsîr. Sûre-i Sâd’dan Sûre-i Nâs âhirine dek. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildli. İki yüz yirmi bir varak. İkinci varakının evvelinde وقف هذا الكتاب المبارك العبد الفقير إلى الله تعالى الحاج خضر بن الحاج إبراهيم -ilâ âhirihî-  deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+     "notlar": "",
+     "sayfa_numarasi": "52b",
+     "created_at": "2024-04-22T12:46:14.170173Z",
+     "updated_at": "2026-01-27T22:55:18.831227Z",
+     "vakif": 742,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1532,
+     "kodikolojik_bilgi": 1527
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1532,
+  "bilgi_set": [
+   {
+    "id": 1527,
+    "murekkep_set": [
+     {
+      "id": 1407,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1527
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1193,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1527
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Köhne ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "221",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "İkinci varakının evvelinde وقف هذا الكتاب المبارك العبد الفقير إلى الله تعالى الحاج خضر بن الحاج إبراهيم -ilâ âhirihî-  deyu yazılmış.",
+    "created_at": "2025-10-02T07:02:52.412369Z",
+    "updated_at": "2025-10-02T07:02:52.412394Z",
+    "kayit": {
+     "id": 3634,
+     "tam_metin": "[1] Kitâb-ı Tefsîr. Sûre-i Sâd’dan Sûre-i Nâs âhirine dek. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildli. İki yüz yirmi bir varak. İkinci varakının evvelinde وقف هذا الكتاب المبارك العبد الفقير إلى الله تعالى الحاج خضر بن الحاج إبراهيم -ilâ âhirihî-  deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+     "notlar": "",
+     "sayfa_numarasi": "52b",
+     "created_at": "2024-04-22T12:46:14.170173Z",
+     "updated_at": "2026-01-27T22:55:18.831227Z",
+     "vakif": 742,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1532,
+     "kodikolojik_bilgi": 1527
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[1] Kitâb-ı Tefsîr. Sûre-i Sâd’dan Sûre-i Nâs âhirine dek. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildli. İki yüz yirmi bir varak. İkinci varakının evvelinde وقف هذا الكتاب المبارك العبد الفقير إلى الله تعالى الحاج خضر بن الحاج إبراهيم -ilâ âhirihî-  deyu yazılmış.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+  "notlar": "",
+  "sayfa_numarasi": "52b",
+  "created_at": "2024-04-22T12:46:14.170173Z",
+  "updated_at": "2026-01-27T22:55:18.831227Z",
+  "vakif": {
+   "id": 742,
+   "isim": "[bilgi yok]",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-27T21:30:30.238544Z",
+   "updated_at": "2026-01-27T21:30:30.239057Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1527,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Köhne ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "221",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "İkinci varakının evvelinde وقف هذا الكتاب المبارك العبد الفقير إلى الله تعالى الحاج خضر بن الحاج إبراهيم -ilâ âhirihî-  deyu yazılmış.",
+   "created_at": "2025-10-02T07:02:52.412369Z",
+   "updated_at": "2025-10-02T07:02:52.412394Z",
+   "kayit": 3634,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[99] Kitâbün mine’t-Tefsîr. Sûre-i Sâd’dan Sûre-i Nâs âhirine dek. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildle. Mine’l-kütübi’l-gayri maʿlûme. İki yüz yirmi bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "43b",
+ "created_at": "2024-02-10T12:46:10.626989Z",
+ "updated_at": "2026-01-27T22:56:06.134260Z",
+ "vakif": {
+  "id": 742,
+  "isim": "[bilgi yok]",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-27T21:30:30.238544Z",
+  "updated_at": "2026-01-27T21:30:30.239057Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

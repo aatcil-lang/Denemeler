@@ -1,0 +1,260 @@
+{
+ "id": 1506,
+ "kitap_set": [
+  {
+   "id": 1501,
+   "isim": "Kitâb-ı Meâlimü’t-Tenzîl (وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ اَبْصَارِهِنَّ âyetinden âhir-i Sûre-i Sebeʾye dek).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:58.709645Z",
+   "updated_at": "2025-04-06T19:20:16.944905Z",
+   "yazar": {
+    "id": 447,
+    "isim": "Ebû Muhammed Muhyissünne el-Hüseyn b. Mes‘ûd b. Muhammed el-Ferrâ’ el-Begavî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-30T19:59:22.771502Z",
+    "updated_at": "2024-11-30T19:59:22.771519Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1506,
+    "tam_metin": "[73] Kitâb-ı Meʿâlimü’t-Tenzîl. وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ اَبْصَارِهِنَّ âyetinden âhir-i Sûre-i Sebeʾye dek. Dımeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultân Hâtun. İki yüz kırk altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "42b",
+    "created_at": "2024-02-10T12:45:58.420724Z",
+    "updated_at": "2026-01-31T10:47:57.308722Z",
+    "vakif": 763,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3627,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3627,
+  "kitap_set": [
+   {
+    "id": 3606,
+    "isim": "Kitâb-ı Meâlimü’t-Tenzîl.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:46:11.452852Z",
+    "updated_at": "2025-04-06T19:20:10.675505Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3627,
+     "tam_metin": "[41] Kitâb-ı Meʿâlimü’t-Tenzîl. وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ اَبْصَارِهِنَّ âyetinden  âhir-i Sûre-i Sebeʾye dek. Dimeşkī tamâmına. Ciğerî cildli. Vakf-ı Sultân Hatun. İki yüz kırk altı varak.\n[Derkenar] Zahrında “Sultân Hatun Vakfı” deyu yazılmış ve bir varakın dahi zahrında “Kâbîlîzâde Vakfı” deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "52a",
+     "created_at": "2024-04-22T12:46:11.186499Z",
+     "updated_at": "2026-01-31T10:47:07.821238Z",
+     "vakif": 763,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1506,
+     "kodikolojik_bilgi": 1520
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 869,
+    "koleksiyon_numarasi": "00436",
+    "nusha": "",
+    "created_at": "2025-01-16T01:40:16.962202Z",
+    "updated_at": "2025-01-16T01:40:16.962217Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3627,
+     "tam_metin": "[41] Kitâb-ı Meʿâlimü’t-Tenzîl. وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ اَبْصَارِهِنَّ âyetinden  âhir-i Sûre-i Sebeʾye dek. Dimeşkī tamâmına. Ciğerî cildli. Vakf-ı Sultân Hatun. İki yüz kırk altı varak.\n[Derkenar] Zahrında “Sultân Hatun Vakfı” deyu yazılmış ve bir varakın dahi zahrında “Kâbîlîzâde Vakfı” deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "52a",
+     "created_at": "2024-04-22T12:46:11.186499Z",
+     "updated_at": "2026-01-31T10:47:07.821238Z",
+     "vakif": 763,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1506,
+     "kodikolojik_bilgi": 1520
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1506,
+  "bilgi_set": [
+   {
+    "id": 1520,
+    "murekkep_set": [
+     {
+      "id": 1400,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1520
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1186,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1520
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Zahrında “Sultân Hatun Vakfı” deyu yazılmış ve bir varakın dahi zahrında “Kâbîlîzâde Vakfı” deyu yazılmış.",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "246",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-02T06:53:51.641352Z",
+    "updated_at": "2025-10-02T06:53:51.641610Z",
+    "kayit": {
+     "id": 3627,
+     "tam_metin": "[41] Kitâb-ı Meʿâlimü’t-Tenzîl. وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ اَبْصَارِهِنَّ âyetinden  âhir-i Sûre-i Sebeʾye dek. Dimeşkī tamâmına. Ciğerî cildli. Vakf-ı Sultân Hatun. İki yüz kırk altı varak.\n[Derkenar] Zahrında “Sultân Hatun Vakfı” deyu yazılmış ve bir varakın dahi zahrında “Kâbîlîzâde Vakfı” deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "52a",
+     "created_at": "2024-04-22T12:46:11.186499Z",
+     "updated_at": "2026-01-31T10:47:07.821238Z",
+     "vakif": 763,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1506,
+     "kodikolojik_bilgi": 1520
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[41] Kitâb-ı Meʿâlimü’t-Tenzîl. وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ اَبْصَارِهِنَّ âyetinden  âhir-i Sûre-i Sebeʾye dek. Dimeşkī tamâmına. Ciğerî cildli. Vakf-ı Sultân Hatun. İki yüz kırk altı varak.\n[Derkenar] Zahrında “Sultân Hatun Vakfı” deyu yazılmış ve bir varakın dahi zahrında “Kâbîlîzâde Vakfı” deyu yazılmış.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "52a",
+  "created_at": "2024-04-22T12:46:11.186499Z",
+  "updated_at": "2026-01-31T10:47:07.821238Z",
+  "vakif": {
+   "id": 763,
+   "isim": "Mevlânâ Sultân Hatun",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:44:50.424703Z",
+   "updated_at": "2026-01-31T10:44:50.424762Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1520,
+   "zahriye_exists": true,
+   "zahriye": "Zahrında “Sultân Hatun Vakfı” deyu yazılmış ve bir varakın dahi zahrında “Kâbîlîzâde Vakfı” deyu yazılmış.",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "246",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-02T06:53:51.641352Z",
+   "updated_at": "2025-10-02T06:53:51.641610Z",
+   "kayit": 3627,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[73] Kitâb-ı Meʿâlimü’t-Tenzîl. وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ اَبْصَارِهِنَّ âyetinden âhir-i Sûre-i Sebeʾye dek. Dımeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultân Hâtun. İki yüz kırk altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "42b",
+ "created_at": "2024-02-10T12:45:58.420724Z",
+ "updated_at": "2026-01-31T10:47:57.308722Z",
+ "vakif": {
+  "id": 763,
+  "isim": "Mevlânâ Sultân Hatun",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:44:50.424703Z",
+  "updated_at": "2026-01-31T10:44:50.424762Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

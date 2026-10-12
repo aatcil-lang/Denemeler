@@ -1,0 +1,276 @@
+{
+ "id": 1544,
+ "kitap_set": [
+  {
+   "id": 3867,
+   "isim": "Menâkıbu’l-İmâm el-Aʿzam rahimehullâh bi’l-Arabî.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2024-12-04T22:01:01.944682Z",
+   "updated_at": "2025-04-06T19:20:09.941211Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1544,
+    "tam_metin": "[111] Kitâb-ı Havâssü’l-Kurʾân bi’l-Fârisî ve Menâkıbu’l-İmâm el-Aʿzam rahimehullâh bi’l-Arabî. Bir cildde. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Yüz seksen altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "44a",
+    "created_at": "2024-02-10T12:46:16.062371Z",
+    "updated_at": "2026-01-23T10:50:53.290667Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3214,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 1539,
+   "isim": "Kitâb-ı Havâssü’l-Kur’ân bi’l-Fârisî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:16.335352Z",
+   "updated_at": "2025-04-06T19:20:16.832389Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1544,
+    "tam_metin": "[111] Kitâb-ı Havâssü’l-Kurʾân bi’l-Fârisî ve Menâkıbu’l-İmâm el-Aʿzam rahimehullâh bi’l-Arabî. Bir cildde. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Yüz seksen altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "44a",
+    "created_at": "2024-02-10T12:46:16.062371Z",
+    "updated_at": "2026-01-23T10:50:53.290667Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3214,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3214,
+  "kitap_set": [
+   {
+    "id": 3196,
+    "isim": "Kitâb-ı Havâss-ı Kur’ân, Fârisî ve Menâkıb-ı Ebû Hanîfe, Arabî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:57.906260Z",
+    "updated_at": "2025-04-06T19:20:11.826620Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3214,
+     "tam_metin": "[8] Kitâb-ı Havâss-ı Kurʾân Fârisî ve Menâkıb-ı Ebû Hanîfe Arabî. Bir cildde. Dimeşkī nısfına. Ciğerî cildli. Yüz seksen altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "36b",
+     "created_at": "2024-04-22T12:26:57.624621Z",
+     "updated_at": "2025-09-22T09:26:02.339806Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1544,
+     "kodikolojik_bilgi": 1151
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 637,
+    "koleksiyon_numarasi": "00609",
+    "nusha": "",
+    "created_at": "2025-01-14T09:53:42.373647Z",
+    "updated_at": "2025-01-14T09:53:42.373661Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3214,
+     "tam_metin": "[8] Kitâb-ı Havâss-ı Kurʾân Fârisî ve Menâkıb-ı Ebû Hanîfe Arabî. Bir cildde. Dimeşkī nısfına. Ciğerî cildli. Yüz seksen altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "36b",
+     "created_at": "2024-04-22T12:26:57.624621Z",
+     "updated_at": "2025-09-22T09:26:02.339806Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1544,
+     "kodikolojik_bilgi": 1151
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1544,
+  "bilgi_set": [
+   {
+    "id": 1151,
+    "murekkep_set": [
+     {
+      "id": 1029,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1151
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 818,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1151
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "186",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T09:26:02.332005Z",
+    "updated_at": "2025-09-22T09:26:02.332028Z",
+    "kayit": {
+     "id": 3214,
+     "tam_metin": "[8] Kitâb-ı Havâss-ı Kurʾân Fârisî ve Menâkıb-ı Ebû Hanîfe Arabî. Bir cildde. Dimeşkī nısfına. Ciğerî cildli. Yüz seksen altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "36b",
+     "created_at": "2024-04-22T12:26:57.624621Z",
+     "updated_at": "2025-09-22T09:26:02.339806Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1544,
+     "kodikolojik_bilgi": 1151
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[8] Kitâb-ı Havâss-ı Kurʾân Fârisî ve Menâkıb-ı Ebû Hanîfe Arabî. Bir cildde. Dimeşkī nısfına. Ciğerî cildli. Yüz seksen altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+  "notlar": "",
+  "sayfa_numarasi": "36b",
+  "created_at": "2024-04-22T12:26:57.624621Z",
+  "updated_at": "2025-09-22T09:26:02.339806Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1151,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "186",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T09:26:02.332005Z",
+   "updated_at": "2025-09-22T09:26:02.332028Z",
+   "kayit": 3214,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[111] Kitâb-ı Havâssü’l-Kurʾân bi’l-Fârisî ve Menâkıbu’l-İmâm el-Aʿzam rahimehullâh bi’l-Arabî. Bir cildde. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Yüz seksen altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "44a",
+ "created_at": "2024-02-10T12:46:16.062371Z",
+ "updated_at": "2026-01-23T10:50:53.290667Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

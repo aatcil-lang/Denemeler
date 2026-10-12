@@ -1,0 +1,220 @@
+{
+ "id": 1528,
+ "kitap_set": [
+  {
+   "id": 1523,
+   "isim": "Kitâb-ı Tefsîrü’r-Râgıb el-İsfehânî.",
+   "isim2": null,
+   "disiplin": "Tefsir",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:46:09.093835Z",
+   "updated_at": "2025-04-06T19:20:16.880669Z",
+   "yazar": {
+    "id": 452,
+    "isim": "Ebü’l-Kāsım Hüseyn b. Muhammed b. el-Mufaddal er-Râgıb el-İsfahânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-04T21:33:20.596710Z",
+    "updated_at": "2024-12-04T21:33:20.596725Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1528,
+    "tam_metin": "[95] Kitâb-ı Tefsîrü’r-Râgıb el-İsfehânî. Evvelinden نِسَاؤُكُمْ حَرْثٌ لَكُمْ âyetine  dek. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Ahmed Kâbilî. Yüz seksen beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "43b",
+    "created_at": "2024-02-10T12:46:08.819355Z",
+    "updated_at": "2026-01-23T10:55:38.730227Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3224,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3224,
+  "kitap_set": [
+   {
+    "id": 3206,
+    "isim": "Kitâb-ı Tefsîr-i Râgıb Isfahânî.",
+    "isim2": null,
+    "disiplin": "Tefsir",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:02.418522Z",
+    "updated_at": "2025-04-06T19:20:11.797489Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3224,
+     "tam_metin": "[18] Kitâb-ı Tefsîr-i Râgıb Isfahânî. Evvelinden ﴿نِسَاؤُكُمْ حَرْثٌ لَكُمْ﴾ âyetine  dek. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz seksen beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "37a",
+     "created_at": "2024-04-22T12:27:02.138312Z",
+     "updated_at": "2025-09-22T11:00:42.883911Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1528,
+     "kodikolojik_bilgi": 1161
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1528,
+  "bilgi_set": [
+   {
+    "id": 1161,
+    "murekkep_set": [
+     {
+      "id": 1039,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1161
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 828,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1161
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "185",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Rub'undan kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T11:00:42.877177Z",
+    "updated_at": "2025-09-22T11:00:42.877204Z",
+    "kayit": {
+     "id": 3224,
+     "tam_metin": "[18] Kitâb-ı Tefsîr-i Râgıb Isfahânî. Evvelinden ﴿نِسَاؤُكُمْ حَرْثٌ لَكُمْ﴾ âyetine  dek. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz seksen beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "37a",
+     "created_at": "2024-04-22T12:27:02.138312Z",
+     "updated_at": "2025-09-22T11:00:42.883911Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1528,
+     "kodikolojik_bilgi": 1161
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[18] Kitâb-ı Tefsîr-i Râgıb Isfahânî. Evvelinden ﴿نِسَاؤُكُمْ حَرْثٌ لَكُمْ﴾ âyetine  dek. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz seksen beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+  "notlar": "",
+  "sayfa_numarasi": "37a",
+  "created_at": "2024-04-22T12:27:02.138312Z",
+  "updated_at": "2025-09-22T11:00:42.883911Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1161,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "185",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Rub'undan kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T11:00:42.877177Z",
+   "updated_at": "2025-09-22T11:00:42.877204Z",
+   "kayit": 3224,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[95] Kitâb-ı Tefsîrü’r-Râgıb el-İsfehânî. Evvelinden نِسَاؤُكُمْ حَرْثٌ لَكُمْ âyetine  dek. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Ahmed Kâbilî. Yüz seksen beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "43b",
+ "created_at": "2024-02-10T12:46:08.819355Z",
+ "updated_at": "2026-01-23T10:55:38.730227Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
