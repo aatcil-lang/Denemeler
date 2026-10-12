@@ -1,0 +1,260 @@
+{
+ "id": 1800,
+ "kitap_set": [
+  {
+   "id": 1795,
+   "isim": "Kitâb-ı Şerhü’t-Tavâli‘.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:14.158081Z",
+   "updated_at": "2025-04-06T19:20:16.055936Z",
+   "yazar": {
+    "id": 512,
+    "isim": "Ebü’s-Senâ Şemsüddîn Mahmûd b. Abdirrahmân b. Ahmed el-İsfahânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-29T20:36:12.663070Z",
+    "updated_at": "2024-12-29T20:36:12.663084Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1800,
+    "tam_metin": "[20] Kitâb-ı Şerhu’t-Tavâliʿ eydan li’l-İsfahânî. Köhne. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. Yüz doksan altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+    "notlar": "",
+    "sayfa_numarasi": "54b",
+    "created_at": "2024-02-10T12:48:13.865989Z",
+    "updated_at": "2026-01-23T12:04:09.984113Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3341,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3341,
+  "kitap_set": [
+   {
+    "id": 3323,
+    "isim": "Kitâb-ı Şerh-i Tavâli‘-i İsfehânî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:55.549184Z",
+    "updated_at": "2025-04-06T19:20:11.448670Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3341,
+     "tam_metin": "[14] Kitâb-ı Şerh-i Tavâliʿ-i Isfahânî. Köhne. Dimeşkī tamâmına. Köhne ak kâğıd mukavvâ cildli. Yüz doksan altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "41b",
+     "created_at": "2024-04-22T12:27:55.283323Z",
+     "updated_at": "2025-09-22T18:58:22.616878Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1800,
+     "kodikolojik_bilgi": 1278
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 722,
+    "koleksiyon_numarasi": "03038",
+    "nusha": "",
+    "created_at": "2025-01-15T13:51:15.693533Z",
+    "updated_at": "2025-01-15T13:51:15.693548Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3341,
+     "tam_metin": "[14] Kitâb-ı Şerh-i Tavâliʿ-i Isfahânî. Köhne. Dimeşkī tamâmına. Köhne ak kâğıd mukavvâ cildli. Yüz doksan altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "41b",
+     "created_at": "2024-04-22T12:27:55.283323Z",
+     "updated_at": "2025-09-22T18:58:22.616878Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1800,
+     "kodikolojik_bilgi": 1278
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1800,
+  "bilgi_set": [
+   {
+    "id": 1278,
+    "murekkep_set": [
+     {
+      "id": 1156,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1278
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 945,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1278
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Köhne ak kağıt",
+    "varak_adedi": "196",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T18:58:22.604170Z",
+    "updated_at": "2025-09-22T18:58:22.604196Z",
+    "kayit": {
+     "id": 3341,
+     "tam_metin": "[14] Kitâb-ı Şerh-i Tavâliʿ-i Isfahânî. Köhne. Dimeşkī tamâmına. Köhne ak kâğıd mukavvâ cildli. Yüz doksan altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "41b",
+     "created_at": "2024-04-22T12:27:55.283323Z",
+     "updated_at": "2025-09-22T18:58:22.616878Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1800,
+     "kodikolojik_bilgi": 1278
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[14] Kitâb-ı Şerh-i Tavâliʿ-i Isfahânî. Köhne. Dimeşkī tamâmına. Köhne ak kâğıd mukavvâ cildli. Yüz doksan altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+  "notlar": "",
+  "sayfa_numarasi": "41b",
+  "created_at": "2024-04-22T12:27:55.283323Z",
+  "updated_at": "2025-09-22T18:58:22.616878Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1278,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Köhne ak kağıt",
+   "varak_adedi": "196",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T18:58:22.604170Z",
+   "updated_at": "2025-09-22T18:58:22.604196Z",
+   "kayit": 3341,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[20] Kitâb-ı Şerhu’t-Tavâliʿ eydan li’l-İsfahânî. Köhne. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. Yüz doksan altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+ "notlar": "",
+ "sayfa_numarasi": "54b",
+ "created_at": "2024-02-10T12:48:13.865989Z",
+ "updated_at": "2026-01-23T12:04:09.984113Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

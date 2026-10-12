@@ -1,0 +1,260 @@
+{
+ "id": 1836,
+ "kitap_set": [
+  {
+   "id": 1831,
+   "isim": "Kitâb-ı Düstûru’l-Luga.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:30.768972Z",
+   "updated_at": "2025-04-06T19:20:15.942687Z",
+   "yazar": {
+    "id": 529,
+    "isim": "Edîb Natanazzî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-01T06:24:49.938180Z",
+    "updated_at": "2025-01-01T06:24:49.938200Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1836,
+    "tam_metin": "[8] Kitâb-ı Düstûru’l-Luga. Tamâm. Semerkandî nısfına. Yeşil kâğıd mukavvâ cildle. Âhirinde arûzdan bir risâle bile cild olmuş. Vakf-ı Ahmed Kâbilî. İki yüz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "56b",
+    "created_at": "2024-02-10T12:48:30.482718Z",
+    "updated_at": "2026-01-23T11:35:31.420143Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3297,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3297,
+  "kitap_set": [
+   {
+    "id": 3279,
+    "isim": "Kitâb-ı Düstûru’l-Luga.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:35.480318Z",
+    "updated_at": "2025-04-06T19:20:11.577640Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3297,
+     "tam_metin": "[7] Kitâb-ı Düstûru’l-Luga. Semerkandî nısfına. Yeşil kâğıd mukavvâ cildli. Âhirinde arûzdan bir risâle bile cild olmuş. İki yüz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "39b",
+     "created_at": "2024-04-22T12:27:35.205768Z",
+     "updated_at": "2025-09-22T13:32:16.922224Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1836,
+     "kodikolojik_bilgi": 1234
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 695,
+    "koleksiyon_numarasi": "05187",
+    "nusha": "",
+    "created_at": "2025-01-15T11:27:23.956197Z",
+    "updated_at": "2025-01-15T11:27:23.956213Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3297,
+     "tam_metin": "[7] Kitâb-ı Düstûru’l-Luga. Semerkandî nısfına. Yeşil kâğıd mukavvâ cildli. Âhirinde arûzdan bir risâle bile cild olmuş. İki yüz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "39b",
+     "created_at": "2024-04-22T12:27:35.205768Z",
+     "updated_at": "2025-09-22T13:32:16.922224Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1836,
+     "kodikolojik_bilgi": 1234
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1836,
+  "bilgi_set": [
+   {
+    "id": 1234,
+    "murekkep_set": [
+     {
+      "id": 1112,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1234
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 901,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1234
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "200",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T13:32:16.918768Z",
+    "updated_at": "2025-09-22T13:32:16.918784Z",
+    "kayit": {
+     "id": 3297,
+     "tam_metin": "[7] Kitâb-ı Düstûru’l-Luga. Semerkandî nısfına. Yeşil kâğıd mukavvâ cildli. Âhirinde arûzdan bir risâle bile cild olmuş. İki yüz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "39b",
+     "created_at": "2024-04-22T12:27:35.205768Z",
+     "updated_at": "2025-09-22T13:32:16.922224Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1836,
+     "kodikolojik_bilgi": 1234
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[7] Kitâb-ı Düstûru’l-Luga. Semerkandî nısfına. Yeşil kâğıd mukavvâ cildli. Âhirinde arûzdan bir risâle bile cild olmuş. İki yüz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "39b",
+  "created_at": "2024-04-22T12:27:35.205768Z",
+  "updated_at": "2025-09-22T13:32:16.922224Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1234,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "200",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T13:32:16.918768Z",
+   "updated_at": "2025-09-22T13:32:16.918784Z",
+   "kayit": 3297,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[8] Kitâb-ı Düstûru’l-Luga. Tamâm. Semerkandî nısfına. Yeşil kâğıd mukavvâ cildle. Âhirinde arûzdan bir risâle bile cild olmuş. Vakf-ı Ahmed Kâbilî. İki yüz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "56b",
+ "created_at": "2024-02-10T12:48:30.482718Z",
+ "updated_at": "2026-01-23T11:35:31.420143Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,220 @@
+{
+ "id": 1859,
+ "kitap_set": [
+  {
+   "id": 1854,
+   "isim": "Kitâb-ı Muğni’l-Lebîb an Kütübi’l-Eârîb.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:41.497232Z",
+   "updated_at": "2025-04-06T19:20:15.858639Z",
+   "yazar": {
+    "id": 532,
+    "isim": "İbn Hişâm en-Nahvî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-01T07:41:05.123294Z",
+    "updated_at": "2025-01-01T07:41:05.123310Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1859,
+    "tam_metin": "[31] Kitâb-ı Muğni’l-Lebîb an Kütübi’l-Eʿârîb li-İbnü’l-Hişâm. Tamâm. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Musannifek. İki yüz on sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "57a",
+    "created_at": "2024-02-10T12:48:41.203988Z",
+    "updated_at": "2026-01-26T19:31:44.072175Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3476,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3476,
+  "kitap_set": [
+   {
+    "id": 3458,
+    "isim": "Kitâb-ı Muğni’l-Lebîb.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:41:13.337051Z",
+    "updated_at": "2025-04-06T19:20:11.084833Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3476,
+     "tam_metin": "[14] Kitâb-ı Muğni’l-Lebîb. Tamâm. Dimeşkī tamâmından kırılmış. Siyâh cildli. İki yüz on sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "45b",
+     "created_at": "2024-04-22T12:41:13.072685Z",
+     "updated_at": "2025-09-24T17:34:18.089506Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1859,
+     "kodikolojik_bilgi": 1374
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1859,
+  "bilgi_set": [
+   {
+    "id": 1374,
+    "murekkep_set": [
+     {
+      "id": 1252,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1374
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1041,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1374
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "218",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-24T17:34:18.084495Z",
+    "updated_at": "2025-09-24T17:34:18.084514Z",
+    "kayit": {
+     "id": 3476,
+     "tam_metin": "[14] Kitâb-ı Muğni’l-Lebîb. Tamâm. Dimeşkī tamâmından kırılmış. Siyâh cildli. İki yüz on sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "45b",
+     "created_at": "2024-04-22T12:41:13.072685Z",
+     "updated_at": "2025-09-24T17:34:18.089506Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1859,
+     "kodikolojik_bilgi": 1374
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[14] Kitâb-ı Muğni’l-Lebîb. Tamâm. Dimeşkī tamâmından kırılmış. Siyâh cildli. İki yüz on sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "45b",
+  "created_at": "2024-04-22T12:41:13.072685Z",
+  "updated_at": "2025-09-24T17:34:18.089506Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1374,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "218",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-24T17:34:18.084495Z",
+   "updated_at": "2025-09-24T17:34:18.084514Z",
+   "kayit": 3476,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[31] Kitâb-ı Muğni’l-Lebîb an Kütübi’l-Eʿârîb li-İbnü’l-Hişâm. Tamâm. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Musannifek. İki yüz on sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "57a",
+ "created_at": "2024-02-10T12:48:41.203988Z",
+ "updated_at": "2026-01-26T19:31:44.072175Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,226 @@
+{
+ "id": 1805,
+ "kitap_set": [
+  {
+   "id": 1800,
+   "isim": "Kitâb-ı Hâşiyetü Şerhi’t-Tecrîd.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:16.454826Z",
+   "updated_at": "2025-04-06T19:20:16.040330Z",
+   "yazar": {
+    "id": 50,
+    "isim": "Seyyid",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-07-30T07:00:06.419043Z",
+    "updated_at": "2024-07-30T07:00:06.419059Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1805,
+    "tam_metin": "[25] Kitâb-ı Hâşiyetü Şerhi’t-Tecrîd li’s-Seyyid. Min evvelihî ilâ âhirihî musahhah ve mücedvel. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Üç yüz on üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+    "notlar": "",
+    "sayfa_numarasi": "54b",
+    "created_at": "2024-02-10T12:48:16.164847Z",
+    "updated_at": "2026-01-26T20:46:21.639121Z",
+    "vakif": 12,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3532,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3532,
+  "kitap_set": [
+   {
+    "id": 3513,
+    "isim": "Kitâb-ı Hâşiye-i Şerh-i Tecrîd li’s-Seyyid eş-Şerîf.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:30.577750Z",
+    "updated_at": "2025-04-06T19:20:10.937235Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3532,
+     "tam_metin": "[1] Kitâb-ı Hâşiye-i Şerh-i Tecrîd li’s-Seyyid eş-Şerîf. Min evvelihî ilâ âhirihî musahhah ve mücedvel. Dimeşkī nısfına. Ciğerî cildli. Üç yüz on üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "47b",
+     "created_at": "2024-04-22T12:45:30.315195Z",
+     "updated_at": "2025-10-01T19:41:01.204994Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1805,
+     "kodikolojik_bilgi": 1425
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1805,
+  "bilgi_set": [
+   {
+    "id": 1425,
+    "murekkep_set": [
+     {
+      "id": 1302,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1425
+     }
+    ],
+    "cedvel_set": [
+     {
+      "id": 60,
+      "detay": "Min evvelihî ilâ âhirihî musahhah ve mücedvel",
+      "kodikolojik_bilgi": 1425
+     }
+    ],
+    "hatt_set": [
+     {
+      "id": 1091,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1425
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "313",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T19:41:01.198972Z",
+    "updated_at": "2025-10-01T19:41:01.198992Z",
+    "kayit": {
+     "id": 3532,
+     "tam_metin": "[1] Kitâb-ı Hâşiye-i Şerh-i Tecrîd li’s-Seyyid eş-Şerîf. Min evvelihî ilâ âhirihî musahhah ve mücedvel. Dimeşkī nısfına. Ciğerî cildli. Üç yüz on üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "47b",
+     "created_at": "2024-04-22T12:45:30.315195Z",
+     "updated_at": "2025-10-01T19:41:01.204994Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1805,
+     "kodikolojik_bilgi": 1425
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[1] Kitâb-ı Hâşiye-i Şerh-i Tecrîd li’s-Seyyid eş-Şerîf. Min evvelihî ilâ âhirihî musahhah ve mücedvel. Dimeşkī nısfına. Ciğerî cildli. Üç yüz on üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+  "notlar": "",
+  "sayfa_numarasi": "47b",
+  "created_at": "2024-04-22T12:45:30.315195Z",
+  "updated_at": "2025-10-01T19:41:01.204994Z",
+  "vakif": {
+   "id": 12,
+   "isim": "Âlâiyyeli Muhyiddîn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:56:17.228524Z",
+   "updated_at": "2024-04-22T11:56:17.228541Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1425,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "313",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T19:41:01.198972Z",
+   "updated_at": "2025-10-01T19:41:01.198992Z",
+   "kayit": 3532,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[25] Kitâb-ı Hâşiyetü Şerhi’t-Tecrîd li’s-Seyyid. Min evvelihî ilâ âhirihî musahhah ve mücedvel. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Üç yüz on üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+ "notlar": "",
+ "sayfa_numarasi": "54b",
+ "created_at": "2024-02-10T12:48:16.164847Z",
+ "updated_at": "2026-01-26T20:46:21.639121Z",
+ "vakif": {
+  "id": 12,
+  "isim": "Âlâiyyeli Muhyiddîn",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:56:17.228524Z",
+  "updated_at": "2024-04-22T11:56:17.228541Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

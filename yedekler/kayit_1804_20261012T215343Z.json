@@ -1,0 +1,260 @@
+{
+ "id": 1804,
+ "kitap_set": [
+  {
+   "id": 1799,
+   "isim": "Kitâb-ı Havâşî [li-]Hatîbzâde alâ Hâşiyeti Şerhi’t-Tecrîd.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:15.989391Z",
+   "updated_at": "2025-04-06T19:20:16.043345Z",
+   "yazar": {
+    "id": 10,
+    "isim": "Mevlânâ Hatîbzâde",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-04-22T11:50:27.553934Z",
+    "updated_at": "2024-04-22T11:50:27.553950Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1804,
+    "tam_metin": "[24] Kitâb-ı Havâşî [li-]Hatîbzâde alâ Hâşiyeti Şerhi’t-Tecrîd. Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. İki yüz elli altı varak",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+    "notlar": "",
+    "sayfa_numarasi": "54b",
+    "created_at": "2024-02-10T12:48:15.690872Z",
+    "updated_at": "2026-01-26T20:47:08.763457Z",
+    "vakif": 12,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3533,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3533,
+  "kitap_set": [
+   {
+    "id": 3514,
+    "isim": "Kitâb-ı Havâşî-i Hatîbzâde alâ Hâşiyeti Şerhi’t-Tecrîd.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:31.008284Z",
+    "updated_at": "2025-04-06T19:20:10.934602Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3533,
+     "tam_metin": "[2] Kitâb-ı Havâşî-i Hatîbzâde alâ Hâşiyeti Şerhi’t-Tecrîd. Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz elli altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "47b",
+     "created_at": "2024-04-22T12:45:30.739517Z",
+     "updated_at": "2025-10-01T19:42:44.903493Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1804,
+     "kodikolojik_bilgi": 1426
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 819,
+    "koleksiyon_numarasi": "02927",
+    "nusha": "",
+    "created_at": "2025-01-15T23:58:24.017652Z",
+    "updated_at": "2025-01-15T23:58:24.017667Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3533,
+     "tam_metin": "[2] Kitâb-ı Havâşî-i Hatîbzâde alâ Hâşiyeti Şerhi’t-Tecrîd. Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz elli altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "47b",
+     "created_at": "2024-04-22T12:45:30.739517Z",
+     "updated_at": "2025-10-01T19:42:44.903493Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1804,
+     "kodikolojik_bilgi": 1426
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1804,
+  "bilgi_set": [
+   {
+    "id": 1426,
+    "murekkep_set": [
+     {
+      "id": 1303,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1426
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1092,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1426
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "256",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T19:42:44.898428Z",
+    "updated_at": "2025-10-01T19:42:44.898448Z",
+    "kayit": {
+     "id": 3533,
+     "tam_metin": "[2] Kitâb-ı Havâşî-i Hatîbzâde alâ Hâşiyeti Şerhi’t-Tecrîd. Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz elli altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "47b",
+     "created_at": "2024-04-22T12:45:30.739517Z",
+     "updated_at": "2025-10-01T19:42:44.903493Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1804,
+     "kodikolojik_bilgi": 1426
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[2] Kitâb-ı Havâşî-i Hatîbzâde alâ Hâşiyeti Şerhi’t-Tecrîd. Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz elli altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+  "notlar": "",
+  "sayfa_numarasi": "47b",
+  "created_at": "2024-04-22T12:45:30.739517Z",
+  "updated_at": "2025-10-01T19:42:44.903493Z",
+  "vakif": {
+   "id": 12,
+   "isim": "Âlâiyyeli Muhyiddîn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:56:17.228524Z",
+   "updated_at": "2024-04-22T11:56:17.228541Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1426,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "256",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T19:42:44.898428Z",
+   "updated_at": "2025-10-01T19:42:44.898448Z",
+   "kayit": 3533,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[24] Kitâb-ı Havâşî [li-]Hatîbzâde alâ Hâşiyeti Şerhi’t-Tecrîd. Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. İki yüz elli altı varak",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+ "notlar": "",
+ "sayfa_numarasi": "54b",
+ "created_at": "2024-02-10T12:48:15.690872Z",
+ "updated_at": "2026-01-26T20:47:08.763457Z",
+ "vakif": {
+  "id": 12,
+  "isim": "Âlâiyyeli Muhyiddîn",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:56:17.228524Z",
+  "updated_at": "2024-04-22T11:56:17.228541Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

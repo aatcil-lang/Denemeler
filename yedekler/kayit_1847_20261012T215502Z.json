@@ -1,0 +1,220 @@
+{
+ "id": 1847,
+ "kitap_set": [
+  {
+   "id": 1842,
+   "isim": "Kitâb-ı Şerhü’l-Kâfiye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:35.882204Z",
+   "updated_at": "2025-04-06T19:20:15.906116Z",
+   "yazar": {
+    "id": 414,
+    "isim": "Radıyyüddîn el-Esterâbâdî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-24T17:57:28.867646Z",
+    "updated_at": "2024-11-24T17:57:28.867665Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1847,
+    "tam_metin": "[19] Kitâb-ı Şerhu’l-Kâfiye li-Radiyyüddîn el-Esterabâdî. Tamâm. Hûb hatla. Dimeşkī müzehheb kırmızı cildle. Vakf-ı Hatîbzâde. İki yüz doksan yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "56b",
+    "created_at": "2024-02-10T12:48:35.605816Z",
+    "updated_at": "2026-01-23T12:29:07.467369Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3366,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3366,
+  "kitap_set": [
+   {
+    "id": 3348,
+    "isim": "Kitâb-ı Şerh-i Kâfiye li-Radıyyiddîn İsterâbâdî [Esterâbâdî].",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:28:06.936050Z",
+    "updated_at": "2025-04-06T19:20:11.371269Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3366,
+     "tam_metin": "[17] Kitâb-ı Şerh-i Kâfiye li-Radıyyüddîn İsterâbâdî. Tamâm. Hûb hatla. Dimeşkī tamâmına. Müzehheb kırmızı cildli. İki yüz doksan yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42b",
+     "created_at": "2024-04-22T12:28:06.662518Z",
+     "updated_at": "2025-09-22T20:25:59.982033Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1847,
+     "kodikolojik_bilgi": 1303
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1847,
+  "bilgi_set": [
+   {
+    "id": 1303,
+    "murekkep_set": [
+     {
+      "id": 1181,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1303
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 970,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "Hûb hatla",
+      "kodikolojik_bilgi": 1303
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Müzehheb kırmızı cilt",
+    "cild_materyal": "",
+    "varak_adedi": "297",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T20:25:59.975557Z",
+    "updated_at": "2025-09-22T20:25:59.975573Z",
+    "kayit": {
+     "id": 3366,
+     "tam_metin": "[17] Kitâb-ı Şerh-i Kâfiye li-Radıyyüddîn İsterâbâdî. Tamâm. Hûb hatla. Dimeşkī tamâmına. Müzehheb kırmızı cildli. İki yüz doksan yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42b",
+     "created_at": "2024-04-22T12:28:06.662518Z",
+     "updated_at": "2025-09-22T20:25:59.982033Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1847,
+     "kodikolojik_bilgi": 1303
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[17] Kitâb-ı Şerh-i Kâfiye li-Radıyyüddîn İsterâbâdî. Tamâm. Hûb hatla. Dimeşkī tamâmına. Müzehheb kırmızı cildli. İki yüz doksan yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "42b",
+  "created_at": "2024-04-22T12:28:06.662518Z",
+  "updated_at": "2025-09-22T20:25:59.982033Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1303,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Müzehheb kırmızı cilt",
+   "cild_materyal": "",
+   "varak_adedi": "297",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T20:25:59.975557Z",
+   "updated_at": "2025-09-22T20:25:59.975573Z",
+   "kayit": 3366,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[19] Kitâb-ı Şerhu’l-Kâfiye li-Radiyyüddîn el-Esterabâdî. Tamâm. Hûb hatla. Dimeşkī müzehheb kırmızı cildle. Vakf-ı Hatîbzâde. İki yüz doksan yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "56b",
+ "created_at": "2024-02-10T12:48:35.605816Z",
+ "updated_at": "2026-01-23T12:29:07.467369Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

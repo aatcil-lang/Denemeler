@@ -1,0 +1,260 @@
+{
+ "id": 1837,
+ "kitap_set": [
+  {
+   "id": 1832,
+   "isim": "Kitâbü’l-Esmâ’ ve’l-Ef‘âl.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:31.245808Z",
+   "updated_at": "2025-04-06T19:20:15.939467Z",
+   "yazar": {
+    "id": 411,
+    "isim": "Cârullâh el-Allâme",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-24T17:13:26.567705Z",
+    "updated_at": "2024-11-24T17:13:26.567728Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1837,
+    "tam_metin": "[9] Kitâbü’l-Esmâʾ ve’l-Efʿâl li-Cârullâh el-Allâme. Fârisî ile mütercem. Dimeşkī tamâmına. Al kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. İki yüz on altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "56b",
+    "created_at": "2024-02-10T12:48:30.945442Z",
+    "updated_at": "2026-01-23T12:23:14.878858Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3357,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3357,
+  "kitap_set": [
+   {
+    "id": 3339,
+    "isim": "Kitâb-ı Esmâ[’] ve Ef‘âl.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:28:02.881708Z",
+    "updated_at": "2025-04-06T19:20:11.398309Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3357,
+     "tam_metin": "[8] Kitâb-ı Esmâ ve Efʿâl. Fârisîle mütercem. Dimeşkī tamâmına. Al kâğıd mukavvâ cildli. İki yüz on altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:02.597634Z",
+     "updated_at": "2025-09-22T20:18:39.400302Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1837,
+     "kodikolojik_bilgi": 1294
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 732,
+    "koleksiyon_numarasi": "05273",
+    "nusha": "",
+    "created_at": "2025-01-15T14:02:27.969034Z",
+    "updated_at": "2025-01-15T14:02:27.969051Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3357,
+     "tam_metin": "[8] Kitâb-ı Esmâ ve Efʿâl. Fârisîle mütercem. Dimeşkī tamâmına. Al kâğıd mukavvâ cildli. İki yüz on altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:02.597634Z",
+     "updated_at": "2025-09-22T20:18:39.400302Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1837,
+     "kodikolojik_bilgi": 1294
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1837,
+  "bilgi_set": [
+   {
+    "id": 1294,
+    "murekkep_set": [
+     {
+      "id": 1172,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1294
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 961,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1294
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Al kağıt",
+    "varak_adedi": "216",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T20:18:39.395610Z",
+    "updated_at": "2025-09-22T20:18:39.395630Z",
+    "kayit": {
+     "id": 3357,
+     "tam_metin": "[8] Kitâb-ı Esmâ ve Efʿâl. Fârisîle mütercem. Dimeşkī tamâmına. Al kâğıd mukavvâ cildli. İki yüz on altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:02.597634Z",
+     "updated_at": "2025-09-22T20:18:39.400302Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1837,
+     "kodikolojik_bilgi": 1294
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[8] Kitâb-ı Esmâ ve Efʿâl. Fârisîle mütercem. Dimeşkī tamâmına. Al kâğıd mukavvâ cildli. İki yüz on altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "42a",
+  "created_at": "2024-04-22T12:28:02.597634Z",
+  "updated_at": "2025-09-22T20:18:39.400302Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1294,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Al kağıt",
+   "varak_adedi": "216",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T20:18:39.395610Z",
+   "updated_at": "2025-09-22T20:18:39.395630Z",
+   "kayit": 3357,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[9] Kitâbü’l-Esmâʾ ve’l-Efʿâl li-Cârullâh el-Allâme. Fârisî ile mütercem. Dimeşkī tamâmına. Al kâğıd mukavvâ cildle. Vakf-ı Hatîbzâde. İki yüz on altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "56b",
+ "created_at": "2024-02-10T12:48:30.945442Z",
+ "updated_at": "2026-01-23T12:23:14.878858Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,220 @@
+{
+ "id": 1801,
+ "kitap_set": [
+  {
+   "id": 1796,
+   "isim": "Kitâb-ı Şerhü’t-Tecrîd.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:14.617709Z",
+   "updated_at": "2025-04-06T19:20:16.052496Z",
+   "yazar": {
+    "id": 513,
+    "isim": "Mevlânâ Ali Kuşcu",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-29T20:38:38.406947Z",
+    "updated_at": "2024-12-29T20:38:38.406965Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1801,
+    "tam_metin": "[21] Kitâb-ı Şerhu’t-Tecrîd li-Mevlânâ Ali Kuşcu. Min evvelihî ilâ âhirihî hûb hatla yazılmış. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Güngörmez Acem. İki yüz doksan varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+    "notlar": "",
+    "sayfa_numarasi": "54b",
+    "created_at": "2024-02-10T12:48:14.332376Z",
+    "updated_at": "2026-01-31T10:20:41.684016Z",
+    "vakif": 758,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3599,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3599,
+  "kitap_set": [
+   {
+    "id": 3578,
+    "isim": "Kitâb-ı Şerh-i Tecrîd li-Mevlânâ Ali Kuşcu.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:59.405526Z",
+    "updated_at": "2025-04-06T19:20:10.753681Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3599,
+     "tam_metin": "[13] Kitâb-ı Şerh-i Tecrîd li-Mevlânâ Ali Kuşcu. Hûb hatlı. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Güngörmez Acem. İki yüz doksan varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:45:59.137407Z",
+     "updated_at": "2026-01-31T10:20:33.209245Z",
+     "vakif": 758,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1801,
+     "kodikolojik_bilgi": 1492
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1801,
+  "bilgi_set": [
+   {
+    "id": 1492,
+    "murekkep_set": [
+     {
+      "id": 1372,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1492
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1158,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "Hûb hatlı",
+      "kodikolojik_bilgi": 1492
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "290",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-02T05:49:29.692348Z",
+    "updated_at": "2025-10-02T05:49:29.692383Z",
+    "kayit": {
+     "id": 3599,
+     "tam_metin": "[13] Kitâb-ı Şerh-i Tecrîd li-Mevlânâ Ali Kuşcu. Hûb hatlı. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Güngörmez Acem. İki yüz doksan varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:45:59.137407Z",
+     "updated_at": "2026-01-31T10:20:33.209245Z",
+     "vakif": 758,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1801,
+     "kodikolojik_bilgi": 1492
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[13] Kitâb-ı Şerh-i Tecrîd li-Mevlânâ Ali Kuşcu. Hûb hatlı. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Güngörmez Acem. İki yüz doksan varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "51a",
+  "created_at": "2024-04-22T12:45:59.137407Z",
+  "updated_at": "2026-01-31T10:20:33.209245Z",
+  "vakif": {
+   "id": 758,
+   "isim": "Mevlânâ Güngörmez Acem",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:17:48.535325Z",
+   "updated_at": "2026-01-31T10:17:48.535343Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1492,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "290",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-02T05:49:29.692348Z",
+   "updated_at": "2025-10-02T05:49:29.692383Z",
+   "kayit": 3599,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[21] Kitâb-ı Şerhu’t-Tecrîd li-Mevlânâ Ali Kuşcu. Min evvelihî ilâ âhirihî hûb hatla yazılmış. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Güngörmez Acem. İki yüz doksan varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+ "notlar": "",
+ "sayfa_numarasi": "54b",
+ "created_at": "2024-02-10T12:48:14.332376Z",
+ "updated_at": "2026-01-31T10:20:41.684016Z",
+ "vakif": {
+  "id": 758,
+  "isim": "Mevlânâ Güngörmez Acem",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:17:48.535325Z",
+  "updated_at": "2026-01-31T10:17:48.535343Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

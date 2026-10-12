@@ -1,0 +1,260 @@
+{
+ "id": 1839,
+ "kitap_set": [
+  {
+   "id": 1834,
+   "isim": "Kitâb-ı Ef‘âl-i Cârullâh el-Allâme.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:32.193615Z",
+   "updated_at": "2025-04-06T19:20:15.933209Z",
+   "yazar": {
+    "id": 411,
+    "isim": "Cârullâh el-Allâme",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-24T17:13:26.567705Z",
+    "updated_at": "2024-11-24T17:13:26.567728Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1839,
+    "tam_metin": "[11] Kitâb-ı Efʿâl-i Cârullâh el-Allâme. Fârisiyle tercüme olunmuş. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Güngörmez Acem. Yüz altmış sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "56b",
+    "created_at": "2024-02-10T12:48:31.912945Z",
+    "updated_at": "2026-01-31T10:22:00.718326Z",
+    "vakif": 758,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3600,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3600,
+  "kitap_set": [
+   {
+    "id": 3579,
+    "isim": "Kitâb-ı Ef‘âl-i Cârullâh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:59.842544Z",
+    "updated_at": "2025-04-06T19:20:10.750856Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3600,
+     "tam_metin": "[14] Kitâb-ı Efʿâl-i Cârullâh. Fârisîyle tercüme olunmuş. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Güngörmez Acem. Yüz altmış sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:45:59.566907Z",
+     "updated_at": "2026-01-31T10:20:49.970408Z",
+     "vakif": 758,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1839,
+     "kodikolojik_bilgi": 1493
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 852,
+    "koleksiyon_numarasi": "05275",
+    "nusha": "",
+    "created_at": "2025-01-16T00:58:51.122015Z",
+    "updated_at": "2025-01-16T00:58:51.122035Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3600,
+     "tam_metin": "[14] Kitâb-ı Efʿâl-i Cârullâh. Fârisîyle tercüme olunmuş. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Güngörmez Acem. Yüz altmış sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:45:59.566907Z",
+     "updated_at": "2026-01-31T10:20:49.970408Z",
+     "vakif": 758,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1839,
+     "kodikolojik_bilgi": 1493
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1839,
+  "bilgi_set": [
+   {
+    "id": 1493,
+    "murekkep_set": [
+     {
+      "id": 1373,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1493
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1159,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1493
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "168",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-02T05:51:24.539692Z",
+    "updated_at": "2025-10-02T05:51:24.540156Z",
+    "kayit": {
+     "id": 3600,
+     "tam_metin": "[14] Kitâb-ı Efʿâl-i Cârullâh. Fârisîyle tercüme olunmuş. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Güngörmez Acem. Yüz altmış sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:45:59.566907Z",
+     "updated_at": "2026-01-31T10:20:49.970408Z",
+     "vakif": 758,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1839,
+     "kodikolojik_bilgi": 1493
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[14] Kitâb-ı Efʿâl-i Cârullâh. Fârisîyle tercüme olunmuş. Dimeşkī nısfına. Ciğerî cildli. Vakf-ı Güngörmez Acem. Yüz altmış sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "51a",
+  "created_at": "2024-04-22T12:45:59.566907Z",
+  "updated_at": "2026-01-31T10:20:49.970408Z",
+  "vakif": {
+   "id": 758,
+   "isim": "Mevlânâ Güngörmez Acem",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:17:48.535325Z",
+   "updated_at": "2026-01-31T10:17:48.535343Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1493,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "168",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-02T05:51:24.539692Z",
+   "updated_at": "2025-10-02T05:51:24.540156Z",
+   "kayit": 3600,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[11] Kitâb-ı Efʿâl-i Cârullâh el-Allâme. Fârisiyle tercüme olunmuş. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Güngörmez Acem. Yüz altmış sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "56b",
+ "created_at": "2024-02-10T12:48:31.912945Z",
+ "updated_at": "2026-01-31T10:22:00.718326Z",
+ "vakif": {
+  "id": 758,
+  "isim": "Mevlânâ Güngörmez Acem",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:17:48.535325Z",
+  "updated_at": "2026-01-31T10:17:48.535343Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

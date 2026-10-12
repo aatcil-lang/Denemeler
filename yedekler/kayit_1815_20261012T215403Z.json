@@ -1,0 +1,71 @@
+{
+ "id": 1815,
+ "kitap_set": [
+  {
+   "id": 1810,
+   "isim": "Kitâb-ı Risâletün fî Tahkīki’l-Îman.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:21.052989Z",
+   "updated_at": "2025-04-06T19:20:16.010688Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1815,
+    "tam_metin": "[35] Kitâb-ı Risâletün fî Tahkīki’l-Îman. Dimeşkī nısfına. Siyâh cildle. Vakf-ı Kādîzâde. İki yüz on iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+    "notlar": "",
+    "sayfa_numarasi": "55a",
+    "created_at": "2024-02-10T12:48:20.768406Z",
+    "updated_at": "2026-10-11T22:57:00.315880Z",
+    "vakif": 434,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[35] Kitâb-ı Risâletün fî Tahkīki’l-Îman. Dimeşkī nısfına. Siyâh cildle. Vakf-ı Kādîzâde. İki yüz on iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Kelâm",
+ "notlar": "",
+ "sayfa_numarasi": "55a",
+ "created_at": "2024-02-10T12:48:20.768406Z",
+ "updated_at": "2026-10-11T22:57:00.315880Z",
+ "vakif": {
+  "id": 434,
+  "isim": "Kādızâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-11-30T12:30:27.461215Z",
+  "updated_at": "2024-11-30T12:30:27.461229Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

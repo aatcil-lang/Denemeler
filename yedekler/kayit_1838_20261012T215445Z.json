@@ -1,0 +1,288 @@
+{
+ "id": 1838,
+ "kitap_set": [
+  {
+   "id": 3951,
+   "isim": "Şerhu Ebyâti’l-Mufassal.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2025-01-01T06:30:40.371385Z",
+   "updated_at": "2025-04-06T19:20:09.685908Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1838,
+    "tam_metin": "[10] Kitâb-ı Esmâʾ-i Cârullâh el-Allâme ve Şerhu Ebyâti’l-Mufassal. Bir cildde. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Güngörmez Acem. Yüz beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "56b",
+    "created_at": "2024-02-10T12:48:31.428325Z",
+    "updated_at": "2026-01-31T10:24:52.052975Z",
+    "vakif": 758,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3603,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 1833,
+   "isim": "Kitâb-ı Esmâ’-i Cârullâh el-Allâme.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:31.722766Z",
+   "updated_at": "2025-04-06T19:20:15.936271Z",
+   "yazar": {
+    "id": 411,
+    "isim": "Cârullâh el-Allâme",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-24T17:13:26.567705Z",
+    "updated_at": "2024-11-24T17:13:26.567728Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1838,
+    "tam_metin": "[10] Kitâb-ı Esmâʾ-i Cârullâh el-Allâme ve Şerhu Ebyâti’l-Mufassal. Bir cildde. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Güngörmez Acem. Yüz beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "56b",
+    "created_at": "2024-02-10T12:48:31.428325Z",
+    "updated_at": "2026-01-31T10:24:52.052975Z",
+    "vakif": 758,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3603,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3603,
+  "kitap_set": [
+   {
+    "id": 3582,
+    "isim": "Kitâb-ı Esmâ’-i Cârullah ve Şerh-i Ebyât-ı Mufassal.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:46:01.124089Z",
+    "updated_at": "2025-04-06T19:20:10.742437Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3603,
+     "tam_metin": "[17] Kitâb-ı Esmâʾ-i Cârullah ve Şerh-i Ebyât-ı Mufassal. Bir cildde. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Vakf-ı Güngörmez Acem. Yüz beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:46:00.856332Z",
+     "updated_at": "2026-01-31T10:24:40.565527Z",
+     "vakif": 758,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1838,
+     "kodikolojik_bilgi": 1496
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 854,
+    "koleksiyon_numarasi": "05274",
+    "nusha": "",
+    "created_at": "2025-01-16T01:14:16.124504Z",
+    "updated_at": "2025-01-16T01:14:16.124519Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3603,
+     "tam_metin": "[17] Kitâb-ı Esmâʾ-i Cârullah ve Şerh-i Ebyât-ı Mufassal. Bir cildde. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Vakf-ı Güngörmez Acem. Yüz beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:46:00.856332Z",
+     "updated_at": "2026-01-31T10:24:40.565527Z",
+     "vakif": 758,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1838,
+     "kodikolojik_bilgi": 1496
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1838,
+  "bilgi_set": [
+   {
+    "id": 1496,
+    "murekkep_set": [
+     {
+      "id": 1376,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1496
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1162,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1496
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "105",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-02T05:55:01.907701Z",
+    "updated_at": "2025-10-02T05:55:01.908544Z",
+    "kayit": {
+     "id": 3603,
+     "tam_metin": "[17] Kitâb-ı Esmâʾ-i Cârullah ve Şerh-i Ebyât-ı Mufassal. Bir cildde. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Vakf-ı Güngörmez Acem. Yüz beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:46:00.856332Z",
+     "updated_at": "2026-01-31T10:24:40.565527Z",
+     "vakif": 758,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1838,
+     "kodikolojik_bilgi": 1496
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[17] Kitâb-ı Esmâʾ-i Cârullah ve Şerh-i Ebyât-ı Mufassal. Bir cildde. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Vakf-ı Güngörmez Acem. Yüz beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "51a",
+  "created_at": "2024-04-22T12:46:00.856332Z",
+  "updated_at": "2026-01-31T10:24:40.565527Z",
+  "vakif": {
+   "id": 758,
+   "isim": "Mevlânâ Güngörmez Acem",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:17:48.535325Z",
+   "updated_at": "2026-01-31T10:17:48.535343Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1496,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "105",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-02T05:55:01.907701Z",
+   "updated_at": "2025-10-02T05:55:01.908544Z",
+   "kayit": 3603,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[10] Kitâb-ı Esmâʾ-i Cârullâh el-Allâme ve Şerhu Ebyâti’l-Mufassal. Bir cildde. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Güngörmez Acem. Yüz beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "56b",
+ "created_at": "2024-02-10T12:48:31.428325Z",
+ "updated_at": "2026-01-31T10:24:52.052975Z",
+ "vakif": {
+  "id": 758,
+  "isim": "Mevlânâ Güngörmez Acem",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:17:48.535325Z",
+  "updated_at": "2026-01-31T10:17:48.535343Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

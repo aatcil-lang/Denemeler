@@ -1,0 +1,260 @@
+{
+ "id": 1854,
+ "kitap_set": [
+  {
+   "id": 1849,
+   "isim": "Kitâb-ı Şerhu Lübbi’l-Elbâb.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:39.159630Z",
+   "updated_at": "2025-04-06T19:20:15.880472Z",
+   "yazar": {
+    "id": 408,
+    "isim": "Seyyid Abdullâh",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-20T13:25:46.325825Z",
+    "updated_at": "2024-11-20T13:25:46.325852Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1854,
+    "tam_metin": "[26] Kitâb-ı Şerhu Lübbi’l-Elbâb li’s-Seyyid Abdullâh. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Hatîbzâde. Yüz yirmi beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "57a",
+    "created_at": "2024-02-10T12:48:38.866875Z",
+    "updated_at": "2026-01-23T12:22:29.907398Z",
+    "vakif": 10,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3363,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3363,
+  "kitap_set": [
+   {
+    "id": 3345,
+    "isim": "Kitâb-ı Şerh-i Lübbü’l-Lübâb li-Seyyid Abdullâh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:28:05.594868Z",
+    "updated_at": "2025-04-06T19:20:11.381606Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3363,
+     "tam_metin": "[14] Kitâb-ı Şerh-i Lübbü’l-Lübâb li-Seyyid Abdullâh. Dimeşkī tamâmına. Ciğerî cildli. Yüz yirmi beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:05.316468Z",
+     "updated_at": "2025-09-22T20:23:07.012122Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1854,
+     "kodikolojik_bilgi": 1300
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 738,
+    "koleksiyon_numarasi": "05006",
+    "nusha": "",
+    "created_at": "2025-01-15T14:21:27.371554Z",
+    "updated_at": "2025-01-15T14:21:27.371569Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3363,
+     "tam_metin": "[14] Kitâb-ı Şerh-i Lübbü’l-Lübâb li-Seyyid Abdullâh. Dimeşkī tamâmına. Ciğerî cildli. Yüz yirmi beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:05.316468Z",
+     "updated_at": "2025-09-22T20:23:07.012122Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1854,
+     "kodikolojik_bilgi": 1300
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1854,
+  "bilgi_set": [
+   {
+    "id": 1300,
+    "murekkep_set": [
+     {
+      "id": 1178,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1300
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 967,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1300
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "125",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T20:23:07.003839Z",
+    "updated_at": "2025-09-22T20:23:07.004216Z",
+    "kayit": {
+     "id": 3363,
+     "tam_metin": "[14] Kitâb-ı Şerh-i Lübbü’l-Lübâb li-Seyyid Abdullâh. Dimeşkī tamâmına. Ciğerî cildli. Yüz yirmi beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "42a",
+     "created_at": "2024-04-22T12:28:05.316468Z",
+     "updated_at": "2025-09-22T20:23:07.012122Z",
+     "vakif": 10,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1854,
+     "kodikolojik_bilgi": 1300
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[14] Kitâb-ı Şerh-i Lübbü’l-Lübâb li-Seyyid Abdullâh. Dimeşkī tamâmına. Ciğerî cildli. Yüz yirmi beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "42a",
+  "created_at": "2024-04-22T12:28:05.316468Z",
+  "updated_at": "2025-09-22T20:23:07.012122Z",
+  "vakif": {
+   "id": 10,
+   "isim": "Mevlânâ Hatîbzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:50:27.553934Z",
+   "updated_at": "2024-04-22T11:50:27.553950Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1300,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "125",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T20:23:07.003839Z",
+   "updated_at": "2025-09-22T20:23:07.004216Z",
+   "kayit": 3363,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[26] Kitâb-ı Şerhu Lübbi’l-Elbâb li’s-Seyyid Abdullâh. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Hatîbzâde. Yüz yirmi beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "57a",
+ "created_at": "2024-02-10T12:48:38.866875Z",
+ "updated_at": "2026-01-23T12:22:29.907398Z",
+ "vakif": {
+  "id": 10,
+  "isim": "Mevlânâ Hatîbzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:50:27.553934Z",
+  "updated_at": "2024-04-22T11:50:27.553950Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

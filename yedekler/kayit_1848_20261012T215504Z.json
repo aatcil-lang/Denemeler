@@ -1,0 +1,260 @@
+{
+ "id": 1848,
+ "kitap_set": [
+  {
+   "id": 1843,
+   "isim": "Kitâbü’l-Cildi’l-Evvel min Şerhi’l-Kâfiye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:48:36.349798Z",
+   "updated_at": "2025-04-06T19:20:15.902970Z",
+   "yazar": {
+    "id": 414,
+    "isim": "Radıyyüddîn el-Esterâbâdî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-24T17:57:28.867646Z",
+    "updated_at": "2024-11-24T17:57:28.867665Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1848,
+    "tam_metin": "[20] Kitâbü’l-Cildi’l-Evvel eydan min Şerhi’l-Kâfiye li-Radiyyüddîn. İlâ âhiri Kısmi’l-Muʿrebât. Bi-hattı Musannifek. Dimeşkī tamâmına. münakkaş ciğerî cildle. Evveli levhalı. Vakf-ı Musannifek. Dört yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "57a",
+    "created_at": "2024-02-10T12:48:36.060288Z",
+    "updated_at": "2026-01-26T19:23:49.599536Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3474,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1067,
+   "koleksiyon_numarasi": "4960",
+   "nusha": "https://portal.yek.gov.tr/works/detail/243792",
+   "created_at": "2026-05-01T21:47:44.681907Z",
+   "updated_at": "2026-05-01T21:47:44.681941Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1848,
+    "tam_metin": "[20] Kitâbü’l-Cildi’l-Evvel eydan min Şerhi’l-Kâfiye li-Radiyyüddîn. İlâ âhiri Kısmi’l-Muʿrebât. Bi-hattı Musannifek. Dimeşkī tamâmına. münakkaş ciğerî cildle. Evveli levhalı. Vakf-ı Musannifek. Dört yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "57a",
+    "created_at": "2024-02-10T12:48:36.060288Z",
+    "updated_at": "2026-01-26T19:23:49.599536Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3474,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 3474,
+  "kitap_set": [
+   {
+    "id": 3456,
+    "isim": "Kitâb-ı Şerh-i Radî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:41:12.468109Z",
+    "updated_at": "2025-04-06T19:20:11.091042Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3474,
+     "tam_metin": "[12] Kitâb-ı Şerh-i Radî. Bi-hattı el-Mevlâ el-Vâkıf Mevlânâ Musannifek. Evvelinden âhir-i Kısm-ı Muʿrebât’a dek. Dimeşkī tamâmına. Evveli levhalı. münakkaş Ciğerî cildli. Dört yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "45b",
+     "created_at": "2024-04-22T12:41:12.204657Z",
+     "updated_at": "2025-11-08T07:46:59.046799Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1848,
+     "kodikolojik_bilgi": 1372
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1848,
+  "bilgi_set": [
+   {
+    "id": 1372,
+    "murekkep_set": [
+     {
+      "id": 1250,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1372
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1039,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1372
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Evveli levhalı",
+    "cild_turu": "Münakkaş ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "410",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-24T17:21:59.435080Z",
+    "updated_at": "2025-11-08T07:46:59.032975Z",
+    "kayit": {
+     "id": 3474,
+     "tam_metin": "[12] Kitâb-ı Şerh-i Radî. Bi-hattı el-Mevlâ el-Vâkıf Mevlânâ Musannifek. Evvelinden âhir-i Kısm-ı Muʿrebât’a dek. Dimeşkī tamâmına. Evveli levhalı. münakkaş Ciğerî cildli. Dört yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "45b",
+     "created_at": "2024-04-22T12:41:12.204657Z",
+     "updated_at": "2025-11-08T07:46:59.046799Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1848,
+     "kodikolojik_bilgi": 1372
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[12] Kitâb-ı Şerh-i Radî. Bi-hattı el-Mevlâ el-Vâkıf Mevlânâ Musannifek. Evvelinden âhir-i Kısm-ı Muʿrebât’a dek. Dimeşkī tamâmına. Evveli levhalı. münakkaş Ciğerî cildli. Dört yüz on varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "45b",
+  "created_at": "2024-04-22T12:41:12.204657Z",
+  "updated_at": "2025-11-08T07:46:59.046799Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1372,
+   "zahriye_exists": true,
+   "zahriye": "Evveli levhalı",
+   "cild_turu": "Münakkaş ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "410",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-24T17:21:59.435080Z",
+   "updated_at": "2025-11-08T07:46:59.032975Z",
+   "kayit": 3474,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[20] Kitâbü’l-Cildi’l-Evvel eydan min Şerhi’l-Kâfiye li-Radiyyüddîn. İlâ âhiri Kısmi’l-Muʿrebât. Bi-hattı Musannifek. Dimeşkī tamâmına. münakkaş ciğerî cildle. Evveli levhalı. Vakf-ı Musannifek. Dört yüz on varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "57a",
+ "created_at": "2024-02-10T12:48:36.060288Z",
+ "updated_at": "2026-01-26T19:23:49.599536Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
