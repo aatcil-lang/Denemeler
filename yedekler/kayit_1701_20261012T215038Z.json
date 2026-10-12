@@ -1,0 +1,260 @@
+{
+ "id": 1701,
+ "kitap_set": [
+  {
+   "id": 1696,
+   "isim": "Kitâbü’l-Cildi’s-Sânî min Şerhi’l-Mecma‘.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:28.595334Z",
+   "updated_at": "2025-04-06T19:20:16.371559Z",
+   "yazar": {
+    "id": 297,
+    "isim": "Musannif, Ebû Bekr b. Hidâyetillâh el-Kûrânî el-Merîvânî el-Hüseynî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-12T17:06:48.725125Z",
+    "updated_at": "2024-09-12T17:06:48.725148Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1701,
+    "tam_metin": "[37] Kitâbü’l-Cildi’s-Sânî eydan min Şerhi’l-Mecmaʿ li’l-Musannif. Min evveli Kitâbi’l-Vakf ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Mahbûb Çelebi. İki yüz yirmi üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "50b",
+    "created_at": "2024-02-10T12:47:28.305637Z",
+    "updated_at": "2026-01-31T10:29:18.406392Z",
+    "vakif": 759,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3608,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3608,
+  "kitap_set": [
+   {
+    "id": 3587,
+    "isim": "Kitâb-ı Şerh-i Mecma‘-i Musannif.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:46:03.275961Z",
+    "updated_at": "2025-04-06T19:20:10.728403Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3608,
+     "tam_metin": "[22] Kitâb-ı Şerh-i Mecmaʿ-i Musannif. Vakf’dan âhirine dek. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. Vakf-ı Mahbûb Çelebi. İki yüz yirmi üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:46:03.011530Z",
+     "updated_at": "2026-01-31T10:29:03.031978Z",
+     "vakif": 759,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1701,
+     "kodikolojik_bilgi": 1501
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 858,
+    "koleksiyon_numarasi": "01755",
+    "nusha": "",
+    "created_at": "2025-01-16T01:20:12.668046Z",
+    "updated_at": "2025-01-16T01:20:12.668066Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3608,
+     "tam_metin": "[22] Kitâb-ı Şerh-i Mecmaʿ-i Musannif. Vakf’dan âhirine dek. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. Vakf-ı Mahbûb Çelebi. İki yüz yirmi üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:46:03.011530Z",
+     "updated_at": "2026-01-31T10:29:03.031978Z",
+     "vakif": 759,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1701,
+     "kodikolojik_bilgi": 1501
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1701,
+  "bilgi_set": [
+   {
+    "id": 1501,
+    "murekkep_set": [
+     {
+      "id": 1381,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1501
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1167,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1501
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "223",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-02T06:00:22.995364Z",
+    "updated_at": "2025-10-02T06:00:22.995389Z",
+    "kayit": {
+     "id": 3608,
+     "tam_metin": "[22] Kitâb-ı Şerh-i Mecmaʿ-i Musannif. Vakf’dan âhirine dek. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. Vakf-ı Mahbûb Çelebi. İki yüz yirmi üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51a",
+     "created_at": "2024-04-22T12:46:03.011530Z",
+     "updated_at": "2026-01-31T10:29:03.031978Z",
+     "vakif": 759,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1701,
+     "kodikolojik_bilgi": 1501
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[22] Kitâb-ı Şerh-i Mecmaʿ-i Musannif. Vakf’dan âhirine dek. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. Vakf-ı Mahbûb Çelebi. İki yüz yirmi üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "51a",
+  "created_at": "2024-04-22T12:46:03.011530Z",
+  "updated_at": "2026-01-31T10:29:03.031978Z",
+  "vakif": {
+   "id": 759,
+   "isim": "Mevlânâ Mahbûb Çelebi",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:27:30.479999Z",
+   "updated_at": "2026-01-31T10:27:30.480017Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1501,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "223",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-02T06:00:22.995364Z",
+   "updated_at": "2025-10-02T06:00:22.995389Z",
+   "kayit": 3608,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[37] Kitâbü’l-Cildi’s-Sânî eydan min Şerhi’l-Mecmaʿ li’l-Musannif. Min evveli Kitâbi’l-Vakf ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Mahbûb Çelebi. İki yüz yirmi üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "50b",
+ "created_at": "2024-02-10T12:47:28.305637Z",
+ "updated_at": "2026-01-31T10:29:18.406392Z",
+ "vakif": {
+  "id": 759,
+  "isim": "Mevlânâ Mahbûb Çelebi",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:27:30.479999Z",
+  "updated_at": "2026-01-31T10:27:30.480017Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

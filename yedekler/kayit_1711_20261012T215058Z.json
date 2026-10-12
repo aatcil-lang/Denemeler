@@ -1,0 +1,220 @@
+{
+ "id": 1711,
+ "kitap_set": [
+  {
+   "id": 1706,
+   "isim": "Kitâb-ı Hâşiyetü Sadrü’ş-Şerî‘a.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:33.210304Z",
+   "updated_at": "2025-04-06T19:20:16.344450Z",
+   "yazar": {
+    "id": 486,
+    "isim": "Şâir Sinân",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-23T12:45:21.677027Z",
+    "updated_at": "2024-12-23T12:45:21.677044Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1711,
+    "tam_metin": "[47] Kitâb-ı Hâşiyetü Sadrü’ş-Şerîʿa li-Şâʿir Sinân. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Yüz doksan varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "51a",
+    "created_at": "2024-02-10T12:47:32.925077Z",
+    "updated_at": "2026-01-26T20:44:17.103931Z",
+    "vakif": 12,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3528,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3528,
+  "kitap_set": [
+   {
+    "id": 3509,
+    "isim": "Kitâb-ı Hâşiye-i Sadru’ş-Şerî‘a li-Mevlânâ Şâir Sinân -aleyhi’r-rahme-.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:28.869191Z",
+    "updated_at": "2025-04-06T19:20:10.948736Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3528,
+     "tam_metin": "[7] Kitâb-ı Hâşiye-i Sadru’ş-Şerîʿa li-Mevlânâ Şâʿir Sinân aleyhi’r-rahme. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Yüz doksan varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "47b",
+     "created_at": "2024-04-22T12:45:28.606189Z",
+     "updated_at": "2025-10-01T19:37:21.343868Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1711,
+     "kodikolojik_bilgi": 1421
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1711,
+  "bilgi_set": [
+   {
+    "id": 1421,
+    "murekkep_set": [
+     {
+      "id": 1298,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1421
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1087,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1421
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Sarı kağıt",
+    "varak_adedi": "190",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T19:37:21.337866Z",
+    "updated_at": "2025-10-01T19:37:21.337890Z",
+    "kayit": {
+     "id": 3528,
+     "tam_metin": "[7] Kitâb-ı Hâşiye-i Sadru’ş-Şerîʿa li-Mevlânâ Şâʿir Sinân aleyhi’r-rahme. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Yüz doksan varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "47b",
+     "created_at": "2024-04-22T12:45:28.606189Z",
+     "updated_at": "2025-10-01T19:37:21.343868Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1711,
+     "kodikolojik_bilgi": 1421
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[7] Kitâb-ı Hâşiye-i Sadru’ş-Şerîʿa li-Mevlânâ Şâʿir Sinân aleyhi’r-rahme. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Yüz doksan varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "47b",
+  "created_at": "2024-04-22T12:45:28.606189Z",
+  "updated_at": "2025-10-01T19:37:21.343868Z",
+  "vakif": {
+   "id": 12,
+   "isim": "Âlâiyyeli Muhyiddîn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:56:17.228524Z",
+   "updated_at": "2024-04-22T11:56:17.228541Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1421,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Sarı kağıt",
+   "varak_adedi": "190",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T19:37:21.337866Z",
+   "updated_at": "2025-10-01T19:37:21.337890Z",
+   "kayit": 3528,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[47] Kitâb-ı Hâşiyetü Sadrü’ş-Şerîʿa li-Şâʿir Sinân. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Yüz doksan varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "51a",
+ "created_at": "2024-02-10T12:47:32.925077Z",
+ "updated_at": "2026-01-26T20:44:17.103931Z",
+ "vakif": {
+  "id": 12,
+  "isim": "Âlâiyyeli Muhyiddîn",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:56:17.228524Z",
+  "updated_at": "2024-04-22T11:56:17.228541Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,288 @@
+{
+ "id": 1704,
+ "kitap_set": [
+  {
+   "id": 3902,
+   "isim": "Baʿzı müsevvedât.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2024-12-20T12:32:38.831327Z",
+   "updated_at": "2025-04-06T19:20:09.837101Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1704,
+    "tam_metin": "[40] Kitâb-ı Metnü’l-Kenz ve baʿzı müsevvedât. Bi-hattı Musannifek. Bir cildde. Haşebî nısfına. Sarı kâğıd mukavvâ cildle. Mine’l-kütübi’l-gayri maʿlûme. İki yüz on yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "50b",
+    "created_at": "2024-02-10T12:47:29.712310Z",
+    "updated_at": "2026-01-27T22:41:59.259303Z",
+    "vakif": 742,
+    "mustensih": 11,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3640,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 1699,
+   "isim": "Kitâb-ı Metnü’l-Kenz.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:29.987907Z",
+   "updated_at": "2025-04-06T19:20:16.362776Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1704,
+    "tam_metin": "[40] Kitâb-ı Metnü’l-Kenz ve baʿzı müsevvedât. Bi-hattı Musannifek. Bir cildde. Haşebî nısfına. Sarı kâğıd mukavvâ cildle. Mine’l-kütübi’l-gayri maʿlûme. İki yüz on yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "50b",
+    "created_at": "2024-02-10T12:47:29.712310Z",
+    "updated_at": "2026-01-27T22:41:59.259303Z",
+    "vakif": 742,
+    "mustensih": 11,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3640,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3640,
+  "kitap_set": [
+   {
+    "id": 3619,
+    "isim": "Kitâb-ı Metn-i Kenz ve Musannifek hattıyla ba‘zı müsveddât ile.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:46:17.019375Z",
+    "updated_at": "2025-04-06T19:20:10.638493Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3640,
+     "tam_metin": "[7] Kitâb-ı Metn-i Kenz ve Musannifek hattıyla baʿzı müsevvedât ile bir cildde. Haşebî nısfına. Sarı kâğıd mukavvâ cildli. İki yüz on yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+     "notlar": "",
+     "sayfa_numarasi": "52b",
+     "created_at": "2024-04-22T12:46:16.754973Z",
+     "updated_at": "2026-01-27T22:41:28.300481Z",
+     "vakif": 742,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1704,
+     "kodikolojik_bilgi": 1533
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 1195,
+    "koleksiyon_numarasi": "2042",
+    "nusha": "",
+    "created_at": "2026-08-21T01:31:40.543053Z",
+    "updated_at": "2026-08-21T01:31:40.543075Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3640,
+     "tam_metin": "[7] Kitâb-ı Metn-i Kenz ve Musannifek hattıyla baʿzı müsevvedât ile bir cildde. Haşebî nısfına. Sarı kâğıd mukavvâ cildli. İki yüz on yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+     "notlar": "",
+     "sayfa_numarasi": "52b",
+     "created_at": "2024-04-22T12:46:16.754973Z",
+     "updated_at": "2026-01-27T22:41:28.300481Z",
+     "vakif": 742,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1704,
+     "kodikolojik_bilgi": 1533
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1704,
+  "bilgi_set": [
+   {
+    "id": 1533,
+    "murekkep_set": [
+     {
+      "id": 1413,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1533
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1199,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1533
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Sarı kağıt",
+    "varak_adedi": "217",
+    "kagit_turu": "Haşebî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-02T07:28:30.679602Z",
+    "updated_at": "2025-10-02T07:28:30.679618Z",
+    "kayit": {
+     "id": 3640,
+     "tam_metin": "[7] Kitâb-ı Metn-i Kenz ve Musannifek hattıyla baʿzı müsevvedât ile bir cildde. Haşebî nısfına. Sarı kâğıd mukavvâ cildli. İki yüz on yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+     "notlar": "",
+     "sayfa_numarasi": "52b",
+     "created_at": "2024-04-22T12:46:16.754973Z",
+     "updated_at": "2026-01-27T22:41:28.300481Z",
+     "vakif": 742,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1704,
+     "kodikolojik_bilgi": 1533
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[7] Kitâb-ı Metn-i Kenz ve Musannifek hattıyla baʿzı müsevvedât ile bir cildde. Haşebî nısfına. Sarı kâğıd mukavvâ cildli. İki yüz on yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+  "notlar": "",
+  "sayfa_numarasi": "52b",
+  "created_at": "2024-04-22T12:46:16.754973Z",
+  "updated_at": "2026-01-27T22:41:28.300481Z",
+  "vakif": {
+   "id": 742,
+   "isim": "[bilgi yok]",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-27T21:30:30.238544Z",
+   "updated_at": "2026-01-27T21:30:30.239057Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1533,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Sarı kağıt",
+   "varak_adedi": "217",
+   "kagit_turu": "Haşebî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-02T07:28:30.679602Z",
+   "updated_at": "2025-10-02T07:28:30.679618Z",
+   "kayit": 3640,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[40] Kitâb-ı Metnü’l-Kenz ve baʿzı müsevvedât. Bi-hattı Musannifek. Bir cildde. Haşebî nısfına. Sarı kâğıd mukavvâ cildle. Mine’l-kütübi’l-gayri maʿlûme. İki yüz on yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "50b",
+ "created_at": "2024-02-10T12:47:29.712310Z",
+ "updated_at": "2026-01-27T22:41:59.259303Z",
+ "vakif": {
+  "id": 742,
+  "isim": "[bilgi yok]",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-27T21:30:30.238544Z",
+  "updated_at": "2026-01-27T21:30:30.239057Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

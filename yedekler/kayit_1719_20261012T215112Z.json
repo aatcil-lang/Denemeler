@@ -1,0 +1,248 @@
+{
+ "id": 1719,
+ "kitap_set": [
+  {
+   "id": 1714,
+   "isim": "Kitâbü’l-Cildi’l-Evvel mine’l-Musaffâ fî Şerhi’l-Manzûme (İlâ evveli Kitâbi’l-Kerâhiyye).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:36.884835Z",
+   "updated_at": "2025-04-06T19:20:16.320098Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1719,
+    "tam_metin": "[55] Kitâbü’l-Cildi’l-Evvel eydan mine’l-Musaffâ fî Şerhi’l-Manzûme. İlâ evveli Kitâbi’l-Kerâhiyye. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Ahmed Kâbilî. İki yüz yirmi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "51b",
+    "created_at": "2024-02-10T12:47:36.590144Z",
+    "updated_at": "2026-01-23T11:22:35.649375Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3276,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3276,
+  "kitap_set": [
+   {
+    "id": 3258,
+    "isim": "Kitâb-ı Musaffâ min Şerhi’l-Manzûme.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:26.024461Z",
+    "updated_at": "2025-04-06T19:20:11.639774Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3276,
+     "tam_metin": "[19] Kitâb-ı Musaffâ min Şerhi’l-Manzûme. Dimeşkī tamâmına. Evvelinden Kitâb-ı Kerâmet’e dek. Siyâh cildli. İki yüz yirmi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "39a",
+     "created_at": "2024-04-22T12:27:25.746397Z",
+     "updated_at": "2025-09-22T12:51:42.009208Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1719,
+     "kodikolojik_bilgi": 1213
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 678,
+    "koleksiyon_numarasi": "01821",
+    "nusha": "",
+    "created_at": "2025-01-14T13:51:11.573575Z",
+    "updated_at": "2025-01-14T13:51:11.573589Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3276,
+     "tam_metin": "[19] Kitâb-ı Musaffâ min Şerhi’l-Manzûme. Dimeşkī tamâmına. Evvelinden Kitâb-ı Kerâmet’e dek. Siyâh cildli. İki yüz yirmi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "39a",
+     "created_at": "2024-04-22T12:27:25.746397Z",
+     "updated_at": "2025-09-22T12:51:42.009208Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1719,
+     "kodikolojik_bilgi": 1213
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1719,
+  "bilgi_set": [
+   {
+    "id": 1213,
+    "murekkep_set": [
+     {
+      "id": 1091,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1213
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 880,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1213
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "220",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T12:51:42.003719Z",
+    "updated_at": "2025-09-22T12:51:42.003743Z",
+    "kayit": {
+     "id": 3276,
+     "tam_metin": "[19] Kitâb-ı Musaffâ min Şerhi’l-Manzûme. Dimeşkī tamâmına. Evvelinden Kitâb-ı Kerâmet’e dek. Siyâh cildli. İki yüz yirmi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "39a",
+     "created_at": "2024-04-22T12:27:25.746397Z",
+     "updated_at": "2025-09-22T12:51:42.009208Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1719,
+     "kodikolojik_bilgi": 1213
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[19] Kitâb-ı Musaffâ min Şerhi’l-Manzûme. Dimeşkī tamâmına. Evvelinden Kitâb-ı Kerâmet’e dek. Siyâh cildli. İki yüz yirmi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "39a",
+  "created_at": "2024-04-22T12:27:25.746397Z",
+  "updated_at": "2025-09-22T12:51:42.009208Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1213,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "220",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T12:51:42.003719Z",
+   "updated_at": "2025-09-22T12:51:42.003743Z",
+   "kayit": 3276,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[55] Kitâbü’l-Cildi’l-Evvel eydan mine’l-Musaffâ fî Şerhi’l-Manzûme. İlâ evveli Kitâbi’l-Kerâhiyye. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Ahmed Kâbilî. İki yüz yirmi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "51b",
+ "created_at": "2024-02-10T12:47:36.590144Z",
+ "updated_at": "2026-01-23T11:22:35.649375Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

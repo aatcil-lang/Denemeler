@@ -1,0 +1,208 @@
+{
+ "id": 1736,
+ "kitap_set": [
+  {
+   "id": 1731,
+   "isim": "Kitâbü’l-Cildi’l-Evvel min Kunyeti’l-Fetâvâ (İlâ evveli Bâbi’l-Vekâleti fi’l-Hibe).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:44.650825Z",
+   "updated_at": "2025-04-06T19:20:16.265750Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1736,
+    "tam_metin": "[72] Kitâbü’l-Cildi’l-Evvel eydan min Kunyeti’l-Fetâvâ. İlâ evveli Bâbi’l-Vekâleti fi’l-Hibe. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Fazlullâh Paşa. İki yüz on yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "52a",
+    "created_at": "2024-02-10T12:47:44.363094Z",
+    "updated_at": "2026-01-31T10:34:04.728771Z",
+    "vakif": 760,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3613,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3613,
+  "kitap_set": [
+   {
+    "id": 3592,
+    "isim": "Kitâb-ı Kunye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:46:05.389345Z",
+    "updated_at": "2025-04-06T19:20:10.714164Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3613,
+     "tam_metin": "[27] Kitâb-ı Kunye. Evvelinden Vekâletün fi’l-Hibe’ye dek. Dimeşkī tamâmına. Ciğerî cildli. Vakf-ı Fazlullâh Paşa. İki yüz on yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51b",
+     "created_at": "2024-04-22T12:46:05.122258Z",
+     "updated_at": "2026-01-31T10:33:36.426702Z",
+     "vakif": 760,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1736,
+     "kodikolojik_bilgi": 1506
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1736,
+  "bilgi_set": [
+   {
+    "id": 1506,
+    "murekkep_set": [
+     {
+      "id": 1386,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1506
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1172,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1506
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "217",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-02T06:05:39.495606Z",
+    "updated_at": "2025-10-02T06:05:39.495626Z",
+    "kayit": {
+     "id": 3613,
+     "tam_metin": "[27] Kitâb-ı Kunye. Evvelinden Vekâletün fi’l-Hibe’ye dek. Dimeşkī tamâmına. Ciğerî cildli. Vakf-ı Fazlullâh Paşa. İki yüz on yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "51b",
+     "created_at": "2024-04-22T12:46:05.122258Z",
+     "updated_at": "2026-01-31T10:33:36.426702Z",
+     "vakif": 760,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1736,
+     "kodikolojik_bilgi": 1506
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[27] Kitâb-ı Kunye. Evvelinden Vekâletün fi’l-Hibe’ye dek. Dimeşkī tamâmına. Ciğerî cildli. Vakf-ı Fazlullâh Paşa. İki yüz on yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "51b",
+  "created_at": "2024-04-22T12:46:05.122258Z",
+  "updated_at": "2026-01-31T10:33:36.426702Z",
+  "vakif": {
+   "id": 760,
+   "isim": "Fazlullâh Paşa",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:32:53.198237Z",
+   "updated_at": "2026-01-31T10:32:53.198251Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1506,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "217",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-02T06:05:39.495606Z",
+   "updated_at": "2025-10-02T06:05:39.495626Z",
+   "kayit": 3613,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[72] Kitâbü’l-Cildi’l-Evvel eydan min Kunyeti’l-Fetâvâ. İlâ evveli Bâbi’l-Vekâleti fi’l-Hibe. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Fazlullâh Paşa. İki yüz on yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "52a",
+ "created_at": "2024-02-10T12:47:44.363094Z",
+ "updated_at": "2026-01-31T10:34:04.728771Z",
+ "vakif": {
+  "id": 760,
+  "isim": "Fazlullâh Paşa",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:32:53.198237Z",
+  "updated_at": "2026-01-31T10:32:53.198251Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

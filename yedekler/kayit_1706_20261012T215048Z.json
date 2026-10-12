@@ -1,0 +1,248 @@
+{
+ "id": 1706,
+ "kitap_set": [
+  {
+   "id": 1701,
+   "isim": "Kitâb-ı Metnü’l-Vikāye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:30.901496Z",
+   "updated_at": "2025-04-06T19:20:16.357097Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1706,
+    "tam_metin": "[42] Kitâb-ı Metnü’l-Vikāye eydan. Dimeşkī tamâmına. Müzehheb ciğerî cildle. Vakf-ı Tuzlalıoğlu. Yüz elli altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "50b",
+    "created_at": "2024-02-10T12:47:30.624076Z",
+    "updated_at": "2026-01-31T10:12:06.237065Z",
+    "vakif": 757,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3592,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1127,
+   "koleksiyon_numarasi": "2228",
+   "nusha": "https://portal.yek.gov.tr/works/detail/239974",
+   "created_at": "2026-05-18T20:25:36.524357Z",
+   "updated_at": "2026-05-18T20:25:36.524377Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1706,
+    "tam_metin": "[42] Kitâb-ı Metnü’l-Vikāye eydan. Dimeşkī tamâmına. Müzehheb ciğerî cildle. Vakf-ı Tuzlalıoğlu. Yüz elli altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "50b",
+    "created_at": "2024-02-10T12:47:30.624076Z",
+    "updated_at": "2026-01-31T10:12:06.237065Z",
+    "vakif": 757,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3592,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 3592,
+  "kitap_set": [
+   {
+    "id": 3571,
+    "isim": "Kitâb-ı Metn-i Vikāye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:56.400633Z",
+    "updated_at": "2025-04-06T19:20:10.773611Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3592,
+     "tam_metin": "[6] Kitâb-ı Metn-i Vikāye. Dimeşkī tamâmına. Müzehheb Ciğerî cildli. Vakf-ı Tuzlalıoğlu. Yüz elli altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50b",
+     "created_at": "2024-04-22T12:45:56.127694Z",
+     "updated_at": "2026-01-31T10:11:50.973290Z",
+     "vakif": 757,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1706,
+     "kodikolojik_bilgi": 1485
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1706,
+  "bilgi_set": [
+   {
+    "id": 1485,
+    "murekkep_set": [
+     {
+      "id": 1365,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1485
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1151,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1485
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Müzehheb ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "156",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T21:33:28.454851Z",
+    "updated_at": "2025-10-01T21:33:28.454876Z",
+    "kayit": {
+     "id": 3592,
+     "tam_metin": "[6] Kitâb-ı Metn-i Vikāye. Dimeşkī tamâmına. Müzehheb Ciğerî cildli. Vakf-ı Tuzlalıoğlu. Yüz elli altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50b",
+     "created_at": "2024-04-22T12:45:56.127694Z",
+     "updated_at": "2026-01-31T10:11:50.973290Z",
+     "vakif": 757,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1706,
+     "kodikolojik_bilgi": 1485
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[6] Kitâb-ı Metn-i Vikāye. Dimeşkī tamâmına. Müzehheb Ciğerî cildli. Vakf-ı Tuzlalıoğlu. Yüz elli altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "50b",
+  "created_at": "2024-04-22T12:45:56.127694Z",
+  "updated_at": "2026-01-31T10:11:50.973290Z",
+  "vakif": {
+   "id": 757,
+   "isim": "Tuzlalıoğlu",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:07:50.292593Z",
+   "updated_at": "2026-01-31T10:07:50.292609Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1485,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Müzehheb ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "156",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T21:33:28.454851Z",
+   "updated_at": "2025-10-01T21:33:28.454876Z",
+   "kayit": 3592,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[42] Kitâb-ı Metnü’l-Vikāye eydan. Dimeşkī tamâmına. Müzehheb ciğerî cildle. Vakf-ı Tuzlalıoğlu. Yüz elli altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "50b",
+ "created_at": "2024-02-10T12:47:30.624076Z",
+ "updated_at": "2026-01-31T10:12:06.237065Z",
+ "vakif": {
+  "id": 757,
+  "isim": "Tuzlalıoğlu",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:07:50.292593Z",
+  "updated_at": "2026-01-31T10:07:50.292609Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

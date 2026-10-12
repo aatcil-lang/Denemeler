@@ -1,0 +1,248 @@
+{
+ "id": 1733,
+ "kitap_set": [
+  {
+   "id": 1728,
+   "isim": "Kitâb-ı Kunyetü’l-Fetâvâ.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:43.306181Z",
+   "updated_at": "2025-04-06T19:20:16.274900Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1733,
+    "tam_metin": "[69] Kitâb-ı Kunyetü’l-Fetâvâ eydan. Tamâm. Dimeşkī tamâmına. Köhne ak kâğıd mukavvâ cildle. Vakf-ı Ahmed Kâbilî. Yüz yetmiş dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "52a",
+    "created_at": "2024-02-10T12:47:43.029370Z",
+    "updated_at": "2026-01-23T11:27:52.483487Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3287,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3287,
+  "kitap_set": [
+   {
+    "id": 3269,
+    "isim": "Kitâb-ı Kunye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:30.935948Z",
+    "updated_at": "2025-04-06T19:20:11.606833Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3287,
+     "tam_metin": "[30] Kitâb-ı Kunye. Tamâm. Dimeşkī tamâmına. Köhne ak kâğıd mukavvâ cildli. Yüz yetmiş dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "39a",
+     "created_at": "2024-04-22T12:27:30.660294Z",
+     "updated_at": "2025-09-22T13:09:27.773542Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1733,
+     "kodikolojik_bilgi": 1224
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 688,
+    "koleksiyon_numarasi": "02450",
+    "nusha": "",
+    "created_at": "2025-01-14T14:08:23.310459Z",
+    "updated_at": "2025-01-14T14:08:23.310476Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3287,
+     "tam_metin": "[30] Kitâb-ı Kunye. Tamâm. Dimeşkī tamâmına. Köhne ak kâğıd mukavvâ cildli. Yüz yetmiş dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "39a",
+     "created_at": "2024-04-22T12:27:30.660294Z",
+     "updated_at": "2025-09-22T13:09:27.773542Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1733,
+     "kodikolojik_bilgi": 1224
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1733,
+  "bilgi_set": [
+   {
+    "id": 1224,
+    "murekkep_set": [
+     {
+      "id": 1102,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1224
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 891,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1224
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Köhne ak kağıt",
+    "varak_adedi": "174",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T13:09:27.767494Z",
+    "updated_at": "2025-09-22T13:09:27.767521Z",
+    "kayit": {
+     "id": 3287,
+     "tam_metin": "[30] Kitâb-ı Kunye. Tamâm. Dimeşkī tamâmına. Köhne ak kâğıd mukavvâ cildli. Yüz yetmiş dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "39a",
+     "created_at": "2024-04-22T12:27:30.660294Z",
+     "updated_at": "2025-09-22T13:09:27.773542Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1733,
+     "kodikolojik_bilgi": 1224
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[30] Kitâb-ı Kunye. Tamâm. Dimeşkī tamâmına. Köhne ak kâğıd mukavvâ cildli. Yüz yetmiş dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "39a",
+  "created_at": "2024-04-22T12:27:30.660294Z",
+  "updated_at": "2025-09-22T13:09:27.773542Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1224,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Köhne ak kağıt",
+   "varak_adedi": "174",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T13:09:27.767494Z",
+   "updated_at": "2025-09-22T13:09:27.767521Z",
+   "kayit": 3287,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[69] Kitâb-ı Kunyetü’l-Fetâvâ eydan. Tamâm. Dimeşkī tamâmına. Köhne ak kâğıd mukavvâ cildle. Vakf-ı Ahmed Kâbilî. Yüz yetmiş dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "52a",
+ "created_at": "2024-02-10T12:47:43.029370Z",
+ "updated_at": "2026-01-23T11:27:52.483487Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

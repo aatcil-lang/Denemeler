@@ -1,0 +1,248 @@
+{
+ "id": 1759,
+ "kitap_set": [
+  {
+   "id": 1754,
+   "isim": "Kitâbü’l-Cildi’l-Evvel min Muhtelifi’r-Rivâye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:55.133983Z",
+   "updated_at": "2025-04-06T19:20:16.189322Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1759,
+    "tam_metin": "[95] Kitâbü’l-Cildi’l-Evvel eydan min Muhtelefi’r-Rivâye. İlâ âhiri kavlihî إذا غصب min Kitâbi’s-Sulh. [53a] Nâkısu’l-âhir. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Kâbilîzâde. Üç yüz yirmi bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "52b",
+    "created_at": "2024-02-10T12:47:54.855016Z",
+    "updated_at": "2026-01-23T11:24:39.730659Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3281,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3281,
+  "kitap_set": [
+   {
+    "id": 3263,
+    "isim": "Kitâb-ı Muhtelifü’r-Rivâye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:28.274384Z",
+    "updated_at": "2025-04-06T19:20:11.624476Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3281,
+     "tam_metin": "[24] Kitâb-ı Muhtelefü’r-Rivâye. Evvelinden Kitâb-ı Sulh’da قال إذا غصب ibâretine dek. Âhiri ebter. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Üç yüz yirmi bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "39a",
+     "created_at": "2024-04-22T12:27:27.995529Z",
+     "updated_at": "2025-09-22T12:58:48.108073Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1759,
+     "kodikolojik_bilgi": 1218
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 682,
+    "koleksiyon_numarasi": "02144",
+    "nusha": "",
+    "created_at": "2025-01-14T13:58:46.660533Z",
+    "updated_at": "2025-01-14T13:58:46.660548Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3281,
+     "tam_metin": "[24] Kitâb-ı Muhtelefü’r-Rivâye. Evvelinden Kitâb-ı Sulh’da قال إذا غصب ibâretine dek. Âhiri ebter. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Üç yüz yirmi bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "39a",
+     "created_at": "2024-04-22T12:27:27.995529Z",
+     "updated_at": "2025-09-22T12:58:48.108073Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1759,
+     "kodikolojik_bilgi": 1218
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1759,
+  "bilgi_set": [
+   {
+    "id": 1218,
+    "murekkep_set": [
+     {
+      "id": 1096,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1218
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 885,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1218
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "321",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "Âhiri ebter",
+    "created_at": "2025-09-22T12:58:48.103920Z",
+    "updated_at": "2025-09-22T12:58:48.103937Z",
+    "kayit": {
+     "id": 3281,
+     "tam_metin": "[24] Kitâb-ı Muhtelefü’r-Rivâye. Evvelinden Kitâb-ı Sulh’da قال إذا غصب ibâretine dek. Âhiri ebter. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Üç yüz yirmi bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "39a",
+     "created_at": "2024-04-22T12:27:27.995529Z",
+     "updated_at": "2025-09-22T12:58:48.108073Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1759,
+     "kodikolojik_bilgi": 1218
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[24] Kitâb-ı Muhtelefü’r-Rivâye. Evvelinden Kitâb-ı Sulh’da قال إذا غصب ibâretine dek. Âhiri ebter. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Üç yüz yirmi bir varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "39a",
+  "created_at": "2024-04-22T12:27:27.995529Z",
+  "updated_at": "2025-09-22T12:58:48.108073Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1218,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "321",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "Âhiri ebter",
+   "created_at": "2025-09-22T12:58:48.103920Z",
+   "updated_at": "2025-09-22T12:58:48.103937Z",
+   "kayit": 3281,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[95] Kitâbü’l-Cildi’l-Evvel eydan min Muhtelefi’r-Rivâye. İlâ âhiri kavlihî إذا غصب min Kitâbi’s-Sulh. [53a] Nâkısu’l-âhir. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Kâbilîzâde. Üç yüz yirmi bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "52b",
+ "created_at": "2024-02-10T12:47:54.855016Z",
+ "updated_at": "2026-01-23T11:24:39.730659Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

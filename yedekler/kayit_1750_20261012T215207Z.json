@@ -1,0 +1,220 @@
+{
+ "id": 1750,
+ "kitap_set": [
+  {
+   "id": 1745,
+   "isim": "Kitâb Câmiu’l-Fusûleyn.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:51.015404Z",
+   "updated_at": "2025-04-06T19:20:16.217968Z",
+   "yazar": {
+    "id": 257,
+    "isim": "İbni Kādî Simavna, Şeyh Bedreddin Mahmud",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-11T10:45:05.562317Z",
+    "updated_at": "2024-09-11T10:45:05.562335Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1750,
+    "tam_metin": "[86] Kitâb-ı Câmiʿu’l-Fusûleyn eydan li-İbni Kādî Simavna. Tamâm. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. İki yüz yetmiş dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "52b",
+    "created_at": "2024-02-10T12:47:50.728608Z",
+    "updated_at": "2026-01-26T20:44:46.994152Z",
+    "vakif": 12,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3529,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3529,
+  "kitap_set": [
+   {
+    "id": 3510,
+    "isim": "Kitâb-ı Camiu’l-Fusûleyn.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:29.285319Z",
+    "updated_at": "2025-04-06T19:20:10.945900Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3529,
+     "tam_metin": "[8] Kitâb-ı Câmiʿu’l-Fusûleyn. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "47b",
+     "created_at": "2024-04-22T12:45:29.016582Z",
+     "updated_at": "2025-10-01T19:38:01.195108Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1750,
+     "kodikolojik_bilgi": 1422
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1750,
+  "bilgi_set": [
+   {
+    "id": 1422,
+    "murekkep_set": [
+     {
+      "id": 1299,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1422
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1088,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1422
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "269",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T19:38:01.191166Z",
+    "updated_at": "2025-10-01T19:38:01.191184Z",
+    "kayit": {
+     "id": 3529,
+     "tam_metin": "[8] Kitâb-ı Câmiʿu’l-Fusûleyn. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "47b",
+     "created_at": "2024-04-22T12:45:29.016582Z",
+     "updated_at": "2025-10-01T19:38:01.195108Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1750,
+     "kodikolojik_bilgi": 1422
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[8] Kitâb-ı Câmiʿu’l-Fusûleyn. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "47b",
+  "created_at": "2024-04-22T12:45:29.016582Z",
+  "updated_at": "2025-10-01T19:38:01.195108Z",
+  "vakif": {
+   "id": 12,
+   "isim": "Âlâiyyeli Muhyiddîn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:56:17.228524Z",
+   "updated_at": "2024-04-22T11:56:17.228541Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1422,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "269",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T19:38:01.191166Z",
+   "updated_at": "2025-10-01T19:38:01.191184Z",
+   "kayit": 3529,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[86] Kitâb-ı Câmiʿu’l-Fusûleyn eydan li-İbni Kādî Simavna. Tamâm. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. İki yüz yetmiş dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "52b",
+ "created_at": "2024-02-10T12:47:50.728608Z",
+ "updated_at": "2026-01-26T20:44:46.994152Z",
+ "vakif": {
+  "id": 12,
+  "isim": "Âlâiyyeli Muhyiddîn",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:56:17.228524Z",
+  "updated_at": "2024-04-22T11:56:17.228541Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

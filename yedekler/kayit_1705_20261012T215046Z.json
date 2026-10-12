@@ -1,0 +1,208 @@
+{
+ "id": 1705,
+ "kitap_set": [
+  {
+   "id": 1700,
+   "isim": "Kitâb-ı Metnü’l-Vikāye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:30.439607Z",
+   "updated_at": "2025-04-06T19:20:16.359880Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1705,
+    "tam_metin": "[41] Kitâb-ı Metnü’l-Vikāye. Tamâm. Dimeşkī tamâmından kırılmış. Siyâh cildle. Musahhah ve muhaşşâ. Vakf-ı Musannifek. İki yüz yirmi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "50b",
+    "created_at": "2024-02-10T12:47:30.155405Z",
+    "updated_at": "2026-01-26T16:52:33.895449Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3448,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3448,
+  "kitap_set": [
+   {
+    "id": 3430,
+    "isim": "Kitâb-ı Vikāye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:41:01.341755Z",
+    "updated_at": "2025-04-06T19:20:11.165928Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3448,
+     "tam_metin": "[3] Kitâb-ı Vikāye. Dimeşkī tamâmından kırılmış. Siyâh cildli. Muhaşşâ. İki yüz yirmi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "44a",
+     "created_at": "2024-04-22T12:41:01.072000Z",
+     "updated_at": "2025-09-22T21:32:02.432193Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1705,
+     "kodikolojik_bilgi": 1345
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1705,
+  "bilgi_set": [
+   {
+    "id": 1345,
+    "murekkep_set": [
+     {
+      "id": 1223,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1345
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1012,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1345
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "220",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T21:32:02.426995Z",
+    "updated_at": "2025-09-22T21:32:02.427021Z",
+    "kayit": {
+     "id": 3448,
+     "tam_metin": "[3] Kitâb-ı Vikāye. Dimeşkī tamâmından kırılmış. Siyâh cildli. Muhaşşâ. İki yüz yirmi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "44a",
+     "created_at": "2024-04-22T12:41:01.072000Z",
+     "updated_at": "2025-09-22T21:32:02.432193Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1705,
+     "kodikolojik_bilgi": 1345
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[3] Kitâb-ı Vikāye. Dimeşkī tamâmından kırılmış. Siyâh cildli. Muhaşşâ. İki yüz yirmi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "44a",
+  "created_at": "2024-04-22T12:41:01.072000Z",
+  "updated_at": "2025-09-22T21:32:02.432193Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1345,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "220",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T21:32:02.426995Z",
+   "updated_at": "2025-09-22T21:32:02.427021Z",
+   "kayit": 3448,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[41] Kitâb-ı Metnü’l-Vikāye. Tamâm. Dimeşkī tamâmından kırılmış. Siyâh cildle. Musahhah ve muhaşşâ. Vakf-ı Musannifek. İki yüz yirmi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "50b",
+ "created_at": "2024-02-10T12:47:30.155405Z",
+ "updated_at": "2026-01-26T16:52:33.895449Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
