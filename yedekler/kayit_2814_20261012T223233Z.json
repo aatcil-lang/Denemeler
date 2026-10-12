@@ -1,0 +1,339 @@
+{
+ "id": 2814,
+ "kitap_set": [
+  {
+   "id": 2797,
+   "isim": "Kitâb-ı Şerh-i Kenz li’z-Zeylaî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:24:02.550154Z",
+   "updated_at": "2025-04-06T19:20:12.994540Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2814,
+    "tam_metin": "[177] Kitâb-ı Şerh-i Kenz li’z-Zeylaʿî. Kitâbü’l-Hudûd’dan Kitâbü’l-Kazâ’ya dek. Bi-hattı Ali bin Muhammed. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "20a",
+    "created_at": "2024-04-22T12:24:02.283686Z",
+    "updated_at": "2025-09-07T12:09:37.385399Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1136,
+    "kodikolojik_bilgi": 748
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 357,
+   "koleksiyon_numarasi": "01733",
+   "nusha": "",
+   "created_at": "2025-01-11T17:58:14.831399Z",
+   "updated_at": "2025-01-11T17:58:14.831415Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2814,
+    "tam_metin": "[177] Kitâb-ı Şerh-i Kenz li’z-Zeylaʿî. Kitâbü’l-Hudûd’dan Kitâbü’l-Kazâ’ya dek. Bi-hattı Ali bin Muhammed. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "20a",
+    "created_at": "2024-04-22T12:24:02.283686Z",
+    "updated_at": "2025-09-07T12:09:37.385399Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1136,
+    "kodikolojik_bilgi": 748
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1136,
+  "kitap_set": [
+   {
+    "id": 1131,
+    "isim": "Kitâbü’l-Cildi’s-Sâlis min Şerhi’l-Kenz.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:43:11.070767Z",
+    "updated_at": "2025-04-06T19:20:18.210647Z",
+    "yazar": {
+     "id": 315,
+     "isim": "Zeylaî, Ebû Muhammed Fahruddîn Osmân b. Alî b. Mihcen b. Yûnus es-Sûfî el-Bâriî ez-Zeylaî",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-09-13T17:04:43.714259Z",
+     "updated_at": "2024-09-13T17:04:43.714277Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1136,
+     "tam_metin": "[263] Kitâbü’l-Cildi’s-Sâlis eydan min Şerhi’l-Kenz li’z-Zeylaʿî. Min evveli Kitâbi’l-Hudûd ilâ Kitâbi’l-Kazâʾ. Bi-hattı Ali bin Muhammed. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz altmış varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "26b",
+     "created_at": "2024-02-10T12:43:10.813252Z",
+     "updated_at": "2026-10-12T21:33:54.433378Z",
+     "vakif": 1,
+     "mustensih": 316,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2814,
+     "kodikolojik_bilgi": 1896
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2814,
+  "bilgi_set": [
+   {
+    "id": 1896,
+    "murekkep_set": [
+     {
+      "id": 1779,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1896
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1571,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1896
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "260",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:33:54.429236Z",
+    "updated_at": "2026-10-12T21:33:54.429255Z",
+    "kayit": {
+     "id": 1136,
+     "tam_metin": "[263] Kitâbü’l-Cildi’s-Sâlis eydan min Şerhi’l-Kenz li’z-Zeylaʿî. Min evveli Kitâbi’l-Hudûd ilâ Kitâbi’l-Kazâʾ. Bi-hattı Ali bin Muhammed. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz altmış varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "26b",
+     "created_at": "2024-02-10T12:43:10.813252Z",
+     "updated_at": "2026-10-12T21:33:54.433378Z",
+     "vakif": 1,
+     "mustensih": 316,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2814,
+     "kodikolojik_bilgi": 1896
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[263] Kitâbü’l-Cildi’s-Sâlis eydan min Şerhi’l-Kenz li’z-Zeylaʿî. Min evveli Kitâbi’l-Hudûd ilâ Kitâbi’l-Kazâʾ. Bi-hattı Ali bin Muhammed. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz altmış varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "26b",
+  "created_at": "2024-02-10T12:43:10.813252Z",
+  "updated_at": "2026-10-12T21:33:54.433378Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 316,
+   "isim": "Ali bin Muhammed",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-13T17:09:45.708655Z",
+   "updated_at": "2024-09-13T17:09:45.708670Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1896,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "260",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:33:54.429236Z",
+   "updated_at": "2026-10-12T21:33:54.429255Z",
+   "kayit": 1136,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 748,
+   "murekkep_set": [
+    {
+     "id": 626,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 748
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 417,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 748
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "260",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-07T12:09:37.377884Z",
+   "updated_at": "2025-09-07T12:09:37.377905Z",
+   "kayit": {
+    "id": 2814,
+    "tam_metin": "[177] Kitâb-ı Şerh-i Kenz li’z-Zeylaʿî. Kitâbü’l-Hudûd’dan Kitâbü’l-Kazâ’ya dek. Bi-hattı Ali bin Muhammed. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "20a",
+    "created_at": "2024-04-22T12:24:02.283686Z",
+    "updated_at": "2025-09-07T12:09:37.385399Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1136,
+    "kodikolojik_bilgi": 748
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[177] Kitâb-ı Şerh-i Kenz li’z-Zeylaʿî. Kitâbü’l-Hudûd’dan Kitâbü’l-Kazâ’ya dek. Bi-hattı Ali bin Muhammed. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "20a",
+ "created_at": "2024-04-22T12:24:02.283686Z",
+ "updated_at": "2025-09-07T12:09:37.385399Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 748,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "260",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-07T12:09:37.377884Z",
+  "updated_at": "2025-09-07T12:09:37.377905Z",
+  "kayit": 2814,
+  "created_by": null
+ }
+}
