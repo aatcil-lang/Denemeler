@@ -1,0 +1,287 @@
+{
+ "id": 2840,
+ "kitap_set": [
+  {
+   "id": 2823,
+   "isim": "Kitâb-ı Şerh-i Tecrîd.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:24:13.711100Z",
+   "updated_at": "2025-04-06T19:20:12.919051Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2840,
+    "tam_metin": "[203] Kitâb-ı Şerh-i Tecrîd. Kitâb-ı Hibe’den âhir-i Keffârât’a dek. Bi-hattı Şâh Ermen bin Abdullâh. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz yetmiş bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "21a",
+    "created_at": "2024-04-22T12:24:13.444021Z",
+    "updated_at": "2025-09-07T14:58:38.269012Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1158,
+    "kodikolojik_bilgi": 777
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 1158,
+  "kitap_set": [
+   {
+    "id": 1153,
+    "isim": "Kitâbü’l-Cildi’r-Râbi‘ min Şerhi’t-Tecrîd fi’l-Fıkh.",
+    "isim2": null,
+    "disiplin": "Fıkıh",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:43:20.301236Z",
+    "updated_at": "2025-04-06T19:20:18.139356Z",
+    "yazar": null,
+    "kayit": {
+     "id": 1158,
+     "tam_metin": "[285] Kitâbü’l-Cildi’r-Râbiʿ eydan min Şerhi’t-Tecrîd fi’l-Fıkh. Min evveli Kitâbi’l-Hibe ilâ âhiri Kitâbi’l-Keffâre. Bi-hattı Şâh Ermen [bin] Abdullâh. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz yetmiş bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "27b",
+     "created_at": "2024-02-10T12:43:20.042638Z",
+     "updated_at": "2026-10-12T21:34:35.867062Z",
+     "vakif": 1,
+     "mustensih": 327,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2840,
+     "kodikolojik_bilgi": 1918
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2840,
+  "bilgi_set": [
+   {
+    "id": 1918,
+    "murekkep_set": [
+     {
+      "id": 1801,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1918
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1593,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1918
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "271",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:34:35.863314Z",
+    "updated_at": "2026-10-12T21:34:35.863333Z",
+    "kayit": {
+     "id": 1158,
+     "tam_metin": "[285] Kitâbü’l-Cildi’r-Râbiʿ eydan min Şerhi’t-Tecrîd fi’l-Fıkh. Min evveli Kitâbi’l-Hibe ilâ âhiri Kitâbi’l-Keffâre. Bi-hattı Şâh Ermen [bin] Abdullâh. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz yetmiş bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "27b",
+     "created_at": "2024-02-10T12:43:20.042638Z",
+     "updated_at": "2026-10-12T21:34:35.867062Z",
+     "vakif": 1,
+     "mustensih": 327,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2840,
+     "kodikolojik_bilgi": 1918
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[285] Kitâbü’l-Cildi’r-Râbiʿ eydan min Şerhi’t-Tecrîd fi’l-Fıkh. Min evveli Kitâbi’l-Hibe ilâ âhiri Kitâbi’l-Keffâre. Bi-hattı Şâh Ermen [bin] Abdullâh. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz yetmiş bir varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "27b",
+  "created_at": "2024-02-10T12:43:20.042638Z",
+  "updated_at": "2026-10-12T21:34:35.867062Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 327,
+   "isim": "Şâh Ermen [bin] Abdullâh",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-13T18:05:32.507660Z",
+   "updated_at": "2024-09-13T18:05:32.507676Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1918,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "271",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:34:35.863314Z",
+   "updated_at": "2026-10-12T21:34:35.863333Z",
+   "kayit": 1158,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 777,
+   "murekkep_set": [
+    {
+     "id": 654,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 777
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 445,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 777
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "271",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-07T14:58:37.875081Z",
+   "updated_at": "2025-09-07T14:58:37.875810Z",
+   "kayit": {
+    "id": 2840,
+    "tam_metin": "[203] Kitâb-ı Şerh-i Tecrîd. Kitâb-ı Hibe’den âhir-i Keffârât’a dek. Bi-hattı Şâh Ermen bin Abdullâh. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz yetmiş bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "21a",
+    "created_at": "2024-04-22T12:24:13.444021Z",
+    "updated_at": "2025-09-07T14:58:38.269012Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1158,
+    "kodikolojik_bilgi": 777
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[203] Kitâb-ı Şerh-i Tecrîd. Kitâb-ı Hibe’den âhir-i Keffârât’a dek. Bi-hattı Şâh Ermen bin Abdullâh. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz yetmiş bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "21a",
+ "created_at": "2024-04-22T12:24:13.444021Z",
+ "updated_at": "2025-09-07T14:58:38.269012Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 777,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "271",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamından kırılmış",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-07T14:58:37.875081Z",
+  "updated_at": "2025-09-07T14:58:37.875810Z",
+  "kayit": 2840,
+  "created_by": null
+ }
+}

@@ -1,0 +1,287 @@
+{
+ "id": 2844,
+ "kitap_set": [
+  {
+   "id": 2827,
+   "isim": "Kitâb-ı Tenvîrü’s-Sirâc fî Şerhi’l-Ferâizi’s-Sirâciyye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:24:15.442066Z",
+   "updated_at": "2025-04-06T19:20:12.907279Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2844,
+    "tam_metin": "[207] Kitâb-ı Tenvîrü’s-Sirâc fî Şerhi’l-Ferâʾizi’s-Sirâciyye. İçinde metin min evvelihî ilâ âhirihî sürhle yazılmış. Bi-hattı müʾellifihî Ahmed bin Mahmûd es-Sâmânî. Dimeşkī nısfından kırılmış. Ciğerî cildli. Altmış beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "21a",
+    "created_at": "2024-04-22T12:24:15.174583Z",
+    "updated_at": "2025-09-07T15:02:09.109487Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1199,
+    "kodikolojik_bilgi": 781
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 1199,
+  "kitap_set": [
+   {
+    "id": 1194,
+    "isim": "Kitâb-ı Tenvîru’s-Sirâc fî Şerhi’l-Ferâizi’s-Sirâciyye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:43:38.125392Z",
+    "updated_at": "2025-04-06T19:20:17.994094Z",
+    "yazar": null,
+    "kayit": {
+     "id": 1199,
+     "tam_metin": "[326] Kitâb-ı Tenvîru’s-Sirâc eydan fî şerhi’l-Ferâʾizi’s-Sirâciyye. İçinde metin min evvelihî ilâ âhirihî sürhle yazılmış. Bi-hattı müʾellifihî Ahmed bin Mahmûd es-Sâmânî. Dimeşkī nısfından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Altmış beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "29a",
+     "created_at": "2024-02-10T12:43:37.833242Z",
+     "updated_at": "2026-10-12T21:35:47.737394Z",
+     "vakif": 1,
+     "mustensih": 346,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2844,
+     "kodikolojik_bilgi": 1958
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2844,
+  "bilgi_set": [
+   {
+    "id": 1958,
+    "murekkep_set": [
+     {
+      "id": 1841,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1958
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1633,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1958
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "65",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:35:47.734163Z",
+    "updated_at": "2026-10-12T21:35:47.734179Z",
+    "kayit": {
+     "id": 1199,
+     "tam_metin": "[326] Kitâb-ı Tenvîru’s-Sirâc eydan fî şerhi’l-Ferâʾizi’s-Sirâciyye. İçinde metin min evvelihî ilâ âhirihî sürhle yazılmış. Bi-hattı müʾellifihî Ahmed bin Mahmûd es-Sâmânî. Dimeşkī nısfından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Altmış beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "29a",
+     "created_at": "2024-02-10T12:43:37.833242Z",
+     "updated_at": "2026-10-12T21:35:47.737394Z",
+     "vakif": 1,
+     "mustensih": 346,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2844,
+     "kodikolojik_bilgi": 1958
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[326] Kitâb-ı Tenvîru’s-Sirâc eydan fî şerhi’l-Ferâʾizi’s-Sirâciyye. İçinde metin min evvelihî ilâ âhirihî sürhle yazılmış. Bi-hattı müʾellifihî Ahmed bin Mahmûd es-Sâmânî. Dimeşkī nısfından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Altmış beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "29a",
+  "created_at": "2024-02-10T12:43:37.833242Z",
+  "updated_at": "2026-10-12T21:35:47.737394Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 346,
+   "isim": "Ahmed bin Mahmûd es-Sâmânî",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-17T16:40:07.605101Z",
+   "updated_at": "2024-09-17T16:40:07.605116Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1958,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "65",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:35:47.734163Z",
+   "updated_at": "2026-10-12T21:35:47.734179Z",
+   "kayit": 1199,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 781,
+   "murekkep_set": [
+    {
+     "id": 658,
+     "renk": "kirmizi",
+     "ilgili_ibare": "İçinde metin min evvelihî ilâ âhirihî sürhle yazılmış",
+     "kodikolojik_bilgi": 781
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 449,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 781
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "65",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-07T15:02:09.104452Z",
+   "updated_at": "2025-09-07T15:02:09.104470Z",
+   "kayit": {
+    "id": 2844,
+    "tam_metin": "[207] Kitâb-ı Tenvîrü’s-Sirâc fî Şerhi’l-Ferâʾizi’s-Sirâciyye. İçinde metin min evvelihî ilâ âhirihî sürhle yazılmış. Bi-hattı müʾellifihî Ahmed bin Mahmûd es-Sâmânî. Dimeşkī nısfından kırılmış. Ciğerî cildli. Altmış beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "21a",
+    "created_at": "2024-04-22T12:24:15.174583Z",
+    "updated_at": "2025-09-07T15:02:09.109487Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1199,
+    "kodikolojik_bilgi": 781
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[207] Kitâb-ı Tenvîrü’s-Sirâc fî Şerhi’l-Ferâʾizi’s-Sirâciyye. İçinde metin min evvelihî ilâ âhirihî sürhle yazılmış. Bi-hattı müʾellifihî Ahmed bin Mahmûd es-Sâmânî. Dimeşkī nısfından kırılmış. Ciğerî cildli. Altmış beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "21a",
+ "created_at": "2024-04-22T12:24:15.174583Z",
+ "updated_at": "2025-09-07T15:02:09.109487Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 781,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "65",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Nısfından kırılmış",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-07T15:02:09.104452Z",
+  "updated_at": "2025-09-07T15:02:09.104470Z",
+  "kayit": 2844,
+  "created_by": null
+ }
+}
