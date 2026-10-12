@@ -138,3 +138,18 @@ Dayanak: katalogdaki “Vakf-ı …” ibaresi (Halebîzâde için katalog böl�
 - **Doğrulama:**
   - Tek kopya oluştu; toplam kodikolojik kayıt sayısı 1573 → 1574.
   - Ana kayıtta yalnızca kodikolojik bilgi bağlantısı değişti.
+
+## 12.10.2026 — Kodikolojik bilgiler: Hacıhasanzade toplu işlemi
+- **Kapsam:** Kodikolojik bilgisi olmayan 1504 Hacıhasanzade kaydı.
+  - **İşlenen:** 1479 kayıt.
+  - **Atlanan:** 24 kayıt. Bunların 23'ü elle bakılması gereken kayıtlar (yıpranmış metin, birden fazla kâğıt türü, birden fazla varak sayısı, eksik ebat). Birinin metninde hiç kodikolojik bilgi yok. Liste: `yedekler/kodikolojik_elle_bakilacak.json`.
+  - **Daha önce oluşturulan:** 1 kayıt (#1064, deneme kaydı).
+- **Doldurulan alanlar:** kâğıt türü, kâğıt ebadı, kâğıt şekli, cilt türü, cildin yapıldığı materyal, varak adedi.
+  - Yazım için mevcut verideki en yaygın biçimler kullanıldı.
+  - Açıklama, mürekkep, cetvel, hat ve zahriye alanları boş bırakıldı. Mürekkep ve hat için, sitenin formundaki gibi birer boş satır var.
+- **Yöntem:** Her kayıt önce yedeklendi. Kayıtların zaten kodikolojik bilgisi olmadığı tek tek kontrol edildi. Sitenin “Bilgi Ekle” formuyla aynı yük gönderildi.
+- **Son kontrol:**
+  - Bütün kodikolojik kayıtlar yeniden okundu. 1479 kaydın 1479'u doğru: her kayda tam bir bilgi bağlı ve alanlar önerilerle aynı.
+  - Kodikolojik kayıt sayısı 1574 → **3053**; beklenen sayıyla aynı.
+  - Süre yaklaşık 45 dakika.
+- **Ayrıca bulunan:** Fenarizade kaydı #2366'da iki ayrı kodikolojik bilgi var: #311 (15.08.2025) ve #1602 (29.06.2026). İkisi de elle girilmiş, aynı nüshayı anlatıyor. Bu işlemle ilgisi yok. Kütüphane ekibi hangisinin kalacağına karar vermeli.
