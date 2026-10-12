@@ -1,0 +1,248 @@
+{
+ "id": 1490,
+ "kitap_set": [
+  {
+   "id": 1485,
+   "isim": "Kitâbü’t-Tefsîri’l-Kebîr (Sûretü ve’n-Necm’den ilâ âhiri’l-Kelâmi’l-Kadîm).",
+   "isim2": null,
+   "disiplin": "Tefsir",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:51.332158Z",
+   "updated_at": "2025-04-06T19:20:16.989943Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1490,
+    "tam_metin": "[57] Kitâbü’t-Tefsîri’l-Kebîr. Sûretü ve’n-Necm’den ilâ âhiri’l-Kelâmi’l-Kadîm. Semerkandî tamâmına. Siyâh cildle. Evveli lavhalı. Vakf-ı Ahmed Kâbilî. Üç yüz yirmi dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "42a",
+    "created_at": "2024-02-10T12:45:51.047683Z",
+    "updated_at": "2026-01-23T10:51:37.007950Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3213,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3213,
+  "kitap_set": [
+   {
+    "id": 3195,
+    "isim": "Kitâb-ı Tefsîr-i Kebîr.",
+    "isim2": null,
+    "disiplin": "Tefsir",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:57.449023Z",
+    "updated_at": "2025-04-06T19:20:11.829433Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3213,
+     "tam_metin": "[7] Kitâb-ı Tefsîr-i Kebîr. Sûre-i ve’n-Necm’den Sûre-i Nâs’a dek. Semerkandî tamâmına. Siyâh cildli. Evveli levhalı. Üç yüz yirmi dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "36b",
+     "created_at": "2024-04-22T12:26:57.172074Z",
+     "updated_at": "2025-11-07T15:44:21.753683Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1490,
+     "kodikolojik_bilgi": 1150
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 636,
+    "koleksiyon_numarasi": "00317",
+    "nusha": "",
+    "created_at": "2025-01-14T09:52:40.163630Z",
+    "updated_at": "2025-01-14T09:52:40.163648Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3213,
+     "tam_metin": "[7] Kitâb-ı Tefsîr-i Kebîr. Sûre-i ve’n-Necm’den Sûre-i Nâs’a dek. Semerkandî tamâmına. Siyâh cildli. Evveli levhalı. Üç yüz yirmi dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "36b",
+     "created_at": "2024-04-22T12:26:57.172074Z",
+     "updated_at": "2025-11-07T15:44:21.753683Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1490,
+     "kodikolojik_bilgi": 1150
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1490,
+  "bilgi_set": [
+   {
+    "id": 1150,
+    "murekkep_set": [
+     {
+      "id": 1028,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1150
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 817,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1150
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Evveli levhalı.",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "329",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T09:25:12.604142Z",
+    "updated_at": "2025-11-07T15:44:21.748321Z",
+    "kayit": {
+     "id": 3213,
+     "tam_metin": "[7] Kitâb-ı Tefsîr-i Kebîr. Sûre-i ve’n-Necm’den Sûre-i Nâs’a dek. Semerkandî tamâmına. Siyâh cildli. Evveli levhalı. Üç yüz yirmi dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "36b",
+     "created_at": "2024-04-22T12:26:57.172074Z",
+     "updated_at": "2025-11-07T15:44:21.753683Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1490,
+     "kodikolojik_bilgi": 1150
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[7] Kitâb-ı Tefsîr-i Kebîr. Sûre-i ve’n-Necm’den Sûre-i Nâs’a dek. Semerkandî tamâmına. Siyâh cildli. Evveli levhalı. Üç yüz yirmi dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+  "notlar": "",
+  "sayfa_numarasi": "36b",
+  "created_at": "2024-04-22T12:26:57.172074Z",
+  "updated_at": "2025-11-07T15:44:21.753683Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1150,
+   "zahriye_exists": true,
+   "zahriye": "Evveli levhalı.",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "329",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T09:25:12.604142Z",
+   "updated_at": "2025-11-07T15:44:21.748321Z",
+   "kayit": 3213,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[57] Kitâbü’t-Tefsîri’l-Kebîr. Sûretü ve’n-Necm’den ilâ âhiri’l-Kelâmi’l-Kadîm. Semerkandî tamâmına. Siyâh cildle. Evveli lavhalı. Vakf-ı Ahmed Kâbilî. Üç yüz yirmi dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "42a",
+ "created_at": "2024-02-10T12:45:51.047683Z",
+ "updated_at": "2026-01-23T10:51:37.007950Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

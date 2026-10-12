@@ -1,0 +1,220 @@
+{
+ "id": 1463,
+ "kitap_set": [
+  {
+   "id": 1458,
+   "isim": "Kitâb-ı Şerhü’l-Keşşâf (Sûre-i Yâ-sîn’den Sûre-i Nâs âhirine dek).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:38.937372Z",
+   "updated_at": "2025-04-06T19:20:17.074681Z",
+   "yazar": {
+    "id": 439,
+    "isim": "Tîbî, Ebû Muhammed Şerefüddîn Hüseyn b. Abdillâh b. Muhammed et-Tîbî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-30T15:41:11.275850Z",
+    "updated_at": "2024-11-30T15:41:11.275865Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1463,
+    "tam_metin": "[30] Kitâb-ı Şerhu’l-Keşşâf li’t-Tîbî. Sûre-i Yâ-sîn’den Sûre-i Nâs âhirine dek. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Üç yüz yirmi sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "41a",
+    "created_at": "2024-02-10T12:45:38.644054Z",
+    "updated_at": "2026-01-23T10:53:29.735396Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3225,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3225,
+  "kitap_set": [
+   {
+    "id": 3207,
+    "isim": "Kitâb-ı Şerh-i Keşşâf li’t-Tîbî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:02.896223Z",
+    "updated_at": "2025-04-06T19:20:11.794181Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3225,
+     "tam_metin": "[19] Kitâb-ı Şerh-i Keşşâf li’t-Tîbî. Sûre-i Yâ-sîn’den Sûre-i Nâs âhirine dek. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Üç yüz yirmi sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "37a",
+     "created_at": "2024-04-22T12:27:02.602527Z",
+     "updated_at": "2025-09-22T11:01:20.539091Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1463,
+     "kodikolojik_bilgi": 1162
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1463,
+  "bilgi_set": [
+   {
+    "id": 1162,
+    "murekkep_set": [
+     {
+      "id": 1040,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1162
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 829,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1162
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "328",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T11:01:20.531832Z",
+    "updated_at": "2025-09-22T11:01:20.532037Z",
+    "kayit": {
+     "id": 3225,
+     "tam_metin": "[19] Kitâb-ı Şerh-i Keşşâf li’t-Tîbî. Sûre-i Yâ-sîn’den Sûre-i Nâs âhirine dek. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Üç yüz yirmi sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "37a",
+     "created_at": "2024-04-22T12:27:02.602527Z",
+     "updated_at": "2025-09-22T11:01:20.539091Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1463,
+     "kodikolojik_bilgi": 1162
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[19] Kitâb-ı Şerh-i Keşşâf li’t-Tîbî. Sûre-i Yâ-sîn’den Sûre-i Nâs âhirine dek. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Üç yüz yirmi sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+  "notlar": "",
+  "sayfa_numarasi": "37a",
+  "created_at": "2024-04-22T12:27:02.602527Z",
+  "updated_at": "2025-09-22T11:01:20.539091Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1162,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "328",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T11:01:20.531832Z",
+   "updated_at": "2025-09-22T11:01:20.532037Z",
+   "kayit": 3225,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[30] Kitâb-ı Şerhu’l-Keşşâf li’t-Tîbî. Sûre-i Yâ-sîn’den Sûre-i Nâs âhirine dek. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Üç yüz yirmi sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "41a",
+ "created_at": "2024-02-10T12:45:38.644054Z",
+ "updated_at": "2026-01-23T10:53:29.735396Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

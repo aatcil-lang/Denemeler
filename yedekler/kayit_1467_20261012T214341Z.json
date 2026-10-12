@@ -1,0 +1,208 @@
+{
+ "id": 1467,
+ "kitap_set": [
+  {
+   "id": 1462,
+   "isim": "Kitâb-ı Esvile-i [Es’ile-i] Râzî ale’l-Keşşâf.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:40.764470Z",
+   "updated_at": "2025-04-06T19:20:17.062652Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1467,
+    "tam_metin": "[34] Kitâb-ı Esʾile-i Râzî ale’l-Keşşâf. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Yüz üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "41a",
+    "created_at": "2024-02-10T12:45:40.479853Z",
+    "updated_at": "2026-01-23T10:57:15.837504Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3227,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3227,
+  "kitap_set": [
+   {
+    "id": 3209,
+    "isim": "Kitâb-ı Esvile-i [Es’ile-i] Râzî ale’l-Keşşâf.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:03.797847Z",
+    "updated_at": "2025-04-06T19:20:11.788078Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3227,
+     "tam_metin": "[21] Kitâb-ı Esʾile-i Râzî ale’l-Keşşâf. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "37a",
+     "created_at": "2024-04-22T12:27:03.516159Z",
+     "updated_at": "2025-09-22T11:07:33.337073Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1467,
+     "kodikolojik_bilgi": 1164
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1467,
+  "bilgi_set": [
+   {
+    "id": 1164,
+    "murekkep_set": [
+     {
+      "id": 1042,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1164
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 831,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1164
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "103",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T11:07:33.329573Z",
+    "updated_at": "2025-09-22T11:07:33.329645Z",
+    "kayit": {
+     "id": 3227,
+     "tam_metin": "[21] Kitâb-ı Esʾile-i Râzî ale’l-Keşşâf. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "37a",
+     "created_at": "2024-04-22T12:27:03.516159Z",
+     "updated_at": "2025-09-22T11:07:33.337073Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1467,
+     "kodikolojik_bilgi": 1164
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[21] Kitâb-ı Esʾile-i Râzî ale’l-Keşşâf. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+  "notlar": "",
+  "sayfa_numarasi": "37a",
+  "created_at": "2024-04-22T12:27:03.516159Z",
+  "updated_at": "2025-09-22T11:07:33.337073Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1164,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "103",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T11:07:33.329573Z",
+   "updated_at": "2025-09-22T11:07:33.329645Z",
+   "kayit": 3227,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[34] Kitâb-ı Esʾile-i Râzî ale’l-Keşşâf. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Yüz üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "41a",
+ "created_at": "2024-02-10T12:45:40.479853Z",
+ "updated_at": "2026-01-23T10:57:15.837504Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
