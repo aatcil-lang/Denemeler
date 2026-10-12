@@ -1,0 +1,220 @@
+{
+ "id": 1229,
+ "kitap_set": [
+  {
+   "id": 1224,
+   "isim": "Kitâb-ı Şerhu’l-Mevâkıf.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:51.849388Z",
+   "updated_at": "2025-04-06T19:20:17.890196Z",
+   "yazar": {
+    "id": 357,
+    "isim": "Seyyid eş-Şerîf",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-17T18:01:23.032067Z",
+    "updated_at": "2024-09-17T18:01:23.032082Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1229,
+    "tam_metin": "[9] Kitâb-ı Şerhu’l-Mevâkıf li’s-Seyyid eş-Şerîf eydan. Tamâm. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Sultânî. Bedel-i Yegânî. Üç yüz on sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+    "notlar": "",
+    "sayfa_numarasi": "30b",
+    "created_at": "2024-02-10T12:43:51.558753Z",
+    "updated_at": "2024-09-28T14:33:37.166928Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3190,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3190,
+  "kitap_set": [
+   {
+    "id": 3172,
+    "isim": "Kitâb-ı Şerh-i Mevâkıf li’s-Seyyid eş-Şerîf.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:46.976578Z",
+    "updated_at": "2025-04-06T19:20:11.906179Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3190,
+     "tam_metin": "[1] Kitâb-ı Şerh-i Mevâkıf li’s-Seyyid eş-Şerîf. Tamâm. Dimeşkī tamâmına. Siyâh cildli. Üç yüz on sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb-i Kelâmiyye ve Hikemiyye",
+     "notlar": "",
+     "sayfa_numarasi": "35a",
+     "created_at": "2024-04-22T12:26:46.700993Z",
+     "updated_at": "2025-09-22T08:57:57.960543Z",
+     "vakif": 7,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1229,
+     "kodikolojik_bilgi": 1127
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1229,
+  "bilgi_set": [
+   {
+    "id": 1127,
+    "murekkep_set": [
+     {
+      "id": 1005,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1127
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 794,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1127
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "318",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T08:57:57.956053Z",
+    "updated_at": "2025-09-22T08:57:57.956068Z",
+    "kayit": {
+     "id": 3190,
+     "tam_metin": "[1] Kitâb-ı Şerh-i Mevâkıf li’s-Seyyid eş-Şerîf. Tamâm. Dimeşkī tamâmına. Siyâh cildli. Üç yüz on sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb-i Kelâmiyye ve Hikemiyye",
+     "notlar": "",
+     "sayfa_numarasi": "35a",
+     "created_at": "2024-04-22T12:26:46.700993Z",
+     "updated_at": "2025-09-22T08:57:57.960543Z",
+     "vakif": 7,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1229,
+     "kodikolojik_bilgi": 1127
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[1] Kitâb-ı Şerh-i Mevâkıf li’s-Seyyid eş-Şerîf. Tamâm. Dimeşkī tamâmına. Siyâh cildli. Üç yüz on sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîl-i Kütüb-i Kelâmiyye ve Hikemiyye",
+  "notlar": "",
+  "sayfa_numarasi": "35a",
+  "created_at": "2024-04-22T12:26:46.700993Z",
+  "updated_at": "2025-09-22T08:57:57.960543Z",
+  "vakif": {
+   "id": 7,
+   "isim": "Ahmed Çelebi",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:27:02.625500Z",
+   "updated_at": "2024-04-22T11:27:02.625517Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1127,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "318",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T08:57:57.956053Z",
+   "updated_at": "2025-09-22T08:57:57.956068Z",
+   "kayit": 3190,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[9] Kitâb-ı Şerhu’l-Mevâkıf li’s-Seyyid eş-Şerîf eydan. Tamâm. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Sultânî. Bedel-i Yegânî. Üç yüz on sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+ "notlar": "",
+ "sayfa_numarasi": "30b",
+ "created_at": "2024-02-10T12:43:51.558753Z",
+ "updated_at": "2024-09-28T14:33:37.166928Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

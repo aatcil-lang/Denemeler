@@ -1,0 +1,248 @@
+{
+ "id": 1186,
+ "kitap_set": [
+  {
+   "id": 1181,
+   "isim": "Kitâbün mine’l-Fıkh.",
+   "isim2": null,
+   "disiplin": "Fıkıh",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:32.173832Z",
+   "updated_at": "2025-04-06T19:20:18.047104Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1186,
+    "tam_metin": "[313] Kitâbün mine’l-Fıkh eydan. Nâkısu’l-varakati’l-ûlâ. Min kavlihî ولو قال أحدكم مدبَّر والآخران حُرّان ilâ âhiri’l-kitâb. Semerkandî rubʿundan kırılmış. Siyâh cildle. Vakf-ı Sultânî. Yüz on iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "28b",
+    "created_at": "2024-02-10T12:43:31.917632Z",
+    "updated_at": "2024-09-22T16:00:54.476410Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2875,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1111,
+   "koleksiyon_numarasi": "1535",
+   "nusha": "https://portal.yek.gov.tr/works/detail/239230",
+   "created_at": "2026-05-15T20:40:14.222176Z",
+   "updated_at": "2026-05-15T20:40:14.222194Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1186,
+    "tam_metin": "[313] Kitâbün mine’l-Fıkh eydan. Nâkısu’l-varakati’l-ûlâ. Min kavlihî ولو قال أحدكم مدبَّر والآخران حُرّان ilâ âhiri’l-kitâb. Semerkandî rubʿundan kırılmış. Siyâh cildle. Vakf-ı Sultânî. Yüz on iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "28b",
+    "created_at": "2024-02-10T12:43:31.917632Z",
+    "updated_at": "2024-09-22T16:00:54.476410Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2875,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 2875,
+  "kitap_set": [
+   {
+    "id": 2858,
+    "isim": "Kitâbun mine’l-fıkh.",
+    "isim2": null,
+    "disiplin": "Fıkıh",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:28.682525Z",
+    "updated_at": "2025-04-06T19:20:12.817213Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2875,
+     "tam_metin": "[238] Kitâbün mine’l-fıkh. Evvel varakı yok ولو قال أحدكم مدبر والآخران حران ibâretinden âhir-i kitâba dek. Semerkandî rubʿundan kırılmış. Siyâh cildli. Yüz on iki varak.\n[Derkenar] Evvel sahîfesinin evvelinde “Lütfî teslîm ettiği kitâblardandır” deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "22b",
+     "created_at": "2024-04-22T12:24:28.416963Z",
+     "updated_at": "2025-11-06T23:23:33.035155Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1186,
+     "kodikolojik_bilgi": 812
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1186,
+  "bilgi_set": [
+   {
+    "id": 812,
+    "murekkep_set": [
+     {
+      "id": 689,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 812
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 480,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 812
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Evvel varakı yok. Evvel sahîfesinin evvelinde “Lütfî teslîm ettiği kitâblardandır” deyu yazılmış",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "112",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Rub'undan kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T08:27:57.005134Z",
+    "updated_at": "2025-11-06T23:23:33.023545Z",
+    "kayit": {
+     "id": 2875,
+     "tam_metin": "[238] Kitâbün mine’l-fıkh. Evvel varakı yok ولو قال أحدكم مدبر والآخران حران ibâretinden âhir-i kitâba dek. Semerkandî rubʿundan kırılmış. Siyâh cildli. Yüz on iki varak.\n[Derkenar] Evvel sahîfesinin evvelinde “Lütfî teslîm ettiği kitâblardandır” deyu yazılmış.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "22b",
+     "created_at": "2024-04-22T12:24:28.416963Z",
+     "updated_at": "2025-11-06T23:23:33.035155Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1186,
+     "kodikolojik_bilgi": 812
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[238] Kitâbün mine’l-fıkh. Evvel varakı yok ولو قال أحدكم مدبر والآخران حران ibâretinden âhir-i kitâba dek. Semerkandî rubʿundan kırılmış. Siyâh cildli. Yüz on iki varak.\n[Derkenar] Evvel sahîfesinin evvelinde “Lütfî teslîm ettiği kitâblardandır” deyu yazılmış.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "22b",
+  "created_at": "2024-04-22T12:24:28.416963Z",
+  "updated_at": "2025-11-06T23:23:33.035155Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 812,
+   "zahriye_exists": true,
+   "zahriye": "Evvel varakı yok. Evvel sahîfesinin evvelinde “Lütfî teslîm ettiği kitâblardandır” deyu yazılmış",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "112",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Rub'undan kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T08:27:57.005134Z",
+   "updated_at": "2025-11-06T23:23:33.023545Z",
+   "kayit": 2875,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[313] Kitâbün mine’l-Fıkh eydan. Nâkısu’l-varakati’l-ûlâ. Min kavlihî ولو قال أحدكم مدبَّر والآخران حُرّان ilâ âhiri’l-kitâb. Semerkandî rubʿundan kırılmış. Siyâh cildle. Vakf-ı Sultânî. Yüz on iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "28b",
+ "created_at": "2024-02-10T12:43:31.917632Z",
+ "updated_at": "2024-09-22T16:00:54.476410Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,260 @@
+{
+ "id": 1233,
+ "kitap_set": [
+  {
+   "id": 1228,
+   "isim": "Kitâbü’l-Cild […] min Şerhi’l-Mülahhas, Kısm-ı Hikmet.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:53.682035Z",
+   "updated_at": "2025-04-06T19:20:17.878210Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1233,
+    "tam_metin": "[13] Kitâbü’l-Cild [ ] eydan min Şerhi’l-Mülahhas. Kısm-ı Hikmet. Tamâm. Bi-hattı Ferruh bin Abdullâh. Dimeşkī tamâmından kırılmış. İbrişim alaca cildle. Vakf-ı Sultânî. Üç yüz yetmiş iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+    "notlar": "",
+    "sayfa_numarasi": "30b",
+    "created_at": "2024-02-10T12:43:53.389962Z",
+    "updated_at": "2024-09-25T07:39:23.340941Z",
+    "vakif": 1,
+    "mustensih": 359,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2982,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2982,
+  "kitap_set": [
+   {
+    "id": 2964,
+    "isim": "Kitâb-ı Şerh-i Mülahhas.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:14.233443Z",
+    "updated_at": "2025-04-06T19:20:12.504213Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2982,
+     "tam_metin": "[9] Kitâb-ı Şerh-i Mülahhas Kısm-ı Hikmet. Tamâm. Bi-hattı Ferruh bin Abdullâh. Dimeşkī tamâmından kırılmış. İbrişim alaca cildli. Üç yüz yetmiş iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "26b",
+     "created_at": "2024-04-22T12:25:13.969432Z",
+     "updated_at": "2025-09-20T06:34:22.966242Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1233,
+     "kodikolojik_bilgi": 919
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 484,
+    "koleksiyon_numarasi": "03208",
+    "nusha": "",
+    "created_at": "2025-01-12T22:09:41.574722Z",
+    "updated_at": "2025-01-12T22:09:41.574738Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2982,
+     "tam_metin": "[9] Kitâb-ı Şerh-i Mülahhas Kısm-ı Hikmet. Tamâm. Bi-hattı Ferruh bin Abdullâh. Dimeşkī tamâmından kırılmış. İbrişim alaca cildli. Üç yüz yetmiş iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "26b",
+     "created_at": "2024-04-22T12:25:13.969432Z",
+     "updated_at": "2025-09-20T06:34:22.966242Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1233,
+     "kodikolojik_bilgi": 919
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1233,
+  "bilgi_set": [
+   {
+    "id": 919,
+    "murekkep_set": [
+     {
+      "id": 797,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 919
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 587,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 919
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "İbrişim alaca cilt",
+    "cild_materyal": "",
+    "varak_adedi": "372",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-20T06:34:22.961127Z",
+    "updated_at": "2025-09-20T06:34:22.961151Z",
+    "kayit": {
+     "id": 2982,
+     "tam_metin": "[9] Kitâb-ı Şerh-i Mülahhas Kısm-ı Hikmet. Tamâm. Bi-hattı Ferruh bin Abdullâh. Dimeşkī tamâmından kırılmış. İbrişim alaca cildli. Üç yüz yetmiş iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "26b",
+     "created_at": "2024-04-22T12:25:13.969432Z",
+     "updated_at": "2025-09-20T06:34:22.966242Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1233,
+     "kodikolojik_bilgi": 919
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[9] Kitâb-ı Şerh-i Mülahhas Kısm-ı Hikmet. Tamâm. Bi-hattı Ferruh bin Abdullâh. Dimeşkī tamâmından kırılmış. İbrişim alaca cildli. Üç yüz yetmiş iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+  "notlar": "",
+  "sayfa_numarasi": "26b",
+  "created_at": "2024-04-22T12:25:13.969432Z",
+  "updated_at": "2025-09-20T06:34:22.966242Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 919,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "İbrişim alaca cilt",
+   "cild_materyal": "",
+   "varak_adedi": "372",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T06:34:22.961127Z",
+   "updated_at": "2025-09-20T06:34:22.961151Z",
+   "kayit": 2982,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[13] Kitâbü’l-Cild [ ] eydan min Şerhi’l-Mülahhas. Kısm-ı Hikmet. Tamâm. Bi-hattı Ferruh bin Abdullâh. Dimeşkī tamâmından kırılmış. İbrişim alaca cildle. Vakf-ı Sultânî. Üç yüz yetmiş iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+ "notlar": "",
+ "sayfa_numarasi": "30b",
+ "created_at": "2024-02-10T12:43:53.389962Z",
+ "updated_at": "2024-09-25T07:39:23.340941Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 359,
+  "isim": "Ferruh bin Abdullâh",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-09-17T18:19:38.057393Z",
+  "updated_at": "2024-09-17T18:19:38.057414Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

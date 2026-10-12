@@ -1,0 +1,248 @@
+{
+ "id": 1213,
+ "kitap_set": [
+  {
+   "id": 1208,
+   "isim": "Kitâb-ı Cildün […] mine’l-Vasît fî Fıkhi’ş-Şâfiî.",
+   "isim2": null,
+   "disiplin": "Fıkıh",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:44.486073Z",
+   "updated_at": "2025-04-06T19:20:17.937976Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1213,
+    "tam_metin": "[340] Kitâb-ı Cildün [ ] eydan mine’l-Vasît fî Fıkhi’ş-Şâfiʿî. Min evveli Kitâbi’l-Udhıye ilâ âhiri kavlihî إلا في الصلح على الخمر والخنزير فإنه يجوز بينهم ولا يجوز بيننا. Dimeşkī tamâmından kırılmış. Ak kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz doksan sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "29b",
+    "created_at": "2024-02-10T12:43:44.202640Z",
+    "updated_at": "2024-09-21T23:33:43.467194Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2863,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2863,
+  "kitap_set": [
+   {
+    "id": 2846,
+    "isim": "Kitâbü’l-Vasît.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:23.577422Z",
+    "updated_at": "2025-04-06T19:20:12.854938Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2863,
+     "tam_metin": "[226] Kitâbü’l-Vasît. Kitâbü’l-Udhıye’den إلا في الصلح على الخمر والخنزير فإنه يجوز بينهم ولا يجوز بيننا   ibâretine dek. Dimeşkī tamâmından kırılmış. Ak kâğıd mukavvâ cildli. İki yüz doksan sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "22a",
+     "created_at": "2024-04-22T12:24:23.312039Z",
+     "updated_at": "2025-09-10T08:16:21.816480Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1213,
+     "kodikolojik_bilgi": 800
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 396,
+    "koleksiyon_numarasi": "02213",
+    "nusha": "",
+    "created_at": "2025-01-12T11:40:33.655210Z",
+    "updated_at": "2025-01-12T11:40:33.655228Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2863,
+     "tam_metin": "[226] Kitâbü’l-Vasît. Kitâbü’l-Udhıye’den إلا في الصلح على الخمر والخنزير فإنه يجوز بينهم ولا يجوز بيننا   ibâretine dek. Dimeşkī tamâmından kırılmış. Ak kâğıd mukavvâ cildli. İki yüz doksan sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "22a",
+     "created_at": "2024-04-22T12:24:23.312039Z",
+     "updated_at": "2025-09-10T08:16:21.816480Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1213,
+     "kodikolojik_bilgi": 800
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1213,
+  "bilgi_set": [
+   {
+    "id": 800,
+    "murekkep_set": [
+     {
+      "id": 677,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 800
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 468,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 800
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "298",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T08:16:21.645982Z",
+    "updated_at": "2025-09-10T08:16:21.646795Z",
+    "kayit": {
+     "id": 2863,
+     "tam_metin": "[226] Kitâbü’l-Vasît. Kitâbü’l-Udhıye’den إلا في الصلح على الخمر والخنزير فإنه يجوز بينهم ولا يجوز بيننا   ibâretine dek. Dimeşkī tamâmından kırılmış. Ak kâğıd mukavvâ cildli. İki yüz doksan sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "22a",
+     "created_at": "2024-04-22T12:24:23.312039Z",
+     "updated_at": "2025-09-10T08:16:21.816480Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1213,
+     "kodikolojik_bilgi": 800
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[226] Kitâbü’l-Vasît. Kitâbü’l-Udhıye’den إلا في الصلح على الخمر والخنزير فإنه يجوز بينهم ولا يجوز بيننا   ibâretine dek. Dimeşkī tamâmından kırılmış. Ak kâğıd mukavvâ cildli. İki yüz doksan sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "22a",
+  "created_at": "2024-04-22T12:24:23.312039Z",
+  "updated_at": "2025-09-10T08:16:21.816480Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 800,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "298",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T08:16:21.645982Z",
+   "updated_at": "2025-09-10T08:16:21.646795Z",
+   "kayit": 2863,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[340] Kitâb-ı Cildün [ ] eydan mine’l-Vasît fî Fıkhi’ş-Şâfiʿî. Min evveli Kitâbi’l-Udhıye ilâ âhiri kavlihî إلا في الصلح على الخمر والخنزير فإنه يجوز بينهم ولا يجوز بيننا. Dimeşkī tamâmından kırılmış. Ak kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz doksan sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "29b",
+ "created_at": "2024-02-10T12:43:44.202640Z",
+ "updated_at": "2024-09-21T23:33:43.467194Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

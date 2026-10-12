@@ -1,0 +1,260 @@
+{
+ "id": 1197,
+ "kitap_set": [
+  {
+   "id": 1192,
+   "isim": "Kitâb-ı Şerhu’l-Ferâizi’s-Sirâciyye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:37.185789Z",
+   "updated_at": "2025-04-06T19:20:18.003231Z",
+   "yazar": {
+    "id": 45,
+    "isim": "Mevlânâ Şemseddîn el-Fenârî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-07-27T14:16:53.637285Z",
+    "updated_at": "2024-07-27T14:16:53.637301Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1197,
+    "tam_metin": "[324] Kitâb-ı Şerhu’l-Ferâʾizi’s-Sirâciyye li-Mevlânâ Şemseddîn el-Fenârî. Haşebî nısfına. Ak kâğıd mukavvâ cildle. Vakf-ı Sultânî. Seksen dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "29a",
+    "created_at": "2024-02-10T12:43:36.899586Z",
+    "updated_at": "2024-09-21T22:32:37.726498Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2852,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2852,
+  "kitap_set": [
+   {
+    "id": 2835,
+    "isim": "Kitâb-ı Şerh-i Ferâiz-i Sirâciyye li-Mevlânâ Şemseddîn el-Fenârî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:18.878951Z",
+    "updated_at": "2025-04-06T19:20:12.884758Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2852,
+     "tam_metin": "[215] Kitâb-ı Şerh-i Ferâʾiz-i Sirâciyye li-Mevlânâ Şemseddîn el-Fenârî. Haşebî nısfına. Ak kâğıd mukavvâ cildli. Seksen dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21b",
+     "created_at": "2024-04-22T12:24:18.613159Z",
+     "updated_at": "2025-09-07T15:09:34.424929Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1197,
+     "kodikolojik_bilgi": 789
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 388,
+    "koleksiyon_numarasi": "02524",
+    "nusha": "",
+    "created_at": "2025-01-11T20:17:04.239163Z",
+    "updated_at": "2025-01-11T20:17:04.239181Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2852,
+     "tam_metin": "[215] Kitâb-ı Şerh-i Ferâʾiz-i Sirâciyye li-Mevlânâ Şemseddîn el-Fenârî. Haşebî nısfına. Ak kâğıd mukavvâ cildli. Seksen dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21b",
+     "created_at": "2024-04-22T12:24:18.613159Z",
+     "updated_at": "2025-09-07T15:09:34.424929Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1197,
+     "kodikolojik_bilgi": 789
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1197,
+  "bilgi_set": [
+   {
+    "id": 789,
+    "murekkep_set": [
+     {
+      "id": 666,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 789
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 457,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 789
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "84",
+    "kagit_turu": "Haşebî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-07T15:09:34.417255Z",
+    "updated_at": "2025-09-07T15:09:34.417290Z",
+    "kayit": {
+     "id": 2852,
+     "tam_metin": "[215] Kitâb-ı Şerh-i Ferâʾiz-i Sirâciyye li-Mevlânâ Şemseddîn el-Fenârî. Haşebî nısfına. Ak kâğıd mukavvâ cildli. Seksen dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21b",
+     "created_at": "2024-04-22T12:24:18.613159Z",
+     "updated_at": "2025-09-07T15:09:34.424929Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1197,
+     "kodikolojik_bilgi": 789
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[215] Kitâb-ı Şerh-i Ferâʾiz-i Sirâciyye li-Mevlânâ Şemseddîn el-Fenârî. Haşebî nısfına. Ak kâğıd mukavvâ cildli. Seksen dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "21b",
+  "created_at": "2024-04-22T12:24:18.613159Z",
+  "updated_at": "2025-09-07T15:09:34.424929Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 789,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "84",
+   "kagit_turu": "Haşebî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-07T15:09:34.417255Z",
+   "updated_at": "2025-09-07T15:09:34.417290Z",
+   "kayit": 2852,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[324] Kitâb-ı Şerhu’l-Ferâʾizi’s-Sirâciyye li-Mevlânâ Şemseddîn el-Fenârî. Haşebî nısfına. Ak kâğıd mukavvâ cildle. Vakf-ı Sultânî. Seksen dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "29a",
+ "created_at": "2024-02-10T12:43:36.899586Z",
+ "updated_at": "2024-09-21T22:32:37.726498Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

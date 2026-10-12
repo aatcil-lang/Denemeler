@@ -1,0 +1,260 @@
+{
+ "id": 1198,
+ "kitap_set": [
+  {
+   "id": 1193,
+   "isim": "Kitâb-ı Şerhu’l-Ferâizi’s-Sirâciyye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:37.652660Z",
+   "updated_at": "2025-04-06T19:20:17.998387Z",
+   "yazar": {
+    "id": 345,
+    "isim": "Emînü'd-Devle",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-17T16:38:20.762742Z",
+    "updated_at": "2024-09-17T16:38:20.762756Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1198,
+    "tam_metin": "[325] Kitâb-ı Şerhu’l-Ferâʾizi’s-Sirâciyye eydan li-Emîni’d-Devle. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz otuz yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "29a",
+    "created_at": "2024-02-10T12:43:37.363968Z",
+    "updated_at": "2024-09-21T23:27:12.335817Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2861,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2861,
+  "kitap_set": [
+   {
+    "id": 2844,
+    "isim": "Kitâb-ı Şerh-i Ferâiz-i Sirâciyye li-Emîniddevle.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:22.718759Z",
+    "updated_at": "2025-04-06T19:20:12.860416Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2861,
+     "tam_metin": "[224] Kitâb-ı Şerh-i Ferâʾiz-i Sirâciyye li-Emînüddevle. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "22a",
+     "created_at": "2024-04-22T12:24:22.452902Z",
+     "updated_at": "2025-09-10T08:15:08.381306Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1198,
+     "kodikolojik_bilgi": 798
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 395,
+    "koleksiyon_numarasi": "02528",
+    "nusha": "",
+    "created_at": "2025-01-12T11:38:00.387347Z",
+    "updated_at": "2025-01-12T11:38:00.387367Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2861,
+     "tam_metin": "[224] Kitâb-ı Şerh-i Ferâʾiz-i Sirâciyye li-Emînüddevle. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "22a",
+     "created_at": "2024-04-22T12:24:22.452902Z",
+     "updated_at": "2025-09-10T08:15:08.381306Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1198,
+     "kodikolojik_bilgi": 798
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1198,
+  "bilgi_set": [
+   {
+    "id": 798,
+    "murekkep_set": [
+     {
+      "id": 675,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 798
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 466,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 798
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "137",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T08:15:08.374221Z",
+    "updated_at": "2025-09-10T08:15:08.374250Z",
+    "kayit": {
+     "id": 2861,
+     "tam_metin": "[224] Kitâb-ı Şerh-i Ferâʾiz-i Sirâciyye li-Emînüddevle. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "22a",
+     "created_at": "2024-04-22T12:24:22.452902Z",
+     "updated_at": "2025-09-10T08:15:08.381306Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1198,
+     "kodikolojik_bilgi": 798
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[224] Kitâb-ı Şerh-i Ferâʾiz-i Sirâciyye li-Emînüddevle. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz otuz yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "22a",
+  "created_at": "2024-04-22T12:24:22.452902Z",
+  "updated_at": "2025-09-10T08:15:08.381306Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 798,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "137",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T08:15:08.374221Z",
+   "updated_at": "2025-09-10T08:15:08.374250Z",
+   "kayit": 2861,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[325] Kitâb-ı Şerhu’l-Ferâʾizi’s-Sirâciyye eydan li-Emîni’d-Devle. Dimeşkī nısfından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz otuz yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "29a",
+ "created_at": "2024-02-10T12:43:37.363968Z",
+ "updated_at": "2024-09-21T23:27:12.335817Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

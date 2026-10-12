@@ -1,0 +1,248 @@
+{
+ "id": 1190,
+ "kitap_set": [
+  {
+   "id": 1185,
+   "isim": "Kitâbün mine’l-Fıkh.",
+   "isim2": null,
+   "disiplin": "Fıkıh",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:33.986515Z",
+   "updated_at": "2025-04-06T19:20:18.034469Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1190,
+    "tam_metin": "[317] Kitâbün mine’l-Fıkh eydan. Nâkısu’l-evveli ve’l-âhir. Semerkandî nısfından kırılmış. Kızıl bez cildle. Vakf-ı Sultânî. Üç yüz seksen üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "29a",
+    "created_at": "2024-02-10T12:43:33.718305Z",
+    "updated_at": "2024-09-25T07:22:38.954159Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2970,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2970,
+  "kitap_set": [
+   {
+    "id": 2952,
+    "isim": "Kitâbun mine’l-fıkh.",
+    "isim2": null,
+    "disiplin": "Fıkıh",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:09.120678Z",
+    "updated_at": "2025-04-06T19:20:12.535970Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2970,
+     "tam_metin": "[333] Kitâbün mine’l-fıkh. Nakısu’t-tarafeyn. Semerkandî rubʿundan kırılmış. Kızıl bez cildli. Üç yüz seksen üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "26a",
+     "created_at": "2024-04-22T12:25:08.856612Z",
+     "updated_at": "2025-09-12T09:05:51.835204Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1190,
+     "kodikolojik_bilgi": 907
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 477,
+    "koleksiyon_numarasi": "02272",
+    "nusha": "",
+    "created_at": "2025-01-12T22:02:46.910038Z",
+    "updated_at": "2025-01-12T22:02:46.910056Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2970,
+     "tam_metin": "[333] Kitâbün mine’l-fıkh. Nakısu’t-tarafeyn. Semerkandî rubʿundan kırılmış. Kızıl bez cildli. Üç yüz seksen üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "26a",
+     "created_at": "2024-04-22T12:25:08.856612Z",
+     "updated_at": "2025-09-12T09:05:51.835204Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1190,
+     "kodikolojik_bilgi": 907
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1190,
+  "bilgi_set": [
+   {
+    "id": 907,
+    "murekkep_set": [
+     {
+      "id": 785,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 907
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 575,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 907
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Kızıl bez cilt",
+    "cild_materyal": "",
+    "varak_adedi": "383",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Rub'undan kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-12T09:05:51.829756Z",
+    "updated_at": "2025-09-12T09:05:51.829786Z",
+    "kayit": {
+     "id": 2970,
+     "tam_metin": "[333] Kitâbün mine’l-fıkh. Nakısu’t-tarafeyn. Semerkandî rubʿundan kırılmış. Kızıl bez cildli. Üç yüz seksen üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "26a",
+     "created_at": "2024-04-22T12:25:08.856612Z",
+     "updated_at": "2025-09-12T09:05:51.835204Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1190,
+     "kodikolojik_bilgi": 907
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[333] Kitâbün mine’l-fıkh. Nakısu’t-tarafeyn. Semerkandî rubʿundan kırılmış. Kızıl bez cildli. Üç yüz seksen üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "26a",
+  "created_at": "2024-04-22T12:25:08.856612Z",
+  "updated_at": "2025-09-12T09:05:51.835204Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 907,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Kızıl bez cilt",
+   "cild_materyal": "",
+   "varak_adedi": "383",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Rub'undan kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-12T09:05:51.829756Z",
+   "updated_at": "2025-09-12T09:05:51.829786Z",
+   "kayit": 2970,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[317] Kitâbün mine’l-Fıkh eydan. Nâkısu’l-evveli ve’l-âhir. Semerkandî nısfından kırılmış. Kızıl bez cildle. Vakf-ı Sultânî. Üç yüz seksen üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "29a",
+ "created_at": "2024-02-10T12:43:33.718305Z",
+ "updated_at": "2024-09-25T07:22:38.954159Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

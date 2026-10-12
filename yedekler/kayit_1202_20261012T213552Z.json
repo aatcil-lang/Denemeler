@@ -1,0 +1,248 @@
+{
+ "id": 1202,
+ "kitap_set": [
+  {
+   "id": 1197,
+   "isim": "Kitâbü’l-Gavâmız fî Şerhi’l-Ferâiz.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:39.520461Z",
+   "updated_at": "2025-04-06T19:20:17.980656Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1202,
+    "tam_metin": "[329] Kitâbü’l-Gavâmız fî Şerhi’l-Ferâʾiz. Dimeşkī nısfına. Köhne ciğerî cildle. Vakf-ı Sultânî. Yüz on bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "29b",
+    "created_at": "2024-02-10T12:43:39.229149Z",
+    "updated_at": "2024-09-24T12:17:52.076586Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2921,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2921,
+  "kitap_set": [
+   {
+    "id": 2904,
+    "isim": "Kitâbü’l-Gavâmız fî Şerhi’l-Ferâiz.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:48.193326Z",
+    "updated_at": "2025-04-06T19:20:12.692771Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2921,
+     "tam_metin": "[284] Kitâbü’l-Gavâmız fî Şerhi’l-Ferâʾiz. Dimeşkī nısfına. Ciğerî cildli. Köhne. Yüz on bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24b",
+     "created_at": "2024-04-22T12:24:47.935418Z",
+     "updated_at": "2025-09-10T10:13:29.231008Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1202,
+     "kodikolojik_bilgi": 858
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 444,
+    "koleksiyon_numarasi": "02537",
+    "nusha": "",
+    "created_at": "2025-01-12T15:00:04.058197Z",
+    "updated_at": "2025-01-12T15:00:04.058221Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2921,
+     "tam_metin": "[284] Kitâbü’l-Gavâmız fî Şerhi’l-Ferâʾiz. Dimeşkī nısfına. Ciğerî cildli. Köhne. Yüz on bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24b",
+     "created_at": "2024-04-22T12:24:47.935418Z",
+     "updated_at": "2025-09-10T10:13:29.231008Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1202,
+     "kodikolojik_bilgi": 858
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1202,
+  "bilgi_set": [
+   {
+    "id": 858,
+    "murekkep_set": [
+     {
+      "id": 736,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 858
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 526,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 858
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "111",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "Köhne",
+    "created_at": "2025-09-10T10:13:29.224628Z",
+    "updated_at": "2025-09-10T10:13:29.225358Z",
+    "kayit": {
+     "id": 2921,
+     "tam_metin": "[284] Kitâbü’l-Gavâmız fî Şerhi’l-Ferâʾiz. Dimeşkī nısfına. Ciğerî cildli. Köhne. Yüz on bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24b",
+     "created_at": "2024-04-22T12:24:47.935418Z",
+     "updated_at": "2025-09-10T10:13:29.231008Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1202,
+     "kodikolojik_bilgi": 858
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[284] Kitâbü’l-Gavâmız fî Şerhi’l-Ferâʾiz. Dimeşkī nısfına. Ciğerî cildli. Köhne. Yüz on bir varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "24b",
+  "created_at": "2024-04-22T12:24:47.935418Z",
+  "updated_at": "2025-09-10T10:13:29.231008Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 858,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "111",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "Köhne",
+   "created_at": "2025-09-10T10:13:29.224628Z",
+   "updated_at": "2025-09-10T10:13:29.225358Z",
+   "kayit": 2921,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[329] Kitâbü’l-Gavâmız fî Şerhi’l-Ferâʾiz. Dimeşkī nısfına. Köhne ciğerî cildle. Vakf-ı Sultânî. Yüz on bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "29b",
+ "created_at": "2024-02-10T12:43:39.229149Z",
+ "updated_at": "2024-09-24T12:17:52.076586Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

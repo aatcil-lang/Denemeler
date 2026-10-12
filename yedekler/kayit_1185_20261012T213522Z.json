@@ -1,0 +1,248 @@
+{
+ "id": 1185,
+ "kitap_set": [
+  {
+   "id": 1180,
+   "isim": "Kitâbün mine’l-Fıkh.",
+   "isim2": null,
+   "disiplin": "Fıkıh",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:31.761572Z",
+   "updated_at": "2025-04-06T19:20:18.050592Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1185,
+    "tam_metin": "[312] Kitâbün mine’l-Fıkh eydan. Min evveli kavlihî بأصبعه قرحة أدخل فيها المرارة. Evvelinde besmelesi siyâh mürekkeb ile sülüs hatla yazılmış. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Sultânî. Yüz on sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "28b",
+    "created_at": "2024-02-10T12:43:31.501969Z",
+    "updated_at": "2024-09-22T15:54:41.066355Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2874,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2874,
+  "kitap_set": [
+   {
+    "id": 2857,
+    "isim": "Kitâbun mine’l-fıkh.",
+    "isim2": null,
+    "disiplin": "Fıkıh",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:28.262730Z",
+    "updated_at": "2025-04-06T19:20:12.820709Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2874,
+     "tam_metin": "[237] Kitâbün mine’l-fıkh. بأسبعه قرحة أدخل فيها المرار  ibâretiyle  ibtidâ olunmuş. Evvelinde besmelesi siyâh mürekkeb sülüs hatla yazılmış. Dimeşkī nısfına. Ciğerî cildli. Yüz on sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "22b",
+     "created_at": "2024-04-22T12:24:27.995242Z",
+     "updated_at": "2025-09-10T08:26:58.757598Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1185,
+     "kodikolojik_bilgi": 811
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 407,
+    "koleksiyon_numarasi": "02186",
+    "nusha": "",
+    "created_at": "2025-01-12T13:22:18.490043Z",
+    "updated_at": "2025-01-12T13:22:18.490059Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2874,
+     "tam_metin": "[237] Kitâbün mine’l-fıkh. بأسبعه قرحة أدخل فيها المرار  ibâretiyle  ibtidâ olunmuş. Evvelinde besmelesi siyâh mürekkeb sülüs hatla yazılmış. Dimeşkī nısfına. Ciğerî cildli. Yüz on sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "22b",
+     "created_at": "2024-04-22T12:24:27.995242Z",
+     "updated_at": "2025-09-10T08:26:58.757598Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1185,
+     "kodikolojik_bilgi": 811
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1185,
+  "bilgi_set": [
+   {
+    "id": 811,
+    "murekkep_set": [
+     {
+      "id": 688,
+      "renk": "siyah",
+      "ilgili_ibare": "Evvelinde besmelesi siyâh mürekkeb sülüs hatla yazılmış",
+      "kodikolojik_bilgi": 811
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 479,
+      "hatt_turu": "Sülüs",
+      "hatt_sekli": "",
+      "aciklama": "Evvelinde besmelesi siyâh mürekkeb sülüs hatla yazılmış",
+      "kodikolojik_bilgi": 811
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "118",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T08:26:58.753957Z",
+    "updated_at": "2025-09-10T08:26:58.753974Z",
+    "kayit": {
+     "id": 2874,
+     "tam_metin": "[237] Kitâbün mine’l-fıkh. بأسبعه قرحة أدخل فيها المرار  ibâretiyle  ibtidâ olunmuş. Evvelinde besmelesi siyâh mürekkeb sülüs hatla yazılmış. Dimeşkī nısfına. Ciğerî cildli. Yüz on sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "22b",
+     "created_at": "2024-04-22T12:24:27.995242Z",
+     "updated_at": "2025-09-10T08:26:58.757598Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1185,
+     "kodikolojik_bilgi": 811
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[237] Kitâbün mine’l-fıkh. بأسبعه قرحة أدخل فيها المرار  ibâretiyle  ibtidâ olunmuş. Evvelinde besmelesi siyâh mürekkeb sülüs hatla yazılmış. Dimeşkī nısfına. Ciğerî cildli. Yüz on sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "22b",
+  "created_at": "2024-04-22T12:24:27.995242Z",
+  "updated_at": "2025-09-10T08:26:58.757598Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 811,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "118",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T08:26:58.753957Z",
+   "updated_at": "2025-09-10T08:26:58.753974Z",
+   "kayit": 2874,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[312] Kitâbün mine’l-Fıkh eydan. Min evveli kavlihî بأصبعه قرحة أدخل فيها المرارة. Evvelinde besmelesi siyâh mürekkeb ile sülüs hatla yazılmış. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Sultânî. Yüz on sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "28b",
+ "created_at": "2024-02-10T12:43:31.501969Z",
+ "updated_at": "2024-09-22T15:54:41.066355Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,248 @@
+{
+ "id": 1210,
+ "kitap_set": [
+  {
+   "id": 1205,
+   "isim": "Kitâbü’l-Cildi’l-Evvel mine’n-Necmi’l-Vehhâc fî Şerhi’l-Minhâc fî Fıkhi’ş-Şâfiî.",
+   "isim2": null,
+   "disiplin": "Fıkıh",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:43.127088Z",
+   "updated_at": "2025-04-06T19:20:17.947797Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1210,
+    "tam_metin": "[337] Kitâbü’l-Cildi’l-Evvel mine’n-Necmi’l-Vehhâc fî Şerhi’l-Minhâc fî Fıkhi’ş-Şâfiʿî. İlâ evveli Bâbi Duhûli Mekke. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz altmış iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "29b",
+    "created_at": "2024-02-10T12:43:42.854565Z",
+    "updated_at": "2024-09-19T13:27:13.377152Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2754,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2754,
+  "kitap_set": [
+   {
+    "id": 2737,
+    "isim": "Kitâb-ı Necmü’l-Vehhâc fî Şerhi’l- Minhâc.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:37.635553Z",
+    "updated_at": "2025-04-06T19:20:13.161616Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2754,
+     "tam_metin": "[117] Kitâb-ı Necmü’l-Vehhâc fî Şerhi’l- Minhâc. Evvelinden Bâbu Duhûli Mekke’ye dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "18a",
+     "created_at": "2024-04-22T12:23:37.385974Z",
+     "updated_at": "2025-09-03T00:35:12.853642Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1210,
+     "kodikolojik_bilgi": 688
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 306,
+    "koleksiyon_numarasi": "01830",
+    "nusha": "",
+    "created_at": "2025-01-11T11:27:06.201826Z",
+    "updated_at": "2025-01-11T11:27:06.201865Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2754,
+     "tam_metin": "[117] Kitâb-ı Necmü’l-Vehhâc fî Şerhi’l- Minhâc. Evvelinden Bâbu Duhûli Mekke’ye dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "18a",
+     "created_at": "2024-04-22T12:23:37.385974Z",
+     "updated_at": "2025-09-03T00:35:12.853642Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1210,
+     "kodikolojik_bilgi": 688
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1210,
+  "bilgi_set": [
+   {
+    "id": 688,
+    "murekkep_set": [
+     {
+      "id": 566,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 688
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 357,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 688
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "262",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-03T00:35:12.839760Z",
+    "updated_at": "2025-09-03T00:35:12.839781Z",
+    "kayit": {
+     "id": 2754,
+     "tam_metin": "[117] Kitâb-ı Necmü’l-Vehhâc fî Şerhi’l- Minhâc. Evvelinden Bâbu Duhûli Mekke’ye dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "18a",
+     "created_at": "2024-04-22T12:23:37.385974Z",
+     "updated_at": "2025-09-03T00:35:12.853642Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1210,
+     "kodikolojik_bilgi": 688
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[117] Kitâb-ı Necmü’l-Vehhâc fî Şerhi’l- Minhâc. Evvelinden Bâbu Duhûli Mekke’ye dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "18a",
+  "created_at": "2024-04-22T12:23:37.385974Z",
+  "updated_at": "2025-09-03T00:35:12.853642Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 688,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "262",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-03T00:35:12.839760Z",
+   "updated_at": "2025-09-03T00:35:12.839781Z",
+   "kayit": 2754,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[337] Kitâbü’l-Cildi’l-Evvel mine’n-Necmi’l-Vehhâc fî Şerhi’l-Minhâc fî Fıkhi’ş-Şâfiʿî. İlâ evveli Bâbi Duhûli Mekke. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz altmış iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "29b",
+ "created_at": "2024-02-10T12:43:42.854565Z",
+ "updated_at": "2024-09-19T13:27:13.377152Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,248 @@
+{
+ "id": 1217,
+ "kitap_set": [
+  {
+   "id": 1212,
+   "isim": "Kitâbü’l-Cildi’s-Sânî mine’l-Müfîd li’l-Hukkâm fî-mâ Yu‘radu lehum min Nevâzili’l-Ahkâm.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:46.282854Z",
+   "updated_at": "2025-04-06T19:20:17.925059Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1217,
+    "tam_metin": "[344] Kitâbü’l-Cildi’s-Sânî mine’l-Müfîd li’l-Hukkâm fî-mâ Yuʿrazu lehum min Nevâzili’l-Ahkâm. Min evveli’l-Fasli’s-Sâbiʿ fi’n-Nikâh ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Yüz seksen dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "30a",
+    "created_at": "2024-02-10T12:43:45.998161Z",
+    "updated_at": "2024-09-21T22:31:19.899040Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2851,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2851,
+  "kitap_set": [
+   {
+    "id": 2834,
+    "isim": "Kitâb-ı Müfîdü’l-Hukkâm.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:18.446683Z",
+    "updated_at": "2025-04-06T19:20:12.887398Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2851,
+     "tam_metin": "[214] Kitâb-ı Müfîdü’l-Hukkâm. el-Faslu’s-Sâbiʿ fi’n-Nikâh’dan âhir-i kitâba dek. Evvel varakının zahrında sürhle iri hatla “el-Cüz’ü’s-Sânî mine’l-Müfîd li’l-Hükkâm fî-mâ Yaʿruzu lehum min Nevâzili’l-Ahkâm” deyu yazılmış. Dimeşkī tamâmına. Ciğerî cildli. Yüz seksen dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21b",
+     "created_at": "2024-04-22T12:24:18.182307Z",
+     "updated_at": "2025-09-07T15:08:52.900606Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1217,
+     "kodikolojik_bilgi": 788
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 387,
+    "koleksiyon_numarasi": "02152",
+    "nusha": "",
+    "created_at": "2025-01-11T20:16:00.050721Z",
+    "updated_at": "2025-01-11T20:16:00.050739Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2851,
+     "tam_metin": "[214] Kitâb-ı Müfîdü’l-Hukkâm. el-Faslu’s-Sâbiʿ fi’n-Nikâh’dan âhir-i kitâba dek. Evvel varakının zahrında sürhle iri hatla “el-Cüz’ü’s-Sânî mine’l-Müfîd li’l-Hükkâm fî-mâ Yaʿruzu lehum min Nevâzili’l-Ahkâm” deyu yazılmış. Dimeşkī tamâmına. Ciğerî cildli. Yüz seksen dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21b",
+     "created_at": "2024-04-22T12:24:18.182307Z",
+     "updated_at": "2025-09-07T15:08:52.900606Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1217,
+     "kodikolojik_bilgi": 788
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1217,
+  "bilgi_set": [
+   {
+    "id": 788,
+    "murekkep_set": [
+     {
+      "id": 665,
+      "renk": "kirmizi",
+      "ilgili_ibare": "Evvel varakının zahrında sürhle iri hatla “el-Cüz’ü’s-Sânî mine’l-Müfîd li’l-Hükkâm fî-mâ Yaʿruzu lehum min Nevâzili’l-Ahkâm” deyu yazılmış",
+      "kodikolojik_bilgi": 788
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 456,
+      "hatt_turu": "",
+      "hatt_sekli": "iri",
+      "aciklama": "Evvel varakının zahrında sürhle iri hatla “el-Cüz’ü’s-Sânî mine’l-Müfîd li’l-Hükkâm fî-mâ Yaʿruzu lehum min Nevâzili’l-Ahkâm” deyu yazılmış",
+      "kodikolojik_bilgi": 788
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Evvel varakının zahrında sürhle iri hatla “el-Cüz’ü’s-Sânî mine’l-Müfîd li’l-Hükkâm fî-mâ Yaʿruzu lehum min Nevâzili’l-Ahkâm” deyu yazılmış",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "189",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-07T15:08:52.892576Z",
+    "updated_at": "2025-09-07T15:08:52.893041Z",
+    "kayit": {
+     "id": 2851,
+     "tam_metin": "[214] Kitâb-ı Müfîdü’l-Hukkâm. el-Faslu’s-Sâbiʿ fi’n-Nikâh’dan âhir-i kitâba dek. Evvel varakının zahrında sürhle iri hatla “el-Cüz’ü’s-Sânî mine’l-Müfîd li’l-Hükkâm fî-mâ Yaʿruzu lehum min Nevâzili’l-Ahkâm” deyu yazılmış. Dimeşkī tamâmına. Ciğerî cildli. Yüz seksen dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "21b",
+     "created_at": "2024-04-22T12:24:18.182307Z",
+     "updated_at": "2025-09-07T15:08:52.900606Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1217,
+     "kodikolojik_bilgi": 788
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[214] Kitâb-ı Müfîdü’l-Hukkâm. el-Faslu’s-Sâbiʿ fi’n-Nikâh’dan âhir-i kitâba dek. Evvel varakının zahrında sürhle iri hatla “el-Cüz’ü’s-Sânî mine’l-Müfîd li’l-Hükkâm fî-mâ Yaʿruzu lehum min Nevâzili’l-Ahkâm” deyu yazılmış. Dimeşkī tamâmına. Ciğerî cildli. Yüz seksen dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "21b",
+  "created_at": "2024-04-22T12:24:18.182307Z",
+  "updated_at": "2025-09-07T15:08:52.900606Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 788,
+   "zahriye_exists": true,
+   "zahriye": "Evvel varakının zahrında sürhle iri hatla “el-Cüz’ü’s-Sânî mine’l-Müfîd li’l-Hükkâm fî-mâ Yaʿruzu lehum min Nevâzili’l-Ahkâm” deyu yazılmış",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "189",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-07T15:08:52.892576Z",
+   "updated_at": "2025-09-07T15:08:52.893041Z",
+   "kayit": 2851,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[344] Kitâbü’l-Cildi’s-Sânî mine’l-Müfîd li’l-Hukkâm fî-mâ Yuʿrazu lehum min Nevâzili’l-Ahkâm. Min evveli’l-Fasli’s-Sâbiʿ fi’n-Nikâh ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Yüz seksen dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "30a",
+ "created_at": "2024-02-10T12:43:45.998161Z",
+ "updated_at": "2024-09-21T22:31:19.899040Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

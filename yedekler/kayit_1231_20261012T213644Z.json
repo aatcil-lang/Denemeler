@@ -1,0 +1,248 @@
+{
+ "id": 1231,
+ "kitap_set": [
+  {
+   "id": 1226,
+   "isim": "Kitâb-ı Metnü’l-Mülahhas.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:52.758007Z",
+   "updated_at": "2025-04-06T19:20:17.884216Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1231,
+    "tam_metin": "[11] Kitâb-ı Metnü’l-Mülahhas. Tamâm. Semerkandî rubʿundan kırılmış. Kümmî vazʿ olmuş. İbrişim alaca cildle. Vakf-ı Sultânî. İki yüz otuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+    "notlar": "",
+    "sayfa_numarasi": "30b",
+    "created_at": "2024-02-10T12:43:52.479391Z",
+    "updated_at": "2024-09-25T08:24:39.495188Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2987,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2987,
+  "kitap_set": [
+   {
+    "id": 2969,
+    "isim": "Kitâb-ı Metn-i Mülahhas.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:16.348912Z",
+    "updated_at": "2025-04-06T19:20:12.488866Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2987,
+     "tam_metin": "[14] Kitâb-ı Metn-i Mülahhas. Tamâm. Semerkandî rubʿundan kırılmış kümmî olmuş. İbrişim alaca cildli. İki yüz otuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "27a",
+     "created_at": "2024-04-22T12:25:16.088292Z",
+     "updated_at": "2025-09-20T06:39:07.570408Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1231,
+     "kodikolojik_bilgi": 924
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 488,
+    "koleksiyon_numarasi": "03378",
+    "nusha": "",
+    "created_at": "2025-01-12T22:14:53.783374Z",
+    "updated_at": "2025-01-12T22:14:53.783390Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2987,
+     "tam_metin": "[14] Kitâb-ı Metn-i Mülahhas. Tamâm. Semerkandî rubʿundan kırılmış kümmî olmuş. İbrişim alaca cildli. İki yüz otuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "27a",
+     "created_at": "2024-04-22T12:25:16.088292Z",
+     "updated_at": "2025-09-20T06:39:07.570408Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1231,
+     "kodikolojik_bilgi": 924
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1231,
+  "bilgi_set": [
+   {
+    "id": 924,
+    "murekkep_set": [
+     {
+      "id": 802,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 924
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 592,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 924
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "İbrişim alaca cilt",
+    "cild_materyal": "",
+    "varak_adedi": "230",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Rub'undan kırılmış",
+    "kagit_sekli": "Kümmî",
+    "note": "",
+    "created_at": "2025-09-20T06:39:07.565008Z",
+    "updated_at": "2025-09-20T06:39:07.565033Z",
+    "kayit": {
+     "id": 2987,
+     "tam_metin": "[14] Kitâb-ı Metn-i Mülahhas. Tamâm. Semerkandî rubʿundan kırılmış kümmî olmuş. İbrişim alaca cildli. İki yüz otuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "27a",
+     "created_at": "2024-04-22T12:25:16.088292Z",
+     "updated_at": "2025-09-20T06:39:07.570408Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1231,
+     "kodikolojik_bilgi": 924
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[14] Kitâb-ı Metn-i Mülahhas. Tamâm. Semerkandî rubʿundan kırılmış kümmî olmuş. İbrişim alaca cildli. İki yüz otuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+  "notlar": "",
+  "sayfa_numarasi": "27a",
+  "created_at": "2024-04-22T12:25:16.088292Z",
+  "updated_at": "2025-09-20T06:39:07.570408Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 924,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "İbrişim alaca cilt",
+   "cild_materyal": "",
+   "varak_adedi": "230",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Rub'undan kırılmış",
+   "kagit_sekli": "Kümmî",
+   "note": "",
+   "created_at": "2025-09-20T06:39:07.565008Z",
+   "updated_at": "2025-09-20T06:39:07.565033Z",
+   "kayit": 2987,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[11] Kitâb-ı Metnü’l-Mülahhas. Tamâm. Semerkandî rubʿundan kırılmış. Kümmî vazʿ olmuş. İbrişim alaca cildle. Vakf-ı Sultânî. İki yüz otuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+ "notlar": "",
+ "sayfa_numarasi": "30b",
+ "created_at": "2024-02-10T12:43:52.479391Z",
+ "updated_at": "2024-09-25T08:24:39.495188Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

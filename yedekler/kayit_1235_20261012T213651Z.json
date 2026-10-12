@@ -1,0 +1,300 @@
+{
+ "id": 1235,
+ "kitap_set": [
+  {
+   "id": 1232,
+   "isim": "Kitâb-ı Metnü’t-Tavâli‘.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:55.500645Z",
+   "updated_at": "2025-04-06T19:20:17.866169Z",
+   "yazar": {
+    "id": 362,
+    "isim": "İbrî, Burhânüddîn Abdullāh (Ubeydullāh) b. Muhammed b. Gānim el-Fergānî et-Tebrîzî el-İbrî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-18T12:42:19.415186Z",
+    "updated_at": "2024-09-18T12:42:19.415201Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1235,
+    "tam_metin": "[15] Kitâb-ı Metnü’t-Tavâliʿ li’l-İbrî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz yirmi yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+    "notlar": "",
+    "sayfa_numarasi": "31a",
+    "created_at": "2024-02-10T12:43:54.332091Z",
+    "updated_at": "2024-09-27T17:03:51.662810Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3011,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 1230,
+   "isim": "Kitâb-ı Metnü’t-Tavâli‘.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:43:54.618353Z",
+   "updated_at": "2025-04-06T19:20:17.872204Z",
+   "yazar": {
+    "id": 362,
+    "isim": "İbrî, Burhânüddîn Abdullāh (Ubeydullāh) b. Muhammed b. Gānim el-Fergānî et-Tebrîzî el-İbrî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-18T12:42:19.415186Z",
+    "updated_at": "2024-09-18T12:42:19.415201Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1235,
+    "tam_metin": "[15] Kitâb-ı Metnü’t-Tavâliʿ li’l-İbrî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz yirmi yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+    "notlar": "",
+    "sayfa_numarasi": "31a",
+    "created_at": "2024-02-10T12:43:54.332091Z",
+    "updated_at": "2024-09-27T17:03:51.662810Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3011,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3011,
+  "kitap_set": [
+   {
+    "id": 2993,
+    "isim": "Kitâb-ı Tavâli‘-i Abrî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:26.519645Z",
+    "updated_at": "2025-04-06T19:20:12.422974Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3011,
+     "tam_metin": "[38] Kitâb-ı Tavâliʿ-i Abrî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz yirmi yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "27b",
+     "created_at": "2024-04-22T12:25:26.258953Z",
+     "updated_at": "2025-09-20T07:23:40.077274Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1235,
+     "kodikolojik_bilgi": 948
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 503,
+    "koleksiyon_numarasi": "03051",
+    "nusha": "",
+    "created_at": "2025-01-12T22:32:03.656016Z",
+    "updated_at": "2025-01-12T22:32:03.656031Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3011,
+     "tam_metin": "[38] Kitâb-ı Tavâliʿ-i Abrî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz yirmi yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "27b",
+     "created_at": "2024-04-22T12:25:26.258953Z",
+     "updated_at": "2025-09-20T07:23:40.077274Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1235,
+     "kodikolojik_bilgi": 948
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1235,
+  "bilgi_set": [
+   {
+    "id": 948,
+    "murekkep_set": [
+     {
+      "id": 826,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 948
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 616,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 948
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "127",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-20T07:23:40.071234Z",
+    "updated_at": "2025-09-20T07:23:40.071740Z",
+    "kayit": {
+     "id": 3011,
+     "tam_metin": "[38] Kitâb-ı Tavâliʿ-i Abrî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz yirmi yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "27b",
+     "created_at": "2024-04-22T12:25:26.258953Z",
+     "updated_at": "2025-09-20T07:23:40.077274Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1235,
+     "kodikolojik_bilgi": 948
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[38] Kitâb-ı Tavâliʿ-i Abrî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz yirmi yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+  "notlar": "",
+  "sayfa_numarasi": "27b",
+  "created_at": "2024-04-22T12:25:26.258953Z",
+  "updated_at": "2025-09-20T07:23:40.077274Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 948,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "127",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T07:23:40.071234Z",
+   "updated_at": "2025-09-20T07:23:40.071740Z",
+   "kayit": 3011,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[15] Kitâb-ı Metnü’t-Tavâliʿ li’l-İbrî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz yirmi yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+ "notlar": "",
+ "sayfa_numarasi": "31a",
+ "created_at": "2024-02-10T12:43:54.332091Z",
+ "updated_at": "2024-09-27T17:03:51.662810Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
