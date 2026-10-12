@@ -1,0 +1,367 @@
+{
+ "id": 3002,
+ "kitap_set": [
+  {
+   "id": 2984,
+   "isim": "Kitâb-ı Şerh-i Tecrîd-i İsfehânî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:25:22.700481Z",
+   "updated_at": "2025-04-06T19:20:12.448175Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3002,
+    "tam_metin": "[29] Kitâb-ı Şerh-i Tecrîd-i Isfahânî. Bi-hattı Mehmed bin Hüseyin bin Hacı Mehmed Şâh. Ve Risâletün uhrâ min ilmi’l-hikmeti müştemiletün ale’l-ebvâbi’l-aşera. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz on dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+    "notlar": "",
+    "sayfa_numarasi": "27b",
+    "created_at": "2024-04-22T12:25:22.435492Z",
+    "updated_at": "2025-09-20T07:11:06.525264Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1253,
+    "kodikolojik_bilgi": 939
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 1253,
+  "kitap_set": [
+   {
+    "id": 3771,
+    "isim": "Risâletün uhrâ min ilmi’l-hikme müştemiletün ale’l-ebvâbi’l-aşera.",
+    "isim2": "",
+    "disiplin": "",
+    "kapsam": "",
+    "created_at": "2024-09-18T18:25:38.674931Z",
+    "updated_at": "2025-04-06T19:20:10.198194Z",
+    "yazar": null,
+    "kayit": {
+     "id": 1253,
+     "tam_metin": "[33] Kitâb-ı Şerhu’t-Tecrîd li-Şemseddîn el-İsfehânî. Bi-hattı Mehmed bin Hüseyin bin el-Hâc Mehmed Şâh ve Risâletün uhrâ min ilmi’l-hikme müştemiletün ale’l-ebvâbi’l-aşera. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz on dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "31b",
+     "created_at": "2024-02-10T12:44:02.483763Z",
+     "updated_at": "2026-10-12T21:37:24.986896Z",
+     "vakif": 1,
+     "mustensih": 378,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3002,
+     "kodikolojik_bilgi": 2011
+    },
+    "kaynak": null,
+    "created_by": null
+   },
+   {
+    "id": 1248,
+    "isim": "Kitâb-ı Şerhu’t-Tecrîd.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:44:02.765528Z",
+    "updated_at": "2025-04-06T19:20:17.810667Z",
+    "yazar": {
+     "id": 370,
+     "isim": "Şemseddîn el-İsfehânî",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-09-18T13:02:28.900145Z",
+     "updated_at": "2024-09-18T13:02:28.900166Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1253,
+     "tam_metin": "[33] Kitâb-ı Şerhu’t-Tecrîd li-Şemseddîn el-İsfehânî. Bi-hattı Mehmed bin Hüseyin bin el-Hâc Mehmed Şâh ve Risâletün uhrâ min ilmi’l-hikme müştemiletün ale’l-ebvâbi’l-aşera. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz on dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "31b",
+     "created_at": "2024-02-10T12:44:02.483763Z",
+     "updated_at": "2026-10-12T21:37:24.986896Z",
+     "vakif": 1,
+     "mustensih": 378,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3002,
+     "kodikolojik_bilgi": 2011
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 1158,
+    "koleksiyon_numarasi": "3022",
+    "nusha": "https://portal.yek.gov.tr/works/detail/241009",
+    "created_at": "2026-05-24T18:05:01.517861Z",
+    "updated_at": "2026-05-24T18:05:01.517881Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 1253,
+     "tam_metin": "[33] Kitâb-ı Şerhu’t-Tecrîd li-Şemseddîn el-İsfehânî. Bi-hattı Mehmed bin Hüseyin bin el-Hâc Mehmed Şâh ve Risâletün uhrâ min ilmi’l-hikme müştemiletün ale’l-ebvâbi’l-aşera. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz on dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "31b",
+     "created_at": "2024-02-10T12:44:02.483763Z",
+     "updated_at": "2026-10-12T21:37:24.986896Z",
+     "vakif": 1,
+     "mustensih": 378,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3002,
+     "kodikolojik_bilgi": 2011
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 3002,
+  "bilgi_set": [
+   {
+    "id": 2011,
+    "murekkep_set": [
+     {
+      "id": 1894,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 2011
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1686,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 2011
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "119",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:37:24.982591Z",
+    "updated_at": "2026-10-12T21:37:24.982612Z",
+    "kayit": {
+     "id": 1253,
+     "tam_metin": "[33] Kitâb-ı Şerhu’t-Tecrîd li-Şemseddîn el-İsfehânî. Bi-hattı Mehmed bin Hüseyin bin el-Hâc Mehmed Şâh ve Risâletün uhrâ min ilmi’l-hikme müştemiletün ale’l-ebvâbi’l-aşera. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz on dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+     "notlar": "",
+     "sayfa_numarasi": "31b",
+     "created_at": "2024-02-10T12:44:02.483763Z",
+     "updated_at": "2026-10-12T21:37:24.986896Z",
+     "vakif": 1,
+     "mustensih": 378,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3002,
+     "kodikolojik_bilgi": 2011
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[33] Kitâb-ı Şerhu’t-Tecrîd li-Şemseddîn el-İsfehânî. Bi-hattı Mehmed bin Hüseyin bin el-Hâc Mehmed Şâh ve Risâletün uhrâ min ilmi’l-hikme müştemiletün ale’l-ebvâbi’l-aşera. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Yüz on dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+  "notlar": "",
+  "sayfa_numarasi": "31b",
+  "created_at": "2024-02-10T12:44:02.483763Z",
+  "updated_at": "2026-10-12T21:37:24.986896Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 378,
+   "isim": "Mehmed bin Hüseyin bin el-Hâc Mehmed Şâh",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-18T18:24:25.422424Z",
+   "updated_at": "2024-09-18T18:24:25.422441Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 2011,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "119",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:37:24.982591Z",
+   "updated_at": "2026-10-12T21:37:24.982612Z",
+   "kayit": 1253,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 939,
+   "murekkep_set": [
+    {
+     "id": 817,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 939
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 607,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 939
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "119",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T07:11:06.516184Z",
+   "updated_at": "2025-09-20T07:11:06.516417Z",
+   "kayit": {
+    "id": 3002,
+    "tam_metin": "[29] Kitâb-ı Şerh-i Tecrîd-i Isfahânî. Bi-hattı Mehmed bin Hüseyin bin Hacı Mehmed Şâh. Ve Risâletün uhrâ min ilmi’l-hikmeti müştemiletün ale’l-ebvâbi’l-aşera. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz on dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+    "notlar": "",
+    "sayfa_numarasi": "27b",
+    "created_at": "2024-04-22T12:25:22.435492Z",
+    "updated_at": "2025-09-20T07:11:06.525264Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1253,
+    "kodikolojik_bilgi": 939
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[29] Kitâb-ı Şerh-i Tecrîd-i Isfahânî. Bi-hattı Mehmed bin Hüseyin bin Hacı Mehmed Şâh. Ve Risâletün uhrâ min ilmi’l-hikmeti müştemiletün ale’l-ebvâbi’l-aşera. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildli. Yüz on dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Kelâmiyye",
+ "notlar": "",
+ "sayfa_numarasi": "27b",
+ "created_at": "2024-04-22T12:25:22.435492Z",
+ "updated_at": "2025-09-20T07:11:06.525264Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 939,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Yeşil kağıt",
+  "varak_adedi": "119",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamından kırılmış",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-20T07:11:06.516184Z",
+  "updated_at": "2025-09-20T07:11:06.516417Z",
+  "kayit": 3002,
+  "created_by": null
+ }
+}
