@@ -1,0 +1,339 @@
+{
+ "id": 3463,
+ "kitap_set": [
+  {
+   "id": 3445,
+   "isim": "Kitâb-ı Şerh-i Miftâh li’s-Seyyid eş-Şerîf.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:41:07.756287Z",
+   "updated_at": "2025-04-06T19:20:11.124049Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3463,
+    "tam_metin": "[1] Kitâb-ı Şerh-i Miftâh li’s-Seyyid eş-Şerîf. Min Evvelihî ilâ âhirihî kenârında metin Mevlânâ Vâkıf hattıyla yazılmış. Dimeşkī tamâmından kırılmış. Siyâh cildli. İki yüz kırk dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-04-22T12:41:07.488105Z",
+    "updated_at": "2025-09-24T17:07:52.106281Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1862,
+    "kodikolojik_bilgi": 1361
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 782,
+   "koleksiyon_numarasi": "04649",
+   "nusha": "",
+   "created_at": "2025-01-15T23:09:47.868938Z",
+   "updated_at": "2025-01-15T23:09:47.868954Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 3463,
+    "tam_metin": "[1] Kitâb-ı Şerh-i Miftâh li’s-Seyyid eş-Şerîf. Min Evvelihî ilâ âhirihî kenârında metin Mevlânâ Vâkıf hattıyla yazılmış. Dimeşkī tamâmından kırılmış. Siyâh cildli. İki yüz kırk dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-04-22T12:41:07.488105Z",
+    "updated_at": "2025-09-24T17:07:52.106281Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1862,
+    "kodikolojik_bilgi": 1361
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1862,
+  "kitap_set": [
+   {
+    "id": 1857,
+    "isim": "Kitâb-ı Şerhu’l-Miftâh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:48:42.885452Z",
+    "updated_at": "2025-04-06T19:20:15.848147Z",
+    "yazar": {
+     "id": 357,
+     "isim": "Seyyid eş-Şerîf",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-09-17T18:01:23.032067Z",
+     "updated_at": "2024-09-17T18:01:23.032082Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1862,
+     "tam_metin": "[34] Kitâb-ı Şerhu’l-Miftâh eydan li’s-Seyyid eş-Şerîf. Min evvelihî ilâ âhirihî kenârında Metnü Miftâh Musannifek hattıyla yazılmış. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Musannifek. İki yüz kırk dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "57b",
+     "created_at": "2024-02-10T12:48:42.594408Z",
+     "updated_at": "2026-10-12T22:12:15.752234Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3463,
+     "kodikolojik_bilgi": 2608
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 3463,
+  "bilgi_set": [
+   {
+    "id": 2608,
+    "murekkep_set": [
+     {
+      "id": 2491,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 2608
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 2283,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 2608
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "244",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:55:30.679896Z",
+    "updated_at": "2026-10-12T21:55:30.679913Z",
+    "kayit": {
+     "id": 1862,
+     "tam_metin": "[34] Kitâb-ı Şerhu’l-Miftâh eydan li’s-Seyyid eş-Şerîf. Min evvelihî ilâ âhirihî kenârında Metnü Miftâh Musannifek hattıyla yazılmış. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Musannifek. İki yüz kırk dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "57b",
+     "created_at": "2024-02-10T12:48:42.594408Z",
+     "updated_at": "2026-10-12T22:12:15.752234Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3463,
+     "kodikolojik_bilgi": 2608
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[34] Kitâb-ı Şerhu’l-Miftâh eydan li’s-Seyyid eş-Şerîf. Min evvelihî ilâ âhirihî kenârında Metnü Miftâh Musannifek hattıyla yazılmış. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Musannifek. İki yüz kırk dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "57b",
+  "created_at": "2024-02-10T12:48:42.594408Z",
+  "updated_at": "2026-10-12T22:12:15.752234Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 2608,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "244",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:55:30.679896Z",
+   "updated_at": "2026-10-12T21:55:30.679913Z",
+   "kayit": 1862,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 1361,
+   "murekkep_set": [
+    {
+     "id": 1239,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1361
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 1028,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1361
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "244",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-24T17:07:52.101967Z",
+   "updated_at": "2025-09-24T17:07:52.101984Z",
+   "kayit": {
+    "id": 3463,
+    "tam_metin": "[1] Kitâb-ı Şerh-i Miftâh li’s-Seyyid eş-Şerîf. Min Evvelihî ilâ âhirihî kenârında metin Mevlânâ Vâkıf hattıyla yazılmış. Dimeşkī tamâmından kırılmış. Siyâh cildli. İki yüz kırk dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-04-22T12:41:07.488105Z",
+    "updated_at": "2025-09-24T17:07:52.106281Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1862,
+    "kodikolojik_bilgi": 1361
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[1] Kitâb-ı Şerh-i Miftâh li’s-Seyyid eş-Şerîf. Min Evvelihî ilâ âhirihî kenârında metin Mevlânâ Vâkıf hattıyla yazılmış. Dimeşkī tamâmından kırılmış. Siyâh cildli. İki yüz kırk dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "45a",
+ "created_at": "2024-04-22T12:41:07.488105Z",
+ "updated_at": "2025-09-24T17:07:52.106281Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1361,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Siyah cilt",
+  "cild_materyal": "",
+  "varak_adedi": "244",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamından kırılmış",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-24T17:07:52.101967Z",
+  "updated_at": "2025-09-24T17:07:52.101984Z",
+  "kayit": 3463,
+  "created_by": null
+ }
+}

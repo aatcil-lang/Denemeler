@@ -1,0 +1,332 @@
+{
+ "id": 3470,
+ "kitap_set": [
+  {
+   "id": 3452,
+   "isim": "Kitâb-ı Havâşî, Mevlâ el-Vâkıf Mevlânâ Musannifek ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh ve bi-hattıhî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:41:10.748572Z",
+   "updated_at": "2025-04-06T19:20:11.102749Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3470,
+    "tam_metin": "[8] Kitâb-ı Havâşî Mevlâ el-Vâkıf Mevlânâ Musannifek ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh ve bi-hattıhî. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz altmış üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-04-22T12:41:10.479716Z",
+    "updated_at": "2025-09-24T17:16:52.392829Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1875,
+    "kodikolojik_bilgi": 1368
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1066,
+   "koleksiyon_numarasi": "YY5531",
+   "nusha": "https://portal.yek.gov.tr/works/detail/118641",
+   "created_at": "2026-05-01T21:42:17.261859Z",
+   "updated_at": "2026-05-01T21:42:17.261876Z",
+   "kutuphane": {
+    "id": 6,
+    "isim": "Konya Yusuf Ağa Kütüphanesi",
+    "created_at": "2026-05-01T19:49:42.756926Z",
+    "updated_at": "2026-05-01T19:49:42.756935Z",
+    "created_by": 1
+   },
+   "koleksiyon": null,
+   "kayit": {
+    "id": 3470,
+    "tam_metin": "[8] Kitâb-ı Havâşî Mevlâ el-Vâkıf Mevlânâ Musannifek ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh ve bi-hattıhî. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz altmış üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-04-22T12:41:10.479716Z",
+    "updated_at": "2025-09-24T17:16:52.392829Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1875,
+    "kodikolojik_bilgi": 1368
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1875,
+  "kitap_set": [
+   {
+    "id": 1870,
+    "isim": "Kitâb-ı Hâşiyetü Musannifek ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:48:48.978706Z",
+    "updated_at": "2025-04-06T19:20:15.804231Z",
+    "yazar": {
+     "id": 11,
+     "isim": "Mevlânâ Musannifek",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-04-22T11:53:25.702212Z",
+     "updated_at": "2024-04-22T11:53:25.702230Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1875,
+     "tam_metin": "[47] Kitâb-ı Hâşiyetü Musannifek ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh. Bi-hattı Musannifek. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Musannifek. Üç yüz altmış üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "58a",
+     "created_at": "2024-02-10T12:48:48.684289Z",
+     "updated_at": "2026-10-12T21:55:53.586429Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3470,
+     "kodikolojik_bilgi": 2620
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 3470,
+  "bilgi_set": [
+   {
+    "id": 2620,
+    "murekkep_set": [
+     {
+      "id": 2503,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 2620
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 2295,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 2620
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "363",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:55:53.582642Z",
+    "updated_at": "2026-10-12T21:55:53.582661Z",
+    "kayit": {
+     "id": 1875,
+     "tam_metin": "[47] Kitâb-ı Hâşiyetü Musannifek ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh. Bi-hattı Musannifek. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Musannifek. Üç yüz altmış üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "58a",
+     "created_at": "2024-02-10T12:48:48.684289Z",
+     "updated_at": "2026-10-12T21:55:53.586429Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3470,
+     "kodikolojik_bilgi": 2620
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[47] Kitâb-ı Hâşiyetü Musannifek ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh. Bi-hattı Musannifek. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Musannifek. Üç yüz altmış üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "58a",
+  "created_at": "2024-02-10T12:48:48.684289Z",
+  "updated_at": "2026-10-12T21:55:53.586429Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 2620,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "363",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:55:53.582642Z",
+   "updated_at": "2026-10-12T21:55:53.582661Z",
+   "kayit": 1875,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 1368,
+   "murekkep_set": [
+    {
+     "id": 1246,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1368
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 1035,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1368
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "363",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-24T17:16:52.381560Z",
+   "updated_at": "2025-09-24T17:16:52.381956Z",
+   "kayit": {
+    "id": 3470,
+    "tam_metin": "[8] Kitâb-ı Havâşî Mevlâ el-Vâkıf Mevlânâ Musannifek ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh ve bi-hattıhî. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz altmış üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-04-22T12:41:10.479716Z",
+    "updated_at": "2025-09-24T17:16:52.392829Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1875,
+    "kodikolojik_bilgi": 1368
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[8] Kitâb-ı Havâşî Mevlâ el-Vâkıf Mevlânâ Musannifek ale’ş-Şerhi’l-Mutavvel li-Telhîsi’l-Miftâh ve bi-hattıhî. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz altmış üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "45a",
+ "created_at": "2024-04-22T12:41:10.479716Z",
+ "updated_at": "2025-09-24T17:16:52.392829Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1368,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "363",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-24T17:16:52.381560Z",
+  "updated_at": "2025-09-24T17:16:52.381956Z",
+  "kayit": 3470,
+  "created_by": null
+ }
+}

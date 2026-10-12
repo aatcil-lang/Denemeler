@@ -1,0 +1,339 @@
+{
+ "id": 3065,
+ "kitap_set": [
+  {
+   "id": 3047,
+   "isim": "Kitâb-ı Şerh-i Lübbü’l-Elbâb.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:25:49.905544Z",
+   "updated_at": "2025-04-06T19:20:12.278197Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3065,
+    "tam_metin": "[38] Kitâb-ı Şerh-i Lübbü’l-Elbâb min müʾellefâtı Şeyh Şihâbüddîn Sivâsî. Zahrında bir dâʾire içinde halle musannifinin adı yazılmış. Bi-hattı Muhammed bin Mustafâ bin Musâ. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "29b",
+    "created_at": "2024-04-22T12:25:49.627805Z",
+    "updated_at": "2025-09-20T10:54:24.634550Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1321,
+    "kodikolojik_bilgi": 1002
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 542,
+   "koleksiyon_numarasi": "05025",
+   "nusha": "",
+   "created_at": "2025-01-13T18:51:45.112995Z",
+   "updated_at": "2025-01-13T18:51:45.113010Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 3065,
+    "tam_metin": "[38] Kitâb-ı Şerh-i Lübbü’l-Elbâb min müʾellefâtı Şeyh Şihâbüddîn Sivâsî. Zahrında bir dâʾire içinde halle musannifinin adı yazılmış. Bi-hattı Muhammed bin Mustafâ bin Musâ. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "29b",
+    "created_at": "2024-04-22T12:25:49.627805Z",
+    "updated_at": "2025-09-20T10:54:24.634550Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1321,
+    "kodikolojik_bilgi": 1002
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1321,
+  "kitap_set": [
+   {
+    "id": 1316,
+    "isim": "Kitâb-ı Şerhu Lübbi’l-Elbâb.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:44:33.824396Z",
+    "updated_at": "2025-04-06T19:20:17.511329Z",
+    "yazar": {
+     "id": 409,
+     "isim": "Şeyh Şihâbüddîn es-Sivâsî",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-11-21T13:57:17.906633Z",
+     "updated_at": "2024-11-21T13:57:17.906652Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1321,
+     "tam_metin": "[42] Kitâb-ı Şerhu Lübbi’l-Elbâb eydan li’ş-Şeyh Şihâbüddîn es-Sivâsî. Zahrında bir dâire içinde musannifin adı halle yazılmış. Bi-hattı Muhammed bin Mustafâ bin Mûsâ. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz doksan beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "34b",
+     "created_at": "2024-02-10T12:44:33.548666Z",
+     "updated_at": "2026-10-12T21:39:24.900017Z",
+     "vakif": 1,
+     "mustensih": 410,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3065,
+     "kodikolojik_bilgi": 2078
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 3065,
+  "bilgi_set": [
+   {
+    "id": 2078,
+    "murekkep_set": [
+     {
+      "id": 1961,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 2078
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1753,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 2078
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "295",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:39:24.896662Z",
+    "updated_at": "2026-10-12T21:39:24.896678Z",
+    "kayit": {
+     "id": 1321,
+     "tam_metin": "[42] Kitâb-ı Şerhu Lübbi’l-Elbâb eydan li’ş-Şeyh Şihâbüddîn es-Sivâsî. Zahrında bir dâire içinde musannifin adı halle yazılmış. Bi-hattı Muhammed bin Mustafâ bin Mûsâ. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz doksan beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "34b",
+     "created_at": "2024-02-10T12:44:33.548666Z",
+     "updated_at": "2026-10-12T21:39:24.900017Z",
+     "vakif": 1,
+     "mustensih": 410,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3065,
+     "kodikolojik_bilgi": 2078
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[42] Kitâb-ı Şerhu Lübbi’l-Elbâb eydan li’ş-Şeyh Şihâbüddîn es-Sivâsî. Zahrında bir dâire içinde musannifin adı halle yazılmış. Bi-hattı Muhammed bin Mustafâ bin Mûsâ. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz doksan beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "34b",
+  "created_at": "2024-02-10T12:44:33.548666Z",
+  "updated_at": "2026-10-12T21:39:24.900017Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 410,
+   "isim": "Muhammed bin Mustafâ bin Mûsâ",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-11-21T13:58:10.301067Z",
+   "updated_at": "2024-11-21T13:58:10.301084Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 2078,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "295",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:39:24.896662Z",
+   "updated_at": "2026-10-12T21:39:24.896678Z",
+   "kayit": 1321,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 1002,
+   "murekkep_set": [
+    {
+     "id": 881,
+     "renk": "altin",
+     "ilgili_ibare": "Zahrında bir dâʾire içinde halle musannifinin adı yazılmış",
+     "kodikolojik_bilgi": 1002
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 670,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1002
+    }
+   ],
+   "zahriye_exists": true,
+   "zahriye": "Zahrında bir dâʾire içinde halle musannifinin adı yazılmış",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "295",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-20T10:53:28.328878Z",
+   "updated_at": "2025-09-20T10:54:24.629066Z",
+   "kayit": {
+    "id": 3065,
+    "tam_metin": "[38] Kitâb-ı Şerh-i Lübbü’l-Elbâb min müʾellefâtı Şeyh Şihâbüddîn Sivâsî. Zahrında bir dâʾire içinde halle musannifinin adı yazılmış. Bi-hattı Muhammed bin Mustafâ bin Musâ. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "29b",
+    "created_at": "2024-04-22T12:25:49.627805Z",
+    "updated_at": "2025-09-20T10:54:24.634550Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1321,
+    "kodikolojik_bilgi": 1002
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[38] Kitâb-ı Şerh-i Lübbü’l-Elbâb min müʾellefâtı Şeyh Şihâbüddîn Sivâsî. Zahrında bir dâʾire içinde halle musannifinin adı yazılmış. Bi-hattı Muhammed bin Mustafâ bin Musâ. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "29b",
+ "created_at": "2024-04-22T12:25:49.627805Z",
+ "updated_at": "2025-09-20T10:54:24.634550Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1002,
+  "zahriye_exists": true,
+  "zahriye": "Zahrında bir dâʾire içinde halle musannifinin adı yazılmış",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "295",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-20T10:53:28.328878Z",
+  "updated_at": "2025-09-20T10:54:24.629066Z",
+  "kayit": 3065,
+  "created_by": null
+ }
+}

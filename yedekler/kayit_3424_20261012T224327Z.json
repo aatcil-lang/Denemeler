@@ -1,0 +1,339 @@
+{
+ "id": 3424,
+ "kitap_set": [
+  {
+   "id": 3406,
+   "isim": "Kitâb-ı Tefsîr-i Fârisî.",
+   "isim2": null,
+   "disiplin": "Tefsir",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:40:51.130807Z",
+   "updated_at": "2025-04-06T19:20:11.230763Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3424,
+    "tam_metin": "[8] Kitâb-ı Tefsîr-i Fârisî. Musannifek’in kendi teʾlîf[i] ve kendi hattıyla. Zahrında “Kitâbü’ş-Şifâ fî Tefsîri Kelâmillâhi’l-Münezzeli mine’s-Semâʾ” deyu yazılmış. Semerkandî tamâmına. Ak kâğıd mukavvâ cildli. Yüz kırk beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "43a",
+    "created_at": "2024-04-22T12:40:50.860631Z",
+    "updated_at": "2025-09-22T20:54:30.178026Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1535,
+    "kodikolojik_bilgi": 1322
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 756,
+   "koleksiyon_numarasi": "00636",
+   "nusha": "",
+   "created_at": "2025-01-15T14:48:20.980723Z",
+   "updated_at": "2025-01-15T14:48:20.980738Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 3424,
+    "tam_metin": "[8] Kitâb-ı Tefsîr-i Fârisî. Musannifek’in kendi teʾlîf[i] ve kendi hattıyla. Zahrında “Kitâbü’ş-Şifâ fî Tefsîri Kelâmillâhi’l-Münezzeli mine’s-Semâʾ” deyu yazılmış. Semerkandî tamâmına. Ak kâğıd mukavvâ cildli. Yüz kırk beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "43a",
+    "created_at": "2024-04-22T12:40:50.860631Z",
+    "updated_at": "2025-09-22T20:54:30.178026Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1535,
+    "kodikolojik_bilgi": 1322
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1535,
+  "kitap_set": [
+   {
+    "id": 1530,
+    "isim": "Kitâb-ı Cildün min Tefsîri Musannifek.",
+    "isim2": null,
+    "disiplin": "Tefsir",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:46:12.264280Z",
+    "updated_at": "2025-04-06T19:20:16.861787Z",
+    "yazar": {
+     "id": 11,
+     "isim": "Mevlânâ Musannifek",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-04-22T11:53:25.702212Z",
+     "updated_at": "2024-04-22T11:53:25.702230Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1535,
+     "tam_metin": "[102] Kitâb-ı Cildün min Tefsîri Musannifek. Semerkandî tamâmına. Ak kâğıd mukavvâ cildle. Bi-hattı Musannifek. Vakf-ı Musannifek. Yüz kırk beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "43b",
+     "created_at": "2024-02-10T12:46:11.981873Z",
+     "updated_at": "2026-10-12T21:45:43.605518Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3424,
+     "kodikolojik_bilgi": 2287
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 3424,
+  "bilgi_set": [
+   {
+    "id": 2287,
+    "murekkep_set": [
+     {
+      "id": 2170,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 2287
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1962,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 2287
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "145",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:45:43.602138Z",
+    "updated_at": "2026-10-12T21:45:43.602155Z",
+    "kayit": {
+     "id": 1535,
+     "tam_metin": "[102] Kitâb-ı Cildün min Tefsîri Musannifek. Semerkandî tamâmına. Ak kâğıd mukavvâ cildle. Bi-hattı Musannifek. Vakf-ı Musannifek. Yüz kırk beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "43b",
+     "created_at": "2024-02-10T12:46:11.981873Z",
+     "updated_at": "2026-10-12T21:45:43.605518Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3424,
+     "kodikolojik_bilgi": 2287
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[102] Kitâb-ı Cildün min Tefsîri Musannifek. Semerkandî tamâmına. Ak kâğıd mukavvâ cildle. Bi-hattı Musannifek. Vakf-ı Musannifek. Yüz kırk beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+  "notlar": "",
+  "sayfa_numarasi": "43b",
+  "created_at": "2024-02-10T12:46:11.981873Z",
+  "updated_at": "2026-10-12T21:45:43.605518Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 2287,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "145",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:45:43.602138Z",
+   "updated_at": "2026-10-12T21:45:43.602155Z",
+   "kayit": 1535,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 1322,
+   "murekkep_set": [
+    {
+     "id": 1200,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1322
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 989,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1322
+    }
+   ],
+   "zahriye_exists": true,
+   "zahriye": "Zahrında “Kitâbü’ş-Şifâ fî Tefsîri Kelâmillâhi’l-Münezzeli mine’s-Semâʾ” deyu yazılmış",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "145",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T20:54:30.171322Z",
+   "updated_at": "2025-09-22T20:54:30.171395Z",
+   "kayit": {
+    "id": 3424,
+    "tam_metin": "[8] Kitâb-ı Tefsîr-i Fârisî. Musannifek’in kendi teʾlîf[i] ve kendi hattıyla. Zahrında “Kitâbü’ş-Şifâ fî Tefsîri Kelâmillâhi’l-Münezzeli mine’s-Semâʾ” deyu yazılmış. Semerkandî tamâmına. Ak kâğıd mukavvâ cildli. Yüz kırk beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "43a",
+    "created_at": "2024-04-22T12:40:50.860631Z",
+    "updated_at": "2025-09-22T20:54:30.178026Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1535,
+    "kodikolojik_bilgi": 1322
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[8] Kitâb-ı Tefsîr-i Fârisî. Musannifek’in kendi teʾlîf[i] ve kendi hattıyla. Zahrında “Kitâbü’ş-Şifâ fî Tefsîri Kelâmillâhi’l-Münezzeli mine’s-Semâʾ” deyu yazılmış. Semerkandî tamâmına. Ak kâğıd mukavvâ cildli. Yüz kırk beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "43a",
+ "created_at": "2024-04-22T12:40:50.860631Z",
+ "updated_at": "2025-09-22T20:54:30.178026Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1322,
+  "zahriye_exists": true,
+  "zahriye": "Zahrında “Kitâbü’ş-Şifâ fî Tefsîri Kelâmillâhi’l-Münezzeli mine’s-Semâʾ” deyu yazılmış",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Ak kağıt",
+  "varak_adedi": "145",
+  "kagit_turu": "Semerkandî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-22T20:54:30.171322Z",
+  "updated_at": "2025-09-22T20:54:30.171395Z",
+  "kayit": 3424,
+  "created_by": null
+ }
+}

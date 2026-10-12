@@ -1,0 +1,327 @@
+{
+ "id": 3418,
+ "kitap_set": [
+  {
+   "id": 3400,
+   "isim": "Kitâb-ı Keşşâf.",
+   "isim2": null,
+   "disiplin": "Tefsir",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:40:48.540960Z",
+   "updated_at": "2025-04-06T19:20:11.247432Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3418,
+    "tam_metin": "[2] Kitâb-ı Keşşâf. Sûre-i Sebe’den Sûre-i Muhammed âhirine dek. Dimeşkī tamâmına. Al cildli. Musannifek’in kendi hattıyla. İki yüz elli yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "43a",
+    "created_at": "2024-04-22T12:40:48.272717Z",
+    "updated_at": "2025-09-22T20:46:28.757819Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1437,
+    "kodikolojik_bilgi": 1316
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 753,
+   "koleksiyon_numarasi": "00393",
+   "nusha": "",
+   "created_at": "2025-01-15T14:45:54.792167Z",
+   "updated_at": "2025-01-15T14:45:54.792181Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 3418,
+    "tam_metin": "[2] Kitâb-ı Keşşâf. Sûre-i Sebe’den Sûre-i Muhammed âhirine dek. Dimeşkī tamâmına. Al cildli. Musannifek’in kendi hattıyla. İki yüz elli yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "43a",
+    "created_at": "2024-04-22T12:40:48.272717Z",
+    "updated_at": "2025-09-22T20:46:28.757819Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1437,
+    "kodikolojik_bilgi": 1316
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1437,
+  "kitap_set": [
+   {
+    "id": 1432,
+    "isim": "Kitâbü’l-Keşşâf (Sûre-i Sebeʾden Sûre-i Muhammed âhirine dek).",
+    "isim2": null,
+    "disiplin": "Tefsir",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:45:27.053359Z",
+    "updated_at": "2025-04-06T19:20:17.148539Z",
+    "yazar": null,
+    "kayit": {
+     "id": 1437,
+     "tam_metin": "[4] Kitâbü’l-Keşşâf. Sûre-i Sebeʾden Sûre-i Muhammed âhirine dek. Dimeşkī tamâmına. Al cildle. Musannifek hattıyla. Vakf-ı Mevlânâ Musannifek. İki yüz elli yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "39b",
+     "created_at": "2024-02-10T12:45:26.779687Z",
+     "updated_at": "2026-10-12T22:12:10.293663Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3418,
+     "kodikolojik_bilgi": 2191
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 3418,
+  "bilgi_set": [
+   {
+    "id": 2191,
+    "murekkep_set": [
+     {
+      "id": 2074,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 2191
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1866,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 2191
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Al cilt",
+    "cild_materyal": "",
+    "varak_adedi": "257",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:42:51.091312Z",
+    "updated_at": "2026-10-12T21:42:51.091329Z",
+    "kayit": {
+     "id": 1437,
+     "tam_metin": "[4] Kitâbü’l-Keşşâf. Sûre-i Sebeʾden Sûre-i Muhammed âhirine dek. Dimeşkī tamâmına. Al cildle. Musannifek hattıyla. Vakf-ı Mevlânâ Musannifek. İki yüz elli yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "39b",
+     "created_at": "2024-02-10T12:45:26.779687Z",
+     "updated_at": "2026-10-12T22:12:10.293663Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3418,
+     "kodikolojik_bilgi": 2191
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[4] Kitâbü’l-Keşşâf. Sûre-i Sebeʾden Sûre-i Muhammed âhirine dek. Dimeşkī tamâmına. Al cildle. Musannifek hattıyla. Vakf-ı Mevlânâ Musannifek. İki yüz elli yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+  "notlar": "",
+  "sayfa_numarasi": "39b",
+  "created_at": "2024-02-10T12:45:26.779687Z",
+  "updated_at": "2026-10-12T22:12:10.293663Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 2191,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Al cilt",
+   "cild_materyal": "",
+   "varak_adedi": "257",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:42:51.091312Z",
+   "updated_at": "2026-10-12T21:42:51.091329Z",
+   "kayit": 1437,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 1316,
+   "murekkep_set": [
+    {
+     "id": 1194,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1316
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 983,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1316
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Al cilt",
+   "cild_materyal": "",
+   "varak_adedi": "257",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T20:46:28.753943Z",
+   "updated_at": "2025-09-22T20:46:28.753964Z",
+   "kayit": {
+    "id": 3418,
+    "tam_metin": "[2] Kitâb-ı Keşşâf. Sûre-i Sebe’den Sûre-i Muhammed âhirine dek. Dimeşkī tamâmına. Al cildli. Musannifek’in kendi hattıyla. İki yüz elli yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "43a",
+    "created_at": "2024-04-22T12:40:48.272717Z",
+    "updated_at": "2025-09-22T20:46:28.757819Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1437,
+    "kodikolojik_bilgi": 1316
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[2] Kitâb-ı Keşşâf. Sûre-i Sebe’den Sûre-i Muhammed âhirine dek. Dimeşkī tamâmına. Al cildli. Musannifek’in kendi hattıyla. İki yüz elli yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "43a",
+ "created_at": "2024-04-22T12:40:48.272717Z",
+ "updated_at": "2025-09-22T20:46:28.757819Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1316,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Al cilt",
+  "cild_materyal": "",
+  "varak_adedi": "257",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-22T20:46:28.753943Z",
+  "updated_at": "2025-09-22T20:46:28.753964Z",
+  "kayit": 3418,
+  "created_by": null
+ }
+}

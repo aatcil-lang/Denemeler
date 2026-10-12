@@ -1,0 +1,327 @@
+{
+ "id": 3417,
+ "kitap_set": [
+  {
+   "id": 3399,
+   "isim": "Kitâb-ı Keşşâf.",
+   "isim2": null,
+   "disiplin": "Tefsir",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:40:48.111359Z",
+   "updated_at": "2025-04-06T19:20:11.250296Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3417,
+    "tam_metin": "[1] Kitâb-ı Keşşâf. Evvelinden Sûre-i Nisâ’ya dek. Musannifek’in kendi hattıyla. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "43a",
+    "created_at": "2024-04-22T12:40:47.851687Z",
+    "updated_at": "2025-09-22T20:44:55.037354Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1436,
+    "kodikolojik_bilgi": 1315
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 752,
+   "koleksiyon_numarasi": "00351",
+   "nusha": "",
+   "created_at": "2025-01-15T14:44:09.995579Z",
+   "updated_at": "2025-01-15T14:44:09.995596Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 3417,
+    "tam_metin": "[1] Kitâb-ı Keşşâf. Evvelinden Sûre-i Nisâ’ya dek. Musannifek’in kendi hattıyla. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "43a",
+    "created_at": "2024-04-22T12:40:47.851687Z",
+    "updated_at": "2025-09-22T20:44:55.037354Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1436,
+    "kodikolojik_bilgi": 1315
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1436,
+  "kitap_set": [
+   {
+    "id": 1431,
+    "isim": "Kitâbü’l-Keşşâf (Evvelinden Sûre-i Nisâʾya dek).",
+    "isim2": null,
+    "disiplin": "Tefsir",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:45:26.596506Z",
+    "updated_at": "2025-04-06T19:20:17.151402Z",
+    "yazar": null,
+    "kayit": {
+     "id": 1436,
+     "tam_metin": "[3] Kitâbü’l-Keşşâf. Evvelinden Sûre-i Nisâʾya dek. Musannifek hattıyla. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Mevlânâ Musannifek. Üç yüz dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "39b",
+     "created_at": "2024-02-10T12:45:26.314572Z",
+     "updated_at": "2026-10-12T22:12:08.914742Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3417,
+     "kodikolojik_bilgi": 2190
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 3417,
+  "bilgi_set": [
+   {
+    "id": 2190,
+    "murekkep_set": [
+     {
+      "id": 2073,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 2190
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1865,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 2190
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "309",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:42:49.068609Z",
+    "updated_at": "2026-10-12T21:42:49.068625Z",
+    "kayit": {
+     "id": 1436,
+     "tam_metin": "[3] Kitâbü’l-Keşşâf. Evvelinden Sûre-i Nisâʾya dek. Musannifek hattıyla. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Mevlânâ Musannifek. Üç yüz dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "39b",
+     "created_at": "2024-02-10T12:45:26.314572Z",
+     "updated_at": "2026-10-12T22:12:08.914742Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3417,
+     "kodikolojik_bilgi": 2190
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[3] Kitâbü’l-Keşşâf. Evvelinden Sûre-i Nisâʾya dek. Musannifek hattıyla. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Mevlânâ Musannifek. Üç yüz dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+  "notlar": "",
+  "sayfa_numarasi": "39b",
+  "created_at": "2024-02-10T12:45:26.314572Z",
+  "updated_at": "2026-10-12T22:12:08.914742Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 2190,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "309",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:42:49.068609Z",
+   "updated_at": "2026-10-12T21:42:49.068625Z",
+   "kayit": 1436,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 1315,
+   "murekkep_set": [
+    {
+     "id": 1193,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1315
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 982,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1315
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "309",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T20:44:54.629597Z",
+   "updated_at": "2025-09-22T20:44:54.634792Z",
+   "kayit": {
+    "id": 3417,
+    "tam_metin": "[1] Kitâb-ı Keşşâf. Evvelinden Sûre-i Nisâ’ya dek. Musannifek’in kendi hattıyla. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "43a",
+    "created_at": "2024-04-22T12:40:47.851687Z",
+    "updated_at": "2025-09-22T20:44:55.037354Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1436,
+    "kodikolojik_bilgi": 1315
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[1] Kitâb-ı Keşşâf. Evvelinden Sûre-i Nisâ’ya dek. Musannifek’in kendi hattıyla. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "43a",
+ "created_at": "2024-04-22T12:40:47.851687Z",
+ "updated_at": "2025-09-22T20:44:55.037354Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1315,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "309",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-22T20:44:54.629597Z",
+  "updated_at": "2025-09-22T20:44:54.634792Z",
+  "kayit": 3417,
+  "created_by": null
+ }
+}

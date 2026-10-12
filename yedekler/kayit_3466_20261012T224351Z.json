@@ -1,0 +1,339 @@
+{
+ "id": 3466,
+ "kitap_set": [
+  {
+   "id": 3448,
+   "isim": "Kitâb-ı Şerhü’l-Lübâb.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:41:09.036042Z",
+   "updated_at": "2025-04-06T19:20:11.115677Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3466,
+    "tam_metin": "[4] Kitâb-ı Şerhü’l-Lübâb min müʾellefâtı Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî. Evveli levhalı. Evvel varakının zahrı müzehheb. kırmızı cildli. Yedi yüz otuz bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-04-22T12:41:08.762790Z",
+    "updated_at": "2025-09-24T17:12:58.682459Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1852,
+    "kodikolojik_bilgi": 1364
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 785,
+   "koleksiyon_numarasi": "05004",
+   "nusha": "",
+   "created_at": "2025-01-15T23:14:24.990383Z",
+   "updated_at": "2025-01-15T23:14:24.990399Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 3466,
+    "tam_metin": "[4] Kitâb-ı Şerhü’l-Lübâb min müʾellefâtı Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî. Evveli levhalı. Evvel varakının zahrı müzehheb. kırmızı cildli. Yedi yüz otuz bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-04-22T12:41:08.762790Z",
+    "updated_at": "2025-09-24T17:12:58.682459Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1852,
+    "kodikolojik_bilgi": 1364
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1852,
+  "kitap_set": [
+   {
+    "id": 1847,
+    "isim": "Kitâb-ı Şerhü’l-Lübâb.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:48:38.224713Z",
+    "updated_at": "2025-04-06T19:20:15.888528Z",
+    "yazar": {
+     "id": 11,
+     "isim": "Mevlânâ Musannifek",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-04-22T11:53:25.702212Z",
+     "updated_at": "2024-04-22T11:53:25.702230Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1852,
+     "tam_metin": "[24] Kitâb-ı Şerhu’l-Lübâb li-Musannifek. Bi-hattı Musannifek. Evveli levhalı. Evvel varakının zahrı müzehheb. Kırmızı cildle. Vakf-ı Musannifek. Yedi yüz otuz bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "57a",
+     "created_at": "2024-02-10T12:48:37.932838Z",
+     "updated_at": "2026-10-12T21:55:12.313631Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3466,
+     "kodikolojik_bilgi": 2598
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 3466,
+  "bilgi_set": [
+   {
+    "id": 2598,
+    "murekkep_set": [
+     {
+      "id": 2481,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 2598
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 2273,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 2598
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Kırmızı cilt",
+    "cild_materyal": "",
+    "varak_adedi": "731",
+    "kagit_turu": "",
+    "aciklama": "",
+    "kagit_ebadi": "",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:55:12.308191Z",
+    "updated_at": "2026-10-12T21:55:12.308212Z",
+    "kayit": {
+     "id": 1852,
+     "tam_metin": "[24] Kitâb-ı Şerhu’l-Lübâb li-Musannifek. Bi-hattı Musannifek. Evveli levhalı. Evvel varakının zahrı müzehheb. Kırmızı cildle. Vakf-ı Musannifek. Yedi yüz otuz bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+     "notlar": "",
+     "sayfa_numarasi": "57a",
+     "created_at": "2024-02-10T12:48:37.932838Z",
+     "updated_at": "2026-10-12T21:55:12.313631Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3466,
+     "kodikolojik_bilgi": 2598
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[24] Kitâb-ı Şerhu’l-Lübâb li-Musannifek. Bi-hattı Musannifek. Evveli levhalı. Evvel varakının zahrı müzehheb. Kırmızı cildle. Vakf-ı Musannifek. Yedi yüz otuz bir varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Arabiyye",
+  "notlar": "",
+  "sayfa_numarasi": "57a",
+  "created_at": "2024-02-10T12:48:37.932838Z",
+  "updated_at": "2026-10-12T21:55:12.313631Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 2598,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Kırmızı cilt",
+   "cild_materyal": "",
+   "varak_adedi": "731",
+   "kagit_turu": "",
+   "aciklama": "",
+   "kagit_ebadi": "",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:55:12.308191Z",
+   "updated_at": "2026-10-12T21:55:12.308212Z",
+   "kayit": 1852,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 1364,
+   "murekkep_set": [
+    {
+     "id": 1242,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1364
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 1031,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1364
+    }
+   ],
+   "zahriye_exists": true,
+   "zahriye": "Evveli levhalı. Evvel varakının zahrı müzehheb.",
+   "cild_turu": "Kırmızı cilt",
+   "cild_materyal": "",
+   "varak_adedi": "731",
+   "kagit_turu": "",
+   "aciklama": "",
+   "kagit_ebadi": "",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-24T17:12:58.677076Z",
+   "updated_at": "2025-09-24T17:12:58.677100Z",
+   "kayit": {
+    "id": 3466,
+    "tam_metin": "[4] Kitâb-ı Şerhü’l-Lübâb min müʾellefâtı Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî. Evveli levhalı. Evvel varakının zahrı müzehheb. kırmızı cildli. Yedi yüz otuz bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-04-22T12:41:08.762790Z",
+    "updated_at": "2025-09-24T17:12:58.682459Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1852,
+    "kodikolojik_bilgi": 1364
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[4] Kitâb-ı Şerhü’l-Lübâb min müʾellefâtı Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî. Evveli levhalı. Evvel varakının zahrı müzehheb. kırmızı cildli. Yedi yüz otuz bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "45a",
+ "created_at": "2024-04-22T12:41:08.762790Z",
+ "updated_at": "2025-09-24T17:12:58.682459Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1364,
+  "zahriye_exists": true,
+  "zahriye": "Evveli levhalı. Evvel varakının zahrı müzehheb.",
+  "cild_turu": "Kırmızı cilt",
+  "cild_materyal": "",
+  "varak_adedi": "731",
+  "kagit_turu": "",
+  "aciklama": "",
+  "kagit_ebadi": "",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-24T17:12:58.677076Z",
+  "updated_at": "2025-09-24T17:12:58.677100Z",
+  "kayit": 3466,
+  "created_by": null
+ }
+}

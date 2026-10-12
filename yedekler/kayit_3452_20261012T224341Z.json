@@ -1,0 +1,138 @@
+{
+ "id": 3452,
+ "kitap_set": [
+  {
+   "id": 3434,
+   "isim": "Kitâb-ı Şerh-i Vikāye-i Musannifek.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:41:03.068670Z",
+   "updated_at": "2025-04-06T19:20:11.155322Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3452,
+    "tam_metin": "[7] Kitâb-ı Şerh-i Vikāye-i Musannifek. Kitâb-ı Buyûʿ’dan âhir-i kitâba dek. Musannifek’in kendi hattıyla. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Doksan dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "44b",
+    "created_at": "2024-04-22T12:41:02.791987Z",
+    "updated_at": "2025-09-22T21:41:55.696953Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": 1350
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [
+  {
+   "id": 1350,
+   "murekkep_set": [
+    {
+     "id": 1228,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1350
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 1017,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1350
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Sarı kağıt",
+   "varak_adedi": "99",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T21:41:55.684582Z",
+   "updated_at": "2025-09-22T21:41:55.684612Z",
+   "kayit": {
+    "id": 3452,
+    "tam_metin": "[7] Kitâb-ı Şerh-i Vikāye-i Musannifek. Kitâb-ı Buyûʿ’dan âhir-i kitâba dek. Musannifek’in kendi hattıyla. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Doksan dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "44b",
+    "created_at": "2024-04-22T12:41:02.791987Z",
+    "updated_at": "2025-09-22T21:41:55.696953Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": 1350
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[7] Kitâb-ı Şerh-i Vikāye-i Musannifek. Kitâb-ı Buyûʿ’dan âhir-i kitâba dek. Musannifek’in kendi hattıyla. Dimeşkī tamâmına. Sarı kâğıd mukavvâ cildli. Doksan dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "44b",
+ "created_at": "2024-04-22T12:41:02.791987Z",
+ "updated_at": "2025-09-22T21:41:55.696953Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1350,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Sarı kağıt",
+  "varak_adedi": "99",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-22T21:41:55.684582Z",
+  "updated_at": "2025-09-22T21:41:55.684612Z",
+  "kayit": 3452,
+  "created_by": null
+ }
+}

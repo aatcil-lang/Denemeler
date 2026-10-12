@@ -1,0 +1,339 @@
+{
+ "id": 3181,
+ "kitap_set": [
+  {
+   "id": 3163,
+   "isim": "Kitâb-ı Hidâye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:26:42.848234Z",
+   "updated_at": "2025-04-06T19:20:11.935261Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3181,
+    "tam_metin": "[3] Kitâb-ı Hidâye. Kitâb-ı Sarf’dan âhir-i kitâba dek. Bi-hattı Hüseyin bin Ali. Dimeşkī tamâmına. Kızıl kâğıd mukavvâ cildli. İki yüz yetmiş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "35a",
+    "created_at": "2024-04-22T12:26:42.566210Z",
+    "updated_at": "2025-09-22T08:50:33.447075Z",
+    "vakif": 7,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 894,
+    "kodikolojik_bilgi": 1118
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 618,
+   "koleksiyon_numarasi": "02254",
+   "nusha": "",
+   "created_at": "2025-01-14T09:15:57.355080Z",
+   "updated_at": "2025-01-14T09:15:57.355096Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 3181,
+    "tam_metin": "[3] Kitâb-ı Hidâye. Kitâb-ı Sarf’dan âhir-i kitâba dek. Bi-hattı Hüseyin bin Ali. Dimeşkī tamâmına. Kızıl kâğıd mukavvâ cildli. İki yüz yetmiş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "35a",
+    "created_at": "2024-04-22T12:26:42.566210Z",
+    "updated_at": "2025-09-22T08:50:33.447075Z",
+    "vakif": 7,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 894,
+    "kodikolojik_bilgi": 1118
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 894,
+  "kitap_set": [
+   {
+    "id": 890,
+    "isim": "Kitâbü’l-Cildi’l-Ahîr mine’l-Hidâye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:41:29.575456Z",
+    "updated_at": "2025-04-06T19:20:19.026112Z",
+    "yazar": {
+     "id": 214,
+     "isim": "Burhâneddin el-Mergīnânî",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-09-03T22:26:20.605244Z",
+     "updated_at": "2024-09-03T22:26:20.605267Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 894,
+     "tam_metin": "[21] Kitâbü’l-Cildi’l-Ahîr mine’l-Hidâye eydan. Min evveli Kitâbi’s-Sarf ilâ âhiri’l-kitâb. Bi-hattı Hüseyin bin Ali. Dimeşkī tamâmına. Kızıl kâğıd mukavvâ cildle. Vakf-ı Sultânî. Bedel-i Yegânî. İki yüz yetmiş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "16a",
+     "created_at": "2024-02-10T12:41:29.314624Z",
+     "updated_at": "2026-10-12T21:26:45.869785Z",
+     "vakif": 1,
+     "mustensih": 219,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3181,
+     "kodikolojik_bilgi": 1656
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 3181,
+  "bilgi_set": [
+   {
+    "id": 1656,
+    "murekkep_set": [
+     {
+      "id": 1539,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1656
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1331,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1656
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Kızıl kağıt",
+    "varak_adedi": "270",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:26:45.866501Z",
+    "updated_at": "2026-10-12T21:26:45.866515Z",
+    "kayit": {
+     "id": 894,
+     "tam_metin": "[21] Kitâbü’l-Cildi’l-Ahîr mine’l-Hidâye eydan. Min evveli Kitâbi’s-Sarf ilâ âhiri’l-kitâb. Bi-hattı Hüseyin bin Ali. Dimeşkī tamâmına. Kızıl kâğıd mukavvâ cildle. Vakf-ı Sultânî. Bedel-i Yegânî. İki yüz yetmiş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "16a",
+     "created_at": "2024-02-10T12:41:29.314624Z",
+     "updated_at": "2026-10-12T21:26:45.869785Z",
+     "vakif": 1,
+     "mustensih": 219,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3181,
+     "kodikolojik_bilgi": 1656
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[21] Kitâbü’l-Cildi’l-Ahîr mine’l-Hidâye eydan. Min evveli Kitâbi’s-Sarf ilâ âhiri’l-kitâb. Bi-hattı Hüseyin bin Ali. Dimeşkī tamâmına. Kızıl kâğıd mukavvâ cildle. Vakf-ı Sultânî. Bedel-i Yegânî. İki yüz yetmiş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "16a",
+  "created_at": "2024-02-10T12:41:29.314624Z",
+  "updated_at": "2026-10-12T21:26:45.869785Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 219,
+   "isim": "Hüseyin bin Ali",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-03T22:58:06.264173Z",
+   "updated_at": "2024-09-03T22:58:06.264187Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1656,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Kızıl kağıt",
+   "varak_adedi": "270",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:26:45.866501Z",
+   "updated_at": "2026-10-12T21:26:45.866515Z",
+   "kayit": 894,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 1118,
+   "murekkep_set": [
+    {
+     "id": 996,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1118
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 785,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1118
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Kızıl kağıt",
+   "varak_adedi": "270",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T08:50:33.442418Z",
+   "updated_at": "2025-09-22T08:50:33.442437Z",
+   "kayit": {
+    "id": 3181,
+    "tam_metin": "[3] Kitâb-ı Hidâye. Kitâb-ı Sarf’dan âhir-i kitâba dek. Bi-hattı Hüseyin bin Ali. Dimeşkī tamâmına. Kızıl kâğıd mukavvâ cildli. İki yüz yetmiş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "35a",
+    "created_at": "2024-04-22T12:26:42.566210Z",
+    "updated_at": "2025-09-22T08:50:33.447075Z",
+    "vakif": 7,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 894,
+    "kodikolojik_bilgi": 1118
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[3] Kitâb-ı Hidâye. Kitâb-ı Sarf’dan âhir-i kitâba dek. Bi-hattı Hüseyin bin Ali. Dimeşkī tamâmına. Kızıl kâğıd mukavvâ cildli. İki yüz yetmiş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "35a",
+ "created_at": "2024-04-22T12:26:42.566210Z",
+ "updated_at": "2025-09-22T08:50:33.447075Z",
+ "vakif": {
+  "id": 7,
+  "isim": "Ahmed Çelebi",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:27:02.625500Z",
+  "updated_at": "2024-04-22T11:27:02.625517Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1118,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Kızıl kağıt",
+  "varak_adedi": "270",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-22T08:50:33.442418Z",
+  "updated_at": "2025-09-22T08:50:33.442437Z",
+  "kayit": 3181,
+  "created_by": null
+ }
+}

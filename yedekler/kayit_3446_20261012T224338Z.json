@@ -1,0 +1,315 @@
+{
+ "id": 3446,
+ "kitap_set": [
+  {
+   "id": 3428,
+   "isim": "Kitâb-ı Hülâsatü’l-Fetâvâ.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:41:00.471208Z",
+   "updated_at": "2025-04-06T19:20:11.171241Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3446,
+    "tam_metin": "[1] Kitâb-ı Hülâsatü’l-Fetâvâ. Evvelinden Bâb-ı Hulʿ-i Fuzûliyye’ye dek. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Evvelinden bir cüz Musannifek hattıyla. Yüz yetmiş üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "44a",
+    "created_at": "2024-04-22T12:41:00.203388Z",
+    "updated_at": "2025-09-22T21:29:07.612381Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1740,
+    "kodikolojik_bilgi": 1344
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 772,
+   "koleksiyon_numarasi": "02304",
+   "nusha": "",
+   "created_at": "2025-01-15T15:29:52.932100Z",
+   "updated_at": "2025-01-15T15:29:52.932116Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 3446,
+    "tam_metin": "[1] Kitâb-ı Hülâsatü’l-Fetâvâ. Evvelinden Bâb-ı Hulʿ-i Fuzûliyye’ye dek. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Evvelinden bir cüz Musannifek hattıyla. Yüz yetmiş üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "44a",
+    "created_at": "2024-04-22T12:41:00.203388Z",
+    "updated_at": "2025-09-22T21:29:07.612381Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1740,
+    "kodikolojik_bilgi": 1344
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1740,
+  "kitap_set": [
+   {
+    "id": 1735,
+    "isim": "Kitâbü’l-Cildi’l-Evvel min Hülâsati’l-Fetâvâ.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:47:46.457408Z",
+    "updated_at": "2025-04-06T19:20:16.253266Z",
+    "yazar": null,
+    "kayit": {
+     "id": 1740,
+     "tam_metin": "[76] Kitâbü’l-Cildi’l-Evvel eydan min Hülâsati’l-Fetâvâ. İlâ evveli Bâbi’l-Hulʿi’l-Fuzûlî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yüz yetmiş üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "52a",
+     "created_at": "2024-02-10T12:47:46.172411Z",
+     "updated_at": "2026-10-12T21:51:50.949389Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3446,
+     "kodikolojik_bilgi": 2487
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 3446,
+  "bilgi_set": [
+   {
+    "id": 2487,
+    "murekkep_set": [
+     {
+      "id": 2370,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 2487
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 2162,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 2487
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "173",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:51:50.946514Z",
+    "updated_at": "2026-10-12T21:51:50.946535Z",
+    "kayit": {
+     "id": 1740,
+     "tam_metin": "[76] Kitâbü’l-Cildi’l-Evvel eydan min Hülâsati’l-Fetâvâ. İlâ evveli Bâbi’l-Hulʿi’l-Fuzûlî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yüz yetmiş üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "52a",
+     "created_at": "2024-02-10T12:47:46.172411Z",
+     "updated_at": "2026-10-12T21:51:50.949389Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3446,
+     "kodikolojik_bilgi": 2487
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[76] Kitâbü’l-Cildi’l-Evvel eydan min Hülâsati’l-Fetâvâ. İlâ evveli Bâbi’l-Hulʿi’l-Fuzûlî. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yüz yetmiş üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "52a",
+  "created_at": "2024-02-10T12:47:46.172411Z",
+  "updated_at": "2026-10-12T21:51:50.949389Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 2487,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "173",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:51:50.946514Z",
+   "updated_at": "2026-10-12T21:51:50.946535Z",
+   "kayit": 1740,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 1344,
+   "murekkep_set": [
+    {
+     "id": 1222,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1344
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 1011,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1344
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "173",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T21:29:07.604820Z",
+   "updated_at": "2025-09-22T21:29:07.604847Z",
+   "kayit": {
+    "id": 3446,
+    "tam_metin": "[1] Kitâb-ı Hülâsatü’l-Fetâvâ. Evvelinden Bâb-ı Hulʿ-i Fuzûliyye’ye dek. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Evvelinden bir cüz Musannifek hattıyla. Yüz yetmiş üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "44a",
+    "created_at": "2024-04-22T12:41:00.203388Z",
+    "updated_at": "2025-09-22T21:29:07.612381Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1740,
+    "kodikolojik_bilgi": 1344
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[1] Kitâb-ı Hülâsatü’l-Fetâvâ. Evvelinden Bâb-ı Hulʿ-i Fuzûliyye’ye dek. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Evvelinden bir cüz Musannifek hattıyla. Yüz yetmiş üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "44a",
+ "created_at": "2024-04-22T12:41:00.203388Z",
+ "updated_at": "2025-09-22T21:29:07.612381Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1344,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Ak kağıt",
+  "varak_adedi": "173",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-22T21:29:07.604820Z",
+  "updated_at": "2025-09-22T21:29:07.604847Z",
+  "kayit": 3446,
+  "created_by": null
+ }
+}

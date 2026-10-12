@@ -1,0 +1,299 @@
+{
+ "id": 3426,
+ "kitap_set": [
+  {
+   "id": 3408,
+   "isim": "Kitâb-ı Tefsîr.",
+   "isim2": null,
+   "disiplin": "Tefsir",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:40:51.979567Z",
+   "updated_at": "2025-04-06T19:20:11.225712Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3426,
+    "tam_metin": "[10] Kitâb-ı Tefsîr. Musannifek hattıyla. Haşebî tamâmından kırılmış. Ak kâğıd mukavvâ cildli. Yetmiş yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "43a",
+    "created_at": "2024-04-22T12:40:51.715551Z",
+    "updated_at": "2025-09-22T20:56:39.672700Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1537,
+    "kodikolojik_bilgi": 1324
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 1537,
+  "kitap_set": [
+   {
+    "id": 1532,
+    "isim": "Kitâb-ı Cildün min Tefsîri Musannifek.",
+    "isim2": null,
+    "disiplin": "Tefsir",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:46:13.182993Z",
+    "updated_at": "2025-04-06T19:20:16.855839Z",
+    "yazar": {
+     "id": 11,
+     "isim": "Mevlânâ Musannifek",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-04-22T11:53:25.702212Z",
+     "updated_at": "2024-04-22T11:53:25.702230Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 1537,
+     "tam_metin": "[104] Kitâb-ı Cildün min Tefsîri Musannifek. Bi-hattı Musannifek. Haşebî tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yetmiş yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "44a",
+     "created_at": "2024-02-10T12:46:12.906126Z",
+     "updated_at": "2026-10-12T21:45:47.142530Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3426,
+     "kodikolojik_bilgi": 2289
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 3426,
+  "bilgi_set": [
+   {
+    "id": 2289,
+    "murekkep_set": [
+     {
+      "id": 2172,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 2289
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1964,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 2289
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "77",
+    "kagit_turu": "Haşebî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:45:47.139171Z",
+    "updated_at": "2026-10-12T21:45:47.139189Z",
+    "kayit": {
+     "id": 1537,
+     "tam_metin": "[104] Kitâb-ı Cildün min Tefsîri Musannifek. Bi-hattı Musannifek. Haşebî tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yetmiş yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "44a",
+     "created_at": "2024-02-10T12:46:12.906126Z",
+     "updated_at": "2026-10-12T21:45:47.142530Z",
+     "vakif": 11,
+     "mustensih": 11,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 3426,
+     "kodikolojik_bilgi": 2289
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[104] Kitâb-ı Cildün min Tefsîri Musannifek. Bi-hattı Musannifek. Haşebî tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yetmiş yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+  "notlar": "",
+  "sayfa_numarasi": "44a",
+  "created_at": "2024-02-10T12:46:12.906126Z",
+  "updated_at": "2026-10-12T21:45:47.142530Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 2289,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "77",
+   "kagit_turu": "Haşebî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:45:47.139171Z",
+   "updated_at": "2026-10-12T21:45:47.139189Z",
+   "kayit": 1537,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 1324,
+   "murekkep_set": [
+    {
+     "id": 1202,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1324
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 991,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1324
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "77",
+   "kagit_turu": "Haşebî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T20:56:39.664213Z",
+   "updated_at": "2025-09-22T20:56:39.664642Z",
+   "kayit": {
+    "id": 3426,
+    "tam_metin": "[10] Kitâb-ı Tefsîr. Musannifek hattıyla. Haşebî tamâmından kırılmış. Ak kâğıd mukavvâ cildli. Yetmiş yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "43a",
+    "created_at": "2024-04-22T12:40:51.715551Z",
+    "updated_at": "2025-09-22T20:56:39.672700Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1537,
+    "kodikolojik_bilgi": 1324
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[10] Kitâb-ı Tefsîr. Musannifek hattıyla. Haşebî tamâmından kırılmış. Ak kâğıd mukavvâ cildli. Yetmiş yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "43a",
+ "created_at": "2024-04-22T12:40:51.715551Z",
+ "updated_at": "2025-09-22T20:56:39.672700Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1324,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Ak kağıt",
+  "varak_adedi": "77",
+  "kagit_turu": "Haşebî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamından kırılmış",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-22T20:56:39.664213Z",
+  "updated_at": "2025-09-22T20:56:39.664642Z",
+  "kayit": 3426,
+  "created_by": null
+ }
+}

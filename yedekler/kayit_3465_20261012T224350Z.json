@@ -1,0 +1,138 @@
+{
+ "id": 3465,
+ "kitap_set": [
+  {
+   "id": 3447,
+   "isim": "Kitâb-ı Hâşiye-i Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî alâ Şerhi’l-Miftâh li-Mevlânâ Sa‘deddîn.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:41:08.593857Z",
+   "updated_at": "2025-04-06T19:20:11.118673Z",
+   "yazar": null,
+   "kayit": {
+    "id": 3465,
+    "tam_metin": "[3] Kitâb-ı Hâşiye-i Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî alâ Şerhi’l-Miftâh li-Mevlânâ Saʿdeddîn. Dimeşkī nısfına. Ak kâğıd mukavvâ cildli. Yüz altmış iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-04-22T12:41:08.328253Z",
+    "updated_at": "2025-09-24T17:09:18.946921Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": 1363
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [
+  {
+   "id": 1363,
+   "murekkep_set": [
+    {
+     "id": 1241,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 1363
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 1030,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 1363
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "162",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-24T17:09:18.941782Z",
+   "updated_at": "2025-09-24T17:09:18.942218Z",
+   "kayit": {
+    "id": 3465,
+    "tam_metin": "[3] Kitâb-ı Hâşiye-i Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî alâ Şerhi’l-Miftâh li-Mevlânâ Saʿdeddîn. Dimeşkī nısfına. Ak kâğıd mukavvâ cildli. Yüz altmış iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+    "notlar": "",
+    "sayfa_numarasi": "45a",
+    "created_at": "2024-04-22T12:41:08.328253Z",
+    "updated_at": "2025-09-24T17:09:18.946921Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": 1363
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[3] Kitâb-ı Hâşiye-i Mevlâ el-Vâkıf Mevlânâ Musannifek ve bi-hattıhî alâ Şerhi’l-Miftâh li-Mevlânâ Saʿdeddîn. Dimeşkī nısfına. Ak kâğıd mukavvâ cildli. Yüz altmış iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Arabiyye",
+ "notlar": "",
+ "sayfa_numarasi": "45a",
+ "created_at": "2024-04-22T12:41:08.328253Z",
+ "updated_at": "2025-09-24T17:09:18.946921Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 1363,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Ak kağıt",
+  "varak_adedi": "162",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Nısfına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-24T17:09:18.941782Z",
+  "updated_at": "2025-09-24T17:09:18.942218Z",
+  "kayit": 3465,
+  "created_by": null
+ }
+}
