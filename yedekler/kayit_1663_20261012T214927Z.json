@@ -1,0 +1,248 @@
+{
+ "id": 1663,
+ "kitap_set": [
+  {
+   "id": 1658,
+   "isim": "Kitâbü’t-Tahkīk fî Şerhi Ahsîketî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:11.133518Z",
+   "updated_at": "2025-04-06T19:20:16.495855Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1663,
+    "tam_metin": "[82] Kitâbü’t-Tahkīk fî Şerhi Ahsîkesî. Hûb hatla. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Üç yüz elli iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "49a",
+    "created_at": "2024-02-10T12:47:10.853219Z",
+    "updated_at": "2026-01-23T11:05:10.521503Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3253,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3253,
+  "kitap_set": [
+   {
+    "id": 3235,
+    "isim": "Kitâb-ı Tahkīk-i Şerh-i Ahsîketî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:15.609850Z",
+    "updated_at": "2025-04-06T19:20:11.704658Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3253,
+     "tam_metin": "[20] Kitâb-ı Tahkīk-i Şerh-i Ahsîketî. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Hûb hatlı. Üç yüz elli iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "38a",
+     "created_at": "2024-04-22T12:27:15.329562Z",
+     "updated_at": "2025-09-22T12:15:19.399473Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1663,
+     "kodikolojik_bilgi": 1190
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 663,
+    "koleksiyon_numarasi": "01316",
+    "nusha": "",
+    "created_at": "2025-01-14T11:46:10.945710Z",
+    "updated_at": "2025-01-14T11:46:10.945731Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3253,
+     "tam_metin": "[20] Kitâb-ı Tahkīk-i Şerh-i Ahsîketî. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Hûb hatlı. Üç yüz elli iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "38a",
+     "created_at": "2024-04-22T12:27:15.329562Z",
+     "updated_at": "2025-09-22T12:15:19.399473Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1663,
+     "kodikolojik_bilgi": 1190
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1663,
+  "bilgi_set": [
+   {
+    "id": 1190,
+    "murekkep_set": [
+     {
+      "id": 1068,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1190
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 857,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "Hûb hatlı",
+      "kodikolojik_bilgi": 1190
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "352",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T12:15:19.392463Z",
+    "updated_at": "2025-09-22T12:15:19.392497Z",
+    "kayit": {
+     "id": 3253,
+     "tam_metin": "[20] Kitâb-ı Tahkīk-i Şerh-i Ahsîketî. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Hûb hatlı. Üç yüz elli iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "38a",
+     "created_at": "2024-04-22T12:27:15.329562Z",
+     "updated_at": "2025-09-22T12:15:19.399473Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1663,
+     "kodikolojik_bilgi": 1190
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[20] Kitâb-ı Tahkīk-i Şerh-i Ahsîketî. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Hûb hatlı. Üç yüz elli iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "38a",
+  "created_at": "2024-04-22T12:27:15.329562Z",
+  "updated_at": "2025-09-22T12:15:19.399473Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1190,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "352",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T12:15:19.392463Z",
+   "updated_at": "2025-09-22T12:15:19.392497Z",
+   "kayit": 3253,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[82] Kitâbü’t-Tahkīk fî Şerhi Ahsîkesî. Hûb hatla. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Üç yüz elli iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "49a",
+ "created_at": "2024-02-10T12:47:10.853219Z",
+ "updated_at": "2026-01-23T11:05:10.521503Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

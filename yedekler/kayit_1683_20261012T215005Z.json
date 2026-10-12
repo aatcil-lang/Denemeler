@@ -1,0 +1,220 @@
+{
+ "id": 1683,
+ "kitap_set": [
+  {
+   "id": 1678,
+   "isim": "Kitâbü’l-Cildi’l-Evvel min Şerhi’l-Hidâye (İlâ âhiri kavlihî والدراية مصدر درية).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:20.329585Z",
+   "updated_at": "2025-04-06T19:20:16.427600Z",
+   "yazar": {
+    "id": 11,
+    "isim": "Mevlânâ Musannifek",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-04-22T11:53:25.702212Z",
+    "updated_at": "2024-04-22T11:53:25.702230Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1683,
+    "tam_metin": "[19] Kitâbü’l-Cildi’l-Evvel min Şerhi’l-Hidâye li-Musannifek. İlâ âhiri kavlihî والدراية مصدر درية. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yüz kırk beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "50a",
+    "created_at": "2024-02-10T12:47:20.062559Z",
+    "updated_at": "2026-01-26T18:23:16.270265Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3449,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3449,
+  "kitap_set": [
+   {
+    "id": 3431,
+    "isim": "Kitâb-ı Şerh-i Hidâye-i Musannifek.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:41:01.777755Z",
+    "updated_at": "2025-04-06T19:20:11.163179Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3449,
+     "tam_metin": "[4] Kitâb-ı Şerh-i Hidâye-i Musannifek. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz kırk beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "44a",
+     "created_at": "2024-04-22T12:41:01.506194Z",
+     "updated_at": "2025-09-22T21:34:29.947848Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1683,
+     "kodikolojik_bilgi": 1347
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1683,
+  "bilgi_set": [
+   {
+    "id": 1347,
+    "murekkep_set": [
+     {
+      "id": 1225,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1347
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1014,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1347
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "145",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T21:34:29.943392Z",
+    "updated_at": "2025-09-22T21:34:29.943408Z",
+    "kayit": {
+     "id": 3449,
+     "tam_metin": "[4] Kitâb-ı Şerh-i Hidâye-i Musannifek. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz kırk beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "44a",
+     "created_at": "2024-04-22T12:41:01.506194Z",
+     "updated_at": "2025-09-22T21:34:29.947848Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1683,
+     "kodikolojik_bilgi": 1347
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[4] Kitâb-ı Şerh-i Hidâye-i Musannifek. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. Yüz kırk beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "44a",
+  "created_at": "2024-04-22T12:41:01.506194Z",
+  "updated_at": "2025-09-22T21:34:29.947848Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1347,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "145",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T21:34:29.943392Z",
+   "updated_at": "2025-09-22T21:34:29.943408Z",
+   "kayit": 3449,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[19] Kitâbü’l-Cildi’l-Evvel min Şerhi’l-Hidâye li-Musannifek. İlâ âhiri kavlihî والدراية مصدر درية. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Musannifek. Yüz kırk beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "50a",
+ "created_at": "2024-02-10T12:47:20.062559Z",
+ "updated_at": "2026-01-26T18:23:16.270265Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

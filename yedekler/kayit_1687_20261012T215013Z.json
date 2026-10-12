@@ -1,0 +1,208 @@
+{
+ "id": 1687,
+ "kitap_set": [
+  {
+   "id": 1682,
+   "isim": "Kitâbü’l-Cild […] mine’l-Kâfî fî Şerhi’l-Vâfî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:22.171509Z",
+   "updated_at": "2025-04-06T19:20:16.412815Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1687,
+    "tam_metin": "[23] Kitâbü’l-Cild [ ] eydan mine’l-Kâfî fî Şerhi’l-Vâfî. Min evveli Kitâbi’l-Yemîn ilâ âhiri Faslin fi’l-İstisnâ. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Üç yüz otuz üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "50a",
+    "created_at": "2024-02-10T12:47:21.889684Z",
+    "updated_at": "2026-01-23T11:28:44.340138Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3290,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3290,
+  "kitap_set": [
+   {
+    "id": 3272,
+    "isim": "Kitâb-ı Kâfî fî Şerhi’l-Vâfî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:32.294134Z",
+    "updated_at": "2025-04-06T19:20:11.597990Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3290,
+     "tam_metin": "[33] Kitâb-ı Kâfî fî Şerhi’l-Vâfî. Kitâb-ı Yemîn’den Faslun fi’l-İstisnâʾi ve’t-Taʿallukı ve’s-Sadakati faslında لأنه هبة إبتداءً وإنتهاءً ibâretine dek. Dimeşkī tamâmına Ciğerî cildli. Üç yüz otuz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "39a",
+     "created_at": "2024-04-22T12:27:32.017960Z",
+     "updated_at": "2025-09-22T13:26:33.507009Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1687,
+     "kodikolojik_bilgi": 1227
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1687,
+  "bilgi_set": [
+   {
+    "id": 1227,
+    "murekkep_set": [
+     {
+      "id": 1105,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1227
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 894,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1227
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "333",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T13:26:33.502721Z",
+    "updated_at": "2025-09-22T13:26:33.502741Z",
+    "kayit": {
+     "id": 3290,
+     "tam_metin": "[33] Kitâb-ı Kâfî fî Şerhi’l-Vâfî. Kitâb-ı Yemîn’den Faslun fi’l-İstisnâʾi ve’t-Taʿallukı ve’s-Sadakati faslında لأنه هبة إبتداءً وإنتهاءً ibâretine dek. Dimeşkī tamâmına Ciğerî cildli. Üç yüz otuz üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "39a",
+     "created_at": "2024-04-22T12:27:32.017960Z",
+     "updated_at": "2025-09-22T13:26:33.507009Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1687,
+     "kodikolojik_bilgi": 1227
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[33] Kitâb-ı Kâfî fî Şerhi’l-Vâfî. Kitâb-ı Yemîn’den Faslun fi’l-İstisnâʾi ve’t-Taʿallukı ve’s-Sadakati faslında لأنه هبة إبتداءً وإنتهاءً ibâretine dek. Dimeşkī tamâmına Ciğerî cildli. Üç yüz otuz üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "39a",
+  "created_at": "2024-04-22T12:27:32.017960Z",
+  "updated_at": "2025-09-22T13:26:33.507009Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1227,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "333",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T13:26:33.502721Z",
+   "updated_at": "2025-09-22T13:26:33.502741Z",
+   "kayit": 3290,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[23] Kitâbü’l-Cild [ ] eydan mine’l-Kâfî fî Şerhi’l-Vâfî. Min evveli Kitâbi’l-Yemîn ilâ âhiri Faslin fi’l-İstisnâ. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. Üç yüz otuz üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "50a",
+ "created_at": "2024-02-10T12:47:21.889684Z",
+ "updated_at": "2026-01-23T11:28:44.340138Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

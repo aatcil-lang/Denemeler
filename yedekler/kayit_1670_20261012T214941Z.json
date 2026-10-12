@@ -1,0 +1,260 @@
+{
+ "id": 1670,
+ "kitap_set": [
+  {
+   "id": 1665,
+   "isim": "Kitâbü’l-Cildi’s-Sânî mine’l-Hidâye (Min evveli Kitâbi’l-Büyûʿ ilâ âhiri’l-kitâb).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:14.328027Z",
+   "updated_at": "2025-04-06T19:20:16.475179Z",
+   "yazar": {
+    "id": 214,
+    "isim": "Burhâneddin el-Mergīnânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-03T22:26:20.605244Z",
+    "updated_at": "2024-09-03T22:26:20.605267Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1670,
+    "tam_metin": "[6] Kitâbü’l-Cildi’s-Sânî eydan mine’l-Hidâye. Min evveli Kitâbi’l-Büyûʿ ilâ âhiri’l-kitâb. Dimeşkī tamâmından kırılmış. Sarı kâğıd mukavvâ cildle. Vakf-ı Musannifek. Üç yüz yirmi dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "49b",
+    "created_at": "2024-02-10T12:47:14.050537Z",
+    "updated_at": "2026-01-26T18:27:44.519173Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3457,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3457,
+  "kitap_set": [
+   {
+    "id": 3439,
+    "isim": "Kitâb-ı Hidâye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:41:05.193276Z",
+    "updated_at": "2025-04-06T19:20:11.141508Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3457,
+     "tam_metin": "[12] Kitâb-ı Hidâye. Kitâb-ı Beyʿ’den âhir-i kitâba dek. Dimeşkī tamâmından kırılmış. Sarı kâğıd mukavvâ cildli. Üç yüz yirmi dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "44b",
+     "created_at": "2024-04-22T12:41:04.930541Z",
+     "updated_at": "2025-09-22T21:49:50.224698Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1670,
+     "kodikolojik_bilgi": 1355
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 777,
+    "koleksiyon_numarasi": "02257",
+    "nusha": "",
+    "created_at": "2025-01-15T23:04:27.436112Z",
+    "updated_at": "2025-01-15T23:04:27.436130Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3457,
+     "tam_metin": "[12] Kitâb-ı Hidâye. Kitâb-ı Beyʿ’den âhir-i kitâba dek. Dimeşkī tamâmından kırılmış. Sarı kâğıd mukavvâ cildli. Üç yüz yirmi dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "44b",
+     "created_at": "2024-04-22T12:41:04.930541Z",
+     "updated_at": "2025-09-22T21:49:50.224698Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1670,
+     "kodikolojik_bilgi": 1355
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1670,
+  "bilgi_set": [
+   {
+    "id": 1355,
+    "murekkep_set": [
+     {
+      "id": 1233,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1355
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1022,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1355
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Sarı kağıt",
+    "varak_adedi": "324",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T21:49:50.218526Z",
+    "updated_at": "2025-09-22T21:49:50.218550Z",
+    "kayit": {
+     "id": 3457,
+     "tam_metin": "[12] Kitâb-ı Hidâye. Kitâb-ı Beyʿ’den âhir-i kitâba dek. Dimeşkī tamâmından kırılmış. Sarı kâğıd mukavvâ cildli. Üç yüz yirmi dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+     "notlar": "",
+     "sayfa_numarasi": "44b",
+     "created_at": "2024-04-22T12:41:04.930541Z",
+     "updated_at": "2025-09-22T21:49:50.224698Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1670,
+     "kodikolojik_bilgi": 1355
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[12] Kitâb-ı Hidâye. Kitâb-ı Beyʿ’den âhir-i kitâba dek. Dimeşkī tamâmından kırılmış. Sarı kâğıd mukavvâ cildli. Üç yüz yirmi dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Fürû‘",
+  "notlar": "",
+  "sayfa_numarasi": "44b",
+  "created_at": "2024-04-22T12:41:04.930541Z",
+  "updated_at": "2025-09-22T21:49:50.224698Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1355,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Sarı kağıt",
+   "varak_adedi": "324",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T21:49:50.218526Z",
+   "updated_at": "2025-09-22T21:49:50.218550Z",
+   "kayit": 3457,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[6] Kitâbü’l-Cildi’s-Sânî eydan mine’l-Hidâye. Min evveli Kitâbi’l-Büyûʿ ilâ âhiri’l-kitâb. Dimeşkī tamâmından kırılmış. Sarı kâğıd mukavvâ cildle. Vakf-ı Musannifek. Üç yüz yirmi dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "49b",
+ "created_at": "2024-02-10T12:47:14.050537Z",
+ "updated_at": "2026-01-26T18:27:44.519173Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

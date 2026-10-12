@@ -1,0 +1,83 @@
+{
+ "id": 1680,
+ "kitap_set": [
+  {
+   "id": 1675,
+   "isim": "Kitâbü’l-Cildi’l-Ahîr mine’n-Nihâye fî Şerhi’l-Hidâye (Min evveli kavlihî عصمنا الله وإياكم min Kitâbi’l-Udhıye ilâ âhiri’l-kitâb).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:47:18.936978Z",
+   "updated_at": "2025-04-06T19:20:16.440669Z",
+   "yazar": {
+    "id": 480,
+    "isim": "Hüsâmüddîn Hüseyn b. Alî b. Haccâc el-Buhârî es-Siğnâkī",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-12-19T13:45:18.424358Z",
+    "updated_at": "2024-12-19T13:45:18.424373Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1680,
+    "tam_metin": "[16] Kitâbü’l-Cildi’l-Ahîr eydan mine’n-Nihâye fî Şerhi’l-Hidâye. Min evveli kavlihî عصمنا الله وإياكم min Kitâbi’l-Udhıye ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. Yüz on sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+    "notlar": "",
+    "sayfa_numarasi": "49b",
+    "created_at": "2024-02-10T12:47:18.655962Z",
+    "updated_at": "2026-10-11T22:54:37.239319Z",
+    "vakif": 434,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[16] Kitâbü’l-Cildi’l-Ahîr eydan mine’n-Nihâye fî Şerhi’l-Hidâye. Min evveli kavlihî عصمنا الله وإياكم min Kitâbi’l-Udhıye ilâ âhiri’l-kitâb. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. Yüz on sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Fürû‘",
+ "notlar": "",
+ "sayfa_numarasi": "49b",
+ "created_at": "2024-02-10T12:47:18.655962Z",
+ "updated_at": "2026-10-11T22:54:37.239319Z",
+ "vakif": {
+  "id": 434,
+  "isim": "Kādızâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-11-30T12:30:27.461215Z",
+  "updated_at": "2024-11-30T12:30:27.461229Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
