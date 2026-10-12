@@ -1,0 +1,248 @@
+{
+ "id": 1427,
+ "kitap_set": [
+  {
+   "id": 1422,
+   "isim": "Kitâbü’l-Irâkıyyât.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:22.433706Z",
+   "updated_at": "2025-04-06T19:20:17.176846Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1427,
+    "tam_metin": "[27] Kitâbü’l-Irâkıyyât. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildle. cildinin bir tarafı zâyiʿ olmuş. Vakf-ı Sultânî. Yüz otuz iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrikati",
+    "notlar": "",
+    "sayfa_numarasi": "38b",
+    "created_at": "2024-02-10T12:45:22.164608Z",
+    "updated_at": "2024-11-30T12:52:44.244313Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3159,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3159,
+  "kitap_set": [
+   {
+    "id": 3141,
+    "isim": "Kitâb-ı Irâkıyyât.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:32.438299Z",
+    "updated_at": "2025-04-06T19:20:11.996463Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3159,
+     "tam_metin": "[30] Kitâb-ı Irâkıyyât. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildli. Cildinin bir cânibi zâyiʿ olmuş. Yüz otuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "33b",
+     "created_at": "2024-04-22T12:26:32.166217Z",
+     "updated_at": "2025-09-22T08:11:05.577889Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1427,
+     "kodikolojik_bilgi": 1096
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 604,
+    "koleksiyon_numarasi": "04006",
+    "nusha": "",
+    "created_at": "2025-01-14T09:02:02.959378Z",
+    "updated_at": "2025-01-14T09:02:02.959396Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3159,
+     "tam_metin": "[30] Kitâb-ı Irâkıyyât. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildli. Cildinin bir cânibi zâyiʿ olmuş. Yüz otuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "33b",
+     "created_at": "2024-04-22T12:26:32.166217Z",
+     "updated_at": "2025-09-22T08:11:05.577889Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1427,
+     "kodikolojik_bilgi": 1096
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1427,
+  "bilgi_set": [
+   {
+    "id": 1096,
+    "murekkep_set": [
+     {
+      "id": 974,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1096
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 763,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1096
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Köhne ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "130",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "Cildinin bir cânibi zâyiʿ olmuş",
+    "created_at": "2025-09-22T08:11:05.564541Z",
+    "updated_at": "2025-09-22T08:11:05.564793Z",
+    "kayit": {
+     "id": 3159,
+     "tam_metin": "[30] Kitâb-ı Irâkıyyât. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildli. Cildinin bir cânibi zâyiʿ olmuş. Yüz otuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "33b",
+     "created_at": "2024-04-22T12:26:32.166217Z",
+     "updated_at": "2025-09-22T08:11:05.577889Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1427,
+     "kodikolojik_bilgi": 1096
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[30] Kitâb-ı Irâkıyyât. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildli. Cildinin bir cânibi zâyiʿ olmuş. Yüz otuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+  "notlar": "",
+  "sayfa_numarasi": "33b",
+  "created_at": "2024-04-22T12:26:32.166217Z",
+  "updated_at": "2025-09-22T08:11:05.577889Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1096,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Köhne ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "130",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "Cildinin bir cânibi zâyiʿ olmuş",
+   "created_at": "2025-09-22T08:11:05.564541Z",
+   "updated_at": "2025-09-22T08:11:05.564793Z",
+   "kayit": 3159,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[27] Kitâbü’l-Irâkıyyât. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildle. cildinin bir tarafı zâyiʿ olmuş. Vakf-ı Sultânî. Yüz otuz iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrikati",
+ "notlar": "",
+ "sayfa_numarasi": "38b",
+ "created_at": "2024-02-10T12:45:22.164608Z",
+ "updated_at": "2024-11-30T12:52:44.244313Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

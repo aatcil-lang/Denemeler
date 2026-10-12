@@ -1,0 +1,214 @@
+{
+ "id": 1419,
+ "kitap_set": [
+  {
+   "id": 1414,
+   "isim": "Kitâb-ı Şerhu Sî Fasl fî ilmi’n-nücûm.",
+   "isim2": null,
+   "disiplin": "Astronomi",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:18.821368Z",
+   "updated_at": "2025-04-06T19:20:17.199219Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1419,
+    "tam_metin": "[19] Kitâb-ı Şerhu Sî Fasl fî ilmi’n-nücûm. Min evvelihî ilâ âhirihî mücedvel ve müzehheb. Dimeşkī nısfından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Altmış yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrikati",
+    "notlar": "",
+    "sayfa_numarasi": "38a",
+    "created_at": "2024-02-10T12:45:18.539872Z",
+    "updated_at": "2024-11-30T12:33:43.533520Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3157,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3157,
+  "kitap_set": [
+   {
+    "id": 3139,
+    "isim": "Kitâb-ı Şerh-i Sî Fasl fî ilmi’n-nücûm.",
+    "isim2": null,
+    "disiplin": "Astronomi",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:31.554651Z",
+    "updated_at": "2025-04-06T19:20:12.001748Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3157,
+     "tam_metin": "[28] Kitâb-ı Şerh-i Sî Fasl fî ilmi’n-nücûm. Min evvelihî ilâ âhirihî mücedvel ve müzehheb. Dimeşkī nısfından kırılmış. Ciğerî cildli. Altmış yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "33b",
+     "created_at": "2024-04-22T12:26:31.279216Z",
+     "updated_at": "2025-09-22T08:05:04.500528Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1419,
+     "kodikolojik_bilgi": 1094
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1419,
+  "bilgi_set": [
+   {
+    "id": 1094,
+    "murekkep_set": [
+     {
+      "id": 972,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1094
+     }
+    ],
+    "cedvel_set": [
+     {
+      "id": 56,
+      "detay": "Min evvelihî ilâ âhirihî mücedvel ve müzehheb",
+      "kodikolojik_bilgi": 1094
+     }
+    ],
+    "hatt_set": [
+     {
+      "id": 761,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1094
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "67",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T08:05:04.485069Z",
+    "updated_at": "2025-09-22T08:05:04.485098Z",
+    "kayit": {
+     "id": 3157,
+     "tam_metin": "[28] Kitâb-ı Şerh-i Sî Fasl fî ilmi’n-nücûm. Min evvelihî ilâ âhirihî mücedvel ve müzehheb. Dimeşkī nısfından kırılmış. Ciğerî cildli. Altmış yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "33b",
+     "created_at": "2024-04-22T12:26:31.279216Z",
+     "updated_at": "2025-09-22T08:05:04.500528Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1419,
+     "kodikolojik_bilgi": 1094
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[28] Kitâb-ı Şerh-i Sî Fasl fî ilmi’n-nücûm. Min evvelihî ilâ âhirihî mücedvel ve müzehheb. Dimeşkī nısfından kırılmış. Ciğerî cildli. Altmış yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+  "notlar": "",
+  "sayfa_numarasi": "33b",
+  "created_at": "2024-04-22T12:26:31.279216Z",
+  "updated_at": "2025-09-22T08:05:04.500528Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1094,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "67",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T08:05:04.485069Z",
+   "updated_at": "2025-09-22T08:05:04.485098Z",
+   "kayit": 3157,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[19] Kitâb-ı Şerhu Sî Fasl fî ilmi’n-nücûm. Min evvelihî ilâ âhirihî mücedvel ve müzehheb. Dimeşkī nısfından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. Altmış yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrikati",
+ "notlar": "",
+ "sayfa_numarasi": "38a",
+ "created_at": "2024-02-10T12:45:18.539872Z",
+ "updated_at": "2024-11-30T12:33:43.533520Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
