@@ -1,0 +1,327 @@
+{
+ "id": 2591,
+ "kitap_set": [
+  {
+   "id": 2574,
+   "isim": "Kitâb-ı Şerh-i Bedâyi‘.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:22:28.840030Z",
+   "updated_at": "2025-04-06T19:20:13.654689Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2591,
+    "tam_metin": "[41] Kitâb-ı Şerh-i Bedâyiʿ. Bi-hattı Kāsım bin İbrâhîm el-Karamanî. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "12a",
+    "created_at": "2024-04-22T12:22:28.573054Z",
+    "updated_at": "2025-09-02T08:56:57.053540Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 853,
+    "kodikolojik_bilgi": 524
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 176,
+   "koleksiyon_numarasi": "01346",
+   "nusha": "",
+   "created_at": "2024-12-28T12:48:11.400760Z",
+   "updated_at": "2024-12-28T12:48:11.400782Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2591,
+    "tam_metin": "[41] Kitâb-ı Şerh-i Bedâyiʿ. Bi-hattı Kāsım bin İbrâhîm el-Karamanî. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "12a",
+    "created_at": "2024-04-22T12:22:28.573054Z",
+    "updated_at": "2025-09-02T08:56:57.053540Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 853,
+    "kodikolojik_bilgi": 524
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 853,
+  "kitap_set": [
+   {
+    "id": 849,
+    "isim": "Kitâb-ı Şerhu’l-Bedî‘.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:41:12.318745Z",
+    "updated_at": "2025-04-06T19:20:19.143998Z",
+    "yazar": null,
+    "kayit": {
+     "id": 853,
+     "tam_metin": "[78] Kitâb-ı Şerhu’l-Bedîʿ. Bi-hattı Kāsım bin İbrâhîm el-Karamanî. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz doksan dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-02-10T12:41:12.053488Z",
+     "updated_at": "2026-10-12T21:25:33.619133Z",
+     "vakif": 1,
+     "mustensih": 198,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2591,
+     "kodikolojik_bilgi": 1616
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2591,
+  "bilgi_set": [
+   {
+    "id": 1616,
+    "murekkep_set": [
+     {
+      "id": 1499,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1616
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1291,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1616
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "294",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:25:33.615227Z",
+    "updated_at": "2026-10-12T21:25:33.615246Z",
+    "kayit": {
+     "id": 853,
+     "tam_metin": "[78] Kitâb-ı Şerhu’l-Bedîʿ. Bi-hattı Kāsım bin İbrâhîm el-Karamanî. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz doksan dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-02-10T12:41:12.053488Z",
+     "updated_at": "2026-10-12T21:25:33.619133Z",
+     "vakif": 1,
+     "mustensih": 198,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2591,
+     "kodikolojik_bilgi": 1616
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[78] Kitâb-ı Şerhu’l-Bedîʿ. Bi-hattı Kāsım bin İbrâhîm el-Karamanî. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz doksan dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "14a",
+  "created_at": "2024-02-10T12:41:12.053488Z",
+  "updated_at": "2026-10-12T21:25:33.619133Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 198,
+   "isim": "Kāsım bin İbrâhîm el-Karamanî",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-02T23:29:38.645365Z",
+   "updated_at": "2024-09-02T23:29:38.645381Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1616,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "294",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:25:33.615227Z",
+   "updated_at": "2026-10-12T21:25:33.615246Z",
+   "kayit": 853,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 524,
+   "murekkep_set": [
+    {
+     "id": 402,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 524
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 193,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 524
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "294",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T08:56:57.046343Z",
+   "updated_at": "2025-09-02T08:56:57.046369Z",
+   "kayit": {
+    "id": 2591,
+    "tam_metin": "[41] Kitâb-ı Şerh-i Bedâyiʿ. Bi-hattı Kāsım bin İbrâhîm el-Karamanî. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "12a",
+    "created_at": "2024-04-22T12:22:28.573054Z",
+    "updated_at": "2025-09-02T08:56:57.053540Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 853,
+    "kodikolojik_bilgi": 524
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[41] Kitâb-ı Şerh-i Bedâyiʿ. Bi-hattı Kāsım bin İbrâhîm el-Karamanî. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "12a",
+ "created_at": "2024-04-22T12:22:28.573054Z",
+ "updated_at": "2025-09-02T08:56:57.053540Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 524,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "294",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-02T08:56:57.046343Z",
+  "updated_at": "2025-09-02T08:56:57.046369Z",
+  "kayit": 2591,
+  "created_by": null
+ }
+}

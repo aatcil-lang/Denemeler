@@ -1,0 +1,297 @@
+{
+ "id": 2589,
+ "kitap_set": [
+  {
+   "id": 2572,
+   "isim": "Kitâb-ı Metn-i Muğnî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:22:27.988271Z",
+   "updated_at": "2025-04-06T19:20:13.660252Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2589,
+    "tam_metin": "[39] Kitâb-ı Metn-i Muğnî. Bi-hattı Hasan bin Yûsuf bin Osmân. Evvelinde besmelesi siyâh mürekkeb ile sülüs hatla yazılmış. Evâʾilinde bir mikdâr fusûl ve ebvâb halle yazılmış. Evvel varakının zahrında yazılmış ki إذا بدت الحوائج فارفعوها إلى من وجهه حسن جميل deyu. Dimeşkī tamâmından kırılmış. Müzehheb yeşil cildli. Yüz altmış üç varak. \n[Derkenar] Ve âhirinde yazılmış ki beytوما من كاتب إلا سيبلى / ويبقي الدهر ما كتبت يداه / فلا تكتب بكفّك غير شيئ / يسرّك في القيامة أن تراه  deyu.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "12a",
+    "created_at": "2024-04-22T12:22:27.726203Z",
+    "updated_at": "2025-09-02T08:42:25.623466Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 799,
+    "kodikolojik_bilgi": 522
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 799,
+  "kitap_set": [
+   {
+    "id": 795,
+    "isim": "Kitâb-ı Metnü’l-Muğnî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:40:48.022851Z",
+    "updated_at": "2025-04-06T19:20:19.301464Z",
+    "yazar": {
+     "id": 151,
+     "isim": "Çârperdî, Ebü’l-Mekârim Fahrüddîn Ahmed b. el-Hasen b. Yûsuf",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-08-13T09:36:54.677691Z",
+     "updated_at": "2024-08-13T09:36:54.677704Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 799,
+     "tam_metin": "[24] Kitâb-ı Metnü’l-Muğnî eydan. Tamâm. Bi-hattı Hasan bin Yûsuf bin Osmân. fî evvelihî besmeletün şerîfetün mektûbetün bi-kalemi’s-sülüs bi’l-midâdi’l-esved. Fî evvelihî baʿzı fusûl ve ebvâb mektûbetün bi’z-zehebi fî zahrihî beytü şiʿrin ve hüve إذا بدت الحوائج فارفعوها إلى من وجهه حسن جميل. Dimeşkī tamâmından kırılmış. Müzehheb yeşil cildle. Vakf-ı Sultânî. Yüz altmış üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "12a",
+     "created_at": "2024-02-10T12:40:47.753670Z",
+     "updated_at": "2025-07-21T21:39:56.292544Z",
+     "vakif": 1,
+     "mustensih": 152,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2589,
+     "kodikolojik_bilgi": 265
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2589,
+  "bilgi_set": [
+   {
+    "id": 265,
+    "murekkep_set": [
+     {
+      "id": 65,
+      "renk": "siyah",
+      "ilgili_ibare": "fî evvelihî besmeletün şerîfetün mektûbetün bi-kalemi’s-sülüs bi’l-midâdi’l-esved.",
+      "kodikolojik_bilgi": 265
+     },
+     {
+      "id": 66,
+      "renk": "altin",
+      "ilgili_ibare": "Fî evvelihî baʿzı fusûl ve ebvâb mektûbetün bi’z-zehebi fî zahrihî beytü şiʿrin ve hüve",
+      "kodikolojik_bilgi": 265
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Müzehheb yeşil cilt",
+    "cild_materyal": "",
+    "varak_adedi": "163",
+    "kagit_turu": "Dımeşkî",
+    "aciklama": null,
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "Hatt türü, hatt şekli, kağıt şekli ve cilt materyali bilgisi bulunmuyor.",
+    "created_at": "2025-07-21T21:39:56.287733Z",
+    "updated_at": "2025-07-21T21:39:56.287750Z",
+    "kayit": {
+     "id": 799,
+     "tam_metin": "[24] Kitâb-ı Metnü’l-Muğnî eydan. Tamâm. Bi-hattı Hasan bin Yûsuf bin Osmân. fî evvelihî besmeletün şerîfetün mektûbetün bi-kalemi’s-sülüs bi’l-midâdi’l-esved. Fî evvelihî baʿzı fusûl ve ebvâb mektûbetün bi’z-zehebi fî zahrihî beytü şiʿrin ve hüve إذا بدت الحوائج فارفعوها إلى من وجهه حسن جميل. Dimeşkī tamâmından kırılmış. Müzehheb yeşil cildle. Vakf-ı Sultânî. Yüz altmış üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "12a",
+     "created_at": "2024-02-10T12:40:47.753670Z",
+     "updated_at": "2025-07-21T21:39:56.292544Z",
+     "vakif": 1,
+     "mustensih": 152,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2589,
+     "kodikolojik_bilgi": 265
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[24] Kitâb-ı Metnü’l-Muğnî eydan. Tamâm. Bi-hattı Hasan bin Yûsuf bin Osmân. fî evvelihî besmeletün şerîfetün mektûbetün bi-kalemi’s-sülüs bi’l-midâdi’l-esved. Fî evvelihî baʿzı fusûl ve ebvâb mektûbetün bi’z-zehebi fî zahrihî beytü şiʿrin ve hüve إذا بدت الحوائج فارفعوها إلى من وجهه حسن جميل. Dimeşkī tamâmından kırılmış. Müzehheb yeşil cildle. Vakf-ı Sultânî. Yüz altmış üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "12a",
+  "created_at": "2024-02-10T12:40:47.753670Z",
+  "updated_at": "2025-07-21T21:39:56.292544Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 152,
+   "isim": "Hasan bin Yûsuf bin Osmân",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-08-13T09:38:25.780806Z",
+   "updated_at": "2024-08-13T09:38:25.780823Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 265,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Müzehheb yeşil cilt",
+   "cild_materyal": "",
+   "varak_adedi": "163",
+   "kagit_turu": "Dımeşkî",
+   "aciklama": null,
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "Hatt türü, hatt şekli, kağıt şekli ve cilt materyali bilgisi bulunmuyor.",
+   "created_at": "2025-07-21T21:39:56.287733Z",
+   "updated_at": "2025-07-21T21:39:56.287750Z",
+   "kayit": 799,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 522,
+   "murekkep_set": [
+    {
+     "id": 400,
+     "renk": "siyah",
+     "ilgili_ibare": "Evvelinde besmelesi siyâh mürekkeb ile yazılmış.",
+     "kodikolojik_bilgi": 522
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 191,
+     "hatt_turu": "Sülüs",
+     "hatt_sekli": "",
+     "aciklama": "Evvelinde besmelesi sülüs hatla yazılmış.",
+     "kodikolojik_bilgi": 522
+    }
+   ],
+   "zahriye_exists": true,
+   "zahriye": "Evvel varakının zahrında yazılmış ki إذا بدت الحوائج فارفعوها إلى من وجهه حسن جميل deyu.",
+   "cild_turu": "Müzehheb yeşil cilt",
+   "cild_materyal": "",
+   "varak_adedi": "163",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "Evâʾilinde bir mikdâr fusûl ve ebvâb halle yazılmış.\nVe âhirinde yazılmış ki beyt وما من كاتب إلا سيبلى / ويبقي الدهر ما كتبت يداه / فلا تكتب بكفّك غير شيئ / يسرّك في القيامة أن تراه  deyu.",
+   "created_at": "2025-09-02T08:41:15.282803Z",
+   "updated_at": "2025-09-02T08:42:25.617212Z",
+   "kayit": {
+    "id": 2589,
+    "tam_metin": "[39] Kitâb-ı Metn-i Muğnî. Bi-hattı Hasan bin Yûsuf bin Osmân. Evvelinde besmelesi siyâh mürekkeb ile sülüs hatla yazılmış. Evâʾilinde bir mikdâr fusûl ve ebvâb halle yazılmış. Evvel varakının zahrında yazılmış ki إذا بدت الحوائج فارفعوها إلى من وجهه حسن جميل deyu. Dimeşkī tamâmından kırılmış. Müzehheb yeşil cildli. Yüz altmış üç varak. \n[Derkenar] Ve âhirinde yazılmış ki beytوما من كاتب إلا سيبلى / ويبقي الدهر ما كتبت يداه / فلا تكتب بكفّك غير شيئ / يسرّك في القيامة أن تراه  deyu.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "12a",
+    "created_at": "2024-04-22T12:22:27.726203Z",
+    "updated_at": "2025-09-02T08:42:25.623466Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 799,
+    "kodikolojik_bilgi": 522
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[39] Kitâb-ı Metn-i Muğnî. Bi-hattı Hasan bin Yûsuf bin Osmân. Evvelinde besmelesi siyâh mürekkeb ile sülüs hatla yazılmış. Evâʾilinde bir mikdâr fusûl ve ebvâb halle yazılmış. Evvel varakının zahrında yazılmış ki إذا بدت الحوائج فارفعوها إلى من وجهه حسن جميل deyu. Dimeşkī tamâmından kırılmış. Müzehheb yeşil cildli. Yüz altmış üç varak. \n[Derkenar] Ve âhirinde yazılmış ki beytوما من كاتب إلا سيبلى / ويبقي الدهر ما كتبت يداه / فلا تكتب بكفّك غير شيئ / يسرّك في القيامة أن تراه  deyu.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "12a",
+ "created_at": "2024-04-22T12:22:27.726203Z",
+ "updated_at": "2025-09-02T08:42:25.623466Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 522,
+  "zahriye_exists": true,
+  "zahriye": "Evvel varakının zahrında yazılmış ki إذا بدت الحوائج فارفعوها إلى من وجهه حسن جميل deyu.",
+  "cild_turu": "Müzehheb yeşil cilt",
+  "cild_materyal": "",
+  "varak_adedi": "163",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamından kırılmış",
+  "kagit_sekli": "",
+  "note": "Evâʾilinde bir mikdâr fusûl ve ebvâb halle yazılmış.\nVe âhirinde yazılmış ki beyt وما من كاتب إلا سيبلى / ويبقي الدهر ما كتبت يداه / فلا تكتب بكفّك غير شيئ / يسرّك في القيامة أن تراه  deyu.",
+  "created_at": "2025-09-02T08:41:15.282803Z",
+  "updated_at": "2025-09-02T08:42:25.617212Z",
+  "kayit": 2589,
+  "created_by": null
+ }
+}
