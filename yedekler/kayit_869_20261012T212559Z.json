@@ -1,0 +1,208 @@
+{
+ "id": 869,
+ "kitap_set": [
+  {
+   "id": 865,
+   "isim": "Kitâb-ı Şerh fî İlmi’l-Usûl.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:19.030876Z",
+   "updated_at": "2025-04-06T19:20:19.096450Z",
+   "yazar": null,
+   "kayit": {
+    "id": 869,
+    "tam_metin": "[94] Kitâb-ı Şerh fî İlmi’l-Usûl. Min evveli Bâbi’l-Beyân ilâ âhiri kavlihî أما كلمة كم. Haşebî nısfına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "14b",
+    "created_at": "2024-02-10T12:41:18.770878Z",
+    "updated_at": "2024-09-12T07:08:39.870922Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2631,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2631,
+  "kitap_set": [
+   {
+    "id": 2614,
+    "isim": "Kitâb-ı Şerhu fî ilmi’l-usûl.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:22:45.803462Z",
+    "updated_at": "2025-04-06T19:20:13.537783Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2631,
+     "tam_metin": "[81] Kitâb-ı Şerhu fî ilmi’l-usûl. Bâb-ı Beyân’dan ibtidâ olunmuş وأما كم dediği kavlinin şerhinde âhir olmuş. Haşebî nısfına. Yeşil kâğıd mukavvâ cildli. İki yüz beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "13b",
+     "created_at": "2024-04-22T12:22:45.531161Z",
+     "updated_at": "2025-09-02T10:10:23.230786Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 869,
+     "kodikolojik_bilgi": 564
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 869,
+  "bilgi_set": [
+   {
+    "id": 564,
+    "murekkep_set": [
+     {
+      "id": 442,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 564
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 233,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 564
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "205",
+    "kagit_turu": "Haşebî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T10:10:23.225076Z",
+    "updated_at": "2025-09-02T10:10:23.225100Z",
+    "kayit": {
+     "id": 2631,
+     "tam_metin": "[81] Kitâb-ı Şerhu fî ilmi’l-usûl. Bâb-ı Beyân’dan ibtidâ olunmuş وأما كم dediği kavlinin şerhinde âhir olmuş. Haşebî nısfına. Yeşil kâğıd mukavvâ cildli. İki yüz beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "13b",
+     "created_at": "2024-04-22T12:22:45.531161Z",
+     "updated_at": "2025-09-02T10:10:23.230786Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 869,
+     "kodikolojik_bilgi": 564
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[81] Kitâb-ı Şerhu fî ilmi’l-usûl. Bâb-ı Beyân’dan ibtidâ olunmuş وأما كم dediği kavlinin şerhinde âhir olmuş. Haşebî nısfına. Yeşil kâğıd mukavvâ cildli. İki yüz beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "13b",
+  "created_at": "2024-04-22T12:22:45.531161Z",
+  "updated_at": "2025-09-02T10:10:23.230786Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 564,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "205",
+   "kagit_turu": "Haşebî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T10:10:23.225076Z",
+   "updated_at": "2025-09-02T10:10:23.225100Z",
+   "kayit": 2631,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[94] Kitâb-ı Şerh fî İlmi’l-Usûl. Min evveli Bâbi’l-Beyân ilâ âhiri kavlihî أما كلمة كم. Haşebî nısfına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "14b",
+ "created_at": "2024-02-10T12:41:18.770878Z",
+ "updated_at": "2024-09-12T07:08:39.870922Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

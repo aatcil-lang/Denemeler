@@ -1,0 +1,220 @@
+{
+ "id": 888,
+ "kitap_set": [
+  {
+   "id": 884,
+   "isim": "Kitâbü’l-Cildi’l-Evvel mine’l-Hidâye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:27.041304Z",
+   "updated_at": "2025-04-06T19:20:19.044977Z",
+   "yazar": {
+    "id": 214,
+    "isim": "Burhâneddin el-Mergīnânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-03T22:26:20.605244Z",
+    "updated_at": "2024-09-03T22:26:20.605267Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 888,
+    "tam_metin": "[15] Kitâbü’l-Cildi’l-Evvel mine’l-Hidâye eydan. İlâ Kavlihî لأن بالإشارة كفاية [في] التعريف min Kitâbi’l-Buyûʿ. Dimeşkī tamâmından kırılmış. Mukattaʿ ciğerî cildle. Vakf-ı Sultânî. İki yüz kırk varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "15b",
+    "created_at": "2024-02-10T12:41:26.780457Z",
+    "updated_at": "2024-09-19T15:13:30.052779Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2795,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2795,
+  "kitap_set": [
+   {
+    "id": 2778,
+    "isim": "Kitâb-ı Hidâye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:54.473634Z",
+    "updated_at": "2025-04-06T19:20:13.048191Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2795,
+     "tam_metin": "[158] Kitâb-ı Hidâye. Evvelinden Kitâb-ı Buyûʿ’da لأن بالإشارة كفاية في التعريف ibâretine dek. Dimeşkī tamâmından kırılmış. mukattaʿ Ciğerî cildli. İki yüz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "19b",
+     "created_at": "2024-04-22T12:23:54.211037Z",
+     "updated_at": "2025-09-03T09:49:19.649843Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 888,
+     "kodikolojik_bilgi": 729
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 888,
+  "bilgi_set": [
+   {
+    "id": 729,
+    "murekkep_set": [
+     {
+      "id": 607,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 729
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 398,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 729
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "200",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "Mukattaʿ",
+    "note": "",
+    "created_at": "2025-09-03T09:49:19.641756Z",
+    "updated_at": "2025-09-03T09:49:19.641772Z",
+    "kayit": {
+     "id": 2795,
+     "tam_metin": "[158] Kitâb-ı Hidâye. Evvelinden Kitâb-ı Buyûʿ’da لأن بالإشارة كفاية في التعريف ibâretine dek. Dimeşkī tamâmından kırılmış. mukattaʿ Ciğerî cildli. İki yüz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "19b",
+     "created_at": "2024-04-22T12:23:54.211037Z",
+     "updated_at": "2025-09-03T09:49:19.649843Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 888,
+     "kodikolojik_bilgi": 729
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[158] Kitâb-ı Hidâye. Evvelinden Kitâb-ı Buyûʿ’da لأن بالإشارة كفاية في التعريف ibâretine dek. Dimeşkī tamâmından kırılmış. mukattaʿ Ciğerî cildli. İki yüz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "19b",
+  "created_at": "2024-04-22T12:23:54.211037Z",
+  "updated_at": "2025-09-03T09:49:19.649843Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 729,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "200",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "Mukattaʿ",
+   "note": "",
+   "created_at": "2025-09-03T09:49:19.641756Z",
+   "updated_at": "2025-09-03T09:49:19.641772Z",
+   "kayit": 2795,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[15] Kitâbü’l-Cildi’l-Evvel mine’l-Hidâye eydan. İlâ Kavlihî لأن بالإشارة كفاية [في] التعريف min Kitâbi’l-Buyûʿ. Dimeşkī tamâmından kırılmış. Mukattaʿ ciğerî cildle. Vakf-ı Sultânî. İki yüz kırk varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "15b",
+ "created_at": "2024-02-10T12:41:26.780457Z",
+ "updated_at": "2024-09-19T15:13:30.052779Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

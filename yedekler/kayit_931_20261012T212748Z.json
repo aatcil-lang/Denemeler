@@ -1,0 +1,248 @@
+{
+ "id": 931,
+ "kitap_set": [
+  {
+   "id": 927,
+   "isim": "Kitâbü’l-Cildi’s-Sâlis mine’l-Kâfî fî Şerhi’l-Vâfî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:45.064444Z",
+   "updated_at": "2025-04-06T19:20:18.911335Z",
+   "yazar": null,
+   "kayit": {
+    "id": 931,
+    "tam_metin": "[58] Kitâbü’l-Cildi’s-Sâlis eydan mine’l-Kâfî fî Şerhi’l-Vâfî. Min evveli Kitâbi’l-Buyûʿ ilâ evveli Kitâbi’l-İcâre. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "17b",
+    "created_at": "2024-02-10T12:41:44.805602Z",
+    "updated_at": "2024-09-18T13:48:47.623135Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2705,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2705,
+  "kitap_set": [
+   {
+    "id": 2688,
+    "isim": "Kitâb-ı Kâfî fî Şerhi’l-Vâfî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:17.179317Z",
+    "updated_at": "2025-04-06T19:20:13.297227Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2705,
+     "tam_metin": "[68] Kitâb-ı Kâfî fî Şerhi’l-Vâfî. Kitâbü’l-Buyûʿ’dan Kitâb-ı İcâre’ye dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "16b",
+     "created_at": "2024-04-22T12:23:16.924360Z",
+     "updated_at": "2025-09-02T22:23:43.140304Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 931,
+     "kodikolojik_bilgi": 639
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 263,
+    "koleksiyon_numarasi": "01861",
+    "nusha": "",
+    "created_at": "2024-12-29T09:51:28.740836Z",
+    "updated_at": "2024-12-29T09:51:28.740857Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2705,
+     "tam_metin": "[68] Kitâb-ı Kâfî fî Şerhi’l-Vâfî. Kitâbü’l-Buyûʿ’dan Kitâb-ı İcâre’ye dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "16b",
+     "created_at": "2024-04-22T12:23:16.924360Z",
+     "updated_at": "2025-09-02T22:23:43.140304Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 931,
+     "kodikolojik_bilgi": 639
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 931,
+  "bilgi_set": [
+   {
+    "id": 639,
+    "murekkep_set": [
+     {
+      "id": 517,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 639
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 308,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 639
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "210",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T22:23:43.136052Z",
+    "updated_at": "2025-09-02T22:23:43.136071Z",
+    "kayit": {
+     "id": 2705,
+     "tam_metin": "[68] Kitâb-ı Kâfî fî Şerhi’l-Vâfî. Kitâbü’l-Buyûʿ’dan Kitâb-ı İcâre’ye dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "16b",
+     "created_at": "2024-04-22T12:23:16.924360Z",
+     "updated_at": "2025-09-02T22:23:43.140304Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 931,
+     "kodikolojik_bilgi": 639
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[68] Kitâb-ı Kâfî fî Şerhi’l-Vâfî. Kitâbü’l-Buyûʿ’dan Kitâb-ı İcâre’ye dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "16b",
+  "created_at": "2024-04-22T12:23:16.924360Z",
+  "updated_at": "2025-09-02T22:23:43.140304Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 639,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "210",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T22:23:43.136052Z",
+   "updated_at": "2025-09-02T22:23:43.136071Z",
+   "kayit": 2705,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[58] Kitâbü’l-Cildi’s-Sâlis eydan mine’l-Kâfî fî Şerhi’l-Vâfî. Min evveli Kitâbi’l-Buyûʿ ilâ evveli Kitâbi’l-İcâre. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz on varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "17b",
+ "created_at": "2024-02-10T12:41:44.805602Z",
+ "updated_at": "2024-09-18T13:48:47.623135Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

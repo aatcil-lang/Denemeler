@@ -1,0 +1,260 @@
+{
+ "id": 890,
+ "kitap_set": [
+  {
+   "id": 886,
+   "isim": "Kitâbü’l-Cildi’s-Sânî mine’l-Hidâye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:27.870686Z",
+   "updated_at": "2025-04-06T19:20:19.038632Z",
+   "yazar": {
+    "id": 214,
+    "isim": "Burhâneddin el-Mergīnânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-03T22:26:20.605244Z",
+    "updated_at": "2024-09-03T22:26:20.605267Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 890,
+    "tam_metin": "[17] Kitâbü’l-Cildi’s-Sânî mine’l-Hidâye. Min evveli Kitâbi’l-Buyûʿ ilâ âhiri’l-kitâb. Min evvelihî ilâ âhirihî hûb hatla yazılmış. Musahhah ve muhaşşâ. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Sultânî. Dört yüz yirmi iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "15b",
+    "created_at": "2024-02-10T12:41:27.615804Z",
+    "updated_at": "2024-09-24T15:56:35.817554Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2964,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2964,
+  "kitap_set": [
+   {
+    "id": 2946,
+    "isim": "Kitâb-ı Hidâye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:06.549220Z",
+    "updated_at": "2025-04-06T19:20:12.554963Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2964,
+     "tam_metin": "[327] Kitâb-ı Hidâye. Beyʿ’den âhirine dek. Min evvelihî ilâ âhirihî hûb hatla musahhah ve muhaşşâ. Dimeşkī tamâmına. Siyâh cildli. Dört yüz yirmi iki varak.\n[Derkenar] Ve zahrında yazılmış ki إفتتحت الهداية بعون الله الفتاح الهادي في يوم الأربعاء الثامن من شهر جماذى الأخرى مولانا فخر الملة والدين الرازي وأنا أضعف العباد قاسم بن صدر الحنفي الأنقري عاملهما الله تعالى بلطفه العالي.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "26a",
+     "created_at": "2024-04-22T12:25:06.278958Z",
+     "updated_at": "2025-09-12T08:54:01.299960Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 890,
+     "kodikolojik_bilgi": 901
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 473,
+    "koleksiyon_numarasi": "02251",
+    "nusha": "",
+    "created_at": "2025-01-12T21:58:46.227520Z",
+    "updated_at": "2025-01-12T21:58:46.227534Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2964,
+     "tam_metin": "[327] Kitâb-ı Hidâye. Beyʿ’den âhirine dek. Min evvelihî ilâ âhirihî hûb hatla musahhah ve muhaşşâ. Dimeşkī tamâmına. Siyâh cildli. Dört yüz yirmi iki varak.\n[Derkenar] Ve zahrında yazılmış ki إفتتحت الهداية بعون الله الفتاح الهادي في يوم الأربعاء الثامن من شهر جماذى الأخرى مولانا فخر الملة والدين الرازي وأنا أضعف العباد قاسم بن صدر الحنفي الأنقري عاملهما الله تعالى بلطفه العالي.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "26a",
+     "created_at": "2024-04-22T12:25:06.278958Z",
+     "updated_at": "2025-09-12T08:54:01.299960Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 890,
+     "kodikolojik_bilgi": 901
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 890,
+  "bilgi_set": [
+   {
+    "id": 901,
+    "murekkep_set": [
+     {
+      "id": 779,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 901
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 569,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "Min evvelihî ilâ âhirihî hûb hatla ",
+      "kodikolojik_bilgi": 901
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "zahrında yazılmış ki إفتتحت الهداية بعون الله الفتاح الهادي في يوم الأربعاء الثامن من شهر جماذى الأخرى مولانا فخر الملة والدين الرازي وأنا أضعف العباد قاسم بن صدر الحنفي الأنقري عاملهما الله تعالى بلطفه العالي",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "422",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-12T08:54:01.293200Z",
+    "updated_at": "2025-09-12T08:54:01.293221Z",
+    "kayit": {
+     "id": 2964,
+     "tam_metin": "[327] Kitâb-ı Hidâye. Beyʿ’den âhirine dek. Min evvelihî ilâ âhirihî hûb hatla musahhah ve muhaşşâ. Dimeşkī tamâmına. Siyâh cildli. Dört yüz yirmi iki varak.\n[Derkenar] Ve zahrında yazılmış ki إفتتحت الهداية بعون الله الفتاح الهادي في يوم الأربعاء الثامن من شهر جماذى الأخرى مولانا فخر الملة والدين الرازي وأنا أضعف العباد قاسم بن صدر الحنفي الأنقري عاملهما الله تعالى بلطفه العالي.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "26a",
+     "created_at": "2024-04-22T12:25:06.278958Z",
+     "updated_at": "2025-09-12T08:54:01.299960Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 890,
+     "kodikolojik_bilgi": 901
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[327] Kitâb-ı Hidâye. Beyʿ’den âhirine dek. Min evvelihî ilâ âhirihî hûb hatla musahhah ve muhaşşâ. Dimeşkī tamâmına. Siyâh cildli. Dört yüz yirmi iki varak.\n[Derkenar] Ve zahrında yazılmış ki إفتتحت الهداية بعون الله الفتاح الهادي في يوم الأربعاء الثامن من شهر جماذى الأخرى مولانا فخر الملة والدين الرازي وأنا أضعف العباد قاسم بن صدر الحنفي الأنقري عاملهما الله تعالى بلطفه العالي.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "26a",
+  "created_at": "2024-04-22T12:25:06.278958Z",
+  "updated_at": "2025-09-12T08:54:01.299960Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 901,
+   "zahriye_exists": true,
+   "zahriye": "zahrında yazılmış ki إفتتحت الهداية بعون الله الفتاح الهادي في يوم الأربعاء الثامن من شهر جماذى الأخرى مولانا فخر الملة والدين الرازي وأنا أضعف العباد قاسم بن صدر الحنفي الأنقري عاملهما الله تعالى بلطفه العالي",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "422",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-12T08:54:01.293200Z",
+   "updated_at": "2025-09-12T08:54:01.293221Z",
+   "kayit": 2964,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[17] Kitâbü’l-Cildi’s-Sânî mine’l-Hidâye. Min evveli Kitâbi’l-Buyûʿ ilâ âhiri’l-kitâb. Min evvelihî ilâ âhirihî hûb hatla yazılmış. Musahhah ve muhaşşâ. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Sultânî. Dört yüz yirmi iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "15b",
+ "created_at": "2024-02-10T12:41:27.615804Z",
+ "updated_at": "2024-09-24T15:56:35.817554Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

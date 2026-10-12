@@ -1,0 +1,260 @@
+{
+ "id": 879,
+ "kitap_set": [
+  {
+   "id": 875,
+   "isim": "Kitâbü’l-Cildi’s-Sâdis mine’z-Zahîre.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:23.231010Z",
+   "updated_at": "2025-04-06T19:20:19.073540Z",
+   "yazar": {
+    "id": 213,
+    "isim": "Ebü’l-Abbâs Şihâbüddîn Ahmed b. İdrîs b. Abdirrahmân el-Mısrî el-Karâfî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-03T22:14:58.675323Z",
+    "updated_at": "2024-09-03T22:14:58.675339Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 879,
+    "tam_metin": "[6] Kitâbü’l-Cildi’s-Sâdis mine’z-Zahîre eydan. Min evveli’l-Fasli’s-Sâbiʿ fî İcâreti’l-Müsteʾciri ve İʿâretihi ilâ kavlihî ومثل هذا جائز في الإجارة المحضة mine’l-Fasli’s-Sâlis fi’ş-Şurûti ve’l-Müzâraʿa. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz otuz beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "15a",
+    "created_at": "2024-02-10T12:41:22.973505Z",
+    "updated_at": "2024-09-12T12:28:56.050166Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2641,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2641,
+  "kitap_set": [
+   {
+    "id": 2624,
+    "isim": "Kitâb-ı Zahîra.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:22:50.171834Z",
+    "updated_at": "2025-04-06T19:20:13.503988Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2641,
+     "tam_metin": "[4] Kitâb-ı Zahîra. el-Faslu’s-Sâbiʿ fî İcâreti’l-Müsteʾciri ve İʿâretihî faslından el-Faslü’s-Sâlis fi’ş-Şurûti fî’l-Müzâraati faslındaومثل هذا جائز في الإجارة المحضة  ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz otuz beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-04-22T12:22:49.900409Z",
+     "updated_at": "2025-09-02T11:41:09.815243Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 879,
+     "kodikolojik_bilgi": 575
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 217,
+    "koleksiyon_numarasi": "02316",
+    "nusha": "",
+    "created_at": "2024-12-28T14:10:49.440117Z",
+    "updated_at": "2024-12-28T14:10:49.440134Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2641,
+     "tam_metin": "[4] Kitâb-ı Zahîra. el-Faslu’s-Sâbiʿ fî İcâreti’l-Müsteʾciri ve İʿâretihî faslından el-Faslü’s-Sâlis fi’ş-Şurûti fî’l-Müzâraati faslındaومثل هذا جائز في الإجارة المحضة  ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz otuz beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-04-22T12:22:49.900409Z",
+     "updated_at": "2025-09-02T11:41:09.815243Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 879,
+     "kodikolojik_bilgi": 575
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 879,
+  "bilgi_set": [
+   {
+    "id": 575,
+    "murekkep_set": [
+     {
+      "id": 453,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 575
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 244,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 575
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "235",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T11:41:09.810020Z",
+    "updated_at": "2025-09-02T11:41:09.810038Z",
+    "kayit": {
+     "id": 2641,
+     "tam_metin": "[4] Kitâb-ı Zahîra. el-Faslu’s-Sâbiʿ fî İcâreti’l-Müsteʾciri ve İʿâretihî faslından el-Faslü’s-Sâlis fi’ş-Şurûti fî’l-Müzâraati faslındaومثل هذا جائز في الإجارة المحضة  ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz otuz beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-04-22T12:22:49.900409Z",
+     "updated_at": "2025-09-02T11:41:09.815243Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 879,
+     "kodikolojik_bilgi": 575
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[4] Kitâb-ı Zahîra. el-Faslu’s-Sâbiʿ fî İcâreti’l-Müsteʾciri ve İʿâretihî faslından el-Faslü’s-Sâlis fi’ş-Şurûti fî’l-Müzâraati faslındaومثل هذا جائز في الإجارة المحضة  ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz otuz beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "14a",
+  "created_at": "2024-04-22T12:22:49.900409Z",
+  "updated_at": "2025-09-02T11:41:09.815243Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 575,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "235",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T11:41:09.810020Z",
+   "updated_at": "2025-09-02T11:41:09.810038Z",
+   "kayit": 2641,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[6] Kitâbü’l-Cildi’s-Sâdis mine’z-Zahîre eydan. Min evveli’l-Fasli’s-Sâbiʿ fî İcâreti’l-Müsteʾciri ve İʿâretihi ilâ kavlihî ومثل هذا جائز في الإجارة المحضة mine’l-Fasli’s-Sâlis fi’ş-Şurûti ve’l-Müzâraʿa. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz otuz beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "15a",
+ "created_at": "2024-02-10T12:41:22.973505Z",
+ "updated_at": "2024-09-12T12:28:56.050166Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

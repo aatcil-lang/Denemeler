@@ -1,0 +1,220 @@
+{
+ "id": 864,
+ "kitap_set": [
+  {
+   "id": 860,
+   "isim": "Kitâbü’t-Tavzîh.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:16.946993Z",
+   "updated_at": "2025-04-06T19:20:19.111575Z",
+   "yazar": null,
+   "kayit": {
+    "id": 864,
+    "tam_metin": "[89] Kitâbü’t-Tavzîh eydan. Bi-hattı Mehmed bin Beğlik. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "14b",
+    "created_at": "2024-02-10T12:41:16.676181Z",
+    "updated_at": "2024-09-28T13:51:00.193193Z",
+    "vakif": 1,
+    "mustensih": 205,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3171,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3171,
+  "kitap_set": [
+   {
+    "id": 3153,
+    "isim": "Kitâb-ı et-Tavzîh.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:38.173692Z",
+    "updated_at": "2025-04-06T19:20:11.963538Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3171,
+     "tam_metin": "[4] Kitâb-ı et-Tavzîh. Bi-hattı Mehmed bin Beğlik. Dimeşkī nısfına. Ciğerî cildli. İki yüz sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "34b",
+     "created_at": "2024-04-22T12:26:37.866588Z",
+     "updated_at": "2025-09-22T08:37:20.384661Z",
+     "vakif": 7,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 864,
+     "kodikolojik_bilgi": 1108
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 864,
+  "bilgi_set": [
+   {
+    "id": 1108,
+    "murekkep_set": [
+     {
+      "id": 986,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1108
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 775,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1108
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "208",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T08:37:17.041416Z",
+    "updated_at": "2025-09-22T08:37:17.042176Z",
+    "kayit": {
+     "id": 3171,
+     "tam_metin": "[4] Kitâb-ı et-Tavzîh. Bi-hattı Mehmed bin Beğlik. Dimeşkī nısfına. Ciğerî cildli. İki yüz sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "34b",
+     "created_at": "2024-04-22T12:26:37.866588Z",
+     "updated_at": "2025-09-22T08:37:20.384661Z",
+     "vakif": 7,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 864,
+     "kodikolojik_bilgi": 1108
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[4] Kitâb-ı et-Tavzîh. Bi-hattı Mehmed bin Beğlik. Dimeşkī nısfına. Ciğerî cildli. İki yüz sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "34b",
+  "created_at": "2024-04-22T12:26:37.866588Z",
+  "updated_at": "2025-09-22T08:37:20.384661Z",
+  "vakif": {
+   "id": 7,
+   "isim": "Ahmed Çelebi",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:27:02.625500Z",
+   "updated_at": "2024-04-22T11:27:02.625517Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1108,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "208",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T08:37:17.041416Z",
+   "updated_at": "2025-09-22T08:37:17.042176Z",
+   "kayit": 3171,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[89] Kitâbü’t-Tavzîh eydan. Bi-hattı Mehmed bin Beğlik. Dimeşkī nısfına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "14b",
+ "created_at": "2024-02-10T12:41:16.676181Z",
+ "updated_at": "2024-09-28T13:51:00.193193Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 205,
+  "isim": "Mehmed bin Beğlik",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-09-03T21:34:11.436974Z",
+  "updated_at": "2024-09-03T21:34:11.436991Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

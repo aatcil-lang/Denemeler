@@ -1,0 +1,260 @@
+{
+ "id": 990,
+ "kitap_set": [
+  {
+   "id": 986,
+   "isim": "Kitâb-ı Fusûlü’l-Üstrûşenî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:10.064087Z",
+   "updated_at": "2025-04-06T19:20:18.714040Z",
+   "yazar": {
+    "id": 252,
+    "isim": "Üsrûşenî, Ebü’l-Feth Mecdüddîn Muhammed b. Mahmûd b. el-Hüseyn b. Ahmed el-Üsrûşenî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-11T10:24:16.819062Z",
+    "updated_at": "2024-09-11T10:24:16.819079Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 990,
+    "tam_metin": "[117] Kitâb-ı Fusûlü’l-Üstrûşenî eydan. Tamâm. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz kırk dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "19b",
+    "created_at": "2024-02-10T12:42:09.801479Z",
+    "updated_at": "2024-09-21T14:15:46.534441Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2826,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2826,
+  "kitap_set": [
+   {
+    "id": 2809,
+    "isim": "Kitâb-ı Fusûl-i Üstrûşenî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:07.743798Z",
+    "updated_at": "2025-04-06T19:20:12.960485Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2826,
+     "tam_metin": "[189] Kitâb-ı Fusûl-i Üstrûşenî. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz kırk dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "20b",
+     "created_at": "2024-04-22T12:24:07.478239Z",
+     "updated_at": "2025-09-07T12:27:47.312007Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 990,
+     "kodikolojik_bilgi": 761
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 369,
+    "koleksiyon_numarasi": "02354",
+    "nusha": "",
+    "created_at": "2025-01-11T19:43:26.895165Z",
+    "updated_at": "2025-01-11T19:43:26.895180Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2826,
+     "tam_metin": "[189] Kitâb-ı Fusûl-i Üstrûşenî. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz kırk dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "20b",
+     "created_at": "2024-04-22T12:24:07.478239Z",
+     "updated_at": "2025-09-07T12:27:47.312007Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 990,
+     "kodikolojik_bilgi": 761
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 990,
+  "bilgi_set": [
+   {
+    "id": 761,
+    "murekkep_set": [
+     {
+      "id": 638,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 761
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 429,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 761
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "344",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-07T12:27:47.307336Z",
+    "updated_at": "2025-09-07T12:27:47.307349Z",
+    "kayit": {
+     "id": 2826,
+     "tam_metin": "[189] Kitâb-ı Fusûl-i Üstrûşenî. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz kırk dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "20b",
+     "created_at": "2024-04-22T12:24:07.478239Z",
+     "updated_at": "2025-09-07T12:27:47.312007Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 990,
+     "kodikolojik_bilgi": 761
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[189] Kitâb-ı Fusûl-i Üstrûşenî. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz kırk dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "20b",
+  "created_at": "2024-04-22T12:24:07.478239Z",
+  "updated_at": "2025-09-07T12:27:47.312007Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 761,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "344",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-07T12:27:47.307336Z",
+   "updated_at": "2025-09-07T12:27:47.307349Z",
+   "kayit": 2826,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[117] Kitâb-ı Fusûlü’l-Üstrûşenî eydan. Tamâm. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz kırk dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "19b",
+ "created_at": "2024-02-10T12:42:09.801479Z",
+ "updated_at": "2024-09-21T14:15:46.534441Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

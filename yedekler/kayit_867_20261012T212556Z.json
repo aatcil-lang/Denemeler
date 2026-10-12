@@ -1,0 +1,208 @@
+{
+ "id": 867,
+ "kitap_set": [
+  {
+   "id": 863,
+   "isim": "Kitâb-ı Şerhu’l-Minhâc.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:18.201309Z",
+   "updated_at": "2025-04-06T19:20:19.102398Z",
+   "yazar": null,
+   "kayit": {
+    "id": 867,
+    "tam_metin": "[92] Kitâb-ı Şerhu’l-Minhâc eydan. Nâkısu’l-evvel. Min kavlihî أصول الفقه بمعرفة دلائل الفقه إجمالا ilâ âhiri’l-kitâb. Âhirinde Kitâbü’l-Kavâʿidi’l-Celiyye fî Şerhi’r-Risâleti’ş-Şemsiyye adlı kitâbdan bir sahîfeden ziyâde mikdârı yazılmış. Bir cildde. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Sultânî. Doksan varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "14b",
+    "created_at": "2024-02-10T12:41:17.942757Z",
+    "updated_at": "2024-09-10T14:42:59.989944Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2570,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2570,
+  "kitap_set": [
+   {
+    "id": 2553,
+    "isim": "Kitâb-ı Şerh-i Minhâc.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:22:19.717707Z",
+    "updated_at": "2025-04-06T19:20:13.714186Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2570,
+     "tam_metin": "[20] Kitâb-ı Şerh-i Minhâc. Evveli ebter. قوله أصول الفقه بمعرفة دلائل الفقه إجمالا ibâretiyle ibtidâ olunmuş kitâb âhirinde tamâm olmuş. Âhirinde Kavâʿidü[’l-]Celiyye fî Şerhi’r-Risâleti’ş-Şemsiyye kitâbından bir sahîfeden ziyâde mikdâr yazılmış. Bir cildde. Dimeşkī tamâmına. Siyâh cildli. Doksan varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "11a",
+     "created_at": "2024-04-22T12:22:19.412571Z",
+     "updated_at": "2025-08-29T21:14:49.942204Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 867,
+     "kodikolojik_bilgi": 502
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 867,
+  "bilgi_set": [
+   {
+    "id": 502,
+    "murekkep_set": [
+     {
+      "id": 378,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 502
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 170,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": null,
+      "kodikolojik_bilgi": 502
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "90",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-08-29T21:14:49.934469Z",
+    "updated_at": "2025-08-29T21:14:49.934497Z",
+    "kayit": {
+     "id": 2570,
+     "tam_metin": "[20] Kitâb-ı Şerh-i Minhâc. Evveli ebter. قوله أصول الفقه بمعرفة دلائل الفقه إجمالا ibâretiyle ibtidâ olunmuş kitâb âhirinde tamâm olmuş. Âhirinde Kavâʿidü[’l-]Celiyye fî Şerhi’r-Risâleti’ş-Şemsiyye kitâbından bir sahîfeden ziyâde mikdâr yazılmış. Bir cildde. Dimeşkī tamâmına. Siyâh cildli. Doksan varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "11a",
+     "created_at": "2024-04-22T12:22:19.412571Z",
+     "updated_at": "2025-08-29T21:14:49.942204Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 867,
+     "kodikolojik_bilgi": 502
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[20] Kitâb-ı Şerh-i Minhâc. Evveli ebter. قوله أصول الفقه بمعرفة دلائل الفقه إجمالا ibâretiyle ibtidâ olunmuş kitâb âhirinde tamâm olmuş. Âhirinde Kavâʿidü[’l-]Celiyye fî Şerhi’r-Risâleti’ş-Şemsiyye kitâbından bir sahîfeden ziyâde mikdâr yazılmış. Bir cildde. Dimeşkī tamâmına. Siyâh cildli. Doksan varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "11a",
+  "created_at": "2024-04-22T12:22:19.412571Z",
+  "updated_at": "2025-08-29T21:14:49.942204Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 502,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "90",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-08-29T21:14:49.934469Z",
+   "updated_at": "2025-08-29T21:14:49.934497Z",
+   "kayit": 2570,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[92] Kitâb-ı Şerhu’l-Minhâc eydan. Nâkısu’l-evvel. Min kavlihî أصول الفقه بمعرفة دلائل الفقه إجمالا ilâ âhiri’l-kitâb. Âhirinde Kitâbü’l-Kavâʿidi’l-Celiyye fî Şerhi’r-Risâleti’ş-Şemsiyye adlı kitâbdan bir sahîfeden ziyâde mikdârı yazılmış. Bir cildde. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Sultânî. Doksan varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "14b",
+ "created_at": "2024-02-10T12:41:17.942757Z",
+ "updated_at": "2024-09-10T14:42:59.989944Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

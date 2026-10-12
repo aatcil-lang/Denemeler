@@ -1,0 +1,208 @@
+{
+ "id": 907,
+ "kitap_set": [
+  {
+   "id": 903,
+   "isim": "Kitâbü’l-Cildi’l-Evvel mine’n-Nihâye fî Şerhi’l-Hidâye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:34.949482Z",
+   "updated_at": "2025-04-06T19:20:18.985127Z",
+   "yazar": null,
+   "kayit": {
+    "id": 907,
+    "tam_metin": "[34] Kitâbü’l-Cildi’l-Evvel eydan mine’n-Nihâye fî Şerhi’l-Hidâye. İlâ âhiri Kitâbi’l-İʿtikâf. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz otuz yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "16b",
+    "created_at": "2024-02-10T12:41:34.690554Z",
+    "updated_at": "2024-09-24T12:04:57.649842Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2918,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2918,
+  "kitap_set": [
+   {
+    "id": 2901,
+    "isim": "Kitâb-ı Nihâye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:46.937158Z",
+    "updated_at": "2025-04-06T19:20:12.701652Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2918,
+     "tam_metin": "[281] Kitâb-ı Nihâye. Evvelinden İʿtikâf’a dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24b",
+     "created_at": "2024-04-22T12:24:46.669619Z",
+     "updated_at": "2025-09-10T10:10:11.437218Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 907,
+     "kodikolojik_bilgi": 855
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 907,
+  "bilgi_set": [
+   {
+    "id": 855,
+    "murekkep_set": [
+     {
+      "id": 733,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 855
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 523,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 855
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "237",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T10:10:11.431095Z",
+    "updated_at": "2025-09-10T10:10:11.431116Z",
+    "kayit": {
+     "id": 2918,
+     "tam_metin": "[281] Kitâb-ı Nihâye. Evvelinden İʿtikâf’a dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24b",
+     "created_at": "2024-04-22T12:24:46.669619Z",
+     "updated_at": "2025-09-10T10:10:11.437218Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 907,
+     "kodikolojik_bilgi": 855
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[281] Kitâb-ı Nihâye. Evvelinden İʿtikâf’a dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz otuz yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "24b",
+  "created_at": "2024-04-22T12:24:46.669619Z",
+  "updated_at": "2025-09-10T10:10:11.437218Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 855,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "237",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T10:10:11.431095Z",
+   "updated_at": "2025-09-10T10:10:11.431116Z",
+   "kayit": 2918,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[34] Kitâbü’l-Cildi’l-Evvel eydan mine’n-Nihâye fî Şerhi’l-Hidâye. İlâ âhiri Kitâbi’l-İʿtikâf. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz otuz yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "16b",
+ "created_at": "2024-02-10T12:41:34.690554Z",
+ "updated_at": "2024-09-24T12:04:57.649842Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

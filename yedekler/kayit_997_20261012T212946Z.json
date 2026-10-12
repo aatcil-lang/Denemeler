@@ -1,0 +1,260 @@
+{
+ "id": 997,
+ "kitap_set": [
+  {
+   "id": 993,
+   "isim": "Kitâbü’l-Cildi’r-Râbi‘ mine’l-Mebsût.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:12.961000Z",
+   "updated_at": "2025-04-06T19:20:18.691209Z",
+   "yazar": {
+    "id": 149,
+    "isim": "Şemsü'l-E'imme es-Serahsî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-13T08:42:19.241510Z",
+    "updated_at": "2024-08-13T08:42:19.241530Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 997,
+    "tam_metin": "[124] Kitâbü’l-Cildi’r-Râbiʿ eydan mine’l-Mebsût. Min evveli Kitâbi’n-Nikâh ilâ kavlihî رجل قال لإمرأته ولم يدخل بها أنت طالق ثلاثا تطلق ثلاثا عندنا min Bâbi’t-Talâk. Semerkandî rubʿuna. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz kırk dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "20a",
+    "created_at": "2024-02-10T12:42:12.703608Z",
+    "updated_at": "2024-09-21T23:44:49.426510Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2872,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2872,
+  "kitap_set": [
+   {
+    "id": 2855,
+    "isim": "Kitâb-ı Mebsût.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:27.396713Z",
+    "updated_at": "2025-04-06T19:20:12.828050Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2872,
+     "tam_metin": "[235] Kitâb-ı Mebsût. Kitâbü’n-Nikâh’dan Bâbü’t-Talâk’da رجل قال لإمرأته ولم يدخل بها أنت طالق ثلاثا تطلق ثلاثا عندنا bâbına dek. Zahrında “el-Mücelledü’r-Râbiʿ mine’l-Mebsût” deyu yazılmış. Semerkandî rubʿuna. Yeşil kâğıd mukavvâ cildli. İki yüz kırk dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "22a",
+     "created_at": "2024-04-22T12:24:27.131273Z",
+     "updated_at": "2025-09-10T08:24:12.341482Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 997,
+     "kodikolojik_bilgi": 809
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 405,
+    "koleksiyon_numarasi": "02075",
+    "nusha": "",
+    "created_at": "2025-01-12T13:17:13.227793Z",
+    "updated_at": "2025-01-12T13:17:13.227810Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2872,
+     "tam_metin": "[235] Kitâb-ı Mebsût. Kitâbü’n-Nikâh’dan Bâbü’t-Talâk’da رجل قال لإمرأته ولم يدخل بها أنت طالق ثلاثا تطلق ثلاثا عندنا bâbına dek. Zahrında “el-Mücelledü’r-Râbiʿ mine’l-Mebsût” deyu yazılmış. Semerkandî rubʿuna. Yeşil kâğıd mukavvâ cildli. İki yüz kırk dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "22a",
+     "created_at": "2024-04-22T12:24:27.131273Z",
+     "updated_at": "2025-09-10T08:24:12.341482Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 997,
+     "kodikolojik_bilgi": 809
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 997,
+  "bilgi_set": [
+   {
+    "id": 809,
+    "murekkep_set": [
+     {
+      "id": 686,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 809
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 477,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 809
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Zahrında “el-Mücelledü’r-Râbiʿ mine’l-Mebsût” deyu yazılmış",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "249",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Rub'una",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T08:24:12.336460Z",
+    "updated_at": "2025-09-10T08:24:12.336476Z",
+    "kayit": {
+     "id": 2872,
+     "tam_metin": "[235] Kitâb-ı Mebsût. Kitâbü’n-Nikâh’dan Bâbü’t-Talâk’da رجل قال لإمرأته ولم يدخل بها أنت طالق ثلاثا تطلق ثلاثا عندنا bâbına dek. Zahrında “el-Mücelledü’r-Râbiʿ mine’l-Mebsût” deyu yazılmış. Semerkandî rubʿuna. Yeşil kâğıd mukavvâ cildli. İki yüz kırk dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "22a",
+     "created_at": "2024-04-22T12:24:27.131273Z",
+     "updated_at": "2025-09-10T08:24:12.341482Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 997,
+     "kodikolojik_bilgi": 809
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[235] Kitâb-ı Mebsût. Kitâbü’n-Nikâh’dan Bâbü’t-Talâk’da رجل قال لإمرأته ولم يدخل بها أنت طالق ثلاثا تطلق ثلاثا عندنا bâbına dek. Zahrında “el-Mücelledü’r-Râbiʿ mine’l-Mebsût” deyu yazılmış. Semerkandî rubʿuna. Yeşil kâğıd mukavvâ cildli. İki yüz kırk dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "22a",
+  "created_at": "2024-04-22T12:24:27.131273Z",
+  "updated_at": "2025-09-10T08:24:12.341482Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 809,
+   "zahriye_exists": true,
+   "zahriye": "Zahrında “el-Mücelledü’r-Râbiʿ mine’l-Mebsût” deyu yazılmış",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "249",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Rub'una",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T08:24:12.336460Z",
+   "updated_at": "2025-09-10T08:24:12.336476Z",
+   "kayit": 2872,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[124] Kitâbü’l-Cildi’r-Râbiʿ eydan mine’l-Mebsût. Min evveli Kitâbi’n-Nikâh ilâ kavlihî رجل قال لإمرأته ولم يدخل بها أنت طالق ثلاثا تطلق ثلاثا عندنا min Bâbi’t-Talâk. Semerkandî rubʿuna. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz kırk dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "20a",
+ "created_at": "2024-02-10T12:42:12.703608Z",
+ "updated_at": "2024-09-21T23:44:49.426510Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

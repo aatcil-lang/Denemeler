@@ -1,0 +1,338 @@
+{
+ "id": 868,
+ "kitap_set": [
+  {
+   "id": 864,
+   "isim": "Kitâbü’t-Tekmîl fî İlmi’l-Usûl.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:18.616312Z",
+   "updated_at": "2025-04-06T19:20:19.099444Z",
+   "yazar": null,
+   "kayit": {
+    "id": 868,
+    "tam_metin": "[93] Kitâbü’t-Tekmîl fî İlmi’l-Usûl. Min evveli Bâbi Şurûti’l-Kıyâs ilâ âhiri’l-kitâb. Bi-hattı müʾellifihî Ömer bin Abdülmuhsin el-Erzincânî. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz yetmiş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "14b",
+    "created_at": "2024-02-10T12:41:18.356188Z",
+    "updated_at": "2024-09-11T23:50:12.464450Z",
+    "vakif": 1,
+    "mustensih": 209,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2586,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2586,
+  "kitap_set": [
+   {
+    "id": 2569,
+    "isim": "Kitâbü’t-Tekmîl fî ilmi’l-usûl.",
+    "isim2": null,
+    "disiplin": "Usul ilmi",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:22:26.712478Z",
+    "updated_at": "2025-04-06T19:20:13.668111Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2586,
+     "tam_metin": "[36] Kitâbü’t-Tekmîl fî ilmi’l-usûl. Bâbu Şurûti’l-Kıyâs’dan âhir-i kitâba dek. Bi-hattı müʾellifihî Ömer bin Abdülhasen el-Erzincânî. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz yetmiş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "12a",
+     "created_at": "2024-04-22T12:22:26.453064Z",
+     "updated_at": "2025-09-02T08:36:10.339169Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 868,
+     "kodikolojik_bilgi": 519
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 170,
+    "koleksiyon_numarasi": "01247",
+    "nusha": "",
+    "created_at": "2024-12-19T22:07:40.524334Z",
+    "updated_at": "2024-12-19T22:07:40.524348Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2586,
+     "tam_metin": "[36] Kitâbü’t-Tekmîl fî ilmi’l-usûl. Bâbu Şurûti’l-Kıyâs’dan âhir-i kitâba dek. Bi-hattı müʾellifihî Ömer bin Abdülhasen el-Erzincânî. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz yetmiş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "12a",
+     "created_at": "2024-04-22T12:22:26.453064Z",
+     "updated_at": "2025-09-02T08:36:10.339169Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 868,
+     "kodikolojik_bilgi": 519
+    },
+    "created_by": null
+   },
+   {
+    "id": 171,
+    "koleksiyon_numarasi": "01247",
+    "nusha": "",
+    "created_at": "2024-12-19T22:08:21.346378Z",
+    "updated_at": "2024-12-19T22:08:21.346398Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2586,
+     "tam_metin": "[36] Kitâbü’t-Tekmîl fî ilmi’l-usûl. Bâbu Şurûti’l-Kıyâs’dan âhir-i kitâba dek. Bi-hattı müʾellifihî Ömer bin Abdülhasen el-Erzincânî. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz yetmiş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "12a",
+     "created_at": "2024-04-22T12:22:26.453064Z",
+     "updated_at": "2025-09-02T08:36:10.339169Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 868,
+     "kodikolojik_bilgi": 519
+    },
+    "created_by": null
+   },
+   {
+    "id": 172,
+    "koleksiyon_numarasi": "01247",
+    "nusha": "",
+    "created_at": "2024-12-19T22:08:54.504911Z",
+    "updated_at": "2024-12-19T22:08:54.504926Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2586,
+     "tam_metin": "[36] Kitâbü’t-Tekmîl fî ilmi’l-usûl. Bâbu Şurûti’l-Kıyâs’dan âhir-i kitâba dek. Bi-hattı müʾellifihî Ömer bin Abdülhasen el-Erzincânî. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz yetmiş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "12a",
+     "created_at": "2024-04-22T12:22:26.453064Z",
+     "updated_at": "2025-09-02T08:36:10.339169Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 868,
+     "kodikolojik_bilgi": 519
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 868,
+  "bilgi_set": [
+   {
+    "id": 519,
+    "murekkep_set": [
+     {
+      "id": 397,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 519
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 188,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 519
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "270",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T08:36:10.334028Z",
+    "updated_at": "2025-09-02T08:36:10.334050Z",
+    "kayit": {
+     "id": 2586,
+     "tam_metin": "[36] Kitâbü’t-Tekmîl fî ilmi’l-usûl. Bâbu Şurûti’l-Kıyâs’dan âhir-i kitâba dek. Bi-hattı müʾellifihî Ömer bin Abdülhasen el-Erzincânî. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz yetmiş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "12a",
+     "created_at": "2024-04-22T12:22:26.453064Z",
+     "updated_at": "2025-09-02T08:36:10.339169Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 868,
+     "kodikolojik_bilgi": 519
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[36] Kitâbü’t-Tekmîl fî ilmi’l-usûl. Bâbu Şurûti’l-Kıyâs’dan âhir-i kitâba dek. Bi-hattı müʾellifihî Ömer bin Abdülhasen el-Erzincânî. Dimeşkī tamâmından kırılmış. Ciğerî cildli. İki yüz yetmiş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "12a",
+  "created_at": "2024-04-22T12:22:26.453064Z",
+  "updated_at": "2025-09-02T08:36:10.339169Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 519,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "270",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T08:36:10.334028Z",
+   "updated_at": "2025-09-02T08:36:10.334050Z",
+   "kayit": 2586,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[93] Kitâbü’t-Tekmîl fî İlmi’l-Usûl. Min evveli Bâbi Şurûti’l-Kıyâs ilâ âhiri’l-kitâb. Bi-hattı müʾellifihî Ömer bin Abdülmuhsin el-Erzincânî. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Sultânî. İki yüz yetmiş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "14b",
+ "created_at": "2024-02-10T12:41:18.356188Z",
+ "updated_at": "2024-09-11T23:50:12.464450Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 209,
+  "isim": "Ömer bin Abdülmuhsin el-Erzincânî",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-09-03T21:51:40.345784Z",
+  "updated_at": "2024-09-03T21:51:40.345800Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,260 @@
+{
+ "id": 1015,
+ "kitap_set": [
+  {
+   "id": 1011,
+   "isim": "Kitâbü’l-Cildi’s-Sâdis mine’l-Mebsût.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:20.444079Z",
+   "updated_at": "2025-04-06T19:20:18.630014Z",
+   "yazar": {
+    "id": 149,
+    "isim": "Şemsü'l-E'imme es-Serahsî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-13T08:42:19.241510Z",
+    "updated_at": "2024-08-13T08:42:19.241530Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1015,
+    "tam_metin": "[142] Kitâbü’l-Cildi’s-Sâdis eydan mine’l-Mebsût. Min evveli Bâbi’l-Müdebber [ilâ] evveli Bâbi’l-İkrâr bi’z-Zinâ. Semerkandî rubʿuna. Ciğerî cildle. Vakf-ı Sultânî. İki yüz elli üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "20b",
+    "created_at": "2024-02-10T12:42:20.183669Z",
+    "updated_at": "2024-09-24T11:07:58.756393Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2887,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2887,
+  "kitap_set": [
+   {
+    "id": 2870,
+    "isim": "Kitâb-ı Mebsût.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:33.787452Z",
+    "updated_at": "2025-04-06T19:20:12.785694Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2887,
+     "tam_metin": "[250] Kitâb-ı Mebsût. Bâbü’l-Müdebber’den Bâbü’l-İkrâri bi’z-Zinâ bâbına dek. Zahrında “el-Mücelledü’s-Sâdis mine’l-Mebsût” deyu yazılmış. Semerkandî rubʿuna. Ciğerî cildli. İki yüz elli üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "23a",
+     "created_at": "2024-04-22T12:24:33.527122Z",
+     "updated_at": "2025-09-10T08:48:16.725831Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1015,
+     "kodikolojik_bilgi": 824
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 419,
+    "koleksiyon_numarasi": "02077",
+    "nusha": "",
+    "created_at": "2025-01-12T14:09:31.793349Z",
+    "updated_at": "2025-01-12T14:09:31.793370Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2887,
+     "tam_metin": "[250] Kitâb-ı Mebsût. Bâbü’l-Müdebber’den Bâbü’l-İkrâri bi’z-Zinâ bâbına dek. Zahrında “el-Mücelledü’s-Sâdis mine’l-Mebsût” deyu yazılmış. Semerkandî rubʿuna. Ciğerî cildli. İki yüz elli üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "23a",
+     "created_at": "2024-04-22T12:24:33.527122Z",
+     "updated_at": "2025-09-10T08:48:16.725831Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1015,
+     "kodikolojik_bilgi": 824
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1015,
+  "bilgi_set": [
+   {
+    "id": 824,
+    "murekkep_set": [
+     {
+      "id": 701,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 824
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 492,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 824
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Zahrında “el-Mücelledü’s-Sâdis mine’l-Mebsût” deyu yazılmış",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "253",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Rub'una",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T08:48:16.721367Z",
+    "updated_at": "2025-09-10T08:48:16.721390Z",
+    "kayit": {
+     "id": 2887,
+     "tam_metin": "[250] Kitâb-ı Mebsût. Bâbü’l-Müdebber’den Bâbü’l-İkrâri bi’z-Zinâ bâbına dek. Zahrında “el-Mücelledü’s-Sâdis mine’l-Mebsût” deyu yazılmış. Semerkandî rubʿuna. Ciğerî cildli. İki yüz elli üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "23a",
+     "created_at": "2024-04-22T12:24:33.527122Z",
+     "updated_at": "2025-09-10T08:48:16.725831Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1015,
+     "kodikolojik_bilgi": 824
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[250] Kitâb-ı Mebsût. Bâbü’l-Müdebber’den Bâbü’l-İkrâri bi’z-Zinâ bâbına dek. Zahrında “el-Mücelledü’s-Sâdis mine’l-Mebsût” deyu yazılmış. Semerkandî rubʿuna. Ciğerî cildli. İki yüz elli üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "23a",
+  "created_at": "2024-04-22T12:24:33.527122Z",
+  "updated_at": "2025-09-10T08:48:16.725831Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 824,
+   "zahriye_exists": true,
+   "zahriye": "Zahrında “el-Mücelledü’s-Sâdis mine’l-Mebsût” deyu yazılmış",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "253",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Rub'una",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T08:48:16.721367Z",
+   "updated_at": "2025-09-10T08:48:16.721390Z",
+   "kayit": 2887,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[142] Kitâbü’l-Cildi’s-Sâdis eydan mine’l-Mebsût. Min evveli Bâbi’l-Müdebber [ilâ] evveli Bâbi’l-İkrâr bi’z-Zinâ. Semerkandî rubʿuna. Ciğerî cildle. Vakf-ı Sultânî. İki yüz elli üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "20b",
+ "created_at": "2024-02-10T12:42:20.183669Z",
+ "updated_at": "2024-09-24T11:07:58.756393Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

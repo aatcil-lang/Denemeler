@@ -1,0 +1,248 @@
+{
+ "id": 901,
+ "kitap_set": [
+  {
+   "id": 897,
+   "isim": "Kitâbü’l-Cildi’l-Evvel mine’n-Nihâye fî Şerhi’l-Hidâye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:32.473082Z",
+   "updated_at": "2025-04-06T19:20:19.004609Z",
+   "yazar": null,
+   "kayit": {
+    "id": 901,
+    "tam_metin": "[28] Kitâbü’l-Cildi’l-Evvel mine’n-Nihâye fî Şerhi’l-Hidâye. İlâ âhiri Kitâbi’l-Hac. Semerkandî nısfına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz doksan üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "16a",
+    "created_at": "2024-02-10T12:41:32.209036Z",
+    "updated_at": "2024-09-19T15:05:42.237758Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2793,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2793,
+  "kitap_set": [
+   {
+    "id": 2776,
+    "isim": "Kitâb-ı Nihâye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:53.627684Z",
+    "updated_at": "2025-04-06T19:20:13.054042Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2793,
+     "tam_metin": "[156] Kitâb-ı Nihâye. Evvelinden âhir-i Hacc’a dek. Semerkandî nısfına. Ciğerî cildli. Üç yüz doksan üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "19b",
+     "created_at": "2024-04-22T12:23:53.363627Z",
+     "updated_at": "2025-09-03T09:46:49.515448Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 901,
+     "kodikolojik_bilgi": 727
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 339,
+    "koleksiyon_numarasi": "01986",
+    "nusha": "",
+    "created_at": "2025-01-11T12:33:02.520665Z",
+    "updated_at": "2025-01-11T12:33:02.520682Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2793,
+     "tam_metin": "[156] Kitâb-ı Nihâye. Evvelinden âhir-i Hacc’a dek. Semerkandî nısfına. Ciğerî cildli. Üç yüz doksan üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "19b",
+     "created_at": "2024-04-22T12:23:53.363627Z",
+     "updated_at": "2025-09-03T09:46:49.515448Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 901,
+     "kodikolojik_bilgi": 727
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 901,
+  "bilgi_set": [
+   {
+    "id": 727,
+    "murekkep_set": [
+     {
+      "id": 605,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 727
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 396,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 727
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "393",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-03T09:46:49.510736Z",
+    "updated_at": "2025-09-03T09:46:49.510750Z",
+    "kayit": {
+     "id": 2793,
+     "tam_metin": "[156] Kitâb-ı Nihâye. Evvelinden âhir-i Hacc’a dek. Semerkandî nısfına. Ciğerî cildli. Üç yüz doksan üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "19b",
+     "created_at": "2024-04-22T12:23:53.363627Z",
+     "updated_at": "2025-09-03T09:46:49.515448Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 901,
+     "kodikolojik_bilgi": 727
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[156] Kitâb-ı Nihâye. Evvelinden âhir-i Hacc’a dek. Semerkandî nısfına. Ciğerî cildli. Üç yüz doksan üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "19b",
+  "created_at": "2024-04-22T12:23:53.363627Z",
+  "updated_at": "2025-09-03T09:46:49.515448Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 727,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "393",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-03T09:46:49.510736Z",
+   "updated_at": "2025-09-03T09:46:49.510750Z",
+   "kayit": 2793,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[28] Kitâbü’l-Cildi’l-Evvel mine’n-Nihâye fî Şerhi’l-Hidâye. İlâ âhiri Kitâbi’l-Hac. Semerkandî nısfına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz doksan üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "16a",
+ "created_at": "2024-02-10T12:41:32.209036Z",
+ "updated_at": "2024-09-19T15:05:42.237758Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

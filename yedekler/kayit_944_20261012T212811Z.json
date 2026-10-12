@@ -1,0 +1,208 @@
+{
+ "id": 944,
+ "kitap_set": [
+  {
+   "id": 940,
+   "isim": "Kitâb-ı Hulâsatü’l-Fetâvâ.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:50.619790Z",
+   "updated_at": "2025-04-06T19:20:18.872457Z",
+   "yazar": null,
+   "kayit": {
+    "id": 944,
+    "tam_metin": "[71] Kitâb-ı Hulâsatü’l-Fetâvâ eydan. Tamâm. Dimeşkī tamâmına. Ciğerî cildle. Merhûm Kara Seydî Halîfe’de zâyiʿ olan Hulâsatü’l-Fetâvâ’dan bedel olmuş. Vakf-ı Sultânî. Dört yüz otuz yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "18a",
+    "created_at": "2024-02-10T12:41:50.359557Z",
+    "updated_at": "2024-09-24T11:38:50.179880Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2912,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2912,
+  "kitap_set": [
+   {
+    "id": 2895,
+    "isim": "Kitâb-ı Hulâsatü’l-Fetâvâ.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:44.380899Z",
+    "updated_at": "2025-04-06T19:20:12.718867Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2912,
+     "tam_metin": "[275] Kitâb-ı Hulâsatü’l-Fetâvâ. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. Merhûm Kara Seydî Halîfe’de zâyiʿ olan Hulâsatü’l-Fetâvâ’dan bedel alınmış. Dört yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24a",
+     "created_at": "2024-04-22T12:24:44.123212Z",
+     "updated_at": "2025-09-10T10:01:24.500344Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 944,
+     "kodikolojik_bilgi": 849
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 944,
+  "bilgi_set": [
+   {
+    "id": 849,
+    "murekkep_set": [
+     {
+      "id": 727,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 849
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 517,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 849
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "437",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T10:01:24.495259Z",
+    "updated_at": "2025-09-10T10:01:24.495276Z",
+    "kayit": {
+     "id": 2912,
+     "tam_metin": "[275] Kitâb-ı Hulâsatü’l-Fetâvâ. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. Merhûm Kara Seydî Halîfe’de zâyiʿ olan Hulâsatü’l-Fetâvâ’dan bedel alınmış. Dört yüz otuz yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24a",
+     "created_at": "2024-04-22T12:24:44.123212Z",
+     "updated_at": "2025-09-10T10:01:24.500344Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 944,
+     "kodikolojik_bilgi": 849
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[275] Kitâb-ı Hulâsatü’l-Fetâvâ. Tamâm. Dimeşkī tamâmına. Ciğerî cildli. Merhûm Kara Seydî Halîfe’de zâyiʿ olan Hulâsatü’l-Fetâvâ’dan bedel alınmış. Dört yüz otuz yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "24a",
+  "created_at": "2024-04-22T12:24:44.123212Z",
+  "updated_at": "2025-09-10T10:01:24.500344Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 849,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "437",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T10:01:24.495259Z",
+   "updated_at": "2025-09-10T10:01:24.495276Z",
+   "kayit": 2912,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[71] Kitâb-ı Hulâsatü’l-Fetâvâ eydan. Tamâm. Dimeşkī tamâmına. Ciğerî cildle. Merhûm Kara Seydî Halîfe’de zâyiʿ olan Hulâsatü’l-Fetâvâ’dan bedel olmuş. Vakf-ı Sultânî. Dört yüz otuz yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "18a",
+ "created_at": "2024-02-10T12:41:50.359557Z",
+ "updated_at": "2024-09-24T11:38:50.179880Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,260 @@
+{
+ "id": 881,
+ "kitap_set": [
+  {
+   "id": 877,
+   "isim": "Kitâbü’l-Hidâye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:24.069899Z",
+   "updated_at": "2025-04-06T19:20:19.066976Z",
+   "yazar": {
+    "id": 214,
+    "isim": "Burhâneddin el-Mergīnânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-03T22:26:20.605244Z",
+    "updated_at": "2024-09-03T22:26:20.605267Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 881,
+    "tam_metin": "[8] Kitâbü’l-Hidâye. Tamâm. Semerkandî tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "15a",
+    "created_at": "2024-02-10T12:41:23.813804Z",
+    "updated_at": "2024-09-19T11:36:45.679038Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2709,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2709,
+  "kitap_set": [
+   {
+    "id": 2692,
+    "isim": "Kitâb-ı Hidâye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:18.860828Z",
+    "updated_at": "2025-04-06T19:20:13.286420Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2709,
+     "tam_metin": "[72] Kitâb-ı Hidâye. Tamâm. Semerkandî tamâmına. Ciğerî cildli. Üç yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "16b",
+     "created_at": "2024-04-22T12:23:18.601565Z",
+     "updated_at": "2025-09-02T22:26:23.421353Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 881,
+     "kodikolojik_bilgi": 643
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 267,
+    "koleksiyon_numarasi": "02240",
+    "nusha": "",
+    "created_at": "2024-12-29T10:05:00.928683Z",
+    "updated_at": "2024-12-29T10:05:00.928707Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2709,
+     "tam_metin": "[72] Kitâb-ı Hidâye. Tamâm. Semerkandî tamâmına. Ciğerî cildli. Üç yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "16b",
+     "created_at": "2024-04-22T12:23:18.601565Z",
+     "updated_at": "2025-09-02T22:26:23.421353Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 881,
+     "kodikolojik_bilgi": 643
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 881,
+  "bilgi_set": [
+   {
+    "id": 643,
+    "murekkep_set": [
+     {
+      "id": 521,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 643
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 312,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 643
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "310",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T22:26:23.415141Z",
+    "updated_at": "2025-09-02T22:26:23.415157Z",
+    "kayit": {
+     "id": 2709,
+     "tam_metin": "[72] Kitâb-ı Hidâye. Tamâm. Semerkandî tamâmına. Ciğerî cildli. Üç yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "16b",
+     "created_at": "2024-04-22T12:23:18.601565Z",
+     "updated_at": "2025-09-02T22:26:23.421353Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 881,
+     "kodikolojik_bilgi": 643
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[72] Kitâb-ı Hidâye. Tamâm. Semerkandî tamâmına. Ciğerî cildli. Üç yüz on varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "16b",
+  "created_at": "2024-04-22T12:23:18.601565Z",
+  "updated_at": "2025-09-02T22:26:23.421353Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 643,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "310",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T22:26:23.415141Z",
+   "updated_at": "2025-09-02T22:26:23.415157Z",
+   "kayit": 2709,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[8] Kitâbü’l-Hidâye. Tamâm. Semerkandî tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Üç yüz on varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "15a",
+ "created_at": "2024-02-10T12:41:23.813804Z",
+ "updated_at": "2024-09-19T11:36:45.679038Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

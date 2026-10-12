@@ -1,0 +1,272 @@
+{
+ "id": 854,
+ "kitap_set": [
+  {
+   "id": 850,
+   "isim": "Kitâb-ı Şerhu’l-Bedî‘.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:12.740612Z",
+   "updated_at": "2025-04-06T19:20:19.141341Z",
+   "yazar": {
+    "id": 200,
+    "isim": "Şemsiddîn el-İsfehânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-02T23:41:31.775132Z",
+    "updated_at": "2024-09-02T23:41:31.775154Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 854,
+    "tam_metin": "[79] Kitâb-ı Şerhu’l-Bedîʿ eydan li-Şemseddîn el-İsfehânî. Bi-hattı Hamza bin Ali. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz yetmiş dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "14a",
+    "created_at": "2024-02-10T12:41:12.472819Z",
+    "updated_at": "2024-09-11T23:56:35.588943Z",
+    "vakif": 1,
+    "mustensih": 199,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2592,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2592,
+  "kitap_set": [
+   {
+    "id": 2575,
+    "isim": "Kitâb-ı Şerh-i Bedâyi‘ li-Şemsiddîn el-İsfehânî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:22:29.266186Z",
+    "updated_at": "2025-04-06T19:20:13.652036Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2592,
+     "tam_metin": "[42] Kitâb-ı Şerh-i Bedâyiʿ li-Şemseddîn el-Isfahânî. Bi-hattı Hamza bin Ali. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. İki yüz yetmiş dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "12a",
+     "created_at": "2024-04-22T12:22:29.000889Z",
+     "updated_at": "2025-09-02T08:57:43.402285Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 854,
+     "kodikolojik_bilgi": 525
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 177,
+    "koleksiyon_numarasi": "01345",
+    "nusha": "",
+    "created_at": "2024-12-28T12:49:07.077614Z",
+    "updated_at": "2024-12-28T12:49:07.077633Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2592,
+     "tam_metin": "[42] Kitâb-ı Şerh-i Bedâyiʿ li-Şemseddîn el-Isfahânî. Bi-hattı Hamza bin Ali. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. İki yüz yetmiş dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "12a",
+     "created_at": "2024-04-22T12:22:29.000889Z",
+     "updated_at": "2025-09-02T08:57:43.402285Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 854,
+     "kodikolojik_bilgi": 525
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 854,
+  "bilgi_set": [
+   {
+    "id": 525,
+    "murekkep_set": [
+     {
+      "id": 403,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 525
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 194,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 525
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "279",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T08:57:43.390353Z",
+    "updated_at": "2025-09-02T08:57:43.390389Z",
+    "kayit": {
+     "id": 2592,
+     "tam_metin": "[42] Kitâb-ı Şerh-i Bedâyiʿ li-Şemseddîn el-Isfahânî. Bi-hattı Hamza bin Ali. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. İki yüz yetmiş dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "12a",
+     "created_at": "2024-04-22T12:22:29.000889Z",
+     "updated_at": "2025-09-02T08:57:43.402285Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 854,
+     "kodikolojik_bilgi": 525
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[42] Kitâb-ı Şerh-i Bedâyiʿ li-Şemseddîn el-Isfahânî. Bi-hattı Hamza bin Ali. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildli. İki yüz yetmiş dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "12a",
+  "created_at": "2024-04-22T12:22:29.000889Z",
+  "updated_at": "2025-09-02T08:57:43.402285Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 525,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "279",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T08:57:43.390353Z",
+   "updated_at": "2025-09-02T08:57:43.390389Z",
+   "kayit": 2592,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[79] Kitâb-ı Şerhu’l-Bedîʿ eydan li-Şemseddîn el-İsfehânî. Bi-hattı Hamza bin Ali. Dimeşkī tamâmına. Ak kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz yetmiş dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "14a",
+ "created_at": "2024-02-10T12:41:12.472819Z",
+ "updated_at": "2024-09-11T23:56:35.588943Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 199,
+  "isim": "Hamza bin Ali",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-09-02T23:41:01.421129Z",
+  "updated_at": "2024-09-02T23:41:01.421144Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

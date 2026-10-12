@@ -1,0 +1,286 @@
+{
+ "id": 1017,
+ "kitap_set": [
+  {
+   "id": 1013,
+   "isim": "Kitâb-ı Cildün mine’l-Mebsût.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:21.272725Z",
+   "updated_at": "2025-04-06T19:20:18.624231Z",
+   "yazar": {
+    "id": 149,
+    "isim": "Şemsü'l-E'imme es-Serahsî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-13T08:42:19.241510Z",
+    "updated_at": "2024-08-13T08:42:19.241530Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1017,
+    "tam_metin": "[144] Kitâb-ı Cildün mine’l-Mebsût eydan. Min evveli Bâbi’r-Rucûʿ ani’ş-Şehâde fi’t-Talâk ilâ âhiri kavlihî وعن أبي يوسف ومحمد يصدق على ذلك إلا في المكاتب وهو بناء على الخلاف المعروف في الوكيل بالبيع min Bâbi’l-İkrâr bi’l-İktizâʾ. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz altmış varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "20b",
+    "created_at": "2024-02-10T12:42:21.010255Z",
+    "updated_at": "2024-09-24T11:16:31.973765Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2895,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2895,
+  "kitap_set": [
+   {
+    "id": 2878,
+    "isim": "Kitâb-ı Mebsût.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:37.123589Z",
+    "updated_at": "2025-04-06T19:20:12.764674Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2895,
+     "tam_metin": "[258] Kitâb-ı Mebsût. Bâbü’r-Rucûʿi ani’ş-Şehâdeti fi’t-Talâk bâbından Bâbü’l-İkrâr bi’l-İktizâ bâbında وعند أبي يوسف ومحمد رحمهما الله يصدق على ذلك إلا في المكاتب وهو بناء على الخلاف المعروف في الوكيل بالبيع ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "23a",
+     "created_at": "2024-04-22T12:24:36.859374Z",
+     "updated_at": "2025-09-10T08:55:23.670662Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1017,
+     "kodikolojik_bilgi": 832
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 427,
+    "koleksiyon_numarasi": "",
+    "nusha": "",
+    "created_at": "2025-01-12T14:25:48.671501Z",
+    "updated_at": "2025-01-12T14:25:48.671517Z",
+    "kutuphane": null,
+    "koleksiyon": null,
+    "kayit": {
+     "id": 2895,
+     "tam_metin": "[258] Kitâb-ı Mebsût. Bâbü’r-Rucûʿi ani’ş-Şehâdeti fi’t-Talâk bâbından Bâbü’l-İkrâr bi’l-İktizâ bâbında وعند أبي يوسف ومحمد رحمهما الله يصدق على ذلك إلا في المكاتب وهو بناء على الخلاف المعروف في الوكيل بالبيع ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "23a",
+     "created_at": "2024-04-22T12:24:36.859374Z",
+     "updated_at": "2025-09-10T08:55:23.670662Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1017,
+     "kodikolojik_bilgi": 832
+    },
+    "created_by": null
+   },
+   {
+    "id": 1189,
+    "koleksiyon_numarasi": "2084",
+    "nusha": "",
+    "created_at": "2026-08-20T23:25:19.620585Z",
+    "updated_at": "2026-08-20T23:25:19.620600Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2895,
+     "tam_metin": "[258] Kitâb-ı Mebsût. Bâbü’r-Rucûʿi ani’ş-Şehâdeti fi’t-Talâk bâbından Bâbü’l-İkrâr bi’l-İktizâ bâbında وعند أبي يوسف ومحمد رحمهما الله يصدق على ذلك إلا في المكاتب وهو بناء على الخلاف المعروف في الوكيل بالبيع ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "23a",
+     "created_at": "2024-04-22T12:24:36.859374Z",
+     "updated_at": "2025-09-10T08:55:23.670662Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1017,
+     "kodikolojik_bilgi": 832
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1017,
+  "bilgi_set": [
+   {
+    "id": 832,
+    "murekkep_set": [
+     {
+      "id": 709,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 832
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 500,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 832
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "260",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T08:55:23.661789Z",
+    "updated_at": "2025-09-10T08:55:23.661819Z",
+    "kayit": {
+     "id": 2895,
+     "tam_metin": "[258] Kitâb-ı Mebsût. Bâbü’r-Rucûʿi ani’ş-Şehâdeti fi’t-Talâk bâbından Bâbü’l-İkrâr bi’l-İktizâ bâbında وعند أبي يوسف ومحمد رحمهما الله يصدق على ذلك إلا في المكاتب وهو بناء على الخلاف المعروف في الوكيل بالبيع ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "23a",
+     "created_at": "2024-04-22T12:24:36.859374Z",
+     "updated_at": "2025-09-10T08:55:23.670662Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1017,
+     "kodikolojik_bilgi": 832
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[258] Kitâb-ı Mebsût. Bâbü’r-Rucûʿi ani’ş-Şehâdeti fi’t-Talâk bâbından Bâbü’l-İkrâr bi’l-İktizâ bâbında وعند أبي يوسف ومحمد رحمهما الله يصدق على ذلك إلا في المكاتب وهو بناء على الخلاف المعروف في الوكيل بالبيع ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz altmış varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "23a",
+  "created_at": "2024-04-22T12:24:36.859374Z",
+  "updated_at": "2025-09-10T08:55:23.670662Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 832,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "260",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T08:55:23.661789Z",
+   "updated_at": "2025-09-10T08:55:23.661819Z",
+   "kayit": 2895,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[144] Kitâb-ı Cildün mine’l-Mebsût eydan. Min evveli Bâbi’r-Rucûʿ ani’ş-Şehâde fi’t-Talâk ilâ âhiri kavlihî وعن أبي يوسف ومحمد يصدق على ذلك إلا في المكاتب وهو بناء على الخلاف المعروف في الوكيل بالبيع min Bâbi’l-İkrâr bi’l-İktizâʾ. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz altmış varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "20b",
+ "created_at": "2024-02-10T12:42:21.010255Z",
+ "updated_at": "2024-09-24T11:16:31.973765Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

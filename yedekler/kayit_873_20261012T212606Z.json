@@ -1,0 +1,260 @@
+{
+ "id": 873,
+ "kitap_set": [
+  {
+   "id": 869,
+   "isim": "Kitâbü’l-Mustasfâ fî Usûli’ş-Şâfiî.",
+   "isim2": null,
+   "disiplin": "Fıkıh (usulü)",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:20.682112Z",
+   "updated_at": "2025-04-06T19:20:19.085215Z",
+   "yazar": {
+    "id": 74,
+    "isim": "İmâm el-Gazzâlî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-03T15:32:31.758891Z",
+    "updated_at": "2024-08-03T15:32:31.758908Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 873,
+    "tam_metin": "[98] Kitâbü’l-Mustasfâ fî Usûli’ş-Şâfiʿî li’l-İmâm el-Gazzalî. Min evvelihî ilâ âhirihî mektûbun bi-hattı mağribî. Haşebî tamâmına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz otuz iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "15a",
+    "created_at": "2024-02-10T12:41:20.421173Z",
+    "updated_at": "2024-09-12T04:33:18.515234Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2599,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2599,
+  "kitap_set": [
+   {
+    "id": 2582,
+    "isim": "Kitâbü’l-Mustasfâ.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:22:32.183721Z",
+    "updated_at": "2025-04-06T19:20:13.633867Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2599,
+     "tam_metin": "[49] Kitâbü’l-Mustasfâ min müʾellefâtı el-İmâm el-Gazzâlî. Min evvelihî ilâ âhirihî hatt-ı Mağrib[î’]yle yazılmış. Haşebî tamâmına. Yeşil kâğıd mukavvâ cildli. İki yüz otuz iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "12b",
+     "created_at": "2024-04-22T12:22:31.917716Z",
+     "updated_at": "2025-09-02T09:07:02.331276Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 873,
+     "kodikolojik_bilgi": 532
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 182,
+    "koleksiyon_numarasi": "01465",
+    "nusha": "",
+    "created_at": "2024-12-28T12:56:15.593174Z",
+    "updated_at": "2024-12-28T12:56:15.593192Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2599,
+     "tam_metin": "[49] Kitâbü’l-Mustasfâ min müʾellefâtı el-İmâm el-Gazzâlî. Min evvelihî ilâ âhirihî hatt-ı Mağrib[î’]yle yazılmış. Haşebî tamâmına. Yeşil kâğıd mukavvâ cildli. İki yüz otuz iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "12b",
+     "created_at": "2024-04-22T12:22:31.917716Z",
+     "updated_at": "2025-09-02T09:07:02.331276Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 873,
+     "kodikolojik_bilgi": 532
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 873,
+  "bilgi_set": [
+   {
+    "id": 532,
+    "murekkep_set": [
+     {
+      "id": 410,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 532
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 201,
+      "hatt_turu": "Mağribî",
+      "hatt_sekli": "",
+      "aciklama": "Min evvelihî ilâ âhirihî hatt-ı Mağrib[î’]yle yazılmış.",
+      "kodikolojik_bilgi": 532
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "232",
+    "kagit_turu": "Haşebî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T09:07:02.327379Z",
+    "updated_at": "2025-09-02T09:07:02.327395Z",
+    "kayit": {
+     "id": 2599,
+     "tam_metin": "[49] Kitâbü’l-Mustasfâ min müʾellefâtı el-İmâm el-Gazzâlî. Min evvelihî ilâ âhirihî hatt-ı Mağrib[î’]yle yazılmış. Haşebî tamâmına. Yeşil kâğıd mukavvâ cildli. İki yüz otuz iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "12b",
+     "created_at": "2024-04-22T12:22:31.917716Z",
+     "updated_at": "2025-09-02T09:07:02.331276Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 873,
+     "kodikolojik_bilgi": 532
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[49] Kitâbü’l-Mustasfâ min müʾellefâtı el-İmâm el-Gazzâlî. Min evvelihî ilâ âhirihî hatt-ı Mağrib[î’]yle yazılmış. Haşebî tamâmına. Yeşil kâğıd mukavvâ cildli. İki yüz otuz iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "12b",
+  "created_at": "2024-04-22T12:22:31.917716Z",
+  "updated_at": "2025-09-02T09:07:02.331276Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 532,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "232",
+   "kagit_turu": "Haşebî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T09:07:02.327379Z",
+   "updated_at": "2025-09-02T09:07:02.327395Z",
+   "kayit": 2599,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[98] Kitâbü’l-Mustasfâ fî Usûli’ş-Şâfiʿî li’l-İmâm el-Gazzalî. Min evvelihî ilâ âhirihî mektûbun bi-hattı mağribî. Haşebî tamâmına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz otuz iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "15a",
+ "created_at": "2024-02-10T12:41:20.421173Z",
+ "updated_at": "2024-09-12T04:33:18.515234Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

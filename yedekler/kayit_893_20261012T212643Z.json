@@ -1,0 +1,220 @@
+{
+ "id": 893,
+ "kitap_set": [
+  {
+   "id": 889,
+   "isim": "Kitâbü’l-Cildi’l-Evvel mine’l-Hidâye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:29.114798Z",
+   "updated_at": "2025-04-06T19:20:19.029914Z",
+   "yazar": {
+    "id": 214,
+    "isim": "Burhâneddin el-Mergīnânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-03T22:26:20.605244Z",
+    "updated_at": "2024-09-03T22:26:20.605267Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 893,
+    "tam_metin": "[20] Kitâbü’l-Cildi’l-Evvel mine’l-Hidâye eydan. İlâ âhiri Kitâbi’l-Vakf. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Bedel-i Yegânî. İki yüz on üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "16a",
+    "created_at": "2024-02-10T12:41:28.854661Z",
+    "updated_at": "2024-09-28T14:18:30.334305Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3179,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3179,
+  "kitap_set": [
+   {
+    "id": 3161,
+    "isim": "Kitâb-ı Hidâye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:26:41.943755Z",
+    "updated_at": "2025-04-06T19:20:11.941220Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3179,
+     "tam_metin": "[1] Kitâb-ı Hidâye. Evvelinden Kitâb-ı Vakf âhirine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "34b",
+     "created_at": "2024-04-22T12:26:41.664057Z",
+     "updated_at": "2025-09-22T08:48:44.868157Z",
+     "vakif": 7,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 893,
+     "kodikolojik_bilgi": 1116
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 893,
+  "bilgi_set": [
+   {
+    "id": 1116,
+    "murekkep_set": [
+     {
+      "id": 994,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1116
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 783,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1116
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "213",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T08:48:44.860901Z",
+    "updated_at": "2025-09-22T08:48:44.860916Z",
+    "kayit": {
+     "id": 3179,
+     "tam_metin": "[1] Kitâb-ı Hidâye. Evvelinden Kitâb-ı Vakf âhirine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on üç varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "34b",
+     "created_at": "2024-04-22T12:26:41.664057Z",
+     "updated_at": "2025-09-22T08:48:44.868157Z",
+     "vakif": 7,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 893,
+     "kodikolojik_bilgi": 1116
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[1] Kitâb-ı Hidâye. Evvelinden Kitâb-ı Vakf âhirine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on üç varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "34b",
+  "created_at": "2024-04-22T12:26:41.664057Z",
+  "updated_at": "2025-09-22T08:48:44.868157Z",
+  "vakif": {
+   "id": 7,
+   "isim": "Ahmed Çelebi",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:27:02.625500Z",
+   "updated_at": "2024-04-22T11:27:02.625517Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1116,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "213",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T08:48:44.860901Z",
+   "updated_at": "2025-09-22T08:48:44.860916Z",
+   "kayit": 3179,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[20] Kitâbü’l-Cildi’l-Evvel mine’l-Hidâye eydan. İlâ âhiri Kitâbi’l-Vakf. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Bedel-i Yegânî. İki yüz on üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "16a",
+ "created_at": "2024-02-10T12:41:28.854661Z",
+ "updated_at": "2024-09-28T14:18:30.334305Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

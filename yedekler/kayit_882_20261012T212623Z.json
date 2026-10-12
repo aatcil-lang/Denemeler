@@ -1,0 +1,232 @@
+{
+ "id": 882,
+ "kitap_set": [
+  {
+   "id": 878,
+   "isim": "Kitâbü’l-Hidâye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:24.510960Z",
+   "updated_at": "2025-04-06T19:20:19.064025Z",
+   "yazar": {
+    "id": 214,
+    "isim": "Burhâneddin el-Mergīnânî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-03T22:26:20.605244Z",
+    "updated_at": "2024-09-03T22:26:20.605267Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 882,
+    "tam_metin": "[9] Kitâbü’l-Hidâye eydan. Tamâm. Semerkandî tamâmından kırılmış. Siyâh cildle. Bi-hattı İsmail el-Gadâʾirî.  Vakf-ı Sultânî. Üç yüz altmış yedi varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "15b",
+    "created_at": "2024-02-10T12:41:24.230146Z",
+    "updated_at": "2024-09-24T12:39:37.879247Z",
+    "vakif": 1,
+    "mustensih": 215,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2926,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2926,
+  "kitap_set": [
+   {
+    "id": 2909,
+    "isim": "Kitâb-ı Hidâye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:24:50.317925Z",
+    "updated_at": "2025-04-06T19:20:12.678649Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2926,
+     "tam_metin": "[289] Kitâb-ı Hidâye. Tamâm. Semerkandî tamâmından kırılmış. Siyâh cildli. Bi-hattı İsmâîl [G]adâʾirî. Üç yüz altmış yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24b",
+     "created_at": "2024-04-22T12:24:50.053743Z",
+     "updated_at": "2025-09-10T10:29:27.229394Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 882,
+     "kodikolojik_bilgi": 863
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 882,
+  "bilgi_set": [
+   {
+    "id": 863,
+    "murekkep_set": [
+     {
+      "id": 741,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 863
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 531,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 863
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "367",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T10:29:27.222384Z",
+    "updated_at": "2025-09-10T10:29:27.222432Z",
+    "kayit": {
+     "id": 2926,
+     "tam_metin": "[289] Kitâb-ı Hidâye. Tamâm. Semerkandî tamâmından kırılmış. Siyâh cildli. Bi-hattı İsmâîl [G]adâʾirî. Üç yüz altmış yedi varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "24b",
+     "created_at": "2024-04-22T12:24:50.053743Z",
+     "updated_at": "2025-09-10T10:29:27.229394Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 882,
+     "kodikolojik_bilgi": 863
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[289] Kitâb-ı Hidâye. Tamâm. Semerkandî tamâmından kırılmış. Siyâh cildli. Bi-hattı İsmâîl [G]adâʾirî. Üç yüz altmış yedi varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "24b",
+  "created_at": "2024-04-22T12:24:50.053743Z",
+  "updated_at": "2025-09-10T10:29:27.229394Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 863,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "367",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T10:29:27.222384Z",
+   "updated_at": "2025-09-10T10:29:27.222432Z",
+   "kayit": 2926,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[9] Kitâbü’l-Hidâye eydan. Tamâm. Semerkandî tamâmından kırılmış. Siyâh cildle. Bi-hattı İsmail el-Gadâʾirî.  Vakf-ı Sultânî. Üç yüz altmış yedi varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "15b",
+ "created_at": "2024-02-10T12:41:24.230146Z",
+ "updated_at": "2024-09-24T12:39:37.879247Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 215,
+  "isim": "İsmail el-Gadâʾirî",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-09-03T22:41:46.487416Z",
+  "updated_at": "2024-09-03T22:41:46.487429Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

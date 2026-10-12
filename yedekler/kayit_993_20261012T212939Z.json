@@ -1,0 +1,272 @@
+{
+ "id": 993,
+ "kitap_set": [
+  {
+   "id": 989,
+   "isim": "Kitâbü’l-Cildi’s-Sâlis min Fusûli’l-Üstrûşenî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:11.295840Z",
+   "updated_at": "2025-04-06T19:20:18.703932Z",
+   "yazar": {
+    "id": 252,
+    "isim": "Üsrûşenî, Ebü’l-Feth Mecdüddîn Muhammed b. Mahmûd b. el-Hüseyn b. Ahmed el-Üsrûşenî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-11T10:24:16.819062Z",
+    "updated_at": "2024-09-11T10:24:16.819079Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 993,
+    "tam_metin": "[120] Kitâbü’l-Cildi’s-Sâlis eydan min Fusûli’l-Üstrûşenî. Min evveli’l-Fasli’t-Tâsiʿ Aşer fî Aksâmi’l-Cenâzât  ilâ âhiri’l-kitâb. Bi-hattı Ömer bin Muhammed bin Ebû Bekir. Semerkandî rubʿundan kırılmış. Sarı cildle. Vakf-ı Sultânî. Üç yüz kırk altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "19b",
+    "created_at": "2024-02-10T12:42:11.042593Z",
+    "updated_at": "2024-09-18T13:36:30.288854Z",
+    "vakif": 1,
+    "mustensih": 255,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2702,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2702,
+  "kitap_set": [
+   {
+    "id": 2685,
+    "isim": "Kitâb-ı Fusûl-i Üstrûşenî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:15.939616Z",
+    "updated_at": "2025-04-06T19:20:13.305142Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2702,
+     "tam_metin": "[65] Kitâb-ı Fusûl-i Üstrûşenî. el-Faslu’t-Tâsiʿ Aşer fî Aksâmi’l-Hıyârât’dan  âhir-i kitâba dek. Bi-hattı Ömer bin Muhammed bin Ebû Bekir. Semerkandî rubʿundan kırılmış. Sarı cildli. Üç yüz kırk altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "16a",
+     "created_at": "2024-04-22T12:23:15.679734Z",
+     "updated_at": "2025-09-02T15:45:43.445148Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 993,
+     "kodikolojik_bilgi": 636
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 261,
+    "koleksiyon_numarasi": "02423",
+    "nusha": "",
+    "created_at": "2024-12-29T09:48:10.261818Z",
+    "updated_at": "2024-12-29T09:48:10.261836Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2702,
+     "tam_metin": "[65] Kitâb-ı Fusûl-i Üstrûşenî. el-Faslu’t-Tâsiʿ Aşer fî Aksâmi’l-Hıyârât’dan  âhir-i kitâba dek. Bi-hattı Ömer bin Muhammed bin Ebû Bekir. Semerkandî rubʿundan kırılmış. Sarı cildli. Üç yüz kırk altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "16a",
+     "created_at": "2024-04-22T12:23:15.679734Z",
+     "updated_at": "2025-09-02T15:45:43.445148Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 993,
+     "kodikolojik_bilgi": 636
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 993,
+  "bilgi_set": [
+   {
+    "id": 636,
+    "murekkep_set": [
+     {
+      "id": 514,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 636
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 305,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 636
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Sarı cilt",
+    "cild_materyal": "",
+    "varak_adedi": "346",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Rub'undan kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T15:45:43.438808Z",
+    "updated_at": "2025-09-02T15:45:43.439284Z",
+    "kayit": {
+     "id": 2702,
+     "tam_metin": "[65] Kitâb-ı Fusûl-i Üstrûşenî. el-Faslu’t-Tâsiʿ Aşer fî Aksâmi’l-Hıyârât’dan  âhir-i kitâba dek. Bi-hattı Ömer bin Muhammed bin Ebû Bekir. Semerkandî rubʿundan kırılmış. Sarı cildli. Üç yüz kırk altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "16a",
+     "created_at": "2024-04-22T12:23:15.679734Z",
+     "updated_at": "2025-09-02T15:45:43.445148Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 993,
+     "kodikolojik_bilgi": 636
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[65] Kitâb-ı Fusûl-i Üstrûşenî. el-Faslu’t-Tâsiʿ Aşer fî Aksâmi’l-Hıyârât’dan  âhir-i kitâba dek. Bi-hattı Ömer bin Muhammed bin Ebû Bekir. Semerkandî rubʿundan kırılmış. Sarı cildli. Üç yüz kırk altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "16a",
+  "created_at": "2024-04-22T12:23:15.679734Z",
+  "updated_at": "2025-09-02T15:45:43.445148Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 636,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Sarı cilt",
+   "cild_materyal": "",
+   "varak_adedi": "346",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Rub'undan kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T15:45:43.438808Z",
+   "updated_at": "2025-09-02T15:45:43.439284Z",
+   "kayit": 2702,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[120] Kitâbü’l-Cildi’s-Sâlis eydan min Fusûli’l-Üstrûşenî. Min evveli’l-Fasli’t-Tâsiʿ Aşer fî Aksâmi’l-Cenâzât  ilâ âhiri’l-kitâb. Bi-hattı Ömer bin Muhammed bin Ebû Bekir. Semerkandî rubʿundan kırılmış. Sarı cildle. Vakf-ı Sultânî. Üç yüz kırk altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "19b",
+ "created_at": "2024-02-10T12:42:11.042593Z",
+ "updated_at": "2024-09-18T13:36:30.288854Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 255,
+  "isim": "Ömer bin Muhammed bin Ebû Bekir",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-09-11T10:40:30.993550Z",
+  "updated_at": "2024-09-11T10:40:30.993570Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

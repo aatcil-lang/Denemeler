@@ -1,0 +1,248 @@
+{
+ "id": 950,
+ "kitap_set": [
+  {
+   "id": 946,
+   "isim": "Kitâb-ı Mecma‘u’l-Fetâvâ.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:53.096522Z",
+   "updated_at": "2025-04-06T19:20:18.853605Z",
+   "yazar": null,
+   "kayit": {
+    "id": 950,
+    "tam_metin": "[77] Kitâb-ı Mecmaʿu’l-Fetâvâ eydan. Tamâm. Fî evvelihî besmeletün şerîfetün mektûbetün bi-kalemi’s-sülüs bi’l-midâdi’l-esved ve baʿzuhû musahhah ve muhaşşâ. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz seksen beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "18a",
+    "created_at": "2024-02-10T12:41:52.840242Z",
+    "updated_at": "2024-09-19T12:47:20.535450Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2740,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2740,
+  "kitap_set": [
+   {
+    "id": 2723,
+    "isim": "Kitâb-ı Mecmau’l-Fetâvâ.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:31.856916Z",
+    "updated_at": "2025-04-06T19:20:13.198792Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2740,
+     "tam_metin": "[103] Kitâb-ı Mecmaʿu’l-Fetâvâ. Tamâm. Evvelinde besmelesi siyâh mürekkeble sülüs hatla yazılmış. Câ-be-câ tahşiye olunmuş. Dimeşkī tamâmına. Ciğerî cildli. İki yüz seksen beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "17b",
+     "created_at": "2024-04-22T12:23:31.596577Z",
+     "updated_at": "2025-09-03T00:02:57.721797Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 950,
+     "kodikolojik_bilgi": 674
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 294,
+    "koleksiyon_numarasi": "02462",
+    "nusha": "",
+    "created_at": "2025-01-11T11:14:21.922061Z",
+    "updated_at": "2025-01-11T11:14:21.922077Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2740,
+     "tam_metin": "[103] Kitâb-ı Mecmaʿu’l-Fetâvâ. Tamâm. Evvelinde besmelesi siyâh mürekkeble sülüs hatla yazılmış. Câ-be-câ tahşiye olunmuş. Dimeşkī tamâmına. Ciğerî cildli. İki yüz seksen beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "17b",
+     "created_at": "2024-04-22T12:23:31.596577Z",
+     "updated_at": "2025-09-03T00:02:57.721797Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 950,
+     "kodikolojik_bilgi": 674
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 950,
+  "bilgi_set": [
+   {
+    "id": 674,
+    "murekkep_set": [
+     {
+      "id": 552,
+      "renk": "siyah",
+      "ilgili_ibare": "Evvelinde besmelesi siyâh mürekkeble yazılmış",
+      "kodikolojik_bilgi": 674
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 343,
+      "hatt_turu": "Sülüs",
+      "hatt_sekli": "",
+      "aciklama": "Evvelinde besmelesi sülüs hatla yazılmış",
+      "kodikolojik_bilgi": 674
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "285",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-03T00:02:57.711065Z",
+    "updated_at": "2025-09-03T00:02:57.711091Z",
+    "kayit": {
+     "id": 2740,
+     "tam_metin": "[103] Kitâb-ı Mecmaʿu’l-Fetâvâ. Tamâm. Evvelinde besmelesi siyâh mürekkeble sülüs hatla yazılmış. Câ-be-câ tahşiye olunmuş. Dimeşkī tamâmına. Ciğerî cildli. İki yüz seksen beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "17b",
+     "created_at": "2024-04-22T12:23:31.596577Z",
+     "updated_at": "2025-09-03T00:02:57.721797Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 950,
+     "kodikolojik_bilgi": 674
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[103] Kitâb-ı Mecmaʿu’l-Fetâvâ. Tamâm. Evvelinde besmelesi siyâh mürekkeble sülüs hatla yazılmış. Câ-be-câ tahşiye olunmuş. Dimeşkī tamâmına. Ciğerî cildli. İki yüz seksen beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "17b",
+  "created_at": "2024-04-22T12:23:31.596577Z",
+  "updated_at": "2025-09-03T00:02:57.721797Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 674,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "285",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-03T00:02:57.711065Z",
+   "updated_at": "2025-09-03T00:02:57.711091Z",
+   "kayit": 2740,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[77] Kitâb-ı Mecmaʿu’l-Fetâvâ eydan. Tamâm. Fî evvelihî besmeletün şerîfetün mektûbetün bi-kalemi’s-sülüs bi’l-midâdi’l-esved ve baʿzuhû musahhah ve muhaşşâ. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz seksen beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "18a",
+ "created_at": "2024-02-10T12:41:52.840242Z",
+ "updated_at": "2024-09-19T12:47:20.535450Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

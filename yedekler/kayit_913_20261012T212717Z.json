@@ -1,0 +1,248 @@
+{
+ "id": 913,
+ "kitap_set": [
+  {
+   "id": 909,
+   "isim": "Kitâbü’l-Cildi’l-Evvel min Gāyeti’l-Beyân.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:37.462072Z",
+   "updated_at": "2025-04-06T19:20:18.968696Z",
+   "yazar": null,
+   "kayit": {
+    "id": 913,
+    "tam_metin": "[40] Kitâbü’l-Cildi’l-Evvel min Gāyeti’l-Beyân. İlâ evveli Bâbi Sübûti’n-Neseb. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Dört yüz otuz sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "16b",
+    "created_at": "2024-02-10T12:41:37.202066Z",
+    "updated_at": "2024-09-24T15:22:26.108655Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2955,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2955,
+  "kitap_set": [
+   {
+    "id": 2937,
+    "isim": "Kitâb-ı Gāyetü’l-Beyân.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:25:02.681290Z",
+    "updated_at": "2025-04-06T19:20:12.590025Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2955,
+     "tam_metin": "[318] Kitâb-ı Gāyetü’l-Beyân. Evvelinden Bâb-ı Sübût-i Neseb’e dek. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. Dört yüz otuz sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "25b",
+     "created_at": "2024-04-22T12:25:02.415862Z",
+     "updated_at": "2025-09-10T12:16:38.993141Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 913,
+     "kodikolojik_bilgi": 892
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 467,
+    "koleksiyon_numarasi": "01945",
+    "nusha": "",
+    "created_at": "2025-01-12T21:50:43.447268Z",
+    "updated_at": "2025-01-12T21:50:43.447282Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2955,
+     "tam_metin": "[318] Kitâb-ı Gāyetü’l-Beyân. Evvelinden Bâb-ı Sübût-i Neseb’e dek. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. Dört yüz otuz sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "25b",
+     "created_at": "2024-04-22T12:25:02.415862Z",
+     "updated_at": "2025-09-10T12:16:38.993141Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 913,
+     "kodikolojik_bilgi": 892
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 913,
+  "bilgi_set": [
+   {
+    "id": 892,
+    "murekkep_set": [
+     {
+      "id": 770,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 892
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 560,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 892
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "438",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T12:16:38.987167Z",
+    "updated_at": "2025-09-10T12:16:38.987533Z",
+    "kayit": {
+     "id": 2955,
+     "tam_metin": "[318] Kitâb-ı Gāyetü’l-Beyân. Evvelinden Bâb-ı Sübût-i Neseb’e dek. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. Dört yüz otuz sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "25b",
+     "created_at": "2024-04-22T12:25:02.415862Z",
+     "updated_at": "2025-09-10T12:16:38.993141Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 913,
+     "kodikolojik_bilgi": 892
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[318] Kitâb-ı Gāyetü’l-Beyân. Evvelinden Bâb-ı Sübût-i Neseb’e dek. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. Dört yüz otuz sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "25b",
+  "created_at": "2024-04-22T12:25:02.415862Z",
+  "updated_at": "2025-09-10T12:16:38.993141Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 892,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "438",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-10T12:16:38.987167Z",
+   "updated_at": "2025-09-10T12:16:38.987533Z",
+   "kayit": 2955,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[40] Kitâbü’l-Cildi’l-Evvel min Gāyeti’l-Beyân. İlâ evveli Bâbi Sübûti’n-Neseb. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Dört yüz otuz sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "16b",
+ "created_at": "2024-02-10T12:41:37.202066Z",
+ "updated_at": "2024-09-24T15:22:26.108655Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

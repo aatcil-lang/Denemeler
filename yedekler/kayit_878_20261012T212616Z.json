@@ -1,0 +1,260 @@
+{
+ "id": 878,
+ "kitap_set": [
+  {
+   "id": 874,
+   "isim": "Kitâbü’l-Cildi’l-Hâmis mine’z-Zahîre.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:22.817748Z",
+   "updated_at": "2025-04-06T19:20:19.076246Z",
+   "yazar": {
+    "id": 213,
+    "isim": "Ebü’l-Abbâs Şihâbüddîn Ahmed b. İdrîs b. Abdirrahmân el-Mısrî el-Karâfî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-03T22:14:58.675323Z",
+    "updated_at": "2024-09-03T22:14:58.675339Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 878,
+    "tam_metin": "[5] Kitâbü’l-Cildi’l-Hâmis mine’z-Zahîre eydan. Min evveli’l-Fasli’s-Sâbiʿ fi’ş-Şurûti’lletî Tüfsidü’l-Beyʿa ve’lletî lâ Tüfsidü ilâ kavlihî في أول إجارة الدوابّ mine’l-Fasli’s-Sâdisi fi’l-Mesâʾili’lletî Teteʿalleku bi-Reddi’l-Müsteʾciri ale’l-Mâlik. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz doksan beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "15a",
+    "created_at": "2024-02-10T12:41:22.556034Z",
+    "updated_at": "2024-09-03T22:22:11.885117Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2640,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2640,
+  "kitap_set": [
+   {
+    "id": 2623,
+    "isim": "Kitâb-ı Zahîra.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:22:49.741062Z",
+    "updated_at": "2025-04-06T19:20:13.506821Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2640,
+     "tam_metin": "[3] Kitâb-ı Zahîra. el-Faslu’s-Sâbiʿ fi’ş-Şurûti’lletî Tüfsidü’l-Beyʿa ve’lletî lâ Tüfsidü faslından el-Faslu’s-Sâdis fî Mesâʾili’lletî Teteʿalleku bi-Reddi’l-Müsteʾciri ale’l-Mâliki faslında في أول إجارة الدواب ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-04-22T12:22:49.476390Z",
+     "updated_at": "2025-09-02T11:40:16.984759Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 878,
+     "kodikolojik_bilgi": 574
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 216,
+    "koleksiyon_numarasi": "02315",
+    "nusha": "",
+    "created_at": "2024-12-28T14:09:58.803491Z",
+    "updated_at": "2024-12-28T14:09:58.803507Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2640,
+     "tam_metin": "[3] Kitâb-ı Zahîra. el-Faslu’s-Sâbiʿ fi’ş-Şurûti’lletî Tüfsidü’l-Beyʿa ve’lletî lâ Tüfsidü faslından el-Faslu’s-Sâdis fî Mesâʾili’lletî Teteʿalleku bi-Reddi’l-Müsteʾciri ale’l-Mâliki faslında في أول إجارة الدواب ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-04-22T12:22:49.476390Z",
+     "updated_at": "2025-09-02T11:40:16.984759Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 878,
+     "kodikolojik_bilgi": 574
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 878,
+  "bilgi_set": [
+   {
+    "id": 574,
+    "murekkep_set": [
+     {
+      "id": 452,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 574
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 243,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 574
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "295",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T11:40:16.979863Z",
+    "updated_at": "2025-09-02T11:40:16.979887Z",
+    "kayit": {
+     "id": 2640,
+     "tam_metin": "[3] Kitâb-ı Zahîra. el-Faslu’s-Sâbiʿ fi’ş-Şurûti’lletî Tüfsidü’l-Beyʿa ve’lletî lâ Tüfsidü faslından el-Faslu’s-Sâdis fî Mesâʾili’lletî Teteʿalleku bi-Reddi’l-Müsteʾciri ale’l-Mâliki faslında في أول إجارة الدواب ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-04-22T12:22:49.476390Z",
+     "updated_at": "2025-09-02T11:40:16.984759Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 878,
+     "kodikolojik_bilgi": 574
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[3] Kitâb-ı Zahîra. el-Faslu’s-Sâbiʿ fi’ş-Şurûti’lletî Tüfsidü’l-Beyʿa ve’lletî lâ Tüfsidü faslından el-Faslu’s-Sâdis fî Mesâʾili’lletî Teteʿalleku bi-Reddi’l-Müsteʾciri ale’l-Mâliki faslında في أول إجارة الدواب ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. İki yüz doksan beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "14a",
+  "created_at": "2024-04-22T12:22:49.476390Z",
+  "updated_at": "2025-09-02T11:40:16.984759Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 574,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "295",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T11:40:16.979863Z",
+   "updated_at": "2025-09-02T11:40:16.979887Z",
+   "kayit": 2640,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[5] Kitâbü’l-Cildi’l-Hâmis mine’z-Zahîre eydan. Min evveli’l-Fasli’s-Sâbiʿ fi’ş-Şurûti’lletî Tüfsidü’l-Beyʿa ve’lletî lâ Tüfsidü ilâ kavlihî في أول إجارة الدوابّ mine’l-Fasli’s-Sâdisi fi’l-Mesâʾili’lletî Teteʿalleku bi-Reddi’l-Müsteʾciri ale’l-Mâlik. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz doksan beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "15a",
+ "created_at": "2024-02-10T12:41:22.556034Z",
+ "updated_at": "2024-09-03T22:22:11.885117Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,260 @@
+{
+ "id": 877,
+ "kitap_set": [
+  {
+   "id": 873,
+   "isim": "Kitâbü’l-Cildi’r-Râbi‘ mine’z-Zahîre.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:22.400081Z",
+   "updated_at": "2025-04-06T19:20:19.078998Z",
+   "yazar": {
+    "id": 213,
+    "isim": "Ebü’l-Abbâs Şihâbüddîn Ahmed b. İdrîs b. Abdirrahmân el-Mısrî el-Karâfî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-03T22:14:58.675323Z",
+    "updated_at": "2024-09-03T22:14:58.675339Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 877,
+    "tam_metin": "[4] Kitâbü’l-Cildi’r-Râbiʿ mine’z-Zahîre eydan. Min evveli Kitâbi’l-İstihsân ile’l-Fasli’s-Sâbiʿ fi’ş-Şurûti’lletî Tüfsidü’l-Beyʿa ve’lletî lâ Tüfsidü. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz yetmiş altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "15a",
+    "created_at": "2024-02-10T12:41:22.139959Z",
+    "updated_at": "2024-09-12T12:30:52.762858Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2643,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2643,
+  "kitap_set": [
+   {
+    "id": 2626,
+    "isim": "Kitâb-ı Zahîra.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:22:51.022744Z",
+    "updated_at": "2025-04-06T19:20:13.498196Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2643,
+     "tam_metin": "[6] Kitâb-ı Zahîra. Kitâbü’l-İstihsân’dan el-Faslu’s-Sâbiʿ fi’ş-Şurûti’lletî Tüfsidü’l-Beyʿa ve’lletî lâ Tüfsidü faslına dek. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. İki yüz yetmiş altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-04-22T12:22:50.760918Z",
+     "updated_at": "2025-09-02T11:42:58.465184Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 877,
+     "kodikolojik_bilgi": 577
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 219,
+    "koleksiyon_numarasi": "02314",
+    "nusha": "",
+    "created_at": "2024-12-28T14:12:21.558833Z",
+    "updated_at": "2024-12-28T14:12:21.558849Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2643,
+     "tam_metin": "[6] Kitâb-ı Zahîra. Kitâbü’l-İstihsân’dan el-Faslu’s-Sâbiʿ fi’ş-Şurûti’lletî Tüfsidü’l-Beyʿa ve’lletî lâ Tüfsidü faslına dek. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. İki yüz yetmiş altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-04-22T12:22:50.760918Z",
+     "updated_at": "2025-09-02T11:42:58.465184Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 877,
+     "kodikolojik_bilgi": 577
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 877,
+  "bilgi_set": [
+   {
+    "id": 577,
+    "murekkep_set": [
+     {
+      "id": 455,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 577
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 246,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 577
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "276",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T11:42:58.460990Z",
+    "updated_at": "2025-09-02T11:42:58.461006Z",
+    "kayit": {
+     "id": 2643,
+     "tam_metin": "[6] Kitâb-ı Zahîra. Kitâbü’l-İstihsân’dan el-Faslu’s-Sâbiʿ fi’ş-Şurûti’lletî Tüfsidü’l-Beyʿa ve’lletî lâ Tüfsidü faslına dek. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. İki yüz yetmiş altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-04-22T12:22:50.760918Z",
+     "updated_at": "2025-09-02T11:42:58.465184Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 877,
+     "kodikolojik_bilgi": 577
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[6] Kitâb-ı Zahîra. Kitâbü’l-İstihsân’dan el-Faslu’s-Sâbiʿ fi’ş-Şurûti’lletî Tüfsidü’l-Beyʿa ve’lletî lâ Tüfsidü faslına dek. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildli. İki yüz yetmiş altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "14a",
+  "created_at": "2024-04-22T12:22:50.760918Z",
+  "updated_at": "2025-09-02T11:42:58.465184Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 577,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "276",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T11:42:58.460990Z",
+   "updated_at": "2025-09-02T11:42:58.461006Z",
+   "kayit": 2643,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[4] Kitâbü’l-Cildi’r-Râbiʿ mine’z-Zahîre eydan. Min evveli Kitâbi’l-İstihsân ile’l-Fasli’s-Sâbiʿ fi’ş-Şurûti’lletî Tüfsidü’l-Beyʿa ve’lletî lâ Tüfsidü. Dimeşkī tamâmına. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz yetmiş altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "15a",
+ "created_at": "2024-02-10T12:41:22.139959Z",
+ "updated_at": "2024-09-12T12:30:52.762858Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

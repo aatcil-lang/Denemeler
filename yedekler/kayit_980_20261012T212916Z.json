@@ -1,0 +1,260 @@
+{
+ "id": 980,
+ "kitap_set": [
+  {
+   "id": 976,
+   "isim": "Kitâbü’l-Cildi’l-Evvel min Fetâvâ Tâtarcân [Tatarhân].",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:42:05.678570Z",
+   "updated_at": "2025-04-06T19:20:18.753609Z",
+   "yazar": {
+    "id": 244,
+    "isim": "Tatarhân, Ferîdüddin Âlim b. Alâ el-Enderpetî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-10T17:48:43.888249Z",
+    "updated_at": "2024-09-10T17:48:43.888265Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 980,
+    "tam_metin": "[107] Kitâbü’l-Cildi’l-Evvel min Fetâvâ Tâtarcân.  İlâ âhiri kavlihî روي عن محمد أنه لا يجوز الإقالة في الصرف mine’l-Fasli’s-Sâlis ve’l-Işrûn fi’s-Sarfi ve’l-Meʿâdin ve Turâbi’s-Savvâgīn. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Yedi yüz altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "19a",
+    "created_at": "2024-02-10T12:42:05.417304Z",
+    "updated_at": "2024-09-19T15:19:08.563244Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2799,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1069,
+   "koleksiyon_numarasi": "2367",
+   "nusha": "https://portal.yek.gov.tr/works/detail/240142",
+   "created_at": "2026-05-01T23:05:25.248306Z",
+   "updated_at": "2026-05-01T23:05:25.248318Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 980,
+    "tam_metin": "[107] Kitâbü’l-Cildi’l-Evvel min Fetâvâ Tâtarcân.  İlâ âhiri kavlihî روي عن محمد أنه لا يجوز الإقالة في الصرف mine’l-Fasli’s-Sâlis ve’l-Işrûn fi’s-Sarfi ve’l-Meʿâdin ve Turâbi’s-Savvâgīn. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Yedi yüz altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+    "notlar": "",
+    "sayfa_numarasi": "19a",
+    "created_at": "2024-02-10T12:42:05.417304Z",
+    "updated_at": "2024-09-19T15:19:08.563244Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2799,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 2799,
+  "kitap_set": [
+   {
+    "id": 2782,
+    "isim": "Kitâb-ı Fetâvâ[-yı] Tatarhâniyye.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:23:56.183148Z",
+    "updated_at": "2025-04-06T19:20:13.037484Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2799,
+     "tam_metin": "[162] Kitâb-ı Fetâvâ Tatarhâniyye. Evvelinden el-Faslu’s-Sâlis ve’l-Işrûn fi’s-Sarf ve’l-Meʿâdin ve Türâbi’s-Savvâgīn faslında وروي عن محمد أنه لا يجوز الإقالة في الصرف ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. Yedi yüz altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "19b",
+     "created_at": "2024-04-22T12:23:55.917824Z",
+     "updated_at": "2025-09-03T09:54:12.775159Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 980,
+     "kodikolojik_bilgi": 733
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 980,
+  "bilgi_set": [
+   {
+    "id": 733,
+    "murekkep_set": [
+     {
+      "id": 611,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 733
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 402,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 733
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "706",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-03T09:54:12.759781Z",
+    "updated_at": "2025-09-03T09:54:12.762184Z",
+    "kayit": {
+     "id": 2799,
+     "tam_metin": "[162] Kitâb-ı Fetâvâ Tatarhâniyye. Evvelinden el-Faslu’s-Sâlis ve’l-Işrûn fi’s-Sarf ve’l-Meʿâdin ve Türâbi’s-Savvâgīn faslında وروي عن محمد أنه لا يجوز الإقالة في الصرف ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. Yedi yüz altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+     "notlar": "",
+     "sayfa_numarasi": "19b",
+     "created_at": "2024-04-22T12:23:55.917824Z",
+     "updated_at": "2025-09-03T09:54:12.775159Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 980,
+     "kodikolojik_bilgi": 733
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[162] Kitâb-ı Fetâvâ Tatarhâniyye. Evvelinden el-Faslu’s-Sâlis ve’l-Işrûn fi’s-Sarf ve’l-Meʿâdin ve Türâbi’s-Savvâgīn faslında وروي عن محمد أنه لا يجوز الإقالة في الصرف ibâretine dek. Dimeşkī tamâmına. Ciğerî cildli. Yedi yüz altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+  "notlar": "",
+  "sayfa_numarasi": "19b",
+  "created_at": "2024-04-22T12:23:55.917824Z",
+  "updated_at": "2025-09-03T09:54:12.775159Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 733,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "706",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-03T09:54:12.759781Z",
+   "updated_at": "2025-09-03T09:54:12.762184Z",
+   "kayit": 2799,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[107] Kitâbü’l-Cildi’l-Evvel min Fetâvâ Tâtarcân.  İlâ âhiri kavlihî روي عن محمد أنه لا يجوز الإقالة في الصرف mine’l-Fasli’s-Sâlis ve’l-Işrûn fi’s-Sarfi ve’l-Meʿâdin ve Turâbi’s-Savvâgīn. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. Yedi yüz altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+ "notlar": "",
+ "sayfa_numarasi": "19a",
+ "created_at": "2024-02-10T12:42:05.417304Z",
+ "updated_at": "2024-09-19T15:19:08.563244Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
