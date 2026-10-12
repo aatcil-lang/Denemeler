@@ -1,0 +1,327 @@
+{
+ "id": 2596,
+ "kitap_set": [
+  {
+   "id": 2579,
+   "isim": "Kitâbü’t-Tahkīk.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:22:30.916784Z",
+   "updated_at": "2025-04-06T19:20:13.641735Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2596,
+    "tam_metin": "[46] Kitâbü’t-Tahkīk. Bi-hattı İsâ bin Muhammed. Dimeşkī tamâmına. Siyâh cildli. İki yüz elli altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "12a",
+    "created_at": "2024-04-22T12:22:30.646749Z",
+    "updated_at": "2025-09-02T09:02:59.656625Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 850,
+    "kodikolojik_bilgi": 529
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 181,
+   "koleksiyon_numarasi": "01315",
+   "nusha": "",
+   "created_at": "2024-12-28T12:53:04.621788Z",
+   "updated_at": "2024-12-28T12:53:04.621805Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2596,
+    "tam_metin": "[46] Kitâbü’t-Tahkīk. Bi-hattı İsâ bin Muhammed. Dimeşkī tamâmına. Siyâh cildli. İki yüz elli altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "12a",
+    "created_at": "2024-04-22T12:22:30.646749Z",
+    "updated_at": "2025-09-02T09:02:59.656625Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 850,
+    "kodikolojik_bilgi": 529
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 850,
+  "kitap_set": [
+   {
+    "id": 846,
+    "isim": "Kitâbü’t-Tahkīk.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:41:11.051624Z",
+    "updated_at": "2025-04-06T19:20:19.152231Z",
+    "yazar": null,
+    "kayit": {
+     "id": 850,
+     "tam_metin": "[75] Kitâbü’t-Tahkīk eydan. Bi-hattı Îsâ bin Muhammed. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Sultânî. İki yüz elli altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-02-10T12:41:10.793357Z",
+     "updated_at": "2026-10-12T21:25:28.440458Z",
+     "vakif": 1,
+     "mustensih": 195,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2596,
+     "kodikolojik_bilgi": 1613
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2596,
+  "bilgi_set": [
+   {
+    "id": 1613,
+    "murekkep_set": [
+     {
+      "id": 1496,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1613
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1288,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1613
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "256",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:25:28.436505Z",
+    "updated_at": "2026-10-12T21:25:28.436522Z",
+    "kayit": {
+     "id": 850,
+     "tam_metin": "[75] Kitâbü’t-Tahkīk eydan. Bi-hattı Îsâ bin Muhammed. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Sultânî. İki yüz elli altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "14a",
+     "created_at": "2024-02-10T12:41:10.793357Z",
+     "updated_at": "2026-10-12T21:25:28.440458Z",
+     "vakif": 1,
+     "mustensih": 195,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2596,
+     "kodikolojik_bilgi": 1613
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[75] Kitâbü’t-Tahkīk eydan. Bi-hattı Îsâ bin Muhammed. Dimeşkī tamâmına. Siyâh cildle. Vakf-ı Sultânî. İki yüz elli altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "14a",
+  "created_at": "2024-02-10T12:41:10.793357Z",
+  "updated_at": "2026-10-12T21:25:28.440458Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 195,
+   "isim": "Îsâ bin Muhammed",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-02T23:22:52.915782Z",
+   "updated_at": "2024-09-02T23:22:52.915797Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1613,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "256",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:25:28.436505Z",
+   "updated_at": "2026-10-12T21:25:28.436522Z",
+   "kayit": 850,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 529,
+   "murekkep_set": [
+    {
+     "id": 407,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 529
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 198,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 529
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "256",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T09:02:59.646355Z",
+   "updated_at": "2025-09-02T09:02:59.646373Z",
+   "kayit": {
+    "id": 2596,
+    "tam_metin": "[46] Kitâbü’t-Tahkīk. Bi-hattı İsâ bin Muhammed. Dimeşkī tamâmına. Siyâh cildli. İki yüz elli altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "12a",
+    "created_at": "2024-04-22T12:22:30.646749Z",
+    "updated_at": "2025-09-02T09:02:59.656625Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 850,
+    "kodikolojik_bilgi": 529
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[46] Kitâbü’t-Tahkīk. Bi-hattı İsâ bin Muhammed. Dimeşkī tamâmına. Siyâh cildli. İki yüz elli altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "12a",
+ "created_at": "2024-04-22T12:22:30.646749Z",
+ "updated_at": "2025-09-02T09:02:59.656625Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 529,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Siyah cilt",
+  "cild_materyal": "",
+  "varak_adedi": "256",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-02T09:02:59.646355Z",
+  "updated_at": "2025-09-02T09:02:59.646373Z",
+  "kayit": 2596,
+  "created_by": null
+ }
+}
