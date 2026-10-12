@@ -116,3 +116,15 @@ Dayanak: katalogdaki “Vakf-ı …” ibaresi (Halebîzâde için katalog böl�
   - #434 Kādızâde: vâkıf 137, yazar 0.
   - #564 Kādızâde-i Rûmî: yazar 4 (Şerh-i Çağmînî, Şerhü’l-Çağmînî, Şerhu Eşkâli’t-Teʾsîs, Havâşî Şerhi Eşkâli’t-Teʾsîs), vâkıf 0.
   - Şahıs sayısı 720'de, kaynak sayısı 3'te kaldı.
+
+## 12.10.2026 — Geliştirici düzeltmelerinin doğrulanması
+- **3. madde (DEBUG):** Düzelmiş. 404 sayfaları artık sade “Not Found” döndürüyor; URL listesi ve kod gösterilmiyor.
+- **5. madde:** Düzelmiş. `OPTIONS` istekleri 200 dönüyor. `page_size=5000` isteği 200 dönüyor; yanıt 1000 kayıtla sınırlanmış ve 13 saniye sürdü.
+- **4. madde (filtre):** Düzelmiş. Arayüz artık `/api/sahislar/?isim=…&rol=…` adresini kullanıyor.
+  - “kadizade”, “kadızâde” ve “Kādızâde” aramalarının üçü de `rol=vakif` ile yalnızca #434'ü getiriyor.
+  - Aynı arama `rol=yazar` ile yalnızca #564'ü getiriyor.
+- **1. madde (güncellemenin alan silmesi):** Düzelmiş.
+  - Test: #3545'e yalnızca `bolum_basligi` mevcut değeriyle gönderildi. Hiçbir alan değişmedi; tür, vâkıf ve kaynak korundu.
+  - Düz kimlik numarasıyla (`{"vakif": 12}`) gönderilen istek de artık 200 dönüyor ve hiçbir şey değişmiyor.
+  - Test öncesi yedek: `kayit_3545_*_test.json`.
+- **2. madde (Şahıs Ekle):** Test edilmedi. Test, veritabanında deneme amaçlı bir şahıs kaydı oluşturmayı gerektiriyor.
