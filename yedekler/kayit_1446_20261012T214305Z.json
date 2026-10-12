@@ -1,0 +1,248 @@
+{
+ "id": 1446,
+ "kitap_set": [
+  {
+   "id": 1441,
+   "isim": "Kitâbü’l-Keşşâf (Sûre-i Hicr’den Sûre-i Müʾminîn âhirine dek).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:31.101447Z",
+   "updated_at": "2025-04-06T19:20:17.122791Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1446,
+    "tam_metin": "[13] Kitâbü’l-Keşşâf. Sûre-i Hicr’den Sûre-i Müʾminîn âhirine dek. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildle. Vakf-ı Hatîb-i Antalya. İki yüz elli dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "40a",
+    "created_at": "2024-02-10T12:45:30.827798Z",
+    "updated_at": "2026-01-31T10:48:54.946126Z",
+    "vakif": 764,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3628,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3628,
+  "kitap_set": [
+   {
+    "id": 3607,
+    "isim": "Kitâb-ı Keşşâf.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:46:11.881815Z",
+    "updated_at": "2025-04-06T19:20:10.672935Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3628,
+     "tam_metin": "[42] Kitâb-ı Keşşâf. Sûre-i Hicr’den Sûre-i Müʾminîn âhirine dek. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildli. Vakf-ı Hatîb-i Antaliyye. İki yüz elli dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "52a",
+     "created_at": "2024-04-22T12:46:11.616155Z",
+     "updated_at": "2026-01-31T10:48:42.200603Z",
+     "vakif": 764,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1446,
+     "kodikolojik_bilgi": 1521
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 870,
+    "koleksiyon_numarasi": "00382",
+    "nusha": "",
+    "created_at": "2025-01-16T01:41:38.558840Z",
+    "updated_at": "2025-01-16T01:41:38.558854Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3628,
+     "tam_metin": "[42] Kitâb-ı Keşşâf. Sûre-i Hicr’den Sûre-i Müʾminîn âhirine dek. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildli. Vakf-ı Hatîb-i Antaliyye. İki yüz elli dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "52a",
+     "created_at": "2024-04-22T12:46:11.616155Z",
+     "updated_at": "2026-01-31T10:48:42.200603Z",
+     "vakif": 764,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1446,
+     "kodikolojik_bilgi": 1521
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1446,
+  "bilgi_set": [
+   {
+    "id": 1521,
+    "murekkep_set": [
+     {
+      "id": 1401,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1521
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1187,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1521
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Köhne ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "254",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-02T06:55:20.794604Z",
+    "updated_at": "2025-10-02T06:55:20.794622Z",
+    "kayit": {
+     "id": 3628,
+     "tam_metin": "[42] Kitâb-ı Keşşâf. Sûre-i Hicr’den Sûre-i Müʾminîn âhirine dek. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildli. Vakf-ı Hatîb-i Antaliyye. İki yüz elli dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "52a",
+     "created_at": "2024-04-22T12:46:11.616155Z",
+     "updated_at": "2026-01-31T10:48:42.200603Z",
+     "vakif": 764,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1446,
+     "kodikolojik_bilgi": 1521
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[42] Kitâb-ı Keşşâf. Sûre-i Hicr’den Sûre-i Müʾminîn âhirine dek. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildli. Vakf-ı Hatîb-i Antaliyye. İki yüz elli dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "52a",
+  "created_at": "2024-04-22T12:46:11.616155Z",
+  "updated_at": "2026-01-31T10:48:42.200603Z",
+  "vakif": {
+   "id": 764,
+   "isim": "Hatîb-i Antaliyye",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:48:42.191487Z",
+   "updated_at": "2026-01-31T10:48:42.191513Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1521,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Köhne ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "254",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-02T06:55:20.794604Z",
+   "updated_at": "2025-10-02T06:55:20.794622Z",
+   "kayit": 3628,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[13] Kitâbü’l-Keşşâf. Sûre-i Hicr’den Sûre-i Müʾminîn âhirine dek. Dimeşkī tamâmından kırılmış. Köhne ciğerî cildle. Vakf-ı Hatîb-i Antalya. İki yüz elli dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "40a",
+ "created_at": "2024-02-10T12:45:30.827798Z",
+ "updated_at": "2026-01-31T10:48:54.946126Z",
+ "vakif": {
+  "id": 764,
+  "isim": "Hatîb-i Antaliyye",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:48:42.191487Z",
+  "updated_at": "2026-01-31T10:48:42.191513Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

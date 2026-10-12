@@ -1,0 +1,123 @@
+{
+ "id": 1442,
+ "kitap_set": [
+  {
+   "id": 1437,
+   "isim": "Kitâbü’l-Keşşâf (Min evveli’l-Kurʾâni’l-Azîm ilâ âhiri Sûreti’l-Ahzâb).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:29.295542Z",
+   "updated_at": "2025-04-06T19:20:17.133907Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1442,
+    "tam_metin": "[9] Kitâbü’l-Keşşâf. Min evveli’l-Kurʾâni’l-Azîm ilâ âhiri Sûreti’l-Ahzâb. Ciğerî sahtiyân cildle. Cildinin mıklebi yokdur. Semerkandî kâğıd ile büyük? kıtʿalı. Nesih celî ve vâzıh hatla. Âhirinde kâtibinin ismi yazılmış “Nasrullâh bin Muhammed bin Ebû Abdullâh” deyu. Vakf-ı Kādîzâde. Dört yüz kırk sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "40a",
+    "created_at": "2024-02-10T12:45:29.016830Z",
+    "updated_at": "2026-04-23T13:40:59.192122Z",
+    "vakif": 434,
+    "mustensih": 437,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1193,
+   "koleksiyon_numarasi": "340",
+   "nusha": "",
+   "created_at": "2026-08-21T00:24:25.764424Z",
+   "updated_at": "2026-08-21T00:24:25.764442Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1442,
+    "tam_metin": "[9] Kitâbü’l-Keşşâf. Min evveli’l-Kurʾâni’l-Azîm ilâ âhiri Sûreti’l-Ahzâb. Ciğerî sahtiyân cildle. Cildinin mıklebi yokdur. Semerkandî kâğıd ile büyük? kıtʿalı. Nesih celî ve vâzıh hatla. Âhirinde kâtibinin ismi yazılmış “Nasrullâh bin Muhammed bin Ebû Abdullâh” deyu. Vakf-ı Kādîzâde. Dört yüz kırk sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "40a",
+    "created_at": "2024-02-10T12:45:29.016830Z",
+    "updated_at": "2026-04-23T13:40:59.192122Z",
+    "vakif": 434,
+    "mustensih": 437,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[9] Kitâbü’l-Keşşâf. Min evveli’l-Kurʾâni’l-Azîm ilâ âhiri Sûreti’l-Ahzâb. Ciğerî sahtiyân cildle. Cildinin mıklebi yokdur. Semerkandî kâğıd ile büyük? kıtʿalı. Nesih celî ve vâzıh hatla. Âhirinde kâtibinin ismi yazılmış “Nasrullâh bin Muhammed bin Ebû Abdullâh” deyu. Vakf-ı Kādîzâde. Dört yüz kırk sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "40a",
+ "created_at": "2024-02-10T12:45:29.016830Z",
+ "updated_at": "2026-04-23T13:40:59.192122Z",
+ "vakif": {
+  "id": 434,
+  "isim": "Kādızâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-11-30T12:30:27.461215Z",
+  "updated_at": "2024-11-30T12:30:27.461229Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 437,
+  "isim": "Nasrullâh bin Muhammed bin Ebû Abdullâh",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-11-30T14:20:25.246175Z",
+  "updated_at": "2024-11-30T14:20:25.246192Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

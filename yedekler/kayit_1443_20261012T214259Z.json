@@ -1,0 +1,208 @@
+{
+ "id": 1443,
+ "kitap_set": [
+  {
+   "id": 1438,
+   "isim": "Kitâbü’l-Keşşâf (Sûre-i Meryem’den Sûre-i ve’s-Sâffât âhirine dek).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:29.753343Z",
+   "updated_at": "2025-04-06T19:20:17.130693Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1443,
+    "tam_metin": "[10] Kitâbü’l-Keşşâf. Sûre-i Meryem’den Sûre-i ve’s-Sâffât âhirine dek. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Üç yüz elli iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "40a",
+    "created_at": "2024-02-10T12:45:29.478487Z",
+    "updated_at": "2026-01-26T20:07:15.305830Z",
+    "vakif": 12,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3504,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3504,
+  "kitap_set": [
+   {
+    "id": 3485,
+    "isim": "Kitâb-ı Keşşâf.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:18.225697Z",
+    "updated_at": "2025-04-06T19:20:11.016028Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3504,
+     "tam_metin": "[2] Kitâb-ı Keşşâf. Sûre-i Meryem’den Sûre-i ve’s-Sâffât âhirine dek. Dimeşkī tamâmından kırılmış. Siyâh cildli. Üç yüz elli iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "46b",
+     "created_at": "2024-04-22T12:45:17.937464Z",
+     "updated_at": "2025-09-25T08:41:34.344755Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1443,
+     "kodikolojik_bilgi": 1397
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1443,
+  "bilgi_set": [
+   {
+    "id": 1397,
+    "murekkep_set": [
+     {
+      "id": 1274,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1397
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1063,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1397
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "352",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-25T08:41:34.339318Z",
+    "updated_at": "2025-09-25T08:41:34.339348Z",
+    "kayit": {
+     "id": 3504,
+     "tam_metin": "[2] Kitâb-ı Keşşâf. Sûre-i Meryem’den Sûre-i ve’s-Sâffât âhirine dek. Dimeşkī tamâmından kırılmış. Siyâh cildli. Üç yüz elli iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "46b",
+     "created_at": "2024-04-22T12:45:17.937464Z",
+     "updated_at": "2025-09-25T08:41:34.344755Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1443,
+     "kodikolojik_bilgi": 1397
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[2] Kitâb-ı Keşşâf. Sûre-i Meryem’den Sûre-i ve’s-Sâffât âhirine dek. Dimeşkī tamâmından kırılmış. Siyâh cildli. Üç yüz elli iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+  "notlar": "",
+  "sayfa_numarasi": "46b",
+  "created_at": "2024-04-22T12:45:17.937464Z",
+  "updated_at": "2025-09-25T08:41:34.344755Z",
+  "vakif": {
+   "id": 12,
+   "isim": "Âlâiyyeli Muhyiddîn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:56:17.228524Z",
+   "updated_at": "2024-04-22T11:56:17.228541Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1397,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "352",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-25T08:41:34.339318Z",
+   "updated_at": "2025-09-25T08:41:34.339348Z",
+   "kayit": 3504,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[10] Kitâbü’l-Keşşâf. Sûre-i Meryem’den Sûre-i ve’s-Sâffât âhirine dek. Dimeşkī tamâmından kırılmış. Siyâh cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Üç yüz elli iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "40a",
+ "created_at": "2024-02-10T12:45:29.478487Z",
+ "updated_at": "2026-01-26T20:07:15.305830Z",
+ "vakif": {
+  "id": 12,
+  "isim": "Âlâiyyeli Muhyiddîn",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:56:17.228524Z",
+  "updated_at": "2024-04-22T11:56:17.228541Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

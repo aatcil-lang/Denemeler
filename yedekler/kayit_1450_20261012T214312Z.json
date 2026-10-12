@@ -1,0 +1,316 @@
+{
+ "id": 1450,
+ "kitap_set": [
+  {
+   "id": 3850,
+   "isim": "Tebâreke sipâresine  müteʿallik bir hâşiye.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2024-11-30T14:27:23.588252Z",
+   "updated_at": "2025-04-06T19:20:09.989926Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1450,
+    "tam_metin": "[17] Kitâb-ı Keşfü’l-Keşşâf. Subhânellezî Esrâ’dan  âhir-i Sûre-i Nâs[’a] dek. Âhirinde Tebâreke sipâresine  müteʿallik bir hâşiye bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. İki yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "40a",
+    "created_at": "2024-02-10T12:45:32.652244Z",
+    "updated_at": "2026-01-23T10:47:29.193764Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3221,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  },
+  {
+   "id": 1445,
+   "isim": "Kitâb-ı Keşfü’l-Keşşâf (Subhânellezî Esrâ’dan  âhir-i Sûre-i Nâs[’a] dek).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:32.933617Z",
+   "updated_at": "2025-04-06T19:20:17.111773Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1450,
+    "tam_metin": "[17] Kitâb-ı Keşfü’l-Keşşâf. Subhânellezî Esrâ’dan  âhir-i Sûre-i Nâs[’a] dek. Âhirinde Tebâreke sipâresine  müteʿallik bir hâşiye bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. İki yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "40a",
+    "created_at": "2024-02-10T12:45:32.652244Z",
+    "updated_at": "2026-01-23T10:47:29.193764Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3221,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1092,
+   "koleksiyon_numarasi": "596",
+   "nusha": "https://portal.yek.gov.tr/works/detail/238166",
+   "created_at": "2026-05-06T18:54:23.256152Z",
+   "updated_at": "2026-05-06T18:54:23.256166Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1450,
+    "tam_metin": "[17] Kitâb-ı Keşfü’l-Keşşâf. Subhânellezî Esrâ’dan  âhir-i Sûre-i Nâs[’a] dek. Âhirinde Tebâreke sipâresine  müteʿallik bir hâşiye bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. İki yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "40a",
+    "created_at": "2024-02-10T12:45:32.652244Z",
+    "updated_at": "2026-01-23T10:47:29.193764Z",
+    "vakif": 9,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3221,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 3221,
+  "kitap_set": [
+   {
+    "id": 3203,
+    "isim": "Kitâb-ı Keşf-i Keşşâf.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:27:01.059762Z",
+    "updated_at": "2025-04-06T19:20:11.807008Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3221,
+     "tam_metin": "[15] Kitâb-ı Keşf-i Keşşâf. Sübhânellezî Esrâ’dan âhir-i Sûre-i Nâs’a dek. Âhirinde Tebâreke sipâresine  müteʿallik bir hâşiye bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "36b",
+     "created_at": "2024-04-22T12:27:00.777527Z",
+     "updated_at": "2025-09-22T09:31:00.173743Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1450,
+     "kodikolojik_bilgi": 1158
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 646,
+    "koleksiyon_numarasi": "",
+    "nusha": "",
+    "created_at": "2025-01-14T10:00:01.949392Z",
+    "updated_at": "2025-01-14T10:00:01.949524Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3221,
+     "tam_metin": "[15] Kitâb-ı Keşf-i Keşşâf. Sübhânellezî Esrâ’dan âhir-i Sûre-i Nâs’a dek. Âhirinde Tebâreke sipâresine  müteʿallik bir hâşiye bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "36b",
+     "created_at": "2024-04-22T12:27:00.777527Z",
+     "updated_at": "2025-09-22T09:31:00.173743Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1450,
+     "kodikolojik_bilgi": 1158
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1450,
+  "bilgi_set": [
+   {
+    "id": 1158,
+    "murekkep_set": [
+     {
+      "id": 1036,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1158
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 825,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1158
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "210",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-22T09:31:00.168427Z",
+    "updated_at": "2025-09-22T09:31:00.168448Z",
+    "kayit": {
+     "id": 3221,
+     "tam_metin": "[15] Kitâb-ı Keşf-i Keşşâf. Sübhânellezî Esrâ’dan âhir-i Sûre-i Nâs’a dek. Âhirinde Tebâreke sipâresine  müteʿallik bir hâşiye bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "36b",
+     "created_at": "2024-04-22T12:27:00.777527Z",
+     "updated_at": "2025-09-22T09:31:00.173743Z",
+     "vakif": 9,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1450,
+     "kodikolojik_bilgi": 1158
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[15] Kitâb-ı Keşf-i Keşşâf. Sübhânellezî Esrâ’dan âhir-i Sûre-i Nâs’a dek. Âhirinde Tebâreke sipâresine  müteʿallik bir hâşiye bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+  "notlar": "",
+  "sayfa_numarasi": "36b",
+  "created_at": "2024-04-22T12:27:00.777527Z",
+  "updated_at": "2025-09-22T09:31:00.173743Z",
+  "vakif": {
+   "id": 9,
+   "isim": "Mevlânâ Kâbilîzâde",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:47:17.085995Z",
+   "updated_at": "2024-04-22T11:47:17.086011Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1158,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "210",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-22T09:31:00.168427Z",
+   "updated_at": "2025-09-22T09:31:00.168448Z",
+   "kayit": 3221,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[17] Kitâb-ı Keşfü’l-Keşşâf. Subhânellezî Esrâ’dan  âhir-i Sûre-i Nâs[’a] dek. Âhirinde Tebâreke sipâresine  müteʿallik bir hâşiye bile cild olmuş. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Ahmed Kâbilî. İki yüz on varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "40a",
+ "created_at": "2024-02-10T12:45:32.652244Z",
+ "updated_at": "2026-01-23T10:47:29.193764Z",
+ "vakif": {
+  "id": 9,
+  "isim": "Mevlânâ Kâbilîzâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:47:17.085995Z",
+  "updated_at": "2024-04-22T11:47:17.086011Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

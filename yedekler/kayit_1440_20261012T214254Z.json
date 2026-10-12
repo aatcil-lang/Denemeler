@@ -1,0 +1,248 @@
+{
+ "id": 1440,
+ "kitap_set": [
+  {
+   "id": 1435,
+   "isim": "Kitâbü’l-Keşşâf (Evvelinden Sûre-i Mâʾide’de لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً âyet-i kerîme tefsîrine varınca).",
+   "isim2": null,
+   "disiplin": "Tefsir",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:28.357695Z",
+   "updated_at": "2025-04-06T19:20:17.139965Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1440,
+    "tam_metin": "[7] Kitâbü’l-Keşşâf. Evvelinden Sûre-i Mâʾide’de لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً âyet-i kerîme tefsîrine varınca. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Üç yüz otuz dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "40a",
+    "created_at": "2024-02-10T12:45:28.084041Z",
+    "updated_at": "2026-01-26T20:06:13.147074Z",
+    "vakif": 12,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3503,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3503,
+  "kitap_set": [
+   {
+    "id": 3484,
+    "isim": "Kitâb-ı Keşşâf.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:17.758759Z",
+    "updated_at": "2025-04-06T19:20:11.018548Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3503,
+     "tam_metin": "[1] Kitâb-ı Keşşâf. Evvelinden Sûre-i Mâide’de لَتَجِدَنَّ اَشَدَّ النَّاسِ عَدَاوَةً âyeti  tefsîrine varınca. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz otuz dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "46b",
+     "created_at": "2024-04-22T12:45:17.464013Z",
+     "updated_at": "2025-09-25T08:40:42.664838Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1440,
+     "kodikolojik_bilgi": 1396
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 804,
+    "koleksiyon_numarasi": "00370",
+    "nusha": "",
+    "created_at": "2025-01-15T23:34:57.250508Z",
+    "updated_at": "2025-01-15T23:34:57.250523Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3503,
+     "tam_metin": "[1] Kitâb-ı Keşşâf. Evvelinden Sûre-i Mâide’de لَتَجِدَنَّ اَشَدَّ النَّاسِ عَدَاوَةً âyeti  tefsîrine varınca. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz otuz dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "46b",
+     "created_at": "2024-04-22T12:45:17.464013Z",
+     "updated_at": "2025-09-25T08:40:42.664838Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1440,
+     "kodikolojik_bilgi": 1396
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1440,
+  "bilgi_set": [
+   {
+    "id": 1396,
+    "murekkep_set": [
+     {
+      "id": 1273,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1396
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1062,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1396
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "334",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-25T08:40:42.654399Z",
+    "updated_at": "2025-09-25T08:40:42.654425Z",
+    "kayit": {
+     "id": 3503,
+     "tam_metin": "[1] Kitâb-ı Keşşâf. Evvelinden Sûre-i Mâide’de لَتَجِدَنَّ اَشَدَّ النَّاسِ عَدَاوَةً âyeti  tefsîrine varınca. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz otuz dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+     "notlar": "",
+     "sayfa_numarasi": "46b",
+     "created_at": "2024-04-22T12:45:17.464013Z",
+     "updated_at": "2025-09-25T08:40:42.664838Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1440,
+     "kodikolojik_bilgi": 1396
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[1] Kitâb-ı Keşşâf. Evvelinden Sûre-i Mâide’de لَتَجِدَنَّ اَشَدَّ النَّاسِ عَدَاوَةً âyeti  tefsîrine varınca. Dimeşkī tamâmına. Ciğerî cildli. Üç yüz otuz dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+  "notlar": "",
+  "sayfa_numarasi": "46b",
+  "created_at": "2024-04-22T12:45:17.464013Z",
+  "updated_at": "2025-09-25T08:40:42.664838Z",
+  "vakif": {
+   "id": 12,
+   "isim": "Âlâiyyeli Muhyiddîn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:56:17.228524Z",
+   "updated_at": "2024-04-22T11:56:17.228541Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1396,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "334",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-25T08:40:42.654399Z",
+   "updated_at": "2025-09-25T08:40:42.654425Z",
+   "kayit": 3503,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[7] Kitâbü’l-Keşşâf. Evvelinden Sûre-i Mâʾide’de لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً âyet-i kerîme tefsîrine varınca. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Üç yüz otuz dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "40a",
+ "created_at": "2024-02-10T12:45:28.084041Z",
+ "updated_at": "2026-01-26T20:06:13.147074Z",
+ "vakif": {
+  "id": 12,
+  "isim": "Âlâiyyeli Muhyiddîn",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:56:17.228524Z",
+  "updated_at": "2024-04-22T11:56:17.228541Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

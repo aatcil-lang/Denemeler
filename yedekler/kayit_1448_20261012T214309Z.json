@@ -1,0 +1,111 @@
+{
+ "id": 1448,
+ "kitap_set": [
+  {
+   "id": 1443,
+   "isim": "Kitâb-ı Keşşâf (Sûre-i Meryem’den Sûre-i ve’s-Sâffât âhirine dek).",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:32.029522Z",
+   "updated_at": "2025-04-06T19:20:17.117079Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1448,
+    "tam_metin": "[15] Kitâb-ı Keşşâf. Sûre-i Meryem’den Sûre-i ve’s-Sâffât âhirine dek. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. İki yüz yetmiş beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "40a",
+    "created_at": "2024-02-10T12:45:31.740389Z",
+    "updated_at": "2026-04-23T13:42:11.438515Z",
+    "vakif": 434,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1076,
+   "koleksiyon_numarasi": "376",
+   "nusha": "https://portal.yek.gov.tr/works/detail/237935",
+   "created_at": "2026-05-04T20:03:03.811377Z",
+   "updated_at": "2026-05-04T20:03:03.811393Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1448,
+    "tam_metin": "[15] Kitâb-ı Keşşâf. Sûre-i Meryem’den Sûre-i ve’s-Sâffât âhirine dek. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. İki yüz yetmiş beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+    "notlar": "",
+    "sayfa_numarasi": "40a",
+    "created_at": "2024-02-10T12:45:31.740389Z",
+    "updated_at": "2026-04-23T13:42:11.438515Z",
+    "vakif": 434,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[15] Kitâb-ı Keşşâf. Sûre-i Meryem’den Sûre-i ve’s-Sâffât âhirine dek. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Kādîzâde. İki yüz yetmiş beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tefâsîr",
+ "notlar": "",
+ "sayfa_numarasi": "40a",
+ "created_at": "2024-02-10T12:45:31.740389Z",
+ "updated_at": "2026-04-23T13:42:11.438515Z",
+ "vakif": {
+  "id": 434,
+  "isim": "Kādızâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-11-30T12:30:27.461215Z",
+  "updated_at": "2024-11-30T12:30:27.461229Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

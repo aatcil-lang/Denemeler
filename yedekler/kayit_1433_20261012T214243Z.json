@@ -1,0 +1,226 @@
+{
+ "id": 1433,
+ "kitap_set": [
+  {
+   "id": 1428,
+   "isim": "el-Kelâmü’l-Kadîm ve’l-Furkānü’l-Hakîm.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:45:25.200079Z",
+   "updated_at": "2025-04-06T19:20:17.160263Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1433,
+    "tam_metin": "[2] el-Kelâmü’l-Kadîm ve’l-Furkānü’l-Hakîm eydan. Tamâm. Evveli müzehheb. Evvel varakının zahrında bir dâire levha var. İçinde “Sâhibuhû ve mâlikuhû İbrâhîm bin Mehmed et-Tuzlavî” deyu yazılmış halle. Min evvelihî ilâ âhirihî halle mücedvel ve laciverd ile muharrer. Evâʾil-i süver halle yazılmış. Dimeşkī nısfına. Müzehheb siyâh cildle. Vakf-ı Tuzlalıoğlu. Üç yüz altı varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Mushafeyni’ş-Şerîfeyn",
+    "notlar": "",
+    "sayfa_numarasi": "39b",
+    "created_at": "2024-02-10T12:45:24.925947Z",
+    "updated_at": "2026-01-31T10:08:00.618551Z",
+    "vakif": 757,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3587,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3587,
+  "kitap_set": [
+   {
+    "id": 3566,
+    "isim": "Kitâb-ı Kelâm-ı Kadîm.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:54.263283Z",
+    "updated_at": "2025-04-06T19:20:10.789592Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3587,
+     "tam_metin": "[1] Kitâb-ı Kelâm-ı Kadîm. Evveli müzehheb. Evvel varakının zahrında bir dâʾire levha var. İçinde “Sâhibuhû ve mâlikuhû İbrâhîm bin Mehmed et-Tuzlavî” deyu yazılmış halle. Min evvelihî ilâ âhirihî halle mücedvel ve laciverd ile muharrer. Evâʾil-i süver halle yazılmış. Dimeşkī nısfına. Müzehheb siyâh cildli. Vakf-ı Tuzlalıoğlu. Üç yüz altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50b",
+     "created_at": "2024-04-22T12:45:53.993623Z",
+     "updated_at": "2026-01-31T10:07:50.297567Z",
+     "vakif": 757,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1433,
+     "kodikolojik_bilgi": 1480
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1433,
+  "bilgi_set": [
+   {
+    "id": 1480,
+    "murekkep_set": [
+     {
+      "id": 1358,
+      "renk": "altin",
+      "ilgili_ibare": "Evvel varakının zahrında bir dâʾire levha var. İçinde “Sâhibuhû ve mâlikuhû İbrâhîm bin Mehmed et-Tuzlavî” deyu yazılmış halle.",
+      "kodikolojik_bilgi": 1480
+     },
+     {
+      "id": 1359,
+      "renk": "lacivert",
+      "ilgili_ibare": "Min evvelihî ilâ âhirihî laciverd ile muharrer",
+      "kodikolojik_bilgi": 1480
+     },
+     {
+      "id": 1360,
+      "renk": "altin",
+      "ilgili_ibare": "Evâʾil-i süver halle yazılmış.",
+      "kodikolojik_bilgi": 1480
+     }
+    ],
+    "cedvel_set": [
+     {
+      "id": 63,
+      "detay": "Min evvelihî ilâ âhirihî halle mücedvel ",
+      "kodikolojik_bilgi": 1480
+     }
+    ],
+    "hatt_set": [
+     {
+      "id": 1146,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1480
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Evvel varakının zahrında bir dâʾire levha var. İçinde “Sâhibuhû ve mâlikuhû İbrâhîm bin Mehmed et-Tuzlavî” deyu yazılmış halle.",
+    "cild_turu": "Müzehheb siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "306",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "Evveli müzehheb. ",
+    "created_at": "2025-10-01T21:28:44.062804Z",
+    "updated_at": "2025-10-01T21:28:44.062829Z",
+    "kayit": {
+     "id": 3587,
+     "tam_metin": "[1] Kitâb-ı Kelâm-ı Kadîm. Evveli müzehheb. Evvel varakının zahrında bir dâʾire levha var. İçinde “Sâhibuhû ve mâlikuhû İbrâhîm bin Mehmed et-Tuzlavî” deyu yazılmış halle. Min evvelihî ilâ âhirihî halle mücedvel ve laciverd ile muharrer. Evâʾil-i süver halle yazılmış. Dimeşkī nısfına. Müzehheb siyâh cildli. Vakf-ı Tuzlalıoğlu. Üç yüz altı varak.",
+     "tur": "cilt",
+     "bolum_basligi": "BAŞLIKSIZ",
+     "notlar": "",
+     "sayfa_numarasi": "50b",
+     "created_at": "2024-04-22T12:45:53.993623Z",
+     "updated_at": "2026-01-31T10:07:50.297567Z",
+     "vakif": 757,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1433,
+     "kodikolojik_bilgi": 1480
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[1] Kitâb-ı Kelâm-ı Kadîm. Evveli müzehheb. Evvel varakının zahrında bir dâʾire levha var. İçinde “Sâhibuhû ve mâlikuhû İbrâhîm bin Mehmed et-Tuzlavî” deyu yazılmış halle. Min evvelihî ilâ âhirihî halle mücedvel ve laciverd ile muharrer. Evâʾil-i süver halle yazılmış. Dimeşkī nısfına. Müzehheb siyâh cildli. Vakf-ı Tuzlalıoğlu. Üç yüz altı varak.",
+  "tur": "cilt",
+  "bolum_basligi": "BAŞLIKSIZ",
+  "notlar": "",
+  "sayfa_numarasi": "50b",
+  "created_at": "2024-04-22T12:45:53.993623Z",
+  "updated_at": "2026-01-31T10:07:50.297567Z",
+  "vakif": {
+   "id": 757,
+   "isim": "Tuzlalıoğlu",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-31T10:07:50.292593Z",
+   "updated_at": "2026-01-31T10:07:50.292609Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1480,
+   "zahriye_exists": true,
+   "zahriye": "Evvel varakının zahrında bir dâʾire levha var. İçinde “Sâhibuhû ve mâlikuhû İbrâhîm bin Mehmed et-Tuzlavî” deyu yazılmış halle.",
+   "cild_turu": "Müzehheb siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "306",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "Evveli müzehheb. ",
+   "created_at": "2025-10-01T21:28:44.062804Z",
+   "updated_at": "2025-10-01T21:28:44.062829Z",
+   "kayit": 3587,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[2] el-Kelâmü’l-Kadîm ve’l-Furkānü’l-Hakîm eydan. Tamâm. Evveli müzehheb. Evvel varakının zahrında bir dâire levha var. İçinde “Sâhibuhû ve mâlikuhû İbrâhîm bin Mehmed et-Tuzlavî” deyu yazılmış halle. Min evvelihî ilâ âhirihî halle mücedvel ve laciverd ile muharrer. Evâʾil-i süver halle yazılmış. Dimeşkī nısfına. Müzehheb siyâh cildle. Vakf-ı Tuzlalıoğlu. Üç yüz altı varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Mushafeyni’ş-Şerîfeyn",
+ "notlar": "",
+ "sayfa_numarasi": "39b",
+ "created_at": "2024-02-10T12:45:24.925947Z",
+ "updated_at": "2026-01-31T10:08:00.618551Z",
+ "vakif": {
+  "id": 757,
+  "isim": "Tuzlalıoğlu",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-31T10:07:50.292593Z",
+  "updated_at": "2026-01-31T10:07:50.292609Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
