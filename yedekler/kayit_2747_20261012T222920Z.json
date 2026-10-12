@@ -1,0 +1,327 @@
+{
+ "id": 2747,
+ "kitap_set": [
+  {
+   "id": 2730,
+   "isim": "Kitâb-ı Kunyetü’l-Fetâvâ.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:23:34.747410Z",
+   "updated_at": "2025-04-06T19:20:13.180760Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2747,
+    "tam_metin": "[110] Kitâb-ı Kunyetü’l-Fetâvâ. Tamâm. Bi-hattı Abdurrahmân bin Abdullâh bin Muhammed el-Ensârî. Zahrı levhalı. Levhanın içinde “Kitâb-ı Kunyetü’l-Münye fi’l-Fıkh” deyu yazılmış. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "18a",
+    "created_at": "2024-04-22T12:23:34.485980Z",
+    "updated_at": "2025-09-03T00:26:26.920148Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 958,
+    "kodikolojik_bilgi": 681
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 300,
+   "koleksiyon_numarasi": "02449",
+   "nusha": "",
+   "created_at": "2025-01-11T11:20:47.946401Z",
+   "updated_at": "2025-01-11T11:20:47.946416Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2747,
+    "tam_metin": "[110] Kitâb-ı Kunyetü’l-Fetâvâ. Tamâm. Bi-hattı Abdurrahmân bin Abdullâh bin Muhammed el-Ensârî. Zahrı levhalı. Levhanın içinde “Kitâb-ı Kunyetü’l-Münye fi’l-Fıkh” deyu yazılmış. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "18a",
+    "created_at": "2024-04-22T12:23:34.485980Z",
+    "updated_at": "2025-09-03T00:26:26.920148Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 958,
+    "kodikolojik_bilgi": 681
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 958,
+  "kitap_set": [
+   {
+    "id": 954,
+    "isim": "Kitâb-ı Kunyetü’l-Fetâvâ.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:41:56.459521Z",
+    "updated_at": "2025-04-06T19:20:18.824673Z",
+    "yazar": null,
+    "kayit": {
+     "id": 958,
+     "tam_metin": "[85] Kitâb-ı Kunyetü’l-Fetâvâ eydan. Tamâm. Bi-hattı Abdurrahmân bin Abdullâh bin Muhammed el-Ensârî. Zahrı levhalı. Levhanın içinde “Kitâb-ı Kunyetü’l-Münye fi’l-Fıkh” deyu yazılmış. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "18b",
+     "created_at": "2024-02-10T12:41:56.201541Z",
+     "updated_at": "2026-10-12T21:28:36.661512Z",
+     "vakif": 1,
+     "mustensih": 232,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2747,
+     "kodikolojik_bilgi": 1720
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2747,
+  "bilgi_set": [
+   {
+    "id": 1720,
+    "murekkep_set": [
+     {
+      "id": 1603,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1720
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1395,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1720
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "210",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:28:36.656501Z",
+    "updated_at": "2026-10-12T21:28:36.656528Z",
+    "kayit": {
+     "id": 958,
+     "tam_metin": "[85] Kitâb-ı Kunyetü’l-Fetâvâ eydan. Tamâm. Bi-hattı Abdurrahmân bin Abdullâh bin Muhammed el-Ensârî. Zahrı levhalı. Levhanın içinde “Kitâb-ı Kunyetü’l-Münye fi’l-Fıkh” deyu yazılmış. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz on varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "18b",
+     "created_at": "2024-02-10T12:41:56.201541Z",
+     "updated_at": "2026-10-12T21:28:36.661512Z",
+     "vakif": 1,
+     "mustensih": 232,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2747,
+     "kodikolojik_bilgi": 1720
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[85] Kitâb-ı Kunyetü’l-Fetâvâ eydan. Tamâm. Bi-hattı Abdurrahmân bin Abdullâh bin Muhammed el-Ensârî. Zahrı levhalı. Levhanın içinde “Kitâb-ı Kunyetü’l-Münye fi’l-Fıkh” deyu yazılmış. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz on varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "18b",
+  "created_at": "2024-02-10T12:41:56.201541Z",
+  "updated_at": "2026-10-12T21:28:36.661512Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 232,
+   "isim": "Abdurrahmân bin Abdullâh bin Muhammed el-Ensârî",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-10T17:00:54.773244Z",
+   "updated_at": "2024-09-10T17:00:54.773262Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1720,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "210",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:28:36.656501Z",
+   "updated_at": "2026-10-12T21:28:36.656528Z",
+   "kayit": 958,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 681,
+   "murekkep_set": [
+    {
+     "id": 559,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 681
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 350,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 681
+    }
+   ],
+   "zahriye_exists": true,
+   "zahriye": "Zahrı levhalı. Levhanın içinde “Kitâb-ı Kunyetü’l-Münye fi’l-Fıkh” deyu yazılmış.",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "210",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-03T00:26:26.915321Z",
+   "updated_at": "2025-09-03T00:26:26.915339Z",
+   "kayit": {
+    "id": 2747,
+    "tam_metin": "[110] Kitâb-ı Kunyetü’l-Fetâvâ. Tamâm. Bi-hattı Abdurrahmân bin Abdullâh bin Muhammed el-Ensârî. Zahrı levhalı. Levhanın içinde “Kitâb-ı Kunyetü’l-Münye fi’l-Fıkh” deyu yazılmış. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "18a",
+    "created_at": "2024-04-22T12:23:34.485980Z",
+    "updated_at": "2025-09-03T00:26:26.920148Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 958,
+    "kodikolojik_bilgi": 681
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[110] Kitâb-ı Kunyetü’l-Fetâvâ. Tamâm. Bi-hattı Abdurrahmân bin Abdullâh bin Muhammed el-Ensârî. Zahrı levhalı. Levhanın içinde “Kitâb-ı Kunyetü’l-Münye fi’l-Fıkh” deyu yazılmış. Dimeşkī tamâmına. Ciğerî cildli. İki yüz on varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "18a",
+ "created_at": "2024-04-22T12:23:34.485980Z",
+ "updated_at": "2025-09-03T00:26:26.920148Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 681,
+  "zahriye_exists": true,
+  "zahriye": "Zahrı levhalı. Levhanın içinde “Kitâb-ı Kunyetü’l-Münye fi’l-Fıkh” deyu yazılmış.",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "210",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-03T00:26:26.915321Z",
+  "updated_at": "2025-09-03T00:26:26.915339Z",
+  "kayit": 2747,
+  "created_by": null
+ }
+}

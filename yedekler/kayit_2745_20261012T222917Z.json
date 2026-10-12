@@ -1,0 +1,339 @@
+{
+ "id": 2745,
+ "kitap_set": [
+  {
+   "id": 2728,
+   "isim": "Kitâb-ı Fusûl-i İmâdî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:23:33.918143Z",
+   "updated_at": "2025-04-06T19:20:13.186113Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2745,
+    "tam_metin": "[108] Kitâb-ı Fusûl-i İmâdî. Tamâm. Bi-hattı Nâsır bin Celâl el-Buhâzî.  Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Beş yüz yirmi dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "18a",
+    "created_at": "2024-04-22T12:23:33.667162Z",
+    "updated_at": "2025-09-03T00:24:25.529412Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 981,
+    "kodikolojik_bilgi": 679
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 298,
+   "koleksiyon_numarasi": "02430",
+   "nusha": "",
+   "created_at": "2025-01-11T11:18:21.554147Z",
+   "updated_at": "2025-01-11T11:18:21.554165Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2745,
+    "tam_metin": "[108] Kitâb-ı Fusûl-i İmâdî. Tamâm. Bi-hattı Nâsır bin Celâl el-Buhâzî.  Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Beş yüz yirmi dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "18a",
+    "created_at": "2024-04-22T12:23:33.667162Z",
+    "updated_at": "2025-09-03T00:24:25.529412Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 981,
+    "kodikolojik_bilgi": 679
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 981,
+  "kitap_set": [
+   {
+    "id": 977,
+    "isim": "Kitâb-ı Fusûlü’l-İmâdî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:42:06.095706Z",
+    "updated_at": "2025-04-06T19:20:18.749580Z",
+    "yazar": {
+     "id": 246,
+     "isim": "İmâdî, Hâmid b. Alî b. İbrâhîm ed-Dımaşkī",
+     "isim2": "",
+     "dogum_tarihi": null,
+     "dogum_tarihi_hijri": null,
+     "olum_tarihi": null,
+     "olum_tarihi_hijri": null,
+     "created_at": "2024-09-10T17:50:44.513598Z",
+     "updated_at": "2024-09-10T17:50:44.513612Z",
+     "kaynak": null,
+     "created_by": null
+    },
+    "kayit": {
+     "id": 981,
+     "tam_metin": "[108] Kitâb-ı Fusûlü’l-İmâdî. Tamâm. Bi-hattı Nâsır bin Celâl el-Buhârî. Semerkandî tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Beş yüz yirmi dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "19a",
+     "created_at": "2024-02-10T12:42:05.836617Z",
+     "updated_at": "2026-10-12T21:29:18.470135Z",
+     "vakif": 1,
+     "mustensih": 245,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2745,
+     "kodikolojik_bilgi": 1743
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2745,
+  "bilgi_set": [
+   {
+    "id": 1743,
+    "murekkep_set": [
+     {
+      "id": 1626,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1743
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1418,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1743
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "529",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:29:18.466763Z",
+    "updated_at": "2026-10-12T21:29:18.466784Z",
+    "kayit": {
+     "id": 981,
+     "tam_metin": "[108] Kitâb-ı Fusûlü’l-İmâdî. Tamâm. Bi-hattı Nâsır bin Celâl el-Buhârî. Semerkandî tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Beş yüz yirmi dokuz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "19a",
+     "created_at": "2024-02-10T12:42:05.836617Z",
+     "updated_at": "2026-10-12T21:29:18.470135Z",
+     "vakif": 1,
+     "mustensih": 245,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2745,
+     "kodikolojik_bilgi": 1743
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[108] Kitâb-ı Fusûlü’l-İmâdî. Tamâm. Bi-hattı Nâsır bin Celâl el-Buhârî. Semerkandî tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. Beş yüz yirmi dokuz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "19a",
+  "created_at": "2024-02-10T12:42:05.836617Z",
+  "updated_at": "2026-10-12T21:29:18.470135Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 245,
+   "isim": "Nâsır bin Celâl el-Buhârî",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-10T17:49:57.754580Z",
+   "updated_at": "2024-09-10T17:49:57.754596Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1743,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "529",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:29:18.466763Z",
+   "updated_at": "2026-10-12T21:29:18.466784Z",
+   "kayit": 981,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 679,
+   "murekkep_set": [
+    {
+     "id": 557,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 679
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 348,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 679
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "529",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-03T00:24:25.525012Z",
+   "updated_at": "2025-09-03T00:24:25.525036Z",
+   "kayit": {
+    "id": 2745,
+    "tam_metin": "[108] Kitâb-ı Fusûl-i İmâdî. Tamâm. Bi-hattı Nâsır bin Celâl el-Buhâzî.  Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Beş yüz yirmi dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "18a",
+    "created_at": "2024-04-22T12:23:33.667162Z",
+    "updated_at": "2025-09-03T00:24:25.529412Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 981,
+    "kodikolojik_bilgi": 679
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[108] Kitâb-ı Fusûl-i İmâdî. Tamâm. Bi-hattı Nâsır bin Celâl el-Buhâzî.  Semerkandî nısfından kırılmış. Yeşil kâğıd mukavvâ cildli. Beş yüz yirmi dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "18a",
+ "created_at": "2024-04-22T12:23:33.667162Z",
+ "updated_at": "2025-09-03T00:24:25.529412Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 679,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Mukavva cilt",
+  "cild_materyal": "Yeşil kağıt",
+  "varak_adedi": "529",
+  "kagit_turu": "Semerkandî",
+  "aciklama": "",
+  "kagit_ebadi": "Nısfından kırılmış",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-03T00:24:25.525012Z",
+  "updated_at": "2025-09-03T00:24:25.525036Z",
+  "kayit": 2745,
+  "created_by": null
+ }
+}
