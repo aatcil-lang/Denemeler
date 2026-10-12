@@ -1,0 +1,174 @@
+{
+ "id": 782,
+ "vakif": [],
+ "vakif_sayisi": 0,
+ "mustensih": [
+  {
+   "id": 2507,
+   "kitap_set": [
+    {
+     "id": 2490,
+     "isim": "Kitâb-ı Hadâiku’l-Ezhâr fî Şerhi Meşâriki’l-Envâr.",
+     "isim2": null,
+     "disiplin": "",
+     "kapsam": null,
+     "created_at": "2024-04-22T12:21:50.719302Z",
+     "updated_at": "2025-04-06T19:20:13.914696Z",
+     "yazar": null,
+     "kayit": {
+      "id": 2507,
+      "tam_metin": "[61] Kitâb-ı Hadâʾiku’l-Ezhâr fî Şerhi Meşârıkı’l-Envâr. Bi-hattı Muhammed bin Muhammed el-Hüseynî et-Tokatî ahsenallâhu hâtimetehû bi’l-husnâ. Dimeşkī tamâmına. Sarı cildli. İki yüz yetmiş beş varak.",
+      "tur": "cilt",
+      "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+      "notlar": "",
+      "sayfa_numarasi": "9a",
+      "created_at": "2024-04-22T12:21:50.430807Z",
+      "updated_at": "2026-10-12T22:17:47.772545Z",
+      "vakif": 1,
+      "mustensih": 782,
+      "kaynak": 2,
+      "created_by": null,
+      "iliskili_kayit": 739,
+      "kodikolojik_bilgi": 438
+     },
+     "kaynak": null,
+     "created_by": null
+    }
+   ],
+   "nusha_set": [],
+   "iliskili_kayit": 739,
+   "bilgi_set": [
+    {
+     "id": 438,
+     "murekkep_set": [
+      {
+       "id": 310,
+       "renk": "",
+       "ilgili_ibare": "",
+       "kodikolojik_bilgi": 438
+      }
+     ],
+     "cedvel_set": [],
+     "hatt_set": [
+      {
+       "id": 102,
+       "hatt_turu": "",
+       "hatt_sekli": "",
+       "aciklama": null,
+       "kodikolojik_bilgi": 438
+      }
+     ],
+     "zahriye_exists": false,
+     "zahriye": "",
+     "cild_turu": "Sarı cilt",
+     "cild_materyal": "",
+     "varak_adedi": "275",
+     "kagit_turu": "Dimeşkî",
+     "aciklama": "",
+     "kagit_ebadi": "Tamamına",
+     "kagit_sekli": "",
+     "note": "",
+     "created_at": "2025-08-29T19:47:37.622755Z",
+     "updated_at": "2025-08-29T19:47:37.623201Z",
+     "kayit": {
+      "id": 2507,
+      "tam_metin": "[61] Kitâb-ı Hadâʾiku’l-Ezhâr fî Şerhi Meşârıkı’l-Envâr. Bi-hattı Muhammed bin Muhammed el-Hüseynî et-Tokatî ahsenallâhu hâtimetehû bi’l-husnâ. Dimeşkī tamâmına. Sarı cildli. İki yüz yetmiş beş varak.",
+      "tur": "cilt",
+      "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+      "notlar": "",
+      "sayfa_numarasi": "9a",
+      "created_at": "2024-04-22T12:21:50.430807Z",
+      "updated_at": "2026-10-12T22:17:47.772545Z",
+      "vakif": 1,
+      "mustensih": 782,
+      "kaynak": 2,
+      "created_by": null,
+      "iliskili_kayit": 739,
+      "kodikolojik_bilgi": 438
+     },
+     "created_by": null
+    }
+   ],
+   "tam_metin": "[61] Kitâb-ı Hadâʾiku’l-Ezhâr fî Şerhi Meşârıkı’l-Envâr. Bi-hattı Muhammed bin Muhammed el-Hüseynî et-Tokatî ahsenallâhu hâtimetehû bi’l-husnâ. Dimeşkī tamâmına. Sarı cildli. İki yüz yetmiş beş varak.",
+   "tur": "cilt",
+   "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+   "notlar": "",
+   "sayfa_numarasi": "9a",
+   "created_at": "2024-04-22T12:21:50.430807Z",
+   "updated_at": "2026-10-12T22:17:47.772545Z",
+   "vakif": {
+    "id": 1,
+    "isim": "II. Mehmed",
+    "isim2": null,
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": "1481-01-01",
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-01-29T23:30:08.724753Z",
+    "updated_at": "2024-05-02T11:16:43.977431Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "mustensih": {
+    "id": 782,
+    "isim": "Muhammed bin Muhammed el-Hüseynî et-Tokatî ahsenallâhu hâtimetehû bi’l-husnâ",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": "",
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": "",
+    "created_at": "2026-10-12T22:17:32.699383Z",
+    "updated_at": "2026-10-12T22:17:32.699398Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kaynak": {
+    "id": 2,
+    "isim": "Fenarizade",
+    "tur": null,
+    "kunye_bilgisi": null,
+    "yazma_turu": null,
+    "link": null,
+    "created_at": "2024-04-22T12:20:39.734834Z",
+    "updated_at": "2024-04-22T12:20:39.734856Z",
+    "kutuphane": null,
+    "created_by": null
+   },
+   "created_by": null,
+   "kodikolojik_bilgi": {
+    "id": 438,
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Sarı cilt",
+    "cild_materyal": "",
+    "varak_adedi": "275",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-08-29T19:47:37.622755Z",
+    "updated_at": "2025-08-29T19:47:37.623201Z",
+    "kayit": 2507,
+    "created_by": null
+   }
+  }
+ ],
+ "mustensih_sayisi": 1,
+ "yazar": [],
+ "yazar_sayisi": 0,
+ "get_olum_tarihi_from_hijri": null,
+ "get_dogum_tarihi_from_hijri": null,
+ "get_olum_tarihi_from_gregorian": null,
+ "get_dogum_tarihi_from_gregorian": null,
+ "isim": "Muhammed bin Muhammed el-Hüseynî et-Tokatî ahsenallâhu hâtimetehû bi’l-husnâ",
+ "isim2": "",
+ "dogum_tarihi": null,
+ "dogum_tarihi_hijri": "",
+ "olum_tarihi": null,
+ "olum_tarihi_hijri": "",
+ "created_at": "2026-10-12T22:17:32.699383Z",
+ "updated_at": "2026-10-12T22:17:32.699398Z",
+ "kaynak": null,
+ "created_by": null
+}

@@ -1,0 +1,174 @@
+{
+ "id": 780,
+ "vakif": [],
+ "vakif_sayisi": 0,
+ "mustensih": [
+  {
+   "id": 2477,
+   "kitap_set": [
+    {
+     "id": 2460,
+     "isim": "Kitâb-ı Sahîh-i Buhârî.",
+     "isim2": null,
+     "disiplin": "Hadis",
+     "kapsam": null,
+     "created_at": "2024-04-22T12:21:37.491146Z",
+     "updated_at": "2025-04-06T19:20:14.008443Z",
+     "yazar": null,
+     "kayit": {
+      "id": 2477,
+      "tam_metin": "[22] Kitâb-ı Sahîh-i Buhârî. Evvel varakı zâyiʿ olmuş. عن أبيه عن عمر بن الخطاب أن رجلا على عهد النبي صلع كان اسمه عبد الله وكان يلقب حمارا وكان يضحك رسول الله صلع hadîsinden Bâbu Kavlihî Teâlâ ve Nedaʿu’l-Mevâzîne’l-Kısta li-Yevmi’l-Kıyâmeti bâbında سبحان الذي العظيم ibâretine dek. Bi-hattı Muhammed bin el-Hasan bin Ebû Bekir el-Gazzâzî  eş-Şâfiʿî. Dimeşkī tamâmına. Ciğerî cildli. İki yüz yedi varak.\n[Derkenar] Defter-i atîkde “el-Meʾhûz mine’l-minber” deyu yazılmış.",
+      "tur": "cilt",
+      "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+      "notlar": "",
+      "sayfa_numarasi": "7b",
+      "created_at": "2024-04-22T12:21:37.227472Z",
+      "updated_at": "2026-10-12T22:16:42.912512Z",
+      "vakif": 1,
+      "mustensih": 780,
+      "kaynak": 2,
+      "created_by": null,
+      "iliskili_kayit": 685,
+      "kodikolojik_bilgi": 408
+     },
+     "kaynak": null,
+     "created_by": null
+    }
+   ],
+   "nusha_set": [],
+   "iliskili_kayit": 685,
+   "bilgi_set": [
+    {
+     "id": 408,
+     "murekkep_set": [
+      {
+       "id": 279,
+       "renk": "",
+       "ilgili_ibare": "",
+       "kodikolojik_bilgi": 408
+      }
+     ],
+     "cedvel_set": [],
+     "hatt_set": [
+      {
+       "id": 69,
+       "hatt_turu": "",
+       "hatt_sekli": "",
+       "aciklama": null,
+       "kodikolojik_bilgi": 408
+      }
+     ],
+     "zahriye_exists": false,
+     "zahriye": "",
+     "cild_turu": "Ciğerî cilt",
+     "cild_materyal": "",
+     "varak_adedi": "207",
+     "kagit_turu": "Dimeşkî",
+     "aciklama": "",
+     "kagit_ebadi": "Tamamına",
+     "kagit_sekli": "",
+     "note": "Evvel varakı zâyiʿ olmuş.",
+     "created_at": "2025-08-29T11:11:52.628601Z",
+     "updated_at": "2025-08-29T11:11:52.628624Z",
+     "kayit": {
+      "id": 2477,
+      "tam_metin": "[22] Kitâb-ı Sahîh-i Buhârî. Evvel varakı zâyiʿ olmuş. عن أبيه عن عمر بن الخطاب أن رجلا على عهد النبي صلع كان اسمه عبد الله وكان يلقب حمارا وكان يضحك رسول الله صلع hadîsinden Bâbu Kavlihî Teâlâ ve Nedaʿu’l-Mevâzîne’l-Kısta li-Yevmi’l-Kıyâmeti bâbında سبحان الذي العظيم ibâretine dek. Bi-hattı Muhammed bin el-Hasan bin Ebû Bekir el-Gazzâzî  eş-Şâfiʿî. Dimeşkī tamâmına. Ciğerî cildli. İki yüz yedi varak.\n[Derkenar] Defter-i atîkde “el-Meʾhûz mine’l-minber” deyu yazılmış.",
+      "tur": "cilt",
+      "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+      "notlar": "",
+      "sayfa_numarasi": "7b",
+      "created_at": "2024-04-22T12:21:37.227472Z",
+      "updated_at": "2026-10-12T22:16:42.912512Z",
+      "vakif": 1,
+      "mustensih": 780,
+      "kaynak": 2,
+      "created_by": null,
+      "iliskili_kayit": 685,
+      "kodikolojik_bilgi": 408
+     },
+     "created_by": null
+    }
+   ],
+   "tam_metin": "[22] Kitâb-ı Sahîh-i Buhârî. Evvel varakı zâyiʿ olmuş. عن أبيه عن عمر بن الخطاب أن رجلا على عهد النبي صلع كان اسمه عبد الله وكان يلقب حمارا وكان يضحك رسول الله صلع hadîsinden Bâbu Kavlihî Teâlâ ve Nedaʿu’l-Mevâzîne’l-Kısta li-Yevmi’l-Kıyâmeti bâbında سبحان الذي العظيم ibâretine dek. Bi-hattı Muhammed bin el-Hasan bin Ebû Bekir el-Gazzâzî  eş-Şâfiʿî. Dimeşkī tamâmına. Ciğerî cildli. İki yüz yedi varak.\n[Derkenar] Defter-i atîkde “el-Meʾhûz mine’l-minber” deyu yazılmış.",
+   "tur": "cilt",
+   "bolum_basligi": "Tafsîlü Kütübi’l-Ehâdîs",
+   "notlar": "",
+   "sayfa_numarasi": "7b",
+   "created_at": "2024-04-22T12:21:37.227472Z",
+   "updated_at": "2026-10-12T22:16:42.912512Z",
+   "vakif": {
+    "id": 1,
+    "isim": "II. Mehmed",
+    "isim2": null,
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": "1481-01-01",
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-01-29T23:30:08.724753Z",
+    "updated_at": "2024-05-02T11:16:43.977431Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "mustensih": {
+    "id": 780,
+    "isim": "Muhammed bin el-Hasan bin Ebû Bekir el-Gazzâzî  eş-Şâfiʿî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": "",
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": "",
+    "created_at": "2026-10-12T22:16:27.981850Z",
+    "updated_at": "2026-10-12T22:16:27.981872Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kaynak": {
+    "id": 2,
+    "isim": "Fenarizade",
+    "tur": null,
+    "kunye_bilgisi": null,
+    "yazma_turu": null,
+    "link": null,
+    "created_at": "2024-04-22T12:20:39.734834Z",
+    "updated_at": "2024-04-22T12:20:39.734856Z",
+    "kutuphane": null,
+    "created_by": null
+   },
+   "created_by": null,
+   "kodikolojik_bilgi": {
+    "id": 408,
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "207",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "Evvel varakı zâyiʿ olmuş.",
+    "created_at": "2025-08-29T11:11:52.628601Z",
+    "updated_at": "2025-08-29T11:11:52.628624Z",
+    "kayit": 2477,
+    "created_by": null
+   }
+  }
+ ],
+ "mustensih_sayisi": 1,
+ "yazar": [],
+ "yazar_sayisi": 0,
+ "get_olum_tarihi_from_hijri": null,
+ "get_dogum_tarihi_from_hijri": null,
+ "get_olum_tarihi_from_gregorian": null,
+ "get_dogum_tarihi_from_gregorian": null,
+ "isim": "Muhammed bin el-Hasan bin Ebû Bekir el-Gazzâzî  eş-Şâfiʿî",
+ "isim2": "",
+ "dogum_tarihi": null,
+ "dogum_tarihi_hijri": "",
+ "olum_tarihi": null,
+ "olum_tarihi_hijri": "",
+ "created_at": "2026-10-12T22:16:27.981850Z",
+ "updated_at": "2026-10-12T22:16:27.981872Z",
+ "kaynak": null,
+ "created_by": null
+}
