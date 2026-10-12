@@ -1,0 +1,327 @@
+{
+ "id": 2726,
+ "kitap_set": [
+  {
+   "id": 2709,
+   "isim": "Kitâb-ı Câmiu’s-Sagīr-i Hüsâmî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:23:26.000037Z",
+   "updated_at": "2025-04-06T19:20:13.238706Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2726,
+    "tam_metin": "[89] Kitâb-ı Câmiʿu’s-Sagīr-i Hüsâmî. Min evvelihî ilâ âhirihî mukayyed ve muhaşşâ. Bi-hattı Mehmed bin Abdülkerîm bin Ahmed el-Aksarâyî. Dimeşkī tamâmına. Kızıl ciğerî cildli. Yüz kırk beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "17a",
+    "created_at": "2024-04-22T12:23:25.743700Z",
+    "updated_at": "2025-09-02T23:36:58.772888Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1116,
+    "kodikolojik_bilgi": 660
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 280,
+   "koleksiyon_numarasi": "01549",
+   "nusha": "",
+   "created_at": "2025-01-11T09:33:11.542150Z",
+   "updated_at": "2025-01-11T09:33:11.542164Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2726,
+    "tam_metin": "[89] Kitâb-ı Câmiʿu’s-Sagīr-i Hüsâmî. Min evvelihî ilâ âhirihî mukayyed ve muhaşşâ. Bi-hattı Mehmed bin Abdülkerîm bin Ahmed el-Aksarâyî. Dimeşkī tamâmına. Kızıl ciğerî cildli. Yüz kırk beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "17a",
+    "created_at": "2024-04-22T12:23:25.743700Z",
+    "updated_at": "2025-09-02T23:36:58.772888Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1116,
+    "kodikolojik_bilgi": 660
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1116,
+  "kitap_set": [
+   {
+    "id": 1111,
+    "isim": "Kitâbü’l-Câmii’s-Sagīr el-Hüsâmî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:43:02.624395Z",
+    "updated_at": "2025-04-06T19:20:18.270202Z",
+    "yazar": null,
+    "kayit": {
+     "id": 1116,
+     "tam_metin": "[243] Kitâbü’l-Câmiʿi’s-Sagīr eydan el-Hüsâmî. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Bi-hattı Mehmed bin Abdülkerîm bin Ahmed el-Aksarâyî. Dimeşkī tamâmına. Kızıl ciğerî cildle. Vakf-ı Sultânî. Yüz kırk beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "25b",
+     "created_at": "2024-02-10T12:43:02.365714Z",
+     "updated_at": "2026-10-12T21:33:17.277313Z",
+     "vakif": 1,
+     "mustensih": 308,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2726,
+     "kodikolojik_bilgi": 1876
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2726,
+  "bilgi_set": [
+   {
+    "id": 1876,
+    "murekkep_set": [
+     {
+      "id": 1759,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1876
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1551,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1876
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Kızıl ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "145",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:33:17.272637Z",
+    "updated_at": "2026-10-12T21:33:17.272659Z",
+    "kayit": {
+     "id": 1116,
+     "tam_metin": "[243] Kitâbü’l-Câmiʿi’s-Sagīr eydan el-Hüsâmî. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Bi-hattı Mehmed bin Abdülkerîm bin Ahmed el-Aksarâyî. Dimeşkī tamâmına. Kızıl ciğerî cildle. Vakf-ı Sultânî. Yüz kırk beş varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "25b",
+     "created_at": "2024-02-10T12:43:02.365714Z",
+     "updated_at": "2026-10-12T21:33:17.277313Z",
+     "vakif": 1,
+     "mustensih": 308,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2726,
+     "kodikolojik_bilgi": 1876
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[243] Kitâbü’l-Câmiʿi’s-Sagīr eydan el-Hüsâmî. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Bi-hattı Mehmed bin Abdülkerîm bin Ahmed el-Aksarâyî. Dimeşkī tamâmına. Kızıl ciğerî cildle. Vakf-ı Sultânî. Yüz kırk beş varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "25b",
+  "created_at": "2024-02-10T12:43:02.365714Z",
+  "updated_at": "2026-10-12T21:33:17.277313Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 308,
+   "isim": "Mehmed bin Abdülkerîm bin Ahmed el-Aksarâyî",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-12T21:44:32.929541Z",
+   "updated_at": "2024-09-12T21:44:32.929561Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1876,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Kızıl ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "145",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:33:17.272637Z",
+   "updated_at": "2026-10-12T21:33:17.272659Z",
+   "kayit": 1116,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 660,
+   "murekkep_set": [
+    {
+     "id": 538,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 660
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 329,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 660
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Kızıl ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "145",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T23:36:58.768512Z",
+   "updated_at": "2025-09-02T23:36:58.768527Z",
+   "kayit": {
+    "id": 2726,
+    "tam_metin": "[89] Kitâb-ı Câmiʿu’s-Sagīr-i Hüsâmî. Min evvelihî ilâ âhirihî mukayyed ve muhaşşâ. Bi-hattı Mehmed bin Abdülkerîm bin Ahmed el-Aksarâyî. Dimeşkī tamâmına. Kızıl ciğerî cildli. Yüz kırk beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "17a",
+    "created_at": "2024-04-22T12:23:25.743700Z",
+    "updated_at": "2025-09-02T23:36:58.772888Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1116,
+    "kodikolojik_bilgi": 660
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[89] Kitâb-ı Câmiʿu’s-Sagīr-i Hüsâmî. Min evvelihî ilâ âhirihî mukayyed ve muhaşşâ. Bi-hattı Mehmed bin Abdülkerîm bin Ahmed el-Aksarâyî. Dimeşkī tamâmına. Kızıl ciğerî cildli. Yüz kırk beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "17a",
+ "created_at": "2024-04-22T12:23:25.743700Z",
+ "updated_at": "2025-09-02T23:36:58.772888Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 660,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Kızıl ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "145",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-02T23:36:58.768512Z",
+  "updated_at": "2025-09-02T23:36:58.768527Z",
+  "kayit": 2726,
+  "created_by": null
+ }
+}

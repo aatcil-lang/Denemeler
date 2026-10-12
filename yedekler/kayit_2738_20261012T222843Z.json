@@ -1,0 +1,327 @@
+{
+ "id": 2738,
+ "kitap_set": [
+  {
+   "id": 2721,
+   "isim": "Kitâb-ı Şerh-i Kudûrî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-04-22T12:23:31.016510Z",
+   "updated_at": "2025-04-06T19:20:13.203897Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2738,
+    "tam_metin": "[101] Kitâb-ı Şerh-i Kudûrî. Kitâb-ı Hibe’den âhir-i kitâba dek. Bi-hattı Muhammed bin Muhammed. Dimeşkī tamâmına. Ciğerî cildli. İki yüz seksen sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "17b",
+    "created_at": "2024-04-22T12:23:30.754542Z",
+    "updated_at": "2025-09-02T23:58:24.755715Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1131,
+    "kodikolojik_bilgi": 672
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 292,
+   "koleksiyon_numarasi": "01774",
+   "nusha": "",
+   "created_at": "2025-01-11T11:12:11.376603Z",
+   "updated_at": "2025-01-11T11:12:11.376618Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2738,
+    "tam_metin": "[101] Kitâb-ı Şerh-i Kudûrî. Kitâb-ı Hibe’den âhir-i kitâba dek. Bi-hattı Muhammed bin Muhammed. Dimeşkī tamâmına. Ciğerî cildli. İki yüz seksen sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "17b",
+    "created_at": "2024-04-22T12:23:30.754542Z",
+    "updated_at": "2025-09-02T23:58:24.755715Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1131,
+    "kodikolojik_bilgi": 672
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": {
+  "id": 1131,
+  "kitap_set": [
+   {
+    "id": 1126,
+    "isim": "Kitâbü’l-Cildi’l-Ahîr min Şerhi’l-Kudûrî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-02-10T12:43:08.982828Z",
+    "updated_at": "2025-04-06T19:20:18.225634Z",
+    "yazar": null,
+    "kayit": {
+     "id": 1131,
+     "tam_metin": "[258] Kitâbü’l-Cildi’l-Ahîr eydan min Şerhi’l-Kudûrî. Min evveli Kitâbi’l-Hibe ilâ âhiri’l-kitâb. Bi-hattı Muhammed bin Muhammed. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz seksen sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "26a",
+     "created_at": "2024-02-10T12:43:08.717320Z",
+     "updated_at": "2026-10-12T21:33:45.258186Z",
+     "vakif": 1,
+     "mustensih": 314,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2738,
+     "kodikolojik_bilgi": 1891
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 2738,
+  "bilgi_set": [
+   {
+    "id": 1891,
+    "murekkep_set": [
+     {
+      "id": 1774,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1891
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1566,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1891
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "288",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2026-10-12T21:33:45.251295Z",
+    "updated_at": "2026-10-12T21:33:45.251313Z",
+    "kayit": {
+     "id": 1131,
+     "tam_metin": "[258] Kitâbü’l-Cildi’l-Ahîr eydan min Şerhi’l-Kudûrî. Min evveli Kitâbi’l-Hibe ilâ âhiri’l-kitâb. Bi-hattı Muhammed bin Muhammed. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz seksen sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+     "notlar": "",
+     "sayfa_numarasi": "26a",
+     "created_at": "2024-02-10T12:43:08.717320Z",
+     "updated_at": "2026-10-12T21:33:45.258186Z",
+     "vakif": 1,
+     "mustensih": 314,
+     "kaynak": 1,
+     "created_by": null,
+     "iliskili_kayit": 2738,
+     "kodikolojik_bilgi": 1891
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[258] Kitâbü’l-Cildi’l-Ahîr eydan min Şerhi’l-Kudûrî. Min evveli Kitâbi’l-Hibe ilâ âhiri’l-kitâb. Bi-hattı Muhammed bin Muhammed. Dimeşkī tamâmına. Ciğerî cildle. Vakf-ı Sultânî. İki yüz seksen sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘i",
+  "notlar": "",
+  "sayfa_numarasi": "26a",
+  "created_at": "2024-02-10T12:43:08.717320Z",
+  "updated_at": "2026-10-12T21:33:45.258186Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": {
+   "id": 314,
+   "isim": "Muhammed bin Muhammed",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-09-12T23:06:09.680339Z",
+   "updated_at": "2024-09-12T23:06:09.680356Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "kaynak": {
+   "id": 1,
+   "isim": "Hacıhasanzade",
+   "tur": "yazma",
+   "kunye_bilgisi": "TSMA. D.9559",
+   "yazma_turu": "arsiv",
+   "link": null,
+   "created_at": "2024-01-29T23:31:13.203668Z",
+   "updated_at": "2024-01-29T23:31:13.203689Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1891,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "288",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2026-10-12T21:33:45.251295Z",
+   "updated_at": "2026-10-12T21:33:45.251313Z",
+   "kayit": 1131,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [
+  {
+   "id": 672,
+   "murekkep_set": [
+    {
+     "id": 550,
+     "renk": "",
+     "ilgili_ibare": "",
+     "kodikolojik_bilgi": 672
+    }
+   ],
+   "cedvel_set": [],
+   "hatt_set": [
+    {
+     "id": 341,
+     "hatt_turu": "",
+     "hatt_sekli": "",
+     "aciklama": "",
+     "kodikolojik_bilgi": 672
+    }
+   ],
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "288",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T23:58:24.749604Z",
+   "updated_at": "2025-09-02T23:58:24.749631Z",
+   "kayit": {
+    "id": 2738,
+    "tam_metin": "[101] Kitâb-ı Şerh-i Kudûrî. Kitâb-ı Hibe’den âhir-i kitâba dek. Bi-hattı Muhammed bin Muhammed. Dimeşkī tamâmına. Ciğerî cildli. İki yüz seksen sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "17b",
+    "created_at": "2024-04-22T12:23:30.754542Z",
+    "updated_at": "2025-09-02T23:58:24.755715Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 2,
+    "created_by": null,
+    "iliskili_kayit": 1131,
+    "kodikolojik_bilgi": 672
+   },
+   "created_by": null
+  }
+ ],
+ "tam_metin": "[101] Kitâb-ı Şerh-i Kudûrî. Kitâb-ı Hibe’den âhir-i kitâba dek. Bi-hattı Muhammed bin Muhammed. Dimeşkī tamâmına. Ciğerî cildli. İki yüz seksen sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "17b",
+ "created_at": "2024-04-22T12:23:30.754542Z",
+ "updated_at": "2025-09-02T23:58:24.755715Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 2,
+  "isim": "Fenarizade",
+  "tur": null,
+  "kunye_bilgisi": null,
+  "yazma_turu": null,
+  "link": null,
+  "created_at": "2024-04-22T12:20:39.734834Z",
+  "updated_at": "2024-04-22T12:20:39.734856Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": {
+  "id": 672,
+  "zahriye_exists": false,
+  "zahriye": "",
+  "cild_turu": "Ciğerî cilt",
+  "cild_materyal": "",
+  "varak_adedi": "288",
+  "kagit_turu": "Dimeşkî",
+  "aciklama": "",
+  "kagit_ebadi": "Tamamına",
+  "kagit_sekli": "",
+  "note": "",
+  "created_at": "2025-09-02T23:58:24.749604Z",
+  "updated_at": "2025-09-02T23:58:24.749631Z",
+  "kayit": 2738,
+  "created_by": null
+ }
+}
