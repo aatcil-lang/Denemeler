@@ -1,0 +1,71 @@
+{
+ "id": 2134,
+ "kitap_set": [
+  {
+   "id": 2124,
+   "isim": "Kitâb-ı Şerhü’l-Ferâizi’s-Sirâciyye.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:10:42.585722Z",
+   "updated_at": "2025-04-06T19:20:15.005183Z",
+   "yazar": null,
+   "kayit": {
+    "id": 2134,
+    "tam_metin": "[56] Kitâb-ı Şerhu’l-Ferâʾizi’s-Sirâciyye eydan. Tamâm. Dimeşkī nısfına. Yeşil kâğıd mukavvâ cildle. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Yetmiş dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+    "notlar": "",
+    "sayfa_numarasi": "71b",
+    "created_at": "2024-02-10T13:10:42.297533Z",
+    "updated_at": "2026-10-11T23:12:41.611205Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[56] Kitâb-ı Şerhu’l-Ferâʾizi’s-Sirâciyye eydan. Tamâm. Dimeşkī nısfına. Yeşil kâğıd mukavvâ cildle. Min evvelihî ilâ âhirihî musahhah ve muhaşşâ. Yetmiş dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+ "notlar": "",
+ "sayfa_numarasi": "71b",
+ "created_at": "2024-02-10T13:10:42.297533Z",
+ "updated_at": "2026-10-11T23:12:41.611205Z",
+ "vakif": {
+  "id": 741,
+  "isim": "Halebîzâde",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-10-29T12:53:36.101827Z",
+  "updated_at": "2025-10-29T12:53:36.101845Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
