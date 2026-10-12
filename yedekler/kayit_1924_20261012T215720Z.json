@@ -1,0 +1,248 @@
+{
+ "id": 1924,
+ "kitap_set": [
+  {
+   "id": 1919,
+   "isim": "Kitâbün fî Ma‘rifeti Hukūkı’l-Musâhabe ve Şerâituhâ ve Âdâbuhâ ve Levâzimühâ.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:49:12.060699Z",
+   "updated_at": "2025-04-06T19:20:15.649812Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1924,
+    "tam_metin": "[28] Kitâbün fî Maʿrifeti Hukūkı’l-Musâhabe ve Şerâʾituhâ ve Âdâbuhâ ve Levâzimühâ. Haşebî nısfına. Ciğerî cildle. Mine’l-kütübi’l-gayri’l-maʿlûm vâkıfuhâ. Yüz seksen varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tasavvuf",
+    "notlar": "",
+    "sayfa_numarasi": "60a",
+    "created_at": "2024-02-10T12:49:11.771038Z",
+    "updated_at": "2026-01-27T23:36:00.615281Z",
+    "vakif": 742,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3643,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3643,
+  "kitap_set": [
+   {
+    "id": 3622,
+    "isim": "Kitâbu fî Ma‘rifeti Hukūkı’l-Musâhabe ve Şerâitihâ ve Âdâbihâ ve Levâzimihâ.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:46:18.294868Z",
+    "updated_at": "2025-04-06T19:20:10.630278Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3643,
+     "tam_metin": "[10] Kitâbu fî Maʿrifeti Hukūkı’l-Musâhabe ve Şerâʾitihâ ve Âdâbihâ ve Levâzimihâ. Haşebî nısfına. Ciğerî cildli. Evvel varakının zahrında وقف محمد بن مصلح الدين البناء حال صحته وكمال تصرفاته وجواز أمره وقفًا صحيحًا شرعيًّا deyu yazılmış.  Yüz seksen varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+     "notlar": "",
+     "sayfa_numarasi": "53a",
+     "created_at": "2024-04-22T12:46:18.029238Z",
+     "updated_at": "2026-01-27T23:34:31.983534Z",
+     "vakif": 742,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1924,
+     "kodikolojik_bilgi": 1536
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 879,
+    "koleksiyon_numarasi": "02610",
+    "nusha": "",
+    "created_at": "2025-01-16T01:51:13.703449Z",
+    "updated_at": "2025-01-16T01:51:13.703466Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3643,
+     "tam_metin": "[10] Kitâbu fî Maʿrifeti Hukūkı’l-Musâhabe ve Şerâʾitihâ ve Âdâbihâ ve Levâzimihâ. Haşebî nısfına. Ciğerî cildli. Evvel varakının zahrında وقف محمد بن مصلح الدين البناء حال صحته وكمال تصرفاته وجواز أمره وقفًا صحيحًا شرعيًّا deyu yazılmış.  Yüz seksen varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+     "notlar": "",
+     "sayfa_numarasi": "53a",
+     "created_at": "2024-04-22T12:46:18.029238Z",
+     "updated_at": "2026-01-27T23:34:31.983534Z",
+     "vakif": 742,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1924,
+     "kodikolojik_bilgi": 1536
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1924,
+  "bilgi_set": [
+   {
+    "id": 1536,
+    "murekkep_set": [
+     {
+      "id": 1416,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1536
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1202,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1536
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Evvel varakının zahrında وقف محمد بن مصلح الدين البناء حال صحته وكمال تصرفاته وجواز أمره وقفًا صحيحًا شرعيًّا deyu yazılmış",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "180",
+    "kagit_turu": "Haşebî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-03T05:35:59.738540Z",
+    "updated_at": "2025-10-03T05:35:59.738565Z",
+    "kayit": {
+     "id": 3643,
+     "tam_metin": "[10] Kitâbu fî Maʿrifeti Hukūkı’l-Musâhabe ve Şerâʾitihâ ve Âdâbihâ ve Levâzimihâ. Haşebî nısfına. Ciğerî cildli. Evvel varakının zahrında وقف محمد بن مصلح الدين البناء حال صحته وكمال تصرفاته وجواز أمره وقفًا صحيحًا شرعيًّا deyu yazılmış.  Yüz seksen varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+     "notlar": "",
+     "sayfa_numarasi": "53a",
+     "created_at": "2024-04-22T12:46:18.029238Z",
+     "updated_at": "2026-01-27T23:34:31.983534Z",
+     "vakif": 742,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1924,
+     "kodikolojik_bilgi": 1536
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[10] Kitâbu fî Maʿrifeti Hukūkı’l-Musâhabe ve Şerâʾitihâ ve Âdâbihâ ve Levâzimihâ. Haşebî nısfına. Ciğerî cildli. Evvel varakının zahrında وقف محمد بن مصلح الدين البناء حال صحته وكمال تصرفاته وجواز أمره وقفًا صحيحًا شرعيًّا deyu yazılmış.  Yüz seksen varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîl-i Kütüb ki Defter-i Atîkde Mukayyed Bulunmadı ve Sultânî-Gayr-ı Sultânî İdüğü Ma‘lûm Olmadı",
+  "notlar": "",
+  "sayfa_numarasi": "53a",
+  "created_at": "2024-04-22T12:46:18.029238Z",
+  "updated_at": "2026-01-27T23:34:31.983534Z",
+  "vakif": {
+   "id": 742,
+   "isim": "[bilgi yok]",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2026-01-27T21:30:30.238544Z",
+   "updated_at": "2026-01-27T21:30:30.239057Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1536,
+   "zahriye_exists": true,
+   "zahriye": "Evvel varakının zahrında وقف محمد بن مصلح الدين البناء حال صحته وكمال تصرفاته وجواز أمره وقفًا صحيحًا شرعيًّا deyu yazılmış",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "180",
+   "kagit_turu": "Haşebî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-03T05:35:59.738540Z",
+   "updated_at": "2025-10-03T05:35:59.738565Z",
+   "kayit": 3643,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[28] Kitâbün fî Maʿrifeti Hukūkı’l-Musâhabe ve Şerâʾituhâ ve Âdâbuhâ ve Levâzimühâ. Haşebî nısfına. Ciğerî cildle. Mine’l-kütübi’l-gayri’l-maʿlûm vâkıfuhâ. Yüz seksen varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tasavvuf",
+ "notlar": "",
+ "sayfa_numarasi": "60a",
+ "created_at": "2024-02-10T12:49:11.771038Z",
+ "updated_at": "2026-01-27T23:36:00.615281Z",
+ "vakif": {
+  "id": 742,
+  "isim": "[bilgi yok]",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2026-01-27T21:30:30.238544Z",
+  "updated_at": "2026-01-27T21:30:30.239057Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

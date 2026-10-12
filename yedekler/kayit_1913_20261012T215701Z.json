@@ -1,0 +1,123 @@
+{
+ "id": 1913,
+ "kitap_set": [
+  {
+   "id": 1908,
+   "isim": "Kitâb-ı Avârifü’l-Maârif.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:49:06.857657Z",
+   "updated_at": "2025-04-06T19:20:15.688459Z",
+   "yazar": {
+    "id": 546,
+    "isim": "Şehabeddîn Sühreverdî, Ebû Hafs Şihâbüddîn Ömer b. Muhammed b. Abdillâh b. Ammûye el-Kureşî el-Bekrî es-Sühreverdî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-01T20:44:40.663339Z",
+    "updated_at": "2025-01-01T20:44:40.663356Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1913,
+    "tam_metin": "[17] Kitâb-ı Avârifü’l-Maʿârif. Dimeşkī rubʿuna. Ciğerî cildle. Vakf-ı Kādîzâde. Üç yüz yirmi dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tasavvuf",
+    "notlar": "",
+    "sayfa_numarasi": "59b",
+    "created_at": "2024-02-10T12:49:06.567765Z",
+    "updated_at": "2026-06-01T07:16:02.258977Z",
+    "vakif": 434,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1172,
+   "koleksiyon_numarasi": "02742",
+   "nusha": "https://portal.yek.gov.tr/works/detail/240662",
+   "created_at": "2026-06-01T07:15:49.743874Z",
+   "updated_at": "2026-06-01T07:15:49.743889Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 1913,
+    "tam_metin": "[17] Kitâb-ı Avârifü’l-Maʿârif. Dimeşkī rubʿuna. Ciğerî cildle. Vakf-ı Kādîzâde. Üç yüz yirmi dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tasavvuf",
+    "notlar": "",
+    "sayfa_numarasi": "59b",
+    "created_at": "2024-02-10T12:49:06.567765Z",
+    "updated_at": "2026-06-01T07:16:02.258977Z",
+    "vakif": 434,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[17] Kitâb-ı Avârifü’l-Maʿârif. Dimeşkī rubʿuna. Ciğerî cildle. Vakf-ı Kādîzâde. Üç yüz yirmi dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tasavvuf",
+ "notlar": "",
+ "sayfa_numarasi": "59b",
+ "created_at": "2024-02-10T12:49:06.567765Z",
+ "updated_at": "2026-06-01T07:16:02.258977Z",
+ "vakif": {
+  "id": 434,
+  "isim": "Kādızâde",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-11-30T12:30:27.461215Z",
+  "updated_at": "2024-11-30T12:30:27.461229Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

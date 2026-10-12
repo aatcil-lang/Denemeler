@@ -1,0 +1,220 @@
+{
+ "id": 1923,
+ "kitap_set": [
+  {
+   "id": 1918,
+   "isim": "Kitâbü’t-Tezkire bi-Ahvâli’l-Mevtâ ve Umûri’l-Âhire.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:49:11.592261Z",
+   "updated_at": "2025-04-06T19:20:15.654459Z",
+   "yazar": {
+    "id": 550,
+    "isim": "İmâm el-Kurtubî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-02T12:48:25.537166Z",
+    "updated_at": "2025-01-02T12:48:25.537188Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1923,
+    "tam_metin": "[27] Kitâbü’t-Tezkire bi-Ahvâli’l-Mevtâ ve Umûri’l-Âhire li’l-İmâm el-Kurtubî. Semerkandî nısfına. Ciğerî cildle. Vakf-ı Musannifek. Yüz seksen iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tasavvuf",
+    "notlar": "",
+    "sayfa_numarasi": "60a",
+    "created_at": "2024-02-10T12:49:11.294227Z",
+    "updated_at": "2026-01-26T19:58:44.699333Z",
+    "vakif": 11,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3495,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3495,
+  "kitap_set": [
+   {
+    "id": 3477,
+    "isim": "Kitâb-ı et-Tezkire fî Usûli’l-Mevtâ [bi-Ahvâli’l-Mevtâ] ve Umûri’l-Âhire.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:14.126432Z",
+    "updated_at": "2025-04-06T19:20:11.037358Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3495,
+     "tam_metin": "[10] Kitâb-ı et-Tezkire fî Usûli’l-Mevtâ  ve Umûri’l-Âhire. Semerkandî nısfına. Ciğerî cildli. Yüz seksen iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi'l Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "46a",
+     "created_at": "2024-04-22T12:45:13.856798Z",
+     "updated_at": "2025-09-25T08:29:52.312826Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1923,
+     "kodikolojik_bilgi": 1388
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1923,
+  "bilgi_set": [
+   {
+    "id": 1388,
+    "murekkep_set": [
+     {
+      "id": 1265,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1388
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1054,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1388
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "182",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-25T08:29:52.306158Z",
+    "updated_at": "2025-09-25T08:29:52.306183Z",
+    "kayit": {
+     "id": 3495,
+     "tam_metin": "[10] Kitâb-ı et-Tezkire fî Usûli’l-Mevtâ  ve Umûri’l-Âhire. Semerkandî nısfına. Ciğerî cildli. Yüz seksen iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi'l Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "46a",
+     "created_at": "2024-04-22T12:45:13.856798Z",
+     "updated_at": "2025-09-25T08:29:52.312826Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1923,
+     "kodikolojik_bilgi": 1388
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[10] Kitâb-ı et-Tezkire fî Usûli’l-Mevtâ  ve Umûri’l-Âhire. Semerkandî nısfına. Ciğerî cildli. Yüz seksen iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi'l Müteferrika",
+  "notlar": "",
+  "sayfa_numarasi": "46a",
+  "created_at": "2024-04-22T12:45:13.856798Z",
+  "updated_at": "2025-09-25T08:29:52.312826Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1388,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "182",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-25T08:29:52.306158Z",
+   "updated_at": "2025-09-25T08:29:52.306183Z",
+   "kayit": 3495,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[27] Kitâbü’t-Tezkire bi-Ahvâli’l-Mevtâ ve Umûri’l-Âhire li’l-İmâm el-Kurtubî. Semerkandî nısfına. Ciğerî cildle. Vakf-ı Musannifek. Yüz seksen iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tasavvuf",
+ "notlar": "",
+ "sayfa_numarasi": "60a",
+ "created_at": "2024-02-10T12:49:11.294227Z",
+ "updated_at": "2026-01-26T19:58:44.699333Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,220 @@
+{
+ "id": 1927,
+ "kitap_set": [
+  {
+   "id": 1922,
+   "isim": "Kitâb-ı Metnü Miftâhi’l-Gayb.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:49:13.477169Z",
+   "updated_at": "2025-04-06T19:20:15.636144Z",
+   "yazar": {
+    "id": 448,
+    "isim": "Sadreddîn Konevî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-11-30T20:55:14.355961Z",
+    "updated_at": "2024-11-30T20:55:14.355982Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1927,
+    "tam_metin": "[31] Kitâb-ı Metnü Miftâhi’l-Gayb. Dimeşkī nısfına. Siyâh cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Yüz yirmi bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tasavvuf",
+    "notlar": "",
+    "sayfa_numarasi": "60b",
+    "created_at": "2024-02-10T12:49:13.174052Z",
+    "updated_at": "2026-01-26T22:40:21.062855Z",
+    "vakif": 12,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3562,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3562,
+  "kitap_set": [
+   {
+    "id": 3542,
+    "isim": "Kitâb-ı Metn-i Miftâhu’l-Gayb.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:43.448401Z",
+    "updated_at": "2025-04-06T19:20:10.857024Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3562,
+     "tam_metin": "[10] Kitâb-ı Metn-i Miftâhu’l-Gayb. Dimeşkī nısfına. Siyâh cildli. Yüz yirmi bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "49a",
+     "created_at": "2024-04-22T12:45:43.180775Z",
+     "updated_at": "2025-10-01T20:27:55.956529Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1927,
+     "kodikolojik_bilgi": 1455
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [],
+  "iliskili_kayit": 1927,
+  "bilgi_set": [
+   {
+    "id": 1455,
+    "murekkep_set": [
+     {
+      "id": 1332,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1455
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1121,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1455
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Siyah cilt",
+    "cild_materyal": "",
+    "varak_adedi": "121",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T20:27:55.950951Z",
+    "updated_at": "2025-10-01T20:27:55.950967Z",
+    "kayit": {
+     "id": 3562,
+     "tam_metin": "[10] Kitâb-ı Metn-i Miftâhu’l-Gayb. Dimeşkī nısfına. Siyâh cildli. Yüz yirmi bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "49a",
+     "created_at": "2024-04-22T12:45:43.180775Z",
+     "updated_at": "2025-10-01T20:27:55.956529Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1927,
+     "kodikolojik_bilgi": 1455
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[10] Kitâb-ı Metn-i Miftâhu’l-Gayb. Dimeşkī nısfına. Siyâh cildli. Yüz yirmi bir varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+  "notlar": "",
+  "sayfa_numarasi": "49a",
+  "created_at": "2024-04-22T12:45:43.180775Z",
+  "updated_at": "2025-10-01T20:27:55.956529Z",
+  "vakif": {
+   "id": 12,
+   "isim": "Âlâiyyeli Muhyiddîn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:56:17.228524Z",
+   "updated_at": "2024-04-22T11:56:17.228541Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1455,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Siyah cilt",
+   "cild_materyal": "",
+   "varak_adedi": "121",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T20:27:55.950951Z",
+   "updated_at": "2025-10-01T20:27:55.950967Z",
+   "kayit": 3562,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[31] Kitâb-ı Metnü Miftâhi’l-Gayb. Dimeşkī nısfına. Siyâh cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. Yüz yirmi bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tasavvuf",
+ "notlar": "",
+ "sayfa_numarasi": "60b",
+ "created_at": "2024-02-10T12:49:13.174052Z",
+ "updated_at": "2026-01-26T22:40:21.062855Z",
+ "vakif": {
+  "id": 12,
+  "isim": "Âlâiyyeli Muhyiddîn",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:56:17.228524Z",
+  "updated_at": "2024-04-22T11:56:17.228541Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

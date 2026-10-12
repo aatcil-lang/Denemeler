@@ -1,0 +1,299 @@
+{
+ "id": 1958,
+ "kitap_set": [
+  {
+   "id": 1950,
+   "isim": "Kitâb-ı Rebî‘u’l-Ebrâr.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": "bir kısmı",
+   "created_at": "2024-02-10T12:49:28.073185Z",
+   "updated_at": "2025-10-27T12:44:28.504584Z",
+   "yazar": {
+    "id": 2,
+    "isim": "Zemahşeri",
+    "isim2": "Cârullah el-Allâme ez-Zemahşerî",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-01-29T23:34:30.103436Z",
+    "updated_at": "2024-01-29T23:34:30.103458Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 1958,
+    "tam_metin": "[16] Kitâb-ı Rebîʿu’l-Ebrâr li’z-Zemahşerî ve baʿzı Resâʾil-i müsevvedât ile bir cildde. Haşebî nısfına. Kızıl kâğıd mukavvâ cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. İki yüz kırk dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+    "notlar": "",
+    "sayfa_numarasi": "62a",
+    "created_at": "2024-02-10T12:49:27.762260Z",
+    "updated_at": "2026-01-26T22:34:24.296497Z",
+    "vakif": 12,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3553,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": {
+    "id": 2,
+    "isim": "Fenarizade",
+    "tur": null,
+    "kunye_bilgisi": null,
+    "yazma_turu": null,
+    "link": null,
+    "created_at": "2024-04-22T12:20:39.734834Z",
+    "updated_at": "2024-04-22T12:20:39.734856Z",
+    "kutuphane": null,
+    "created_by": null
+   },
+   "created_by": null
+  },
+  {
+   "id": 4042,
+   "isim": "Baʿzı Resâʾil-i müsevvedât.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2025-01-03T12:39:25.454448Z",
+   "updated_at": "2025-04-06T19:20:09.422186Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1958,
+    "tam_metin": "[16] Kitâb-ı Rebîʿu’l-Ebrâr li’z-Zemahşerî ve baʿzı Resâʾil-i müsevvedât ile bir cildde. Haşebî nısfına. Kızıl kâğıd mukavvâ cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. İki yüz kırk dört varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+    "notlar": "",
+    "sayfa_numarasi": "62a",
+    "created_at": "2024-02-10T12:49:27.762260Z",
+    "updated_at": "2026-01-26T22:34:24.296497Z",
+    "vakif": 12,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3553,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3553,
+  "kitap_set": [
+   {
+    "id": 3534,
+    "isim": "Kitâb-ı Rebî‘u’l-Ebrâr li’z-Zemahşerî.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:39.627335Z",
+    "updated_at": "2025-04-06T19:20:10.879220Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3553,
+     "tam_metin": "[1] Kitâb-ı Rebîʿu’l-Ebrâr li’z-Zemahşerî. Baʿzı resâʾil müsevvedâtı ile bir cildde. Haşebî nısfına. Kızıl kâğıd mukavvâ cildli. İki yüz kırk dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "48b",
+     "created_at": "2024-04-22T12:45:39.359224Z",
+     "updated_at": "2025-10-01T20:11:34.029156Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1958,
+     "kodikolojik_bilgi": 1446
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 831,
+    "koleksiyon_numarasi": "03896",
+    "nusha": "",
+    "created_at": "2025-01-16T00:20:02.045248Z",
+    "updated_at": "2025-01-16T00:20:02.045264Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3553,
+     "tam_metin": "[1] Kitâb-ı Rebîʿu’l-Ebrâr li’z-Zemahşerî. Baʿzı resâʾil müsevvedâtı ile bir cildde. Haşebî nısfına. Kızıl kâğıd mukavvâ cildli. İki yüz kırk dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "48b",
+     "created_at": "2024-04-22T12:45:39.359224Z",
+     "updated_at": "2025-10-01T20:11:34.029156Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1958,
+     "kodikolojik_bilgi": 1446
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1958,
+  "bilgi_set": [
+   {
+    "id": 1446,
+    "murekkep_set": [
+     {
+      "id": 1323,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1446
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1112,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1446
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Kızıl kağıt",
+    "varak_adedi": "244",
+    "kagit_turu": "Haşebî",
+    "aciklama": "",
+    "kagit_ebadi": "Nısfına",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-10-01T20:11:34.025357Z",
+    "updated_at": "2025-10-01T20:11:34.025375Z",
+    "kayit": {
+     "id": 3553,
+     "tam_metin": "[1] Kitâb-ı Rebîʿu’l-Ebrâr li’z-Zemahşerî. Baʿzı resâʾil müsevvedâtı ile bir cildde. Haşebî nısfına. Kızıl kâğıd mukavvâ cildli. İki yüz kırk dört varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "48b",
+     "created_at": "2024-04-22T12:45:39.359224Z",
+     "updated_at": "2025-10-01T20:11:34.029156Z",
+     "vakif": 12,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1958,
+     "kodikolojik_bilgi": 1446
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[1] Kitâb-ı Rebîʿu’l-Ebrâr li’z-Zemahşerî. Baʿzı resâʾil müsevvedâtı ile bir cildde. Haşebî nısfına. Kızıl kâğıd mukavvâ cildli. İki yüz kırk dört varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+  "notlar": "",
+  "sayfa_numarasi": "48b",
+  "created_at": "2024-04-22T12:45:39.359224Z",
+  "updated_at": "2025-10-01T20:11:34.029156Z",
+  "vakif": {
+   "id": 12,
+   "isim": "Âlâiyyeli Muhyiddîn",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:56:17.228524Z",
+   "updated_at": "2024-04-22T11:56:17.228541Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1446,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Kızıl kağıt",
+   "varak_adedi": "244",
+   "kagit_turu": "Haşebî",
+   "aciklama": "",
+   "kagit_ebadi": "Nısfına",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-10-01T20:11:34.025357Z",
+   "updated_at": "2025-10-01T20:11:34.025375Z",
+   "kayit": 3553,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[16] Kitâb-ı Rebîʿu’l-Ebrâr li’z-Zemahşerî ve baʿzı Resâʾil-i müsevvedât ile bir cildde. Haşebî nısfına. Kızıl kâğıd mukavvâ cildle. Vakf-ı Alâʾiyyeli Muhyiddîn. İki yüz kırk dört varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l-Müteferrika",
+ "notlar": "",
+ "sayfa_numarasi": "62a",
+ "created_at": "2024-02-10T12:49:27.762260Z",
+ "updated_at": "2026-01-26T22:34:24.296497Z",
+ "vakif": {
+  "id": 12,
+  "isim": "Âlâiyyeli Muhyiddîn",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:56:17.228524Z",
+  "updated_at": "2024-04-22T11:56:17.228541Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

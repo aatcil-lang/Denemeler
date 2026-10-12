@@ -1,0 +1,260 @@
+{
+ "id": 1941,
+ "kitap_set": [
+  {
+   "id": 1936,
+   "isim": "Kitâb-ı Şerhü Evâili’l-Mesnevî.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:49:20.076435Z",
+   "updated_at": "2025-04-06T19:20:15.576657Z",
+   "yazar": null,
+   "kayit": {
+    "id": 1941,
+    "tam_metin": "[45] Kitâb-ı Şerhu Evâʾili’l-Mesnevî li-Musannifek. Bi-hattı Musannifek. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Musannifek. Yüz on sekiz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’t-Tasavvuf",
+    "notlar": "",
+    "sayfa_numarasi": "61a",
+    "created_at": "2024-02-10T12:49:19.783921Z",
+    "updated_at": "2026-01-26T19:57:17.101034Z",
+    "vakif": 11,
+    "mustensih": 11,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 3492,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 3492,
+  "kitap_set": [
+   {
+    "id": 3474,
+    "isim": "Kitâb-ı Şerh-i Evâil-i Mesnevî li-Mevlâ el-Vâkıf Mevlânâ Musannifek.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:45:12.775686Z",
+    "updated_at": "2025-04-06T19:20:11.045917Z",
+    "yazar": null,
+    "kayit": {
+     "id": 3492,
+     "tam_metin": "[7] Kitâb-ı Şerh-i Evâʾil-i Mesnevî li-Mevlâ el-Vâkıf Mevlânâ Musannifek. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz on sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi'l Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "46a",
+     "created_at": "2024-04-22T12:45:12.497406Z",
+     "updated_at": "2025-09-25T08:26:40.258143Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1941,
+     "kodikolojik_bilgi": 1385
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 797,
+    "koleksiyon_numarasi": "02706",
+    "nusha": "",
+    "created_at": "2025-01-15T23:27:10.581831Z",
+    "updated_at": "2025-01-15T23:27:10.581848Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 3492,
+     "tam_metin": "[7] Kitâb-ı Şerh-i Evâʾil-i Mesnevî li-Mevlâ el-Vâkıf Mevlânâ Musannifek. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz on sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi'l Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "46a",
+     "created_at": "2024-04-22T12:45:12.497406Z",
+     "updated_at": "2025-09-25T08:26:40.258143Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1941,
+     "kodikolojik_bilgi": 1385
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 1941,
+  "bilgi_set": [
+   {
+    "id": 1385,
+    "murekkep_set": [
+     {
+      "id": 1262,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 1385
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 1051,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 1385
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Ciğerî cilt",
+    "cild_materyal": "",
+    "varak_adedi": "118",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-25T08:26:40.248423Z",
+    "updated_at": "2025-09-25T08:26:40.248952Z",
+    "kayit": {
+     "id": 3492,
+     "tam_metin": "[7] Kitâb-ı Şerh-i Evâʾil-i Mesnevî li-Mevlâ el-Vâkıf Mevlânâ Musannifek. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz on sekiz varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü’l-Kütübi'l Müteferrika",
+     "notlar": "",
+     "sayfa_numarasi": "46a",
+     "created_at": "2024-04-22T12:45:12.497406Z",
+     "updated_at": "2025-09-25T08:26:40.258143Z",
+     "vakif": 11,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 1941,
+     "kodikolojik_bilgi": 1385
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[7] Kitâb-ı Şerh-i Evâʾil-i Mesnevî li-Mevlâ el-Vâkıf Mevlânâ Musannifek. Dimeşkī tamâmından kırılmış. Ciğerî cildli. Yüz on sekiz varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü’l-Kütübi'l Müteferrika",
+  "notlar": "",
+  "sayfa_numarasi": "46a",
+  "created_at": "2024-04-22T12:45:12.497406Z",
+  "updated_at": "2025-09-25T08:26:40.258143Z",
+  "vakif": {
+   "id": 11,
+   "isim": "Mevlânâ Musannifek",
+   "isim2": "",
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": null,
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-04-22T11:53:25.702212Z",
+   "updated_at": "2024-04-22T11:53:25.702230Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 1385,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Ciğerî cilt",
+   "cild_materyal": "",
+   "varak_adedi": "118",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-25T08:26:40.248423Z",
+   "updated_at": "2025-09-25T08:26:40.248952Z",
+   "kayit": 3492,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[45] Kitâb-ı Şerhu Evâʾili’l-Mesnevî li-Musannifek. Bi-hattı Musannifek. Dimeşkī tamâmından kırılmış. Ciğerî cildle. Vakf-ı Musannifek. Yüz on sekiz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’t-Tasavvuf",
+ "notlar": "",
+ "sayfa_numarasi": "61a",
+ "created_at": "2024-02-10T12:49:19.783921Z",
+ "updated_at": "2026-01-26T19:57:17.101034Z",
+ "vakif": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 11,
+  "isim": "Mevlânâ Musannifek",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-04-22T11:53:25.702212Z",
+  "updated_at": "2024-04-22T11:53:25.702230Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
