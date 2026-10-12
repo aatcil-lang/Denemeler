@@ -1,0 +1,123 @@
+{
+ "id": 2293,
+ "kitap_set": [
+  {
+   "id": 2279,
+   "isim": "Kitâb-ı Ba‘zı Mültekatât min Kitâbi Mir’âti’z-Zamân.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:11:56.660901Z",
+   "updated_at": "2025-04-06T19:20:14.532420Z",
+   "yazar": {
+    "id": 683,
+    "isim": "Sıbt İbnü'l-Cevzî, Ebü’l-Muzaffer Şemsüddîn Yûsuf b. Kızoğlu et-Türkî el-Avnî el-Bağdâdî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-07T10:06:13.368052Z",
+    "updated_at": "2025-01-07T10:06:13.368067Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2293,
+    "tam_metin": "[10] Kitâb-ı Baʿzu Mültekatât min Kitâbi Mirʾâti’z-Zamân li-Sıbti İbnü’l-Cevzî. Dimeşkī nısfına. Defter tavrında. Yeşil kâğıd mukavvâ cildle. Bi-hutûtin muhtelife. İki yüz seksen dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Tevârîh",
+    "notlar": "",
+    "sayfa_numarasi": "79a",
+    "created_at": "2024-02-10T13:11:56.354560Z",
+    "updated_at": "2026-10-11T23:15:59.965918Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1015,
+   "koleksiyon_numarasi": "05433",
+   "nusha": "",
+   "created_at": "2025-01-18T20:07:20.525257Z",
+   "updated_at": "2025-01-18T20:07:20.525273Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2293,
+    "tam_metin": "[10] Kitâb-ı Baʿzu Mültekatât min Kitâbi Mirʾâti’z-Zamân li-Sıbti İbnü’l-Cevzî. Dimeşkī nısfına. Defter tavrında. Yeşil kâğıd mukavvâ cildle. Bi-hutûtin muhtelife. İki yüz seksen dokuz varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Tevârîh",
+    "notlar": "",
+    "sayfa_numarasi": "79a",
+    "created_at": "2024-02-10T13:11:56.354560Z",
+    "updated_at": "2026-10-11T23:15:59.965918Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[10] Kitâb-ı Baʿzu Mültekatât min Kitâbi Mirʾâti’z-Zamân li-Sıbti İbnü’l-Cevzî. Dimeşkī nısfına. Defter tavrında. Yeşil kâğıd mukavvâ cildle. Bi-hutûtin muhtelife. İki yüz seksen dokuz varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Tevârîh",
+ "notlar": "",
+ "sayfa_numarasi": "79a",
+ "created_at": "2024-02-10T13:11:56.354560Z",
+ "updated_at": "2026-10-11T23:15:59.965918Z",
+ "vakif": {
+  "id": 741,
+  "isim": "Halebîzâde",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-10-29T12:53:36.101827Z",
+  "updated_at": "2025-10-29T12:53:36.101845Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

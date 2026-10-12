@@ -1,0 +1,135 @@
+{
+ "id": 2302,
+ "kitap_set": [
+  {
+   "id": 2287,
+   "isim": "Kitâb-ı Şerhu’n-Necdiyyât.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:12:00.922824Z",
+   "updated_at": "2025-04-06T19:20:14.507535Z",
+   "yazar": {
+    "id": 104,
+    "isim": "Zeynü’l-Arab el-Mısrî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-08-07T22:44:16.868224Z",
+    "updated_at": "2024-08-07T22:44:16.868240Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2302,
+    "tam_metin": "[6] Kitâb-ı Şerhu’n-Necdiyyât li-Zeyni’l-Arab el-Mısrî. Tamâm. Dimeşkī tamâmından kırılmış. Kümmî olmuş. Ak kâğıd mukavvâ cildle. Bi-hattı Hızır bin Hoca Süleymân. Yüz kırk beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Eş‘âr",
+    "notlar": "",
+    "sayfa_numarasi": "79b",
+    "created_at": "2024-02-10T13:12:00.623443Z",
+    "updated_at": "2026-10-11T23:16:12.254821Z",
+    "vakif": 741,
+    "mustensih": 688,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1020,
+   "koleksiyon_numarasi": "03998",
+   "nusha": "",
+   "created_at": "2025-01-18T20:13:35.709698Z",
+   "updated_at": "2025-01-18T20:13:35.709715Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2302,
+    "tam_metin": "[6] Kitâb-ı Şerhu’n-Necdiyyât li-Zeyni’l-Arab el-Mısrî. Tamâm. Dimeşkī tamâmından kırılmış. Kümmî olmuş. Ak kâğıd mukavvâ cildle. Bi-hattı Hızır bin Hoca Süleymân. Yüz kırk beş varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Eş‘âr",
+    "notlar": "",
+    "sayfa_numarasi": "79b",
+    "created_at": "2024-02-10T13:12:00.623443Z",
+    "updated_at": "2026-10-11T23:16:12.254821Z",
+    "vakif": 741,
+    "mustensih": 688,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[6] Kitâb-ı Şerhu’n-Necdiyyât li-Zeyni’l-Arab el-Mısrî. Tamâm. Dimeşkī tamâmından kırılmış. Kümmî olmuş. Ak kâğıd mukavvâ cildle. Bi-hattı Hızır bin Hoca Süleymân. Yüz kırk beş varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Eş‘âr",
+ "notlar": "",
+ "sayfa_numarasi": "79b",
+ "created_at": "2024-02-10T13:12:00.623443Z",
+ "updated_at": "2026-10-11T23:16:12.254821Z",
+ "vakif": {
+  "id": 741,
+  "isim": "Halebîzâde",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-10-29T12:53:36.101827Z",
+  "updated_at": "2025-10-29T12:53:36.101845Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": {
+  "id": 688,
+  "isim": "Hızır bin Hoca Süleymân",
+  "isim2": "",
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-01-07T10:30:54.698851Z",
+  "updated_at": "2025-01-07T10:30:54.698869Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

@@ -1,0 +1,83 @@
+{
+ "id": 2297,
+ "kitap_set": [
+  {
+   "id": 4222,
+   "isim": "Kitâb-ı Dîvânu’l-Mütenebbî.",
+   "isim2": "",
+   "disiplin": "",
+   "kapsam": "",
+   "created_at": "2025-01-07T10:21:50.497766Z",
+   "updated_at": "2025-04-06T19:20:08.873810Z",
+   "yazar": {
+    "id": 684,
+    "isim": "Mütenebbî, Ebü’t-Tayyib Ahmed b. el-Hüseyn b. el-Hasen b. Abdissamed el-Cu‘fî el-Kindî el-Mütenebbî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-07T10:21:44.840317Z",
+    "updated_at": "2025-01-07T10:21:44.840334Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2297,
+    "tam_metin": "[1] Kitâb-ı Dîvânu’l-Mütenebbî. Tamâm. Dimeşkī nısfından kırılmış kümmî şekil olmuş. Siyâh cildle ve fî zahrihî levhatün mektûbun fî-hâ “Dîvânu Mütenebbî min tasnîfi meliki’ş-şuʿarâʾ ve’l-fuzalâʾ efzalu’l-mütekaddimîn ve’l-müteahhirîn Ebu’t-Tayyib Ahmed bin el-Hüseyin bin el-Hasan el-Mütenebbî”. Bi’l-isbîdâc min evvelihî ilâ âhirihî sürhle mücedvel. Ve hüve nüshatün sahîhatün musahhahun ve muhaşşâ mahtûmun bi-hâtem fî mevâzıʿ müteʿaddide ve’l-hâtemü mektûbun fî-hi mâ ibâretuhû “Hâzâ mimmâ evkafehû taleben li-şefâati Seyyidi’l-Mürselîn alâ âmmeti’t-talebeti mine’l-müslimîn el-fakīr ilallâhi’l-ganî Ahmed bin Yahyâ bin Muhammed Saʿd et-Teftâzânî” hâzihi ibâretü’l-hâtem. Ve vâkıfuhu’l-evvel kâne sâdıku’n-niyyeti fî vakfihî ve li-ecli hâzâ vasale ile’l-Medârisi’s-Semân âmelehullâhu fi’l-âhireti bi-lutfihî. İki yüz on varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Eş‘âr",
+    "notlar": "",
+    "sayfa_numarasi": "79a",
+    "created_at": "2024-02-10T13:11:58.261210Z",
+    "updated_at": "2026-10-11T23:16:05.761186Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[1] Kitâb-ı Dîvânu’l-Mütenebbî. Tamâm. Dimeşkī nısfından kırılmış kümmî şekil olmuş. Siyâh cildle ve fî zahrihî levhatün mektûbun fî-hâ “Dîvânu Mütenebbî min tasnîfi meliki’ş-şuʿarâʾ ve’l-fuzalâʾ efzalu’l-mütekaddimîn ve’l-müteahhirîn Ebu’t-Tayyib Ahmed bin el-Hüseyin bin el-Hasan el-Mütenebbî”. Bi’l-isbîdâc min evvelihî ilâ âhirihî sürhle mücedvel. Ve hüve nüshatün sahîhatün musahhahun ve muhaşşâ mahtûmun bi-hâtem fî mevâzıʿ müteʿaddide ve’l-hâtemü mektûbun fî-hi mâ ibâretuhû “Hâzâ mimmâ evkafehû taleben li-şefâati Seyyidi’l-Mürselîn alâ âmmeti’t-talebeti mine’l-müslimîn el-fakīr ilallâhi’l-ganî Ahmed bin Yahyâ bin Muhammed Saʿd et-Teftâzânî” hâzihi ibâretü’l-hâtem. Ve vâkıfuhu’l-evvel kâne sâdıku’n-niyyeti fî vakfihî ve li-ecli hâzâ vasale ile’l-Medârisi’s-Semân âmelehullâhu fi’l-âhireti bi-lutfihî. İki yüz on varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Eş‘âr",
+ "notlar": "",
+ "sayfa_numarasi": "79a",
+ "created_at": "2024-02-10T13:11:58.261210Z",
+ "updated_at": "2026-10-11T23:16:05.761186Z",
+ "vakif": {
+  "id": 741,
+  "isim": "Halebîzâde",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-10-29T12:53:36.101827Z",
+  "updated_at": "2025-10-29T12:53:36.101845Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

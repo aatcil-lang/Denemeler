@@ -1,0 +1,123 @@
+{
+ "id": 2304,
+ "kitap_set": [
+  {
+   "id": 2289,
+   "isim": "Kitâb-ı Metnü’l-Hamâse.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T13:12:01.896079Z",
+   "updated_at": "2025-04-06T19:20:14.501882Z",
+   "yazar": {
+    "id": 556,
+    "isim": "Ebu Temmâm",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2025-01-03T12:56:26.327421Z",
+    "updated_at": "2025-01-03T12:56:26.327436Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 2304,
+    "tam_metin": "[8] Kitâb-ı Metnü’l-Hamâse li-Ebû Temmâm. Tamâm. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Mektûbun fî zahrihî “Kitâbü’l-Hamâse” bi-kalemi’s-sülüs. Ve hüve nüshatün vâzıha. Yüz seksen üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Eş‘âr",
+    "notlar": "",
+    "sayfa_numarasi": "79b",
+    "created_at": "2024-02-10T13:12:01.602674Z",
+    "updated_at": "2026-10-11T23:16:15.036249Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [
+  {
+   "id": 1022,
+   "koleksiyon_numarasi": "03738",
+   "nusha": "",
+   "created_at": "2025-01-18T20:15:06.782844Z",
+   "updated_at": "2025-01-18T20:15:06.782860Z",
+   "kutuphane": {
+    "id": 1,
+    "isim": "Süleymaniye Kütüphanesi",
+    "created_at": "2024-08-26T23:54:54.713633Z",
+    "updated_at": "2024-08-26T23:54:54.713655Z",
+    "created_by": 1
+   },
+   "koleksiyon": {
+    "id": 1,
+    "isim": "Fatih",
+    "created_at": "2024-08-26T23:54:45.815225Z",
+    "updated_at": "2024-08-26T23:54:45.815247Z",
+    "kutuphane": 1,
+    "created_by": 1
+   },
+   "kayit": {
+    "id": 2304,
+    "tam_metin": "[8] Kitâb-ı Metnü’l-Hamâse li-Ebû Temmâm. Tamâm. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Mektûbun fî zahrihî “Kitâbü’l-Hamâse” bi-kalemi’s-sülüs. Ve hüve nüshatün vâzıha. Yüz seksen üç varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü’l-Kütübi’l- Eş‘âr",
+    "notlar": "",
+    "sayfa_numarasi": "79b",
+    "created_at": "2024-02-10T13:12:01.602674Z",
+    "updated_at": "2026-10-11T23:16:15.036249Z",
+    "vakif": 741,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": null,
+    "kodikolojik_bilgi": null
+   },
+   "created_by": null
+  }
+ ],
+ "iliskili_kayit": null,
+ "bilgi_set": [],
+ "tam_metin": "[8] Kitâb-ı Metnü’l-Hamâse li-Ebû Temmâm. Tamâm. Dimeşkī tamâmından kırılmış. Yeşil kâğıd mukavvâ cildle. Mektûbun fî zahrihî “Kitâbü’l-Hamâse” bi-kalemi’s-sülüs. Ve hüve nüshatün vâzıha. Yüz seksen üç varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü’l-Kütübi’l- Eş‘âr",
+ "notlar": "",
+ "sayfa_numarasi": "79b",
+ "created_at": "2024-02-10T13:12:01.602674Z",
+ "updated_at": "2026-10-11T23:16:15.036249Z",
+ "vakif": {
+  "id": 741,
+  "isim": "Halebîzâde",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": null,
+  "olum_tarihi_hijri": null,
+  "created_at": "2025-10-29T12:53:36.101827Z",
+  "updated_at": "2025-10-29T12:53:36.101845Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
