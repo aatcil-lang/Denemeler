@@ -1,0 +1,260 @@
+{
+ "id": 844,
+ "kitap_set": [
+  {
+   "id": 840,
+   "isim": "Kitâb-ı Şerhu Muhtasari İbni’l-Hâcib.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:08.554496Z",
+   "updated_at": "2025-04-06T19:20:19.168494Z",
+   "yazar": {
+    "id": 188,
+    "isim": "Mevlânâ Ekmeliddîn el-Hanefî",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-09-02T23:04:03.294031Z",
+    "updated_at": "2024-09-02T23:04:03.294047Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 844,
+    "tam_metin": "[69] Kitâb-ı Şerhu Muhtasari İbnü’l-Hâcib li-Mevlânâ Ekmeleddîn el-Hanefî. Mektûbun fî zahrihî ebyâtun evveluhâ لله درّ معان فيك قد جمعت زَهرًا وزُهرًا بنور النور في الكتب ilâ âhiri’l-ebyât ve fî âhirihî mektûbun قال العبد الفقير إلى الله الخفي محمد بن محمود بن أحمد الشهير بالأكمل الحنفي غفر الله له ولوالديه وعاملهم بلطفه الخفي ألّفت هذا المختصر عجالة بمدة تقرب من أربعة أشهر ilâ âhirihî. Dimeşkī tamâmından kırılmış. Ak kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz doksan iki varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "13b",
+    "created_at": "2024-02-10T12:41:08.294859Z",
+    "updated_at": "2024-09-10T13:24:00.939112Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2565,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2565,
+  "kitap_set": [
+   {
+    "id": 2548,
+    "isim": "Kitâb-ı Şerh-i Muhtasar-ı İbn Hâcib li-Mevlânâ Ekmeleddîn.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:22:17.360673Z",
+    "updated_at": "2025-04-06T19:20:13.728224Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2565,
+     "tam_metin": "[15] Kitâb-ı Şerh-i Muhtasar-ı İbn Hâcib li-Mevlânâ Ekmeleddîn. Zahrında nesih hatla bu şerhin medhinde bir nice ebyât yazılmış. Evveli لله درّ معان فيك قد جمعت زَهرًا وزُهرًا بنور النور في الكتب  ilâ âhiri’l-ebyât ve âhirinde yazılmış ki قال العبد الفقير إلى الله الحفي محمد بن محمود بن أحمد الشهير بالأكمل الحنفي غفر الله له ولوالديه وعاملهم بلطفه الخفي ألّفت هذا المختصر عجالة بمدة تقرب من أربعة أشهر ilâ âhirihî.  Dimeşkī tamâmından kırılmış. Ak kâğıd mukavvâ cildli. İki yüz doksan iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "11a",
+     "created_at": "2024-04-22T12:22:17.076363Z",
+     "updated_at": "2025-08-29T21:09:42.773325Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 844,
+     "kodikolojik_bilgi": 497
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 155,
+    "koleksiyon_numarasi": "01365",
+    "nusha": "",
+    "created_at": "2024-12-19T20:20:30.283856Z",
+    "updated_at": "2024-12-19T20:20:30.283873Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2565,
+     "tam_metin": "[15] Kitâb-ı Şerh-i Muhtasar-ı İbn Hâcib li-Mevlânâ Ekmeleddîn. Zahrında nesih hatla bu şerhin medhinde bir nice ebyât yazılmış. Evveli لله درّ معان فيك قد جمعت زَهرًا وزُهرًا بنور النور في الكتب  ilâ âhiri’l-ebyât ve âhirinde yazılmış ki قال العبد الفقير إلى الله الحفي محمد بن محمود بن أحمد الشهير بالأكمل الحنفي غفر الله له ولوالديه وعاملهم بلطفه الخفي ألّفت هذا المختصر عجالة بمدة تقرب من أربعة أشهر ilâ âhirihî.  Dimeşkī tamâmından kırılmış. Ak kâğıd mukavvâ cildli. İki yüz doksan iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "11a",
+     "created_at": "2024-04-22T12:22:17.076363Z",
+     "updated_at": "2025-08-29T21:09:42.773325Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 844,
+     "kodikolojik_bilgi": 497
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 844,
+  "bilgi_set": [
+   {
+    "id": 497,
+    "murekkep_set": [
+     {
+      "id": 373,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 497
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 165,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": null,
+      "kodikolojik_bilgi": 497
+     }
+    ],
+    "zahriye_exists": true,
+    "zahriye": "Zahrında nesih hatla bu şerhin medhinde bir nice ebyât yazılmış.",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "292",
+    "kagit_turu": "Dimeşkî",
+    "aciklama": "",
+    "kagit_ebadi": "Tamamından kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-08-29T21:09:42.767897Z",
+    "updated_at": "2025-08-29T21:09:42.767921Z",
+    "kayit": {
+     "id": 2565,
+     "tam_metin": "[15] Kitâb-ı Şerh-i Muhtasar-ı İbn Hâcib li-Mevlânâ Ekmeleddîn. Zahrında nesih hatla bu şerhin medhinde bir nice ebyât yazılmış. Evveli لله درّ معان فيك قد جمعت زَهرًا وزُهرًا بنور النور في الكتب  ilâ âhiri’l-ebyât ve âhirinde yazılmış ki قال العبد الفقير إلى الله الحفي محمد بن محمود بن أحمد الشهير بالأكمل الحنفي غفر الله له ولوالديه وعاملهم بلطفه الخفي ألّفت هذا المختصر عجالة بمدة تقرب من أربعة أشهر ilâ âhirihî.  Dimeşkī tamâmından kırılmış. Ak kâğıd mukavvâ cildli. İki yüz doksan iki varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "11a",
+     "created_at": "2024-04-22T12:22:17.076363Z",
+     "updated_at": "2025-08-29T21:09:42.773325Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 844,
+     "kodikolojik_bilgi": 497
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[15] Kitâb-ı Şerh-i Muhtasar-ı İbn Hâcib li-Mevlânâ Ekmeleddîn. Zahrında nesih hatla bu şerhin medhinde bir nice ebyât yazılmış. Evveli لله درّ معان فيك قد جمعت زَهرًا وزُهرًا بنور النور في الكتب  ilâ âhiri’l-ebyât ve âhirinde yazılmış ki قال العبد الفقير إلى الله الحفي محمد بن محمود بن أحمد الشهير بالأكمل الحنفي غفر الله له ولوالديه وعاملهم بلطفه الخفي ألّفت هذا المختصر عجالة بمدة تقرب من أربعة أشهر ilâ âhirihî.  Dimeşkī tamâmından kırılmış. Ak kâğıd mukavvâ cildli. İki yüz doksan iki varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "11a",
+  "created_at": "2024-04-22T12:22:17.076363Z",
+  "updated_at": "2025-08-29T21:09:42.773325Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 497,
+   "zahriye_exists": true,
+   "zahriye": "Zahrında nesih hatla bu şerhin medhinde bir nice ebyât yazılmış.",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Ak kağıt",
+   "varak_adedi": "292",
+   "kagit_turu": "Dimeşkî",
+   "aciklama": "",
+   "kagit_ebadi": "Tamamından kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-08-29T21:09:42.767897Z",
+   "updated_at": "2025-08-29T21:09:42.767921Z",
+   "kayit": 2565,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[69] Kitâb-ı Şerhu Muhtasari İbnü’l-Hâcib li-Mevlânâ Ekmeleddîn el-Hanefî. Mektûbun fî zahrihî ebyâtun evveluhâ لله درّ معان فيك قد جمعت زَهرًا وزُهرًا بنور النور في الكتب ilâ âhiri’l-ebyât ve fî âhirihî mektûbun قال العبد الفقير إلى الله الخفي محمد بن محمود بن أحمد الشهير بالأكمل الحنفي غفر الله له ولوالديه وعاملهم بلطفه الخفي ألّفت هذا المختصر عجالة بمدة تقرب من أربعة أشهر ilâ âhirihî. Dimeşkī tamâmından kırılmış. Ak kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz doksan iki varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "13b",
+ "created_at": "2024-02-10T12:41:08.294859Z",
+ "updated_at": "2024-09-10T13:24:00.939112Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}

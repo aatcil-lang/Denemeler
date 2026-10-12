@@ -1,0 +1,260 @@
+{
+ "id": 843,
+ "kitap_set": [
+  {
+   "id": 839,
+   "isim": "Kitâb-ı Hâşiyetü Şerhi’l-Adud.",
+   "isim2": null,
+   "disiplin": "",
+   "kapsam": null,
+   "created_at": "2024-02-10T12:41:08.138678Z",
+   "updated_at": "2025-04-06T19:20:19.171299Z",
+   "yazar": {
+    "id": 42,
+    "isim": "Mevlânâ Sa‘deddîn",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-07-27T13:47:34.802380Z",
+    "updated_at": "2024-07-27T13:47:34.802396Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kayit": {
+    "id": 843,
+    "tam_metin": "[68] Kitâb-ı Hâşiyetü Şerhi’l-Adud li-Mevlânâ Saʿdeddîn. Nâkısu’l-evvel. Min evveli kavlihî نظراً إلى الذات ilâ âhiri’l-kitâb. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz otuz bir varak.",
+    "tur": "cilt",
+    "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+    "notlar": "",
+    "sayfa_numarasi": "13b",
+    "created_at": "2024-02-10T12:41:07.885980Z",
+    "updated_at": "2024-09-12T07:07:44.660003Z",
+    "vakif": 1,
+    "mustensih": null,
+    "kaynak": 1,
+    "created_by": null,
+    "iliskili_kayit": 2630,
+    "kodikolojik_bilgi": null
+   },
+   "kaynak": null,
+   "created_by": null
+  }
+ ],
+ "nusha_set": [],
+ "iliskili_kayit": {
+  "id": 2630,
+  "kitap_set": [
+   {
+    "id": 2613,
+    "isim": "Kitâb-ı Hâşiye-i Adud li-Mevlânâ Sa‘deddîn.",
+    "isim2": null,
+    "disiplin": "",
+    "kapsam": null,
+    "created_at": "2024-04-22T12:22:45.372978Z",
+    "updated_at": "2025-04-06T19:20:13.540998Z",
+    "yazar": null,
+    "kayit": {
+     "id": 2630,
+     "tam_metin": "[80] Kitâb-ı Hâşiye-i Adud li-Mevlânâ Saʿdeddîn. Evveli ebter. نظرًا إلى الذات ibâretinden ibtidâ olunmuş âhir-i kitâbda âhir olmuş. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz otuz bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "13b",
+     "created_at": "2024-04-22T12:22:45.111159Z",
+     "updated_at": "2025-09-02T10:08:18.884622Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 843,
+     "kodikolojik_bilgi": 563
+    },
+    "kaynak": null,
+    "created_by": null
+   }
+  ],
+  "nusha_set": [
+   {
+    "id": 209,
+    "koleksiyon_numarasi": "01285",
+    "nusha": "",
+    "created_at": "2024-12-28T14:00:19.768585Z",
+    "updated_at": "2024-12-28T14:00:19.768602Z",
+    "kutuphane": {
+     "id": 1,
+     "isim": "Süleymaniye Kütüphanesi",
+     "created_at": "2024-08-26T23:54:54.713633Z",
+     "updated_at": "2024-08-26T23:54:54.713655Z",
+     "created_by": 1
+    },
+    "koleksiyon": {
+     "id": 1,
+     "isim": "Fatih",
+     "created_at": "2024-08-26T23:54:45.815225Z",
+     "updated_at": "2024-08-26T23:54:45.815247Z",
+     "kutuphane": 1,
+     "created_by": 1
+    },
+    "kayit": {
+     "id": 2630,
+     "tam_metin": "[80] Kitâb-ı Hâşiye-i Adud li-Mevlânâ Saʿdeddîn. Evveli ebter. نظرًا إلى الذات ibâretinden ibtidâ olunmuş âhir-i kitâbda âhir olmuş. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz otuz bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "13b",
+     "created_at": "2024-04-22T12:22:45.111159Z",
+     "updated_at": "2025-09-02T10:08:18.884622Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 843,
+     "kodikolojik_bilgi": 563
+    },
+    "created_by": null
+   }
+  ],
+  "iliskili_kayit": 843,
+  "bilgi_set": [
+   {
+    "id": 563,
+    "murekkep_set": [
+     {
+      "id": 441,
+      "renk": "",
+      "ilgili_ibare": "",
+      "kodikolojik_bilgi": 563
+     }
+    ],
+    "cedvel_set": [],
+    "hatt_set": [
+     {
+      "id": 232,
+      "hatt_turu": "",
+      "hatt_sekli": "",
+      "aciklama": "",
+      "kodikolojik_bilgi": 563
+     }
+    ],
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Yeşil kağıt",
+    "varak_adedi": "231",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Rub'undan kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-02T10:08:18.880190Z",
+    "updated_at": "2025-09-02T10:08:18.880203Z",
+    "kayit": {
+     "id": 2630,
+     "tam_metin": "[80] Kitâb-ı Hâşiye-i Adud li-Mevlânâ Saʿdeddîn. Evveli ebter. نظرًا إلى الذات ibâretinden ibtidâ olunmuş âhir-i kitâbda âhir olmuş. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz otuz bir varak.",
+     "tur": "cilt",
+     "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+     "notlar": "",
+     "sayfa_numarasi": "13b",
+     "created_at": "2024-04-22T12:22:45.111159Z",
+     "updated_at": "2025-09-02T10:08:18.884622Z",
+     "vakif": 1,
+     "mustensih": null,
+     "kaynak": 2,
+     "created_by": null,
+     "iliskili_kayit": 843,
+     "kodikolojik_bilgi": 563
+    },
+    "created_by": null
+   }
+  ],
+  "tam_metin": "[80] Kitâb-ı Hâşiye-i Adud li-Mevlânâ Saʿdeddîn. Evveli ebter. نظرًا إلى الذات ibâretinden ibtidâ olunmuş âhir-i kitâbda âhir olmuş. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildli. İki yüz otuz bir varak.",
+  "tur": "cilt",
+  "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+  "notlar": "",
+  "sayfa_numarasi": "13b",
+  "created_at": "2024-04-22T12:22:45.111159Z",
+  "updated_at": "2025-09-02T10:08:18.884622Z",
+  "vakif": {
+   "id": 1,
+   "isim": "II. Mehmed",
+   "isim2": null,
+   "dogum_tarihi": null,
+   "dogum_tarihi_hijri": null,
+   "olum_tarihi": "1481-01-01",
+   "olum_tarihi_hijri": null,
+   "created_at": "2024-01-29T23:30:08.724753Z",
+   "updated_at": "2024-05-02T11:16:43.977431Z",
+   "kaynak": null,
+   "created_by": null
+  },
+  "mustensih": null,
+  "kaynak": {
+   "id": 2,
+   "isim": "Fenarizade",
+   "tur": null,
+   "kunye_bilgisi": null,
+   "yazma_turu": null,
+   "link": null,
+   "created_at": "2024-04-22T12:20:39.734834Z",
+   "updated_at": "2024-04-22T12:20:39.734856Z",
+   "kutuphane": null,
+   "created_by": null
+  },
+  "created_by": null,
+  "kodikolojik_bilgi": {
+   "id": 563,
+   "zahriye_exists": false,
+   "zahriye": "",
+   "cild_turu": "Mukavva cilt",
+   "cild_materyal": "Yeşil kağıt",
+   "varak_adedi": "231",
+   "kagit_turu": "Semerkandî",
+   "aciklama": "",
+   "kagit_ebadi": "Rub'undan kırılmış",
+   "kagit_sekli": "",
+   "note": "",
+   "created_at": "2025-09-02T10:08:18.880190Z",
+   "updated_at": "2025-09-02T10:08:18.880203Z",
+   "kayit": 2630,
+   "created_by": null
+  }
+ },
+ "bilgi_set": [],
+ "tam_metin": "[68] Kitâb-ı Hâşiyetü Şerhi’l-Adud li-Mevlânâ Saʿdeddîn. Nâkısu’l-evvel. Min evveli kavlihî نظراً إلى الذات ilâ âhiri’l-kitâb. Semerkandî rubʿundan kırılmış. Yeşil kâğıd mukavvâ cildle. Vakf-ı Sultânî. İki yüz otuz bir varak.",
+ "tur": "cilt",
+ "bolum_basligi": "Tafsîlü Kütübi’l-Usûl",
+ "notlar": "",
+ "sayfa_numarasi": "13b",
+ "created_at": "2024-02-10T12:41:07.885980Z",
+ "updated_at": "2024-09-12T07:07:44.660003Z",
+ "vakif": {
+  "id": 1,
+  "isim": "II. Mehmed",
+  "isim2": null,
+  "dogum_tarihi": null,
+  "dogum_tarihi_hijri": null,
+  "olum_tarihi": "1481-01-01",
+  "olum_tarihi_hijri": null,
+  "created_at": "2024-01-29T23:30:08.724753Z",
+  "updated_at": "2024-05-02T11:16:43.977431Z",
+  "kaynak": null,
+  "created_by": null
+ },
+ "mustensih": null,
+ "kaynak": {
+  "id": 1,
+  "isim": "Hacıhasanzade",
+  "tur": "yazma",
+  "kunye_bilgisi": "TSMA. D.9559",
+  "yazma_turu": "arsiv",
+  "link": null,
+  "created_at": "2024-01-29T23:31:13.203668Z",
+  "updated_at": "2024-01-29T23:31:13.203689Z",
+  "kutuphane": null,
+  "created_by": null
+ },
+ "created_by": null,
+ "kodikolojik_bilgi": null
+}
