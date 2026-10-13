@@ -1,0 +1,214 @@
+{
+ "id": 814,
+ "vakif": [],
+ "vakif_sayisi": 0,
+ "mustensih": [
+  {
+   "id": 2865,
+   "kitap_set": [
+    {
+     "id": 2848,
+     "isim": "Kitâbü’l-Vasît alâ Mezhebi’ş-Şâfiî.",
+     "isim2": null,
+     "disiplin": "",
+     "kapsam": null,
+     "created_at": "2024-04-22T12:24:24.428027Z",
+     "updated_at": "2025-04-06T19:20:12.849233Z",
+     "yazar": null,
+     "kayit": {
+      "id": 2865,
+      "tam_metin": "[228] Kitâbü’l-Vasît alâ Mezhebi’ş-Şâfiʿî. Kitâb-ı Beyʿ’den el-Faslu’s-Sâlis fî Sadakati’t-Tatavvuʿ faslında إنما الصدقة عن ظهر غنى ibâretine dek. Bi-hattı Ebî Mansûr. Semerkandî rubʿundan kırılmış. Ak kâğıd mukavvâ cildli. İki yüz sekiz varak.",
+      "tur": "cilt",
+      "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+      "notlar": "",
+      "sayfa_numarasi": "22a",
+      "created_at": "2024-04-22T12:24:24.155665Z",
+      "updated_at": "2026-10-12T22:36:22.253082Z",
+      "vakif": 1,
+      "mustensih": 814,
+      "kaynak": 2,
+      "created_by": null,
+      "iliskili_kayit": 1212,
+      "kodikolojik_bilgi": 802
+     },
+     "kaynak": null,
+     "created_by": null
+    }
+   ],
+   "nusha_set": [
+    {
+     "id": 398,
+     "koleksiyon_numarasi": "02214",
+     "nusha": "",
+     "created_at": "2025-01-12T11:45:08.601066Z",
+     "updated_at": "2025-01-12T11:45:08.601089Z",
+     "kutuphane": {
+      "id": 1,
+      "isim": "Süleymaniye Kütüphanesi",
+      "created_at": "2024-08-26T23:54:54.713633Z",
+      "updated_at": "2024-08-26T23:54:54.713655Z",
+      "created_by": 1
+     },
+     "koleksiyon": {
+      "id": 1,
+      "isim": "Fatih",
+      "created_at": "2024-08-26T23:54:45.815225Z",
+      "updated_at": "2024-08-26T23:54:45.815247Z",
+      "kutuphane": 1,
+      "created_by": 1
+     },
+     "kayit": {
+      "id": 2865,
+      "tam_metin": "[228] Kitâbü’l-Vasît alâ Mezhebi’ş-Şâfiʿî. Kitâb-ı Beyʿ’den el-Faslu’s-Sâlis fî Sadakati’t-Tatavvuʿ faslında إنما الصدقة عن ظهر غنى ibâretine dek. Bi-hattı Ebî Mansûr. Semerkandî rubʿundan kırılmış. Ak kâğıd mukavvâ cildli. İki yüz sekiz varak.",
+      "tur": "cilt",
+      "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+      "notlar": "",
+      "sayfa_numarasi": "22a",
+      "created_at": "2024-04-22T12:24:24.155665Z",
+      "updated_at": "2026-10-12T22:36:22.253082Z",
+      "vakif": 1,
+      "mustensih": 814,
+      "kaynak": 2,
+      "created_by": null,
+      "iliskili_kayit": 1212,
+      "kodikolojik_bilgi": 802
+     },
+     "created_by": null
+    }
+   ],
+   "iliskili_kayit": 1212,
+   "bilgi_set": [
+    {
+     "id": 802,
+     "murekkep_set": [
+      {
+       "id": 679,
+       "renk": "",
+       "ilgili_ibare": "",
+       "kodikolojik_bilgi": 802
+      }
+     ],
+     "cedvel_set": [],
+     "hatt_set": [
+      {
+       "id": 470,
+       "hatt_turu": "",
+       "hatt_sekli": "",
+       "aciklama": "",
+       "kodikolojik_bilgi": 802
+      }
+     ],
+     "zahriye_exists": false,
+     "zahriye": "",
+     "cild_turu": "Mukavva cilt",
+     "cild_materyal": "Ak kağıt",
+     "varak_adedi": "208",
+     "kagit_turu": "Semerkandî",
+     "aciklama": "",
+     "kagit_ebadi": "Rub'undan kırılmış",
+     "kagit_sekli": "",
+     "note": "",
+     "created_at": "2025-09-10T08:18:50.287634Z",
+     "updated_at": "2025-09-10T08:18:50.287657Z",
+     "kayit": {
+      "id": 2865,
+      "tam_metin": "[228] Kitâbü’l-Vasît alâ Mezhebi’ş-Şâfiʿî. Kitâb-ı Beyʿ’den el-Faslu’s-Sâlis fî Sadakati’t-Tatavvuʿ faslında إنما الصدقة عن ظهر غنى ibâretine dek. Bi-hattı Ebî Mansûr. Semerkandî rubʿundan kırılmış. Ak kâğıd mukavvâ cildli. İki yüz sekiz varak.",
+      "tur": "cilt",
+      "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+      "notlar": "",
+      "sayfa_numarasi": "22a",
+      "created_at": "2024-04-22T12:24:24.155665Z",
+      "updated_at": "2026-10-12T22:36:22.253082Z",
+      "vakif": 1,
+      "mustensih": 814,
+      "kaynak": 2,
+      "created_by": null,
+      "iliskili_kayit": 1212,
+      "kodikolojik_bilgi": 802
+     },
+     "created_by": null
+    }
+   ],
+   "tam_metin": "[228] Kitâbü’l-Vasît alâ Mezhebi’ş-Şâfiʿî. Kitâb-ı Beyʿ’den el-Faslu’s-Sâlis fî Sadakati’t-Tatavvuʿ faslında إنما الصدقة عن ظهر غنى ibâretine dek. Bi-hattı Ebî Mansûr. Semerkandî rubʿundan kırılmış. Ak kâğıd mukavvâ cildli. İki yüz sekiz varak.",
+   "tur": "cilt",
+   "bolum_basligi": "Tafsîlü Kütübi’l-Furû‘",
+   "notlar": "",
+   "sayfa_numarasi": "22a",
+   "created_at": "2024-04-22T12:24:24.155665Z",
+   "updated_at": "2026-10-12T22:36:22.253082Z",
+   "vakif": {
+    "id": 1,
+    "isim": "II. Mehmed",
+    "isim2": null,
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": null,
+    "olum_tarihi": "1481-01-01",
+    "olum_tarihi_hijri": null,
+    "created_at": "2024-01-29T23:30:08.724753Z",
+    "updated_at": "2024-05-02T11:16:43.977431Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "mustensih": {
+    "id": 814,
+    "isim": "Ebî Mansûr",
+    "isim2": "",
+    "dogum_tarihi": null,
+    "dogum_tarihi_hijri": "",
+    "olum_tarihi": null,
+    "olum_tarihi_hijri": "",
+    "created_at": "2026-10-12T22:36:06.149449Z",
+    "updated_at": "2026-10-12T22:36:06.149465Z",
+    "kaynak": null,
+    "created_by": null
+   },
+   "kaynak": {
+    "id": 2,
+    "isim": "Fenarizade",
+    "tur": null,
+    "kunye_bilgisi": null,
+    "yazma_turu": null,
+    "link": null,
+    "created_at": "2024-04-22T12:20:39.734834Z",
+    "updated_at": "2024-04-22T12:20:39.734856Z",
+    "kutuphane": null,
+    "created_by": null
+   },
+   "created_by": null,
+   "kodikolojik_bilgi": {
+    "id": 802,
+    "zahriye_exists": false,
+    "zahriye": "",
+    "cild_turu": "Mukavva cilt",
+    "cild_materyal": "Ak kağıt",
+    "varak_adedi": "208",
+    "kagit_turu": "Semerkandî",
+    "aciklama": "",
+    "kagit_ebadi": "Rub'undan kırılmış",
+    "kagit_sekli": "",
+    "note": "",
+    "created_at": "2025-09-10T08:18:50.287634Z",
+    "updated_at": "2025-09-10T08:18:50.287657Z",
+    "kayit": 2865,
+    "created_by": null
+   }
+  }
+ ],
+ "mustensih_sayisi": 1,
+ "yazar": [],
+ "yazar_sayisi": 0,
+ "get_olum_tarihi_from_hijri": null,
+ "get_dogum_tarihi_from_hijri": null,
+ "get_olum_tarihi_from_gregorian": null,
+ "get_dogum_tarihi_from_gregorian": null,
+ "isim": "Ebî Mansûr",
+ "isim2": "",
+ "dogum_tarihi": null,
+ "dogum_tarihi_hijri": "",
+ "olum_tarihi": null,
+ "olum_tarihi_hijri": "",
+ "created_at": "2026-10-12T22:36:06.149449Z",
+ "updated_at": "2026-10-12T22:36:06.149465Z",
+ "kaynak": null,
+ "created_by": null
+}

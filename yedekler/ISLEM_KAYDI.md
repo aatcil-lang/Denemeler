@@ -174,3 +174,4 @@ Dayanak: katalogdaki “Vakf-ı …” ibaresi (Halebîzâde için katalog böl�
 - **İşlenmeyen:**
   - #2193: müellif belli değil.
   - Yalnızca yazı türü bildiren 23 kayıt (“bi-hattı mağribî” vb.).
+- 13.10.2026 — #814 ad düzeltmesi (kullanıcı onayıyla): “Ebî Mansûr” → **“Ebû Mansûr”**. Metindeki “Bi-hattı Ebî Mansûr” ifadesinde ad, “bi-hattı”dan sonra çekimli (cer) hâlde geçiyor; şahıs kaydına adın yalın hâli yazıldı. Değişen tek alan ad.
